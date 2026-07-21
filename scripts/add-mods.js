@@ -38,7 +38,7 @@ const newMods = [
     preview: "https://i.postimg.cc/d115ZRgK/photo-2026-07-21-18-29-45.jpg",
     file: "https://github.com/artem-prime42/dota2-mods/releases/download/272/arcana.vengeful.spirit.-.pedestal.zip",
     createdAt: "2026-07-21T00:00:00.000Z",
-    categoryId: "heroes",
+    categoryId: "pedestal",
     hero: "vengeful_spirit",
     heroLabel: "Vengeful Spirit",
     slot: "pedestal"

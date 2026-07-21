@@ -5919,17 +5919,6 @@
           "hero": "axe",
           "heroLabel": "Axe",
           "slot": "set"
-        },
-        {
-          "name": "arcana vengeful spirit - pedestal",
-          "author": "XIIIpsiblade",
-          "preview": "https://i.postimg.cc/d115ZRgK/photo-2026-07-21-18-29-45.jpg",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/arcana.vengeful.spirit.-.pedestal.zip",
-          "createdAt": "2026-07-21T00:00:00.000Z",
-          "categoryId": "heroes",
-          "hero": "vengeful_spirit",
-          "heroLabel": "Vengeful Spirit",
-          "slot": "pedestal"
         }
       ],
       "heroesByHero": {
@@ -15564,6 +15553,17 @@
           "hero": null,
           "heroLabel": null,
           "slot": null
+        },
+        {
+          "name": "arcana vengeful spirit - pedestal",
+          "author": "XIIIpsiblade",
+          "preview": "https://i.postimg.cc/d115ZRgK/photo-2026-07-21-18-29-45.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/arcana.vengeful.spirit.-.pedestal.zip",
+          "createdAt": "2026-07-21T00:00:00.000Z",
+          "categoryId": "pedestal",
+          "hero": "vengeful_spirit",
+          "heroLabel": "Vengeful Spirit",
+          "slot": "pedestal"
         }
       ],
       "high-five": [
@@ -23366,6 +23366,43 @@
             "hero": "drow_ranger",
             "heroLabel": "Drow Ranger",
             "slot": "set"
+          }
+        ]
+      },
+      {
+        "id": "xiiipsiblade",
+        "displayName": "XIIIpsiblade",
+        "avatarUrl": "https://i.postimg.cc/CKtqJjdv/photo-2026-07-21-18-23-19.jpg",
+        "authorLink": null,
+        "website": null,
+        "github": null,
+        "telegram": "https://t.me/XIIIpsiblade",
+        "discord": null,
+        "steam": "https://steamcommunity.com/id/XIIIpsiblade/",
+        "vk": "https://vk.ru/xiiipsiblade",
+        "tiktok": "https://www.tiktok.com/@xiiipsiblade",
+        "links": {
+          "steam": "https://steamcommunity.com/id/XIIIpsiblade/",
+          "telegram": "https://t.me/XIIIpsiblade",
+          "youtube": null,
+          "twitch": null,
+          "github": null,
+          "website": null,
+          "discord": null,
+          "vk": "https://vk.ru/xiiipsiblade",
+          "tiktok": "https://www.tiktok.com/@xiiipsiblade"
+        },
+        "mods": [
+          {
+            "name": "arcana vengeful spirit - pedestal",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/d115ZRgK/photo-2026-07-21-18-29-45.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/arcana.vengeful.spirit.-.pedestal.zip",
+            "createdAt": "2026-07-21T00:00:00.000Z",
+            "categoryId": "pedestal",
+            "hero": "vengeful_spirit",
+            "heroLabel": "Vengeful Spirit",
+            "slot": "pedestal"
           }
         ]
       }
