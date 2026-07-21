@@ -15593,6 +15593,17 @@
         "slot": null
       },
       {
+        "name": "Rubick Ancient Magus",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/zvbjKBQX/Rubick-Ancient-Magus.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Rubick.Ancient.Magus.zip",
+        "createdAt": "2026-07-21T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "rubick",
+        "heroLabel": "Rubick",
+        "slot": "set"
+      },
+      {
         "name": "Queen Of Pain Immortal",
         "author": "Arthas",
         "preview": "https://i.postimg.cc/8Ph0Xny2/photo-2026-07-20-01-24-21.jpg",
@@ -15986,17 +15997,6 @@
         "categoryId": "heroes",
         "hero": "marci",
         "heroLabel": "Marci",
-        "slot": "set"
-      },
-      {
-        "name": "Monkey King Water Demon",
-        "author": "dota2pornfx",
-        "preview": "https://i.postimg.cc/xddn506h/Monkey-King-Water-Demon.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/265/Monkey.King.Water.Demon.zip",
-        "createdAt": "2026-07-16T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "monkey_king",
-        "heroLabel": "Monkey King",
         "slot": "set"
       }
     ]
@@ -17372,7 +17372,7 @@
         "name": "Rubick",
         "slug": "rubick",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/rubick.png",
-        "modsCount": 2,
+        "modsCount": 3,
         "slots": [
           "set"
         ]
