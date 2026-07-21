@@ -5459,6 +5459,17 @@
           "slot": "set"
         },
         {
+          "name": "Rubick Ancient Magus",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/zvbjKBQX/Rubick-Ancient-Magus.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Rubick.Ancient.Magus.zip",
+          "createdAt": "2026-07-21T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "rubick",
+          "heroLabel": "Rubick",
+          "slot": "set"
+        },
+        {
           "name": "Custom Largo",
           "author": "Anonymous",
           "preview": "https://i.postimg.cc/dVvBCL45/Custom-Largo.webp",
