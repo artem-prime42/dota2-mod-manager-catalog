@@ -1,0 +1,87 @@
+{
+  "mods": {
+    "modsData": {
+      "heroes": [
+        {
+          "name": "Invoker Supreme",
+          "author": "MightyModder",
+          "preview": "https://example.com/previews/invoker-supreme.jpg",
+          "file": "https://example.com/downloads/invoker-supreme.vpk",
+          "createdAt": "2026-07-21",
+          "categoryId": "heroes",
+          "hero": "invoker",
+          "heroLabel": "Invoker",
+          "slot": "default"
+        }
+      ]
+    },
+    "recentlyAddedMods": [
+      {
+        "name": "Invoker Supreme",
+        "author": "MightyModder",
+        "preview": "https://example.com/previews/invoker-supreme.jpg",
+        "file": "https://example.com/downloads/invoker-supreme.vpk",
+        "createdAt": "2026-07-21",
+        "categoryId": "heroes",
+        "hero": "invoker",
+        "heroLabel": "Invoker",
+        "slot": "default"
+      }
+    ]
+  },
+  "constants": {
+    "categories": [
+      {
+        "id": "heroes",
+        "label": "heroes",
+        "preview": "https://example.com/previews/heroes-category.jpg"
+      }
+    ],
+    "translations": {},
+    "HEROES_LIST": ["Invoker"],
+    "HERO_CATALOG": [
+      {
+        "id": "invoker",
+        "name": "Invoker",
+        "slug": "invoker",
+        "preview": "https://example.com/hero-icons/invoker.png",
+        "modsCount": 1,
+        "slots": ["default"]
+      }
+    ],
+    "TAG_CONFIGS": {},
+    "MOD_AUTHOR": {},
+    "MOD_SENDER": {},
+    "AUTHOR_PROFILES": [
+      {
+        "id": "mightymodder",
+        "displayName": "MightyModder",
+        "avatarUrl": "https://example.com/avatars/mighty.jpg",
+        "authorLink": "https://twitch.tv/mightymodder",
+        "links": {
+          "steam": null,
+          "telegram": null,
+          "youtube": null,
+          "twitch": "https://twitch.tv/mightymodder",
+          "github": null,
+          "website": "https://example.com",
+          "discord": null
+        },
+        "mods": [
+          {
+            "name": "Invoker Supreme",
+            "author": "MightyModder",
+            "preview": "https://example.com/previews/invoker-supreme.jpg",
+            "file": "https://example.com/downloads/invoker-supreme.vpk",
+            "createdAt": "2026-07-21",
+            "categoryId": "heroes",
+            "hero": "invoker",
+            "heroLabel": "Invoker",
+            "slot": "default"
+          }
+        ]
+      }
+    ]
+  },
+  "guides": {}
+}
