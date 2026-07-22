@@ -927,6 +927,17 @@
           "slot": "set"
         },
         {
+          "name": "Doom Fallen Khorne",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/P5FdB4Hq/Doom-Fallen-Khorne.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/Doom.Fallen.Khorne.zip",
+          "createdAt": "2026-07-22T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "doom",
+          "heroLabel": "Doom",
+          "slot": "set"
+        },
+        {
           "name": "Morphling Fluid Frenzy",
           "author": "Anonymous",
           "preview": "https://i.postimg.cc/kX7jKFQP/Morphling-Fluid-Frenzy.webp",
@@ -5822,6 +5833,17 @@
           "slot": "set"
         },
         {
+          "name": "Shadow Shaman Immortal Crimson",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/yNZC2Cnf/Shadow-Shaman-Immortal-Crimson.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/Shadow.Shaman.Immortal.Crimson.zip",
+          "createdAt": "2026-07-22T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "shadow_shaman",
+          "heroLabel": "Shadow Shaman",
+          "slot": "set"
+        },
+        {
           "name": "Darkness Weaver",
           "author": "Darkness",
           "preview": "https://i.postimg.cc/Wpr3f18F/Darkness-Weaver.webp",
@@ -6872,6 +6894,17 @@
             "preview": "https://i.postimg.cc/hPgRm1ws/izobrazenie.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Doom.time.to.death.zip",
             "createdAt": "2026-07-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "doom",
+            "heroLabel": "Doom",
+            "slot": "set"
+          },
+          {
+            "name": "Doom Fallen Khorne",
+            "author": "Anonymous",
+            "preview": "https://i.postimg.cc/P5FdB4Hq/Doom-Fallen-Khorne.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/Doom.Fallen.Khorne.zip",
+            "createdAt": "2026-07-22T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "doom",
             "heroLabel": "Doom",
@@ -11973,6 +12006,17 @@
             "hero": "shadow_shaman",
             "heroLabel": "Shadow Shaman",
             "slot": "set"
+          },
+          {
+            "name": "Shadow Shaman Immortal Crimson",
+            "author": "Anonymous",
+            "preview": "https://i.postimg.cc/yNZC2Cnf/Shadow-Shaman-Immortal-Crimson.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/Shadow.Shaman.Immortal.Crimson.zip",
+            "createdAt": "2026-07-22T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "shadow_shaman",
+            "heroLabel": "Shadow Shaman",
+            "slot": "set"
           }
         ],
         "weaver": [
@@ -12579,6 +12623,17 @@
           "preview": "https://i.postimg.cc/sD62Thbh/Slates-of-the-Damned.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/246/pak15_dir.vpk",
           "createdAt": "2026-07-08T00:00:00.000Z",
+          "categoryId": "ranks",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Immortal Rangs",
+          "author": "XIIIpsiblade",
+          "preview": "https://i.postimg.cc/Gh5NRSBh/photo-2026-07-22-22-04-11.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/pak75_dir.vpk",
+          "createdAt": "2026-07-22T00:00:00.000Z",
           "categoryId": "ranks",
           "hero": null,
           "heroLabel": null,
@@ -13312,6 +13367,39 @@
           "hero": null,
           "heroLabel": null,
           "slot": null
+        },
+        {
+          "name": "Axe Rip Your Head",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/MKVPkK8y/Axe-Rip-Your-Head.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/Axe.Rip.Your.Head.zip",
+          "createdAt": "2026-07-22T00:00:00.000Z",
+          "categoryId": "hero-sounds",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Ursa Already Red",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/Pxvbm2Xm/Ursa-Already-Red.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/Ursa.Already.Red.zip",
+          "createdAt": "2026-07-22T00:00:00.000Z",
+          "categoryId": "hero-sounds",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Sven Already Red",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/SR7MrPwb/Sven-Already-Red.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/Sven.Already.Red.zip",
+          "createdAt": "2026-07-22T00:00:00.000Z",
+          "categoryId": "hero-sounds",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
         }
       ],
       "packs": [
@@ -13928,6 +14016,17 @@
           "preview": "https://i.postimg.cc/RZwnvkZ8/Last-Match.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/237/pak09_dir.vpk",
           "createdAt": "2026-06-29T00:00:00.000Z",
+          "categoryId": "backgrounds",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Shadow Fiend",
+          "author": "XIIIpsiblade",
+          "preview": "https://i.postimg.cc/Nf34ph9B/photo-2026-07-22-22-06-56.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/pak33_dir.vpk",
+          "createdAt": "2026-07-22T00:00:00.000Z",
           "categoryId": "backgrounds",
           "hero": null,
           "heroLabel": null,
@@ -14995,6 +15094,17 @@
           "hero": null,
           "heroLabel": null,
           "slot": null
+        },
+        {
+          "name": "Replacing Bronze Tier with Grandmaster",
+          "author": "XIIIpsiblade",
+          "preview": "https://i.postimg.cc/053dygCB/photo-2026-07-22-13-21-48.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/pak22_dir.vpk",
+          "createdAt": "2026-07-22T00:00:00.000Z",
+          "categoryId": "other",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
         }
       ],
       "sounds": [
@@ -15569,7 +15679,7 @@
           "name": "Woodland Dire Siege",
           "author": "dota2pornfx",
           "preview": "https://i.postimg.cc/DZzHJp3S/Woodland-Dire-Siege.webp",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/99/Woodland.Dire.Siege.zip",
+          "file": "https://github.com.artem-prime42/dota2-mods/releases/download/99/Woodland.Dire.Siege.zip",
           "createdAt": "2026-06-04T00:00:00.000Z",
           "categoryId": "creeps",
           "hero": null,
@@ -15738,6 +15848,72 @@
     },
     "recentlyAddedMods": [
       {
+        "name": "Doom Fallen Khorne",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/P5FdB4Hq/Doom-Fallen-Khorne.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/Doom.Fallen.Khorne.zip",
+        "createdAt": "2026-07-22T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "doom",
+        "heroLabel": "Doom",
+        "slot": "set"
+      },
+      {
+        "name": "Shadow Shaman Immortal Crimson",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/yNZC2Cnf/Shadow-Shaman-Immortal-Crimson.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/Shadow.Shaman.Immortal.Crimson.zip",
+        "createdAt": "2026-07-22T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "shadow_shaman",
+        "heroLabel": "Shadow Shaman",
+        "slot": "set"
+      },
+      {
+        "name": "Immortal Rangs",
+        "author": "XIIIpsiblade",
+        "preview": "https://i.postimg.cc/Gh5NRSBh/photo-2026-07-22-22-04-11.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/pak75_dir.vpk",
+        "createdAt": "2026-07-22T00:00:00.000Z",
+        "categoryId": "ranks",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Axe Rip Your Head",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/MKVPkK8y/Axe-Rip-Your-Head.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/Axe.Rip.Your.Head.zip",
+        "createdAt": "2026-07-22T00:00:00.000Z",
+        "categoryId": "hero-sounds",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Ursa Already Red",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/Pxvbm2Xm/Ursa-Already-Red.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/Ursa.Already.Red.zip",
+        "createdAt": "2026-07-22T00:00:00.000Z",
+        "categoryId": "hero-sounds",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Sven Already Red",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/SR7MrPwb/Sven-Already-Red.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/Sven.Already.Red.zip",
+        "createdAt": "2026-07-22T00:00:00.000Z",
+        "categoryId": "hero-sounds",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
         "name": "sematary",
         "author": "XIIIpsiblade",
         "preview": "https://i.postimg.cc/9QDh7ydk/photo-2026-07-22-04-42-12.jpg",
@@ -15832,6 +16008,28 @@
         "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak38_dir.vpk",
         "createdAt": "2026-07-22T00:00:00.000Z",
         "categoryId": "backgrounds",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Shadow Fiend",
+        "author": "XIIIpsiblade",
+        "preview": "https://i.postimg.cc/Nf34ph9B/photo-2026-07-22-22-06-56.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/pak33_dir.vpk",
+        "createdAt": "2026-07-22T00:00:00.000Z",
+        "categoryId": "backgrounds",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Replacing Bronze Tier with Grandmaster",
+        "author": "XIIIpsiblade",
+        "preview": "https://i.postimg.cc/053dygCB/photo-2026-07-22-13-21-48.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/pak22_dir.vpk",
+        "createdAt": "2026-07-22T00:00:00.000Z",
+        "categoryId": "other",
         "hero": null,
         "heroLabel": null,
         "slot": null
@@ -16088,94 +16286,6 @@
         "hero": null,
         "heroLabel": null,
         "slot": null
-      },
-      {
-        "name": "Purple Bts3 Cursor",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/vBWdTfCL/Purple-Bts3-Cursor.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Purple.Bts3.Cursor.zip",
-        "createdAt": "2026-07-18T00:00:00.000Z",
-        "categoryId": "cursors",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "Large Tassels of the Black Death",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/Rhb632YS/Large-Tassels-of-the-Black-Death.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Large.Tassels.of.the.Black.Death.zip",
-        "createdAt": "2026-07-17T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "pudge",
-        "heroLabel": "Pudge",
-        "slot": "head"
-      },
-      {
-        "name": "Doom time to death",
-        "author": "mopsyara",
-        "preview": "https://i.postimg.cc/hPgRm1ws/izobrazenie.png",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Doom.time.to.death.zip",
-        "createdAt": "2026-07-17T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "doom",
-        "heroLabel": "Doom",
-        "slot": "set"
-      },
-      {
-        "name": "Spectre always here",
-        "author": "mopsyara",
-        "preview": "https://i.postimg.cc/hGXknyzj/izobrazenie.png",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Spectre.always.here.zip",
-        "createdAt": "2026-07-17T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "spectre",
-        "heroLabel": "Spectre",
-        "slot": "set"
-      },
-      {
-        "name": "Dark Carnival Chat Wheel & Team Spirit TI13",
-        "author": "SENOp",
-        "preview": "https://i.postimg.cc/N0Yw675T/Picsart-26-07-17-19-09-28-702.png",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Team.FanContent.-.Team.Spirit.TI13.zip",
-        "createdAt": "2026-07-17T00:00:00.000Z",
-        "categoryId": "sounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "Hat of the Jolly Reaver",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/ydmCNFwn/Hat-of-the-Jolly-Reaver.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/263/Hat.of.the.Jolly.Reaver.zip",
-        "createdAt": "2026-07-16T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "pudge",
-        "heroLabel": "Pudge",
-        "slot": "head"
-      },
-      {
-        "name": "Wraith King Skeleton",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/RFG1B0vk/Wraith-King-Skeleton.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/265/Wraith.King.Skeleton.zip",
-        "createdAt": "2026-07-16T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "wraith_king",
-        "heroLabel": "Wraith King",
-        "slot": "set"
-      },
-      {
-        "name": "Wyrdwing Exaltation",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/XYsC0rKR/Wyrdwing-Exaltation-Shoulder.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/265/Wyrdwing.Exaltation.zip",
-        "createdAt": "2026-07-16T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "invoker",
-        "heroLabel": "Invoker",
-        "slot": "shoulders"
       }
     ]
   },
@@ -16629,7 +16739,7 @@
         "name": "Doom",
         "slug": "doom",
         "preview": "https://i.postimg.cc/Y214JrdF/Doom-icon.webp",
-        "modsCount": 2,
+        "modsCount": 3,
         "slots": [
           "set"
         ]
@@ -17696,7 +17806,7 @@
         "name": "Shadow Shaman",
         "slug": "shadow_shaman",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/shadow_shaman.png",
-        "modsCount": 2,
+        "modsCount": 3,
         "slots": [
           "set"
         ]
@@ -21463,7 +21573,7 @@
             "name": "Woodland Dire Siege",
             "author": "dota2pornfx",
             "preview": "https://i.postimg.cc/DZzHJp3S/Woodland-Dire-Siege.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/99/Woodland.Dire.Siege.zip",
+            "file": "https://github.com.artem-prime42/dota2-mods/releases/download/99/Woodland.Dire.Siege.zip",
             "createdAt": "2026-06-04T00:00:00.000Z",
             "categoryId": "creeps",
             "hero": null,
@@ -23151,6 +23261,168 @@
         ]
       },
       {
+        "id": "xiiipsiblade",
+        "displayName": "XIIIpsiblade",
+        "avatarUrl": "https://i.postimg.cc/CKtqJjdv/photo-2026-07-21-18-23-19.jpg",
+        "telegram": "https://t.me/XIIIpsiblade",
+        "steam": "https://steamcommunity.com/id/XIIIpsiblade/",
+        "authorLink": null,
+        "links": {
+          "steam": "https://steamcommunity.com/id/XIIIpsiblade/",
+          "telegram": "https://t.me/XIIIpsiblade",
+          "youtube": null,
+          "twitch": null,
+          "github": null,
+          "website": null,
+          "discord": null
+        },
+        "mods": [
+          {
+            "name": "arcana vengeful spirit - pedestal",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/d115ZRgK/photo-2026-07-21-18-29-45.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/arcana.vengeful.spirit.-.pedestal.zip",
+            "createdAt": "2026-07-21T00:00:00.000Z",
+            "categoryId": "pedestal",
+            "hero": "vengeful_spirit",
+            "heroLabel": "Vengeful Spirit",
+            "slot": "pedestal"
+          },
+          {
+            "name": "Immortal Rangs",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/Gh5NRSBh/photo-2026-07-22-22-04-11.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/pak75_dir.vpk",
+            "createdAt": "2026-07-22T00:00:00.000Z",
+            "categoryId": "ranks",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "sematary",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/9QDh7ydk/photo-2026-07-22-04-42-12.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak33_dir.vpk",
+            "createdAt": "2026-07-22T00:00:00.000Z",
+            "categoryId": "backgrounds",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "sematary 2",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/T2tFJp3p/photo-2026-07-22-04-45-41.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak32_dir.vpk",
+            "createdAt": "2026-07-22T00:00:00.000Z",
+            "categoryId": "backgrounds",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "sematary 3",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/Dz3MwGBH/photo-2026-07-22-04-47-00.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak31_dir.vpk",
+            "createdAt": "2026-07-22T00:00:00.000Z",
+            "categoryId": "backgrounds",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "sematary 4",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/j228F4d1/photo-2026-07-22-04-47-53.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak30_dir.vpk",
+            "createdAt": "2026-07-22T00:00:00.000Z",
+            "categoryId": "backgrounds",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "Morphling",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/nzcTXG7X/photo-2026-07-22-04-49-38.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak34_dir.vpk",
+            "createdAt": "2026-07-22T00:00:00.000Z",
+            "categoryId": "backgrounds",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "dota 2 black",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/02JnKQ6B/photo-2026-07-22-04-50-49.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak35_dir.vpk",
+            "createdAt": "2026-07-22T00:00:00.000Z",
+            "categoryId": "backgrounds",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "BROODskoe",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/RFFQSV5G/photo-2026-07-22-04-51-36.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak36_dir.vpk",
+            "createdAt": "2026-07-22T00:00:00.000Z",
+            "categoryId": "backgrounds",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "TERRORBLADE",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/KcCVHCBd/photo-2026-07-22-04-52-49.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak37_dir.vpk",
+            "createdAt": "2026-07-22T00:00:00.000Z",
+            "categoryId": "backgrounds",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "Darck Anime",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/fLpH10tk/photo-2026-07-22-04-53-37.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak38_dir.vpk",
+            "createdAt": "2026-07-22T00:00:00.000Z",
+            "categoryId": "backgrounds",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "Shadow Fiend",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/Nf34ph9B/photo-2026-07-22-22-06-56.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/pak33_dir.vpk",
+            "createdAt": "2026-07-22T00:00:00.000Z",
+            "categoryId": "backgrounds",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "Replacing Bronze Tier with Grandmaster",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/053dygCB/photo-2026-07-22-13-21-48.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/pak22_dir.vpk",
+            "createdAt": "2026-07-22T00:00:00.000Z",
+            "categoryId": "other",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          }
+        ]
+      },
+      {
         "id": "papapodzaborniy",
         "displayName": "Papapodzaborniy",
         "avatarUrl": "https://i.postimg.cc/3RQHPGn4/photo-2026-04-15-11-09-55.jpg",
@@ -23276,135 +23548,6 @@
             "file": null,
             "createdAt": "2026-07-21T00:00:00.000Z",
             "categoryId": "tools",
-            "hero": null,
-            "heroLabel": null,
-            "slot": null
-          }
-        ]
-      },
-      {
-        "id": "xiiipsiblade",
-        "displayName": "XIIIpsiblade",
-        "avatarUrl": "https://i.postimg.cc/CKtqJjdv/photo-2026-07-21-18-23-19.jpg",
-        "telegram": "https://t.me/XIIIpsiblade",
-        "steam": "https://steamcommunity.com/id/XIIIpsiblade/",
-        "authorLink": null,
-        "links": {
-          "steam": "https://steamcommunity.com/id/XIIIpsiblade/",
-          "telegram": "https://t.me/XIIIpsiblade",
-          "youtube": null,
-          "twitch": null,
-          "github": null,
-          "website": null,
-          "discord": null
-        },
-        "mods": [
-          {
-            "name": "arcana vengeful spirit - pedestal",
-            "author": "XIIIpsiblade",
-            "preview": "https://i.postimg.cc/d115ZRgK/photo-2026-07-21-18-29-45.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/arcana.vengeful.spirit.-.pedestal.zip",
-            "createdAt": "2026-07-21T00:00:00.000Z",
-            "categoryId": "pedestal",
-            "hero": "vengeful_spirit",
-            "heroLabel": "Vengeful Spirit",
-            "slot": "pedestal"
-          },
-          {
-            "name": "sematary",
-            "author": "XIIIpsiblade",
-            "preview": "https://i.postimg.cc/9QDh7ydk/photo-2026-07-22-04-42-12.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak33_dir.vpk",
-            "createdAt": "2026-07-22T00:00:00.000Z",
-            "categoryId": "backgrounds",
-            "hero": null,
-            "heroLabel": null,
-            "slot": null
-          },
-          {
-            "name": "sematary 2",
-            "author": "XIIIpsiblade",
-            "preview": "https://i.postimg.cc/T2tFJp3p/photo-2026-07-22-04-45-41.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak32_dir.vpk",
-            "createdAt": "2026-07-22T00:00:00.000Z",
-            "categoryId": "backgrounds",
-            "hero": null,
-            "heroLabel": null,
-            "slot": null
-          },
-          {
-            "name": "sematary 3",
-            "author": "XIIIpsiblade",
-            "preview": "https://i.postimg.cc/Dz3MwGBH/photo-2026-07-22-04-47-00.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak31_dir.vpk",
-            "createdAt": "2026-07-22T00:00:00.000Z",
-            "categoryId": "backgrounds",
-            "hero": null,
-            "heroLabel": null,
-            "slot": null
-          },
-          {
-            "name": "sematary 4",
-            "author": "XIIIpsiblade",
-            "preview": "https://i.postimg.cc/j228F4d1/photo-2026-07-22-04-47-53.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak30_dir.vpk",
-            "createdAt": "2026-07-22T00:00:00.000Z",
-            "categoryId": "backgrounds",
-            "hero": null,
-            "heroLabel": null,
-            "slot": null
-          },
-          {
-            "name": "Morphling",
-            "author": "XIIIpsiblade",
-            "preview": "https://i.postimg.cc/nzcTXG7X/photo-2026-07-22-04-49-38.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak34_dir.vpk",
-            "createdAt": "2026-07-22T00:00:00.000Z",
-            "categoryId": "backgrounds",
-            "hero": null,
-            "heroLabel": null,
-            "slot": null
-          },
-          {
-            "name": "dota 2 black",
-            "author": "XIIIpsiblade",
-            "preview": "https://i.postimg.cc/02JnKQ6B/photo-2026-07-22-04-50-49.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak35_dir.vpk",
-            "createdAt": "2026-07-22T00:00:00.000Z",
-            "categoryId": "backgrounds",
-            "hero": null,
-            "heroLabel": null,
-            "slot": null
-          },
-          {
-            "name": "BROODskoe",
-            "author": "XIIIpsiblade",
-            "preview": "https://i.postimg.cc/RFFQSV5G/photo-2026-07-22-04-51-36.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak36_dir.vpk",
-            "createdAt": "2026-07-22T00:00:00.000Z",
-            "categoryId": "backgrounds",
-            "hero": null,
-            "heroLabel": null,
-            "slot": null
-          },
-          {
-            "name": "TERRORBLADE",
-            "author": "XIIIpsiblade",
-            "preview": "https://i.postimg.cc/KcCVHCBd/photo-2026-07-22-04-52-49.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak37_dir.vpk",
-            "createdAt": "2026-07-22T00:00:00.000Z",
-            "categoryId": "backgrounds",
-            "hero": null,
-            "heroLabel": null,
-            "slot": null
-          },
-          {
-            "name": "Darck Anime",
-            "author": "XIIIpsiblade",
-            "preview": "https://i.postimg.cc/fLpH10tk/photo-2026-07-22-04-53-37.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak38_dir.vpk",
-            "createdAt": "2026-07-22T00:00:00.000Z",
-            "categoryId": "backgrounds",
             "hero": null,
             "heroLabel": null,
             "slot": null
