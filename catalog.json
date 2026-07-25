@@ -2611,7 +2611,7 @@
         },
         {
           "name": "Anti Mage Guilt Of The Survivor",
-          "author": "mopsyara",
+          "author": "mopsyara and Dikiychyvak",
           "preview": "https://i.postimg.cc/NjPxxkhH/photo-2026-07-09-15-50-35.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Anti.Mage.Guilt.of.the.Survivor.zip",
           "createdAt": "2026-07-09T00:00:00.000Z",
@@ -8713,7 +8713,7 @@
           },
           {
             "name": "Anti Mage Guilt Of The Survivor",
-            "author": "mopsyara",
+            "author": "mopsyara and Dikiychyvak",
             "preview": "https://i.postimg.cc/NjPxxkhH/photo-2026-07-09-15-50-35.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Anti.Mage.Guilt.of.the.Survivor.zip",
             "createdAt": "2026-07-09T00:00:00.000Z",
@@ -16051,19 +16051,6 @@
           "heroLabel": null,
           "slot": null
         }
-      ],
-      "tools": [
-        {
-          "name": "Dota2Skins Mod Manager",
-          "author": "Papapodzaborniy",
-          "preview": "https://i.postimg.cc/MHmkk9Ww/izobrazenie.png",
-          "file": null,
-          "createdAt": "2026-07-21T00:00:00.000Z",
-          "categoryId": "tools",
-          "hero": null,
-          "heroLabel": null,
-          "slot": null
-        }
       ]
     },
     "recentlyAddedMods": [
@@ -16453,17 +16440,6 @@
         "slot": null
       },
       {
-        "name": "Dota2Skins Mod Manager",
-        "author": "Papapodzaborniy",
-        "preview": "https://i.postimg.cc/MHmkk9Ww/izobrazenie.png",
-        "file": null,
-        "createdAt": "2026-07-21T00:00:00.000Z",
-        "categoryId": "tools",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
         "name": "Queen Of Pain Immortal",
         "author": "Arthas",
         "preview": "https://i.postimg.cc/8Ph0Xny2/photo-2026-07-20-01-24-21.jpg",
@@ -16506,6 +16482,17 @@
         "hero": "tinker",
         "heroLabel": "Tinker",
         "slot": "head"
+      },
+      {
+        "name": "Soul Diffuser",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/x87gcL1j/Soul-Diffuser.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/spectre.diffusal.bladee.zip",
+        "createdAt": "2026-07-20T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "spectre",
+        "heroLabel": "Spectre",
+        "slot": "weapon"
       }
     ]
   },
@@ -16665,11 +16652,6 @@
         "id": "high-five",
         "label": "high-five",
         "preview": "https://i.postimg.cc/bN7sg13D/High-Five-Aghanim-Puppet.webp"
-      },
-      {
-        "id": "tools",
-        "label": "tools",
-        "preview": "https://i.postimg.cc/MHmkk9Ww/izobrazenie.png"
       }
     ],
     "translations": {},
@@ -23698,6 +23680,123 @@
         ]
       },
       {
+        "id": "mopsyara",
+        "displayName": "mopsyara",
+        "avatarUrl": "https://i.postimg.cc/2ytbSNpB/photo-2026-07-16-02-35-47.jpg",
+        "telegram": "https://t.me/+AM_aLD0x2TcwY2My",
+        "authorLink": null,
+        "links": {
+          "steam": null,
+          "telegram": "https://t.me/+AM_aLD0x2TcwY2My",
+          "youtube": null,
+          "twitch": null,
+          "github": null,
+          "website": null,
+          "discord": null
+        },
+        "mods": [
+          {
+            "name": "Broodmother poco x3 brood",
+            "author": "mopsyara",
+            "preview": "https://i.postimg.cc/26R7j7Lz/photo-2026-06-17-00-00-17.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/broodmother.poco.x3.brood.zip",
+            "createdAt": "2026-06-16T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "broodmother",
+            "heroLabel": "Broodmother",
+            "slot": "set"
+          },
+          {
+            "name": "Wraith King as Papich",
+            "author": "mopsyara",
+            "preview": "https://i.postimg.cc/W3TD7B59/photo-2026-07-15-22-25-33.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/262/Wraith.King.po.papichu.zip",
+            "createdAt": "2026-07-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "wraith_king",
+            "heroLabel": "Wraith King",
+            "slot": "set"
+          },
+          {
+            "name": "Anonymous Ember",
+            "author": "mopsyara",
+            "preview": "https://i.postimg.cc/SR2dTkss/image.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/Anonymous.Ember.zip",
+            "createdAt": "2026-06-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "ember_spirit",
+            "heroLabel": "Ember Spirit",
+            "slot": "set"
+          },
+          {
+            "name": "Doom time to death",
+            "author": "mopsyara",
+            "preview": "https://i.postimg.cc/hPgRm1ws/izobrazenie.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Doom.time.to.death.zip",
+            "createdAt": "2026-07-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "doom",
+            "heroLabel": "Doom",
+            "slot": "set"
+          },
+          {
+            "name": "Invoker Covenant of the Depths",
+            "author": "mopsyara",
+            "preview": "https://i.postimg.cc/3wj2MtdB/image.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/Invoker.Covenant.Of.The.Depths.zip",
+            "createdAt": "2026-06-22T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "invoker",
+            "heroLabel": "Invoker",
+            "slot": "set"
+          },
+          {
+            "name": "Luna scord of the winged sentinel",
+            "author": "mopsyara",
+            "preview": "https://i.postimg.cc/jdZdDmct/photo-2026-06-22-09-46-28.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/236/Luna.scord.of.the.winged.sentinel.zip",
+            "createdAt": "2026-06-22T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "luna",
+            "heroLabel": "Luna",
+            "slot": "set"
+          },
+          {
+            "name": "Dragon knight set buyaica",
+            "author": "mopsyara",
+            "preview": "https://i.postimg.cc/qqqCGpBZ/photo-2026-06-14-20-55-58.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/Dragon.Knight.set.buyaica.zip",
+            "createdAt": "2026-06-12T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "dragon_knight",
+            "heroLabel": "Dragon Knight",
+            "slot": "set"
+          },
+          {
+            "name": "Spectre always here",
+            "author": "mopsyara",
+            "preview": "https://i.postimg.cc/hGXknyzj/izobrazenie.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Spectre.always.here.zip",
+            "createdAt": "2026-07-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "spectre",
+            "heroLabel": "Spectre",
+            "slot": "set"
+          },
+          {
+            "name": "Snapfire Snail",
+            "author": "mopsyara",
+            "preview": "https://i.postimg.cc/5yX6Cpn2/photo-2026-06-14-20-57-41.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/Snapfire.Snail.zip",
+            "createdAt": "2026-06-14T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "snapfire",
+            "heroLabel": "Snapfire",
+            "slot": "set"
+          }
+        ]
+      },
+      {
         "id": "papapodzaborniy",
         "displayName": "Papapodzaborniy",
         "avatarUrl": "https://i.postimg.cc/3RQHPGn4/photo-2026-04-15-11-09-55.jpg",
@@ -23814,134 +23913,6 @@
             "categoryId": "heroes",
             "hero": "dark_seer",
             "heroLabel": "Dark Seer",
-            "slot": "set"
-          },
-          {
-            "name": "Dota2Skins Mod Manager",
-            "author": "Papapodzaborniy",
-            "preview": "https://i.postimg.cc/MHmkk9Ww/izobrazenie.png",
-            "file": null,
-            "createdAt": "2026-07-21T00:00:00.000Z",
-            "categoryId": "tools",
-            "hero": null,
-            "heroLabel": null,
-            "slot": null
-          }
-        ]
-      },
-      {
-        "id": "mopsyara",
-        "displayName": "mopsyara",
-        "avatarUrl": "https://i.postimg.cc/2ytbSNpB/photo-2026-07-16-02-35-47.jpg",
-        "telegram": "https://t.me/+AM_aLD0x2TcwY2My",
-        "authorLink": null,
-        "links": {
-          "steam": null,
-          "telegram": "https://t.me/+AM_aLD0x2TcwY2My",
-          "youtube": null,
-          "twitch": null,
-          "github": null,
-          "website": null,
-          "discord": null
-        },
-        "mods": [
-          {
-            "name": "Broodmother poco x3 brood",
-            "author": "mopsyara",
-            "preview": "https://i.postimg.cc/26R7j7Lz/photo-2026-06-17-00-00-17.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/broodmother.poco.x3.brood.zip",
-            "createdAt": "2026-06-16T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "broodmother",
-            "heroLabel": "Broodmother",
-            "slot": "set"
-          },
-          {
-            "name": "Wraith King as Papich",
-            "author": "mopsyara",
-            "preview": "https://i.postimg.cc/W3TD7B59/photo-2026-07-15-22-25-33.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/262/Wraith.King.po.papichu.zip",
-            "createdAt": "2026-07-15T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "wraith_king",
-            "heroLabel": "Wraith King",
-            "slot": "set"
-          },
-          {
-            "name": "Anonymous Ember",
-            "author": "mopsyara",
-            "preview": "https://i.postimg.cc/SR2dTkss/image.png",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/Anonymous.Ember.zip",
-            "createdAt": "2026-06-17T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "ember_spirit",
-            "heroLabel": "Ember Spirit",
-            "slot": "set"
-          },
-          {
-            "name": "Doom time to death",
-            "author": "mopsyara",
-            "preview": "https://i.postimg.cc/hPgRm1ws/izobrazenie.png",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Doom.time.to.death.zip",
-            "createdAt": "2026-07-17T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "doom",
-            "heroLabel": "Doom",
-            "slot": "set"
-          },
-          {
-            "name": "Invoker Covenant of the Depths",
-            "author": "mopsyara",
-            "preview": "https://i.postimg.cc/3wj2MtdB/image.png",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/Invoker.Covenant.Of.The.Depths.zip",
-            "createdAt": "2026-06-22T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "invoker",
-            "heroLabel": "Invoker",
-            "slot": "set"
-          },
-          {
-            "name": "Luna scord of the winged sentinel",
-            "author": "mopsyara",
-            "preview": "https://i.postimg.cc/jdZdDmct/photo-2026-06-22-09-46-28.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/236/Luna.scord.of.the.winged.sentinel.zip",
-            "createdAt": "2026-06-22T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "luna",
-            "heroLabel": "Luna",
-            "slot": "set"
-          },
-          {
-            "name": "Dragon knight set buyaica",
-            "author": "mopsyara",
-            "preview": "https://i.postimg.cc/qqqCGpBZ/photo-2026-06-14-20-55-58.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/Dragon.Knight.set.buyaica.zip",
-            "createdAt": "2026-06-12T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "dragon_knight",
-            "heroLabel": "Dragon Knight",
-            "slot": "set"
-          },
-          {
-            "name": "Spectre always here",
-            "author": "mopsyara",
-            "preview": "https://i.postimg.cc/hGXknyzj/izobrazenie.png",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Spectre.always.here.zip",
-            "createdAt": "2026-07-17T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "spectre",
-            "heroLabel": "Spectre",
-            "slot": "set"
-          },
-          {
-            "name": "Snapfire Snail",
-            "author": "mopsyara",
-            "preview": "https://i.postimg.cc/5yX6Cpn2/photo-2026-06-14-20-57-41.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/Snapfire.Snail.zip",
-            "createdAt": "2026-06-14T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "snapfire",
-            "heroLabel": "Snapfire",
             "slot": "set"
           }
         ]

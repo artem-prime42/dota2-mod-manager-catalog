@@ -174,7 +174,7 @@ function buildCatalog() {
 
   const grouped = {};
   const heroNames = [];
-  const hiddenTitles = new Set(['patcher - weather & more', 'patcher - weather and more']);
+  const hiddenTitles = new Set(['patcher - weather & more', 'patcher - weather and more', 'dota2skins mod manager']);
   for (const entry of modEntries) {
     if (!entry?.name && !entry?.id) continue;
     const title = (entry.name || entry.title || entry.id || '').toString().trim().toLowerCase();
