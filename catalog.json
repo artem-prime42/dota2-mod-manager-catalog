@@ -839,6 +839,17 @@
           "slot": "set"
         },
         {
+          "name": "Ember Spirit set 1",
+          "author": "Dota2VPK",
+          "preview": "https://i.postimg.cc/LXB4ZhcB/photo-2026-07-25-21-12-43.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/ember.spirit.set.1.zip",
+          "createdAt": "2026-07-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "ember_spirit",
+          "heroLabel": "Ember Spirit",
+          "slot": "set"
+        },
+        {
           "name": "Meepo Diretide",
           "author": "Arthas",
           "preview": "https://i.postimg.cc/hPfDbNqr/photo-2026-06-04-09-01-06.jpg",
@@ -1442,6 +1453,83 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "set"
+        },
+        {
+          "name": "Crown of the Divine Sorrow V 3",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/Mp1BkjmP/Crown-of-the-Divine-Sorrow-V-3-1.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak52_dir.vpk",
+          "createdAt": "2026-07-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "invoker",
+          "heroLabel": "Invoker",
+          "slot": "head"
+        },
+        {
+          "name": "Trials of the Blackguard Magus",
+          "author": "XIIIpsiblade",
+          "preview": "https://i.postimg.cc/5tL2bHyx/photo-2026-07-25-00-50-43.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak29_dir.vpk",
+          "createdAt": "2026-07-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "invoker",
+          "heroLabel": "Invoker",
+          "slot": "set"
+        },
+        {
+          "name": "nightlord arms",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/vB8FkD60/nightlord-arms-png.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak15_dir.vpk",
+          "createdAt": "2026-07-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "invoker",
+          "heroLabel": "Invoker",
+          "slot": "hands"
+        },
+        {
+          "name": "nightlord head",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/BvqVQkQc/nightlord-head-png.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak94_dir.vpk",
+          "createdAt": "2026-07-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "invoker",
+          "heroLabel": "Invoker",
+          "slot": "head"
+        },
+        {
+          "name": "nightlord forged spirit",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/k5YPrqFg/nightlord-crypt-sentinel-npc-dota-invoker-forged-spirit-png.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak89_dir.vpk",
+          "createdAt": "2026-07-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "invoker",
+          "heroLabel": "Invoker",
+          "slot": "summon"
+        },
+        {
+          "name": "nightlord back",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/6TxNHcVb/nightlord-back-png.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak27_dir.vpk",
+          "createdAt": "2026-07-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "invoker",
+          "heroLabel": "Invoker",
+          "slot": "back"
+        },
+        {
+          "name": "nightlord belt",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/XJTJbwcr/nightlord-belt-png.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak68_dir.vpk",
+          "createdAt": "2026-07-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "invoker",
+          "heroLabel": "Invoker",
+          "slot": "belt"
         },
         {
           "name": "Stormborn",
@@ -2734,7 +2822,7 @@
           "name": "Concord Dominion",
           "author": "Anonymous",
           "preview": "https://i.postimg.cc/NjFW7LjX/Concord-Dominion.webp",
-          "file": "https://github.com/artem-prime42/dota2-mods/archive/refs/tags/pl1.zip",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/Phantom.Lancer.Concord.Dominion.zip",
           "createdAt": "2026-06-04T00:00:00.000Z",
           "categoryId": "heroes",
           "hero": "phantom_lancer",
@@ -4898,6 +4986,17 @@
           "slot": "weapon"
         },
         {
+          "name": "Juggernaut Purple Samurai",
+          "author": "Dikiychyvak",
+          "preview": "https://i.postimg.cc/YCnWhD62/photo-2026-07-25-21-10-34.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/Juggernaut.Purple.Samurai.zip",
+          "createdAt": "2026-07-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "juggernaut",
+          "heroLabel": "Juggernaut",
+          "slot": "set"
+        },
+        {
           "name": "Lifestealer Golden Maw",
           "author": "Anonymous",
           "preview": "https://i.postimg.cc/DwZwNkFX/Lifestealer-Golden-Maw.webp",
@@ -6806,6 +6905,17 @@
             "hero": "ember_spirit",
             "heroLabel": "Ember Spirit",
             "slot": "set"
+          },
+          {
+            "name": "Ember Spirit set 1",
+            "author": "Dota2VPK",
+            "preview": "https://i.postimg.cc/LXB4ZhcB/photo-2026-07-25-21-12-43.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/ember.spirit.set.1.zip",
+            "createdAt": "2026-07-25T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "ember_spirit",
+            "heroLabel": "Ember Spirit",
+            "slot": "set"
           }
         ],
         "meepo": [
@@ -7423,6 +7533,83 @@
             "hero": "invoker",
             "heroLabel": "Invoker",
             "slot": "set"
+          },
+          {
+            "name": "Crown of the Divine Sorrow V 3",
+            "author": "Anonymous",
+            "preview": "https://i.postimg.cc/Mp1BkjmP/Crown-of-the-Divine-Sorrow-V-3-1.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak52_dir.vpk",
+            "createdAt": "2026-07-25T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "invoker",
+            "heroLabel": "Invoker",
+            "slot": "head"
+          },
+          {
+            "name": "Trials of the Blackguard Magus",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/5tL2bHyx/photo-2026-07-25-00-50-43.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak29_dir.vpk",
+            "createdAt": "2026-07-25T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "invoker",
+            "heroLabel": "Invoker",
+            "slot": "set"
+          },
+          {
+            "name": "nightlord arms",
+            "author": "Anonymous",
+            "preview": "https://i.postimg.cc/vB8FkD60/nightlord-arms-png.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak15_dir.vpk",
+            "createdAt": "2026-07-25T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "invoker",
+            "heroLabel": "Invoker",
+            "slot": "hands"
+          },
+          {
+            "name": "nightlord head",
+            "author": "Anonymous",
+            "preview": "https://i.postimg.cc/BvqVQkQc/nightlord-head-png.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak94_dir.vpk",
+            "createdAt": "2026-07-25T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "invoker",
+            "heroLabel": "Invoker",
+            "slot": "head"
+          },
+          {
+            "name": "nightlord forged spirit",
+            "author": "Anonymous",
+            "preview": "https://i.postimg.cc/k5YPrqFg/nightlord-crypt-sentinel-npc-dota-invoker-forged-spirit-png.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak89_dir.vpk",
+            "createdAt": "2026-07-25T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "invoker",
+            "heroLabel": "Invoker",
+            "slot": "summon"
+          },
+          {
+            "name": "nightlord back",
+            "author": "Anonymous",
+            "preview": "https://i.postimg.cc/6TxNHcVb/nightlord-back-png.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak27_dir.vpk",
+            "createdAt": "2026-07-25T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "invoker",
+            "heroLabel": "Invoker",
+            "slot": "back"
+          },
+          {
+            "name": "nightlord belt",
+            "author": "Anonymous",
+            "preview": "https://i.postimg.cc/XJTJbwcr/nightlord-belt-png.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak68_dir.vpk",
+            "createdAt": "2026-07-25T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "invoker",
+            "heroLabel": "Invoker",
+            "slot": "belt"
           }
         ],
         "storm_spirit": [
@@ -8747,7 +8934,7 @@
             "name": "Concord Dominion",
             "author": "Anonymous",
             "preview": "https://i.postimg.cc/NjFW7LjX/Concord-Dominion.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/archive/refs/tags/pl1.zip",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/Phantom.Lancer.Concord.Dominion.zip",
             "createdAt": "2026-06-04T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "phantom_lancer",
@@ -11005,6 +11192,17 @@
             "hero": "juggernaut",
             "heroLabel": "Juggernaut",
             "slot": "weapon"
+          },
+          {
+            "name": "Juggernaut Purple Samurai",
+            "author": "Dikiychyvak",
+            "preview": "https://i.postimg.cc/YCnWhD62/photo-2026-07-25-21-10-34.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/Juggernaut.Purple.Samurai.zip",
+            "createdAt": "2026-07-25T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "juggernaut",
+            "heroLabel": "Juggernaut",
+            "slot": "set"
           }
         ],
         "lifestealer": [
@@ -12182,6 +12380,28 @@
           "preview": "https://i.postimg.cc/XJLCDXpv/Snow-Pedestal.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/240/pak13_dir.vpk",
           "createdAt": "2026-07-02T00:00:00.000Z",
+          "categoryId": "pedestal",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "pedestal",
+          "author": "XIIIpsiblade",
+          "preview": "https://i.postimg.cc/vZw7GnH3/photo-2026-07-25-20-35-48.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak51_dir.vpk",
+          "createdAt": "2026-07-25T00:00:00.000Z",
+          "categoryId": "pedestal",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "queen of pain  arcane - pedestal",
+          "author": "XIIIpsiblade",
+          "preview": "https://i.postimg.cc/SR8rGfxz/photo-2026-07-25-20-41-57.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak28_dir.vpk",
+          "createdAt": "2026-07-25T00:00:00.000Z",
           "categoryId": "pedestal",
           "hero": null,
           "heroLabel": null,
@@ -15848,6 +16068,127 @@
     },
     "recentlyAddedMods": [
       {
+        "name": "Ember Spirit set 1",
+        "author": "Dota2VPK",
+        "preview": "https://i.postimg.cc/LXB4ZhcB/photo-2026-07-25-21-12-43.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/ember.spirit.set.1.zip",
+        "createdAt": "2026-07-25T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "ember_spirit",
+        "heroLabel": "Ember Spirit",
+        "slot": "set"
+      },
+      {
+        "name": "Crown of the Divine Sorrow V 3",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/Mp1BkjmP/Crown-of-the-Divine-Sorrow-V-3-1.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak52_dir.vpk",
+        "createdAt": "2026-07-25T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "invoker",
+        "heroLabel": "Invoker",
+        "slot": "head"
+      },
+      {
+        "name": "Trials of the Blackguard Magus",
+        "author": "XIIIpsiblade",
+        "preview": "https://i.postimg.cc/5tL2bHyx/photo-2026-07-25-00-50-43.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak29_dir.vpk",
+        "createdAt": "2026-07-25T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "invoker",
+        "heroLabel": "Invoker",
+        "slot": "set"
+      },
+      {
+        "name": "nightlord arms",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/vB8FkD60/nightlord-arms-png.png",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak15_dir.vpk",
+        "createdAt": "2026-07-25T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "invoker",
+        "heroLabel": "Invoker",
+        "slot": "hands"
+      },
+      {
+        "name": "nightlord head",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/BvqVQkQc/nightlord-head-png.png",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak94_dir.vpk",
+        "createdAt": "2026-07-25T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "invoker",
+        "heroLabel": "Invoker",
+        "slot": "head"
+      },
+      {
+        "name": "nightlord forged spirit",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/k5YPrqFg/nightlord-crypt-sentinel-npc-dota-invoker-forged-spirit-png.png",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak89_dir.vpk",
+        "createdAt": "2026-07-25T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "invoker",
+        "heroLabel": "Invoker",
+        "slot": "summon"
+      },
+      {
+        "name": "nightlord back",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/6TxNHcVb/nightlord-back-png.png",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak27_dir.vpk",
+        "createdAt": "2026-07-25T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "invoker",
+        "heroLabel": "Invoker",
+        "slot": "back"
+      },
+      {
+        "name": "nightlord belt",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/XJTJbwcr/nightlord-belt-png.png",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak68_dir.vpk",
+        "createdAt": "2026-07-25T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "invoker",
+        "heroLabel": "Invoker",
+        "slot": "belt"
+      },
+      {
+        "name": "Juggernaut Purple Samurai",
+        "author": "Dikiychyvak",
+        "preview": "https://i.postimg.cc/YCnWhD62/photo-2026-07-25-21-10-34.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/Juggernaut.Purple.Samurai.zip",
+        "createdAt": "2026-07-25T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "juggernaut",
+        "heroLabel": "Juggernaut",
+        "slot": "set"
+      },
+      {
+        "name": "pedestal",
+        "author": "XIIIpsiblade",
+        "preview": "https://i.postimg.cc/vZw7GnH3/photo-2026-07-25-20-35-48.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak51_dir.vpk",
+        "createdAt": "2026-07-25T00:00:00.000Z",
+        "categoryId": "pedestal",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "queen of pain  arcane - pedestal",
+        "author": "XIIIpsiblade",
+        "preview": "https://i.postimg.cc/SR8rGfxz/photo-2026-07-25-20-41-57.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak28_dir.vpk",
+        "createdAt": "2026-07-25T00:00:00.000Z",
+        "categoryId": "pedestal",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
         "name": "Doom Fallen Khorne",
         "author": "Anonymous",
         "preview": "https://i.postimg.cc/P5FdB4Hq/Doom-Fallen-Khorne.webp",
@@ -16165,127 +16506,6 @@
         "hero": "tinker",
         "heroLabel": "Tinker",
         "slot": "head"
-      },
-      {
-        "name": "Soul Diffuser",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/x87gcL1j/Soul-Diffuser.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/spectre.diffusal.bladee.zip",
-        "createdAt": "2026-07-20T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "spectre",
-        "heroLabel": "Spectre",
-        "slot": "weapon"
-      },
-      {
-        "name": "Vengful Spirit Vision of the Seraph Scion",
-        "author": "Dikiychyvak",
-        "preview": "https://i.postimg.cc/Hx9fcZqp/photo-2026-07-20-02-21-28.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/Vengful.Spirit.Vision.of.the.Seraph.Scion.zip",
-        "createdAt": "2026-07-20T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "vengeful_spirit",
-        "heroLabel": "Vengeful Spirit",
-        "slot": "set"
-      },
-      {
-        "name": "Spirit Breaker Beer",
-        "author": "SENOp",
-        "preview": "https://i.postimg.cc/s2tPr31d/Spirit-Breaker-Beer.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/Spirit.Breaker.Beer.zip",
-        "createdAt": "2026-07-20T00:00:00.000Z",
-        "categoryId": "sounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "Bare Hoodwink",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/jjP14Kvr/Bare-Hoodwink.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/Bare.Hoodwink.zip",
-        "createdAt": "2026-07-18T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "hoodwink",
-        "heroLabel": "Hoodwink",
-        "slot": "set"
-      },
-      {
-        "name": "Lina Crystal Empress",
-        "author": "Dikiychyvak",
-        "preview": "https://i.postimg.cc/HkVD5ffy/Lina-Crystal-Empress.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/Lina.Crystal.Empress.zip",
-        "createdAt": "2026-07-18T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "lina",
-        "heroLabel": "Lina",
-        "slot": "set"
-      },
-      {
-        "name": "Kunkka Sailor Taunt",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/NFq1t9HY/Kunkka-Sailor-Taunt.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/Kunkka.Sailor.Taunt.zip",
-        "createdAt": "2026-07-18T00:00:00.000Z",
-        "categoryId": "hero-sounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "Nature Prophet Taunt",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/XJ3j0nvJ/Nature-Prophet-Taunt.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/Nature.Prophet.Taunt.zip",
-        "createdAt": "2026-07-18T00:00:00.000Z",
-        "categoryId": "hero-sounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "Witch Doctor Death Ward",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/k5P9x7KD/Witch-Doctor-Death-Ward.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/Witch.Doctor.Death.Ward.zip",
-        "createdAt": "2026-07-18T00:00:00.000Z",
-        "categoryId": "hero-sounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "Enigma Black Hole Kate",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/026qFzCc/Enigma-Black-Hole-Kate.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/Enigma.Black.Hole.Kate.zip",
-        "createdAt": "2026-07-18T00:00:00.000Z",
-        "categoryId": "hero-sounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "Purple Demon Cursor",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/bNLp10rF/Purple-Demon-Cursor.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Purple.Demon.Cursor.zip",
-        "createdAt": "2026-07-18T00:00:00.000Z",
-        "categoryId": "cursors",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "Purple TI8 Cursor",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/g2TpTYvv/Purple-TI8-Cursor.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Purple.TI8.Cursor.zip",
-        "createdAt": "2026-07-18T00:00:00.000Z",
-        "categoryId": "cursors",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
       }
     ]
   },
@@ -16719,7 +16939,7 @@
         "name": "Ember Spirit",
         "slug": "ember_spirit",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/ember_spirit.png",
-        "modsCount": 5,
+        "modsCount": 6,
         "slots": [
           "set"
         ]
@@ -16779,7 +16999,7 @@
         "name": "Invoker",
         "slug": "invoker",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/invoker.png",
-        "modsCount": 35,
+        "modsCount": 42,
         "slots": [
           "hands",
           "head",
@@ -17471,7 +17691,7 @@
         "name": "Juggernaut",
         "slug": "juggernaut",
         "preview": "https://i.postimg.cc/HLLHxQj7/Juggernaut-icon-dota2-gameasset.png",
-        "modsCount": 5,
+        "modsCount": 6,
         "slots": [
           "set",
           "weapon"
@@ -22464,6 +22684,17 @@
             "slot": "set"
           },
           {
+            "name": "Ember Spirit set 1",
+            "author": "Dota2VPK",
+            "preview": "https://i.postimg.cc/LXB4ZhcB/photo-2026-07-25-21-12-43.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/ember.spirit.set.1.zip",
+            "createdAt": "2026-07-25T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "ember_spirit",
+            "heroLabel": "Ember Spirit",
+            "slot": "set"
+          },
+          {
             "name": "Naga Siren Set 1",
             "author": "Dota2VPK",
             "preview": "https://i.postimg.cc/52pKsHx2/photo-2026-06-11-14-41-26.jpg",
@@ -23100,167 +23331,6 @@
         ]
       },
       {
-        "id": "dikiychyvak",
-        "displayName": "Dikiychyvak",
-        "avatarUrl": "https://i.postimg.cc/BvG10h6X/messi.jpg",
-        "telegram": "https://t.me/+7lqUU2tPN5A5ODNi",
-        "authorLink": null,
-        "links": {
-          "steam": null,
-          "telegram": "https://t.me/+7lqUU2tPN5A5ODNi",
-          "youtube": null,
-          "twitch": null,
-          "github": null,
-          "website": null,
-          "discord": null
-        },
-        "mods": [
-          {
-            "name": "Invoker Dark Divine",
-            "author": "Dikiychyvak",
-            "preview": "https://i.postimg.cc/650rYx51/Invoker-Dark-Divine.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Invoker.Dark.Divine.zip",
-            "createdAt": "2026-07-07T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "invoker",
-            "heroLabel": "Invoker",
-            "slot": "set"
-          },
-          {
-            "name": "Anti Mage Red",
-            "author": "Dikiychyvak",
-            "preview": "https://i.postimg.cc/Z5NRpz1X/Crimson-Anti-Mage.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Anti.Mage.Red.zip",
-            "createdAt": "2026-07-10T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "anti_mage",
-            "heroLabel": "Anti Mage",
-            "slot": "set"
-          },
-          {
-            "name": "Luna Whitemoon Stalker Custom",
-            "author": "Dikiychyvak",
-            "preview": "https://i.postimg.cc/kXXQCbvG/photo-2026-07-15-22-22-35.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/262/Luna.Whitemoon.Stalker.Custom.zip",
-            "createdAt": "2026-07-15T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "luna",
-            "heroLabel": "Luna",
-            "slot": "set"
-          },
-          {
-            "name": "Phantom Lancer Troll Crimson",
-            "author": "Dikiychyvak",
-            "preview": "https://i.postimg.cc/4xWkssPC/photo-2026-07-11-21-08-46.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/248/Phantom.Lancer.Troll.Crimson.zip",
-            "createdAt": "2026-07-11T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "phantom_lancer",
-            "heroLabel": "Phantom Lancer",
-            "slot": "set"
-          },
-          {
-            "name": "Axe Immortal Bootblack Brawler",
-            "author": "Dikiychyvak",
-            "preview": "https://i.postimg.cc/h40zb2qb/Axe-Immortal-Bootblack-Brawler.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/259/Axe.Immortal.Bootblack.Brawler.zip",
-            "createdAt": "2026-07-13T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "axe",
-            "heroLabel": "Axe",
-            "slot": "set"
-          },
-          {
-            "name": "Lina Crystal Empress",
-            "author": "Dikiychyvak",
-            "preview": "https://i.postimg.cc/HkVD5ffy/Lina-Crystal-Empress.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/Lina.Crystal.Empress.zip",
-            "createdAt": "2026-07-18T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "lina",
-            "heroLabel": "Lina",
-            "slot": "set"
-          },
-          {
-            "name": "Juggernaut Script Honor",
-            "author": "Dikiychyvak",
-            "preview": "https://i.postimg.cc/xC8WtyS1/Juggernaut-Script-Honor.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/Juggernaut.Script.Honor.zip",
-            "createdAt": "2026-06-30T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "juggernaut",
-            "heroLabel": "Juggernaut",
-            "slot": "set"
-          },
-          {
-            "name": "Vengful Spirit Vision of the Seraph Scion",
-            "author": "Dikiychyvak",
-            "preview": "https://i.postimg.cc/Hx9fcZqp/photo-2026-07-20-02-21-28.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/Vengful.Spirit.Vision.of.the.Seraph.Scion.zip",
-            "createdAt": "2026-07-20T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "vengeful_spirit",
-            "heroLabel": "Vengeful Spirit",
-            "slot": "set"
-          },
-          {
-            "name": "Logs Trees",
-            "author": "Dikiychyvak",
-            "preview": "https://i.postimg.cc/VLgk4z5c/Logs-Trees.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/237/pak23_dir.vpk",
-            "createdAt": "2026-06-29T00:00:00.000Z",
-            "categoryId": "trees",
-            "hero": null,
-            "heroLabel": null,
-            "slot": null
-          },
-          {
-            "name": "LowPoly Stumps Trees",
-            "author": "Dikiychyvak",
-            "preview": "https://i.postimg.cc/Kv0mBQsy/Low-Poly-Stumps-Trees.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/238/pak24_dir.vpk",
-            "createdAt": "2026-06-29T00:00:00.000Z",
-            "categoryId": "trees",
-            "hero": null,
-            "heroLabel": null,
-            "slot": null
-          },
-          {
-            "name": "Gravestones Trees",
-            "author": "Dikiychyvak",
-            "preview": "https://i.postimg.cc/gjcf0bpD/Gravestones-Trees.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/238/pak25_dir.vpk",
-            "createdAt": "2026-06-29T00:00:00.000Z",
-            "categoryId": "trees",
-            "hero": null,
-            "heroLabel": null,
-            "slot": null
-          },
-          {
-            "name": "LowPoly Skull Trees",
-            "author": "Dikiychyvak",
-            "preview": "https://i.postimg.cc/qM59pF5f/Low-Poly-Skull-Trees.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/238/pak26_dir.vpk",
-            "createdAt": "2026-06-29T00:00:00.000Z",
-            "categoryId": "trees",
-            "hero": null,
-            "heroLabel": null,
-            "slot": null
-          },
-          {
-            "name": "Metal Barrel Trees",
-            "author": "Dikiychyvak",
-            "preview": "https://i.postimg.cc/g0v5q2kG/Metal-Barrel-Trees.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/238/pak27_dir.vpk",
-            "createdAt": "2026-06-29T00:00:00.000Z",
-            "categoryId": "trees",
-            "hero": null,
-            "heroLabel": null,
-            "slot": null
-          }
-        ]
-      },
-      {
         "id": "xiiipsiblade",
         "displayName": "XIIIpsiblade",
         "avatarUrl": "https://i.postimg.cc/CKtqJjdv/photo-2026-07-21-18-23-19.jpg",
@@ -23278,6 +23348,17 @@
         },
         "mods": [
           {
+            "name": "Trials of the Blackguard Magus",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/5tL2bHyx/photo-2026-07-25-00-50-43.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak29_dir.vpk",
+            "createdAt": "2026-07-25T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "invoker",
+            "heroLabel": "Invoker",
+            "slot": "set"
+          },
+          {
             "name": "arcana vengeful spirit - pedestal",
             "author": "XIIIpsiblade",
             "preview": "https://i.postimg.cc/d115ZRgK/photo-2026-07-21-18-29-45.jpg",
@@ -23287,6 +23368,28 @@
             "hero": "vengeful_spirit",
             "heroLabel": "Vengeful Spirit",
             "slot": "pedestal"
+          },
+          {
+            "name": "pedestal",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/vZw7GnH3/photo-2026-07-25-20-35-48.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak51_dir.vpk",
+            "createdAt": "2026-07-25T00:00:00.000Z",
+            "categoryId": "pedestal",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "queen of pain  arcane - pedestal",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/SR8rGfxz/photo-2026-07-25-20-41-57.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak28_dir.vpk",
+            "createdAt": "2026-07-25T00:00:00.000Z",
+            "categoryId": "pedestal",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
           },
           {
             "name": "Immortal Rangs",
@@ -23416,6 +23519,178 @@
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/pak22_dir.vpk",
             "createdAt": "2026-07-22T00:00:00.000Z",
             "categoryId": "other",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          }
+        ]
+      },
+      {
+        "id": "dikiychyvak",
+        "displayName": "Dikiychyvak",
+        "avatarUrl": "https://i.postimg.cc/BvG10h6X/messi.jpg",
+        "telegram": "https://t.me/+7lqUU2tPN5A5ODNi",
+        "authorLink": null,
+        "links": {
+          "steam": null,
+          "telegram": "https://t.me/+7lqUU2tPN5A5ODNi",
+          "youtube": null,
+          "twitch": null,
+          "github": null,
+          "website": null,
+          "discord": null
+        },
+        "mods": [
+          {
+            "name": "Invoker Dark Divine",
+            "author": "Dikiychyvak",
+            "preview": "https://i.postimg.cc/650rYx51/Invoker-Dark-Divine.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Invoker.Dark.Divine.zip",
+            "createdAt": "2026-07-07T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "invoker",
+            "heroLabel": "Invoker",
+            "slot": "set"
+          },
+          {
+            "name": "Anti Mage Red",
+            "author": "Dikiychyvak",
+            "preview": "https://i.postimg.cc/Z5NRpz1X/Crimson-Anti-Mage.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Anti.Mage.Red.zip",
+            "createdAt": "2026-07-10T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "anti_mage",
+            "heroLabel": "Anti Mage",
+            "slot": "set"
+          },
+          {
+            "name": "Luna Whitemoon Stalker Custom",
+            "author": "Dikiychyvak",
+            "preview": "https://i.postimg.cc/kXXQCbvG/photo-2026-07-15-22-22-35.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/262/Luna.Whitemoon.Stalker.Custom.zip",
+            "createdAt": "2026-07-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "luna",
+            "heroLabel": "Luna",
+            "slot": "set"
+          },
+          {
+            "name": "Phantom Lancer Troll Crimson",
+            "author": "Dikiychyvak",
+            "preview": "https://i.postimg.cc/4xWkssPC/photo-2026-07-11-21-08-46.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/248/Phantom.Lancer.Troll.Crimson.zip",
+            "createdAt": "2026-07-11T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "phantom_lancer",
+            "heroLabel": "Phantom Lancer",
+            "slot": "set"
+          },
+          {
+            "name": "Axe Immortal Bootblack Brawler",
+            "author": "Dikiychyvak",
+            "preview": "https://i.postimg.cc/h40zb2qb/Axe-Immortal-Bootblack-Brawler.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/259/Axe.Immortal.Bootblack.Brawler.zip",
+            "createdAt": "2026-07-13T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "axe",
+            "heroLabel": "Axe",
+            "slot": "set"
+          },
+          {
+            "name": "Lina Crystal Empress",
+            "author": "Dikiychyvak",
+            "preview": "https://i.postimg.cc/HkVD5ffy/Lina-Crystal-Empress.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/Lina.Crystal.Empress.zip",
+            "createdAt": "2026-07-18T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "lina",
+            "heroLabel": "Lina",
+            "slot": "set"
+          },
+          {
+            "name": "Juggernaut Script Honor",
+            "author": "Dikiychyvak",
+            "preview": "https://i.postimg.cc/xC8WtyS1/Juggernaut-Script-Honor.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/Juggernaut.Script.Honor.zip",
+            "createdAt": "2026-06-30T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "juggernaut",
+            "heroLabel": "Juggernaut",
+            "slot": "set"
+          },
+          {
+            "name": "Juggernaut Purple Samurai",
+            "author": "Dikiychyvak",
+            "preview": "https://i.postimg.cc/YCnWhD62/photo-2026-07-25-21-10-34.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/Juggernaut.Purple.Samurai.zip",
+            "createdAt": "2026-07-25T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "juggernaut",
+            "heroLabel": "Juggernaut",
+            "slot": "set"
+          },
+          {
+            "name": "Vengful Spirit Vision of the Seraph Scion",
+            "author": "Dikiychyvak",
+            "preview": "https://i.postimg.cc/Hx9fcZqp/photo-2026-07-20-02-21-28.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/Vengful.Spirit.Vision.of.the.Seraph.Scion.zip",
+            "createdAt": "2026-07-20T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "vengeful_spirit",
+            "heroLabel": "Vengeful Spirit",
+            "slot": "set"
+          },
+          {
+            "name": "Logs Trees",
+            "author": "Dikiychyvak",
+            "preview": "https://i.postimg.cc/VLgk4z5c/Logs-Trees.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/237/pak23_dir.vpk",
+            "createdAt": "2026-06-29T00:00:00.000Z",
+            "categoryId": "trees",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "LowPoly Stumps Trees",
+            "author": "Dikiychyvak",
+            "preview": "https://i.postimg.cc/Kv0mBQsy/Low-Poly-Stumps-Trees.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/238/pak24_dir.vpk",
+            "createdAt": "2026-06-29T00:00:00.000Z",
+            "categoryId": "trees",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "Gravestones Trees",
+            "author": "Dikiychyvak",
+            "preview": "https://i.postimg.cc/gjcf0bpD/Gravestones-Trees.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/238/pak25_dir.vpk",
+            "createdAt": "2026-06-29T00:00:00.000Z",
+            "categoryId": "trees",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "LowPoly Skull Trees",
+            "author": "Dikiychyvak",
+            "preview": "https://i.postimg.cc/qM59pF5f/Low-Poly-Skull-Trees.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/238/pak26_dir.vpk",
+            "createdAt": "2026-06-29T00:00:00.000Z",
+            "categoryId": "trees",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "Metal Barrel Trees",
+            "author": "Dikiychyvak",
+            "preview": "https://i.postimg.cc/g0v5q2kG/Metal-Barrel-Trees.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/238/pak27_dir.vpk",
+            "createdAt": "2026-06-29T00:00:00.000Z",
+            "categoryId": "trees",
             "hero": null,
             "heroLabel": null,
             "slot": null
