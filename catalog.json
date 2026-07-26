@@ -1477,7 +1477,7 @@
           "slot": "set"
         },
         {
-          "name": "nightlord arms",
+          "name": "Nightlord Arms",
           "author": "Anonymous",
           "preview": "https://i.postimg.cc/vB8FkD60/nightlord-arms-png.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak15_dir.vpk",
@@ -1488,7 +1488,7 @@
           "slot": "hands"
         },
         {
-          "name": "nightlord head",
+          "name": "Nightlord Head",
           "author": "Anonymous",
           "preview": "https://i.postimg.cc/BvqVQkQc/nightlord-head-png.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak94_dir.vpk",
@@ -1499,7 +1499,7 @@
           "slot": "head"
         },
         {
-          "name": "nightlord forged spirit",
+          "name": "Nightlord Forged Spirit",
           "author": "Anonymous",
           "preview": "https://i.postimg.cc/k5YPrqFg/nightlord-crypt-sentinel-npc-dota-invoker-forged-spirit-png.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak89_dir.vpk",
@@ -1510,7 +1510,18 @@
           "slot": "summon"
         },
         {
-          "name": "nightlord back",
+          "name": "Invoker kid forged spirit",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/85X0S6kB/invoker-KID-forged-spirit.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak13_dir.vpk",
+          "createdAt": "2026-07-26T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "invoker",
+          "heroLabel": "Invoker",
+          "slot": "summon"
+        },
+        {
+          "name": "Nightlord Back",
           "author": "Anonymous",
           "preview": "https://i.postimg.cc/6TxNHcVb/nightlord-back-png.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak27_dir.vpk",
@@ -1521,7 +1532,7 @@
           "slot": "back"
         },
         {
-          "name": "nightlord belt",
+          "name": "Nightlord Belt",
           "author": "Anonymous",
           "preview": "https://i.postimg.cc/XJTJbwcr/nightlord-belt-png.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak68_dir.vpk",
@@ -5767,6 +5778,17 @@
           "slot": "set"
         },
         {
+          "name": "Keeper Of The Light - The King Of Thieves",
+          "author": "dddddddddddddd",
+          "preview": "https://i.postimg.cc/HW2LQWZx/photo-2026-07-26-13-36-55.jpge",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/The.King.Of.Thieves.zip",
+          "createdAt": "2026-07-26T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "keeper_of_the_light",
+          "heroLabel": "Keeper Of The Light",
+          "slot": "set"
+        },
+        {
           "name": "Legion Commander Crimson Black",
           "author": "Anonymous",
           "preview": "https://i.postimg.cc/sDwb2XQD/Legion-Commander-Crimson-Black.webp",
@@ -7557,7 +7579,7 @@
             "slot": "set"
           },
           {
-            "name": "nightlord arms",
+            "name": "Nightlord Arms",
             "author": "Anonymous",
             "preview": "https://i.postimg.cc/vB8FkD60/nightlord-arms-png.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak15_dir.vpk",
@@ -7568,7 +7590,7 @@
             "slot": "hands"
           },
           {
-            "name": "nightlord head",
+            "name": "Nightlord Head",
             "author": "Anonymous",
             "preview": "https://i.postimg.cc/BvqVQkQc/nightlord-head-png.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak94_dir.vpk",
@@ -7579,7 +7601,7 @@
             "slot": "head"
           },
           {
-            "name": "nightlord forged spirit",
+            "name": "Nightlord Forged Spirit",
             "author": "Anonymous",
             "preview": "https://i.postimg.cc/k5YPrqFg/nightlord-crypt-sentinel-npc-dota-invoker-forged-spirit-png.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak89_dir.vpk",
@@ -7590,7 +7612,18 @@
             "slot": "summon"
           },
           {
-            "name": "nightlord back",
+            "name": "Invoker kid forged spirit",
+            "author": "Anonymous",
+            "preview": "https://i.postimg.cc/85X0S6kB/invoker-KID-forged-spirit.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak13_dir.vpk",
+            "createdAt": "2026-07-26T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "invoker",
+            "heroLabel": "Invoker",
+            "slot": "summon"
+          },
+          {
+            "name": "Nightlord Back",
             "author": "Anonymous",
             "preview": "https://i.postimg.cc/6TxNHcVb/nightlord-back-png.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak27_dir.vpk",
@@ -7601,7 +7634,7 @@
             "slot": "back"
           },
           {
-            "name": "nightlord belt",
+            "name": "Nightlord Belt",
             "author": "Anonymous",
             "preview": "https://i.postimg.cc/XJTJbwcr/nightlord-belt-png.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak68_dir.vpk",
@@ -12025,6 +12058,17 @@
             "hero": "keeper_of_the_light",
             "heroLabel": "Keeper Of The Light",
             "slot": "set"
+          },
+          {
+            "name": "Keeper Of The Light - The King Of Thieves",
+            "author": "dddddddddddddd",
+            "preview": "https://i.postimg.cc/HW2LQWZx/photo-2026-07-26-13-36-55.jpge",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/The.King.Of.Thieves.zip",
+            "createdAt": "2026-07-26T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "keeper_of_the_light",
+            "heroLabel": "Keeper Of The Light",
+            "slot": "set"
           }
         ],
         "legion_commander": [
@@ -12520,6 +12564,116 @@
           "preview": "https://i.postimg.cc/8PtbwZ10/Trailgazer.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/246/pak12_dir.vpk",
           "createdAt": "2026-07-08T00:00:00.000Z",
+          "categoryId": "wards",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Knightstatue",
+          "author": "XIIIpsiblade",
+          "preview": "https://i.postimg.cc/DZ0xBwQs/knightstatue-ward-npc-dota-observer-wards-png.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak98_dir.vpk",
+          "createdAt": "2026-07-26T00:00:00.000Z",
+          "categoryId": "wards",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Celestial Observatory",
+          "author": "XIIIpsiblade",
+          "preview": "https://i.postimg.cc/QxcZpfxm/celestial-observatory-npc-dota-observer-wards-png.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak23_dir.vpk",
+          "createdAt": "2026-07-26T00:00:00.000Z",
+          "categoryId": "wards",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Watcher Below",
+          "author": "XIIIpsiblade",
+          "preview": "https://i.postimg.cc/vZGk5MKD/watcher-below-ward-npc-dota-observer-wards-png.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak10_dir.vpk",
+          "createdAt": "2026-07-26T00:00:00.000Z",
+          "categoryId": "wards",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Esl One Jagged Vision",
+          "author": "XIIIpsiblade",
+          "preview": "https://i.postimg.cc/pXH6tRRc/esl-one-jagged-vision-npc-dota-observer-wards-png.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak55_dir.vpk",
+          "createdAt": "2026-07-26T00:00:00.000Z",
+          "categoryId": "wards",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Deep Observer",
+          "author": "XIIIpsiblade",
+          "preview": "https://i.postimg.cc/3wVtfHtS/deep-observer-npc-dota-observer-wards-png.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak38_dir.vpk",
+          "createdAt": "2026-07-26T00:00:00.000Z",
+          "categoryId": "wards",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Esl Wardchest Franglerfish",
+          "author": "XIIIpsiblade",
+          "preview": "https://i.postimg.cc/tCp2MkNK/esl-wardchest-franglerfish-ward-npc-dota-observer-wards-png.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak53_dir.vpk",
+          "createdAt": "2026-07-26T00:00:00.000Z",
+          "categoryId": "wards",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Eye Of Avernus",
+          "author": "XIIIpsiblade",
+          "preview": "https://i.postimg.cc/0jxdh5DJ/eye-of-avernus-ward-npc-dota-observer-wards-png.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak64_dir.vpk",
+          "createdAt": "2026-07-26T00:00:00.000Z",
+          "categoryId": "wards",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Esl Wardchest Living Overgrowth",
+          "author": "XIIIpsiblade",
+          "preview": "https://i.postimg.cc/P5NbgRpM/esl-wardchest-living-overgrowth-npc-dota-observer-wards-png.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak30_dir.vpk",
+          "createdAt": "2026-07-26T00:00:00.000Z",
+          "categoryId": "wards",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Esl Wardchest Chromy Centipede",
+          "author": "XIIIpsiblade",
+          "preview": "https://i.postimg.cc/P5LZ3v9V/image-2026-07-25-03-38-08.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak56_dir.vpk",
+          "createdAt": "2026-07-26T00:00:00.000Z",
+          "categoryId": "wards",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Mlgward Yeah5",
+          "author": "XIIIpsiblade",
+          "preview": "https://i.postimg.cc/90FwGDy8/mlgward-yeah5-npc-dota-observer-wards-png.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak46_dir.vpk",
+          "createdAt": "2026-07-26T00:00:00.000Z",
           "categoryId": "wards",
           "hero": null,
           "heroLabel": null,
@@ -16055,6 +16209,138 @@
     },
     "recentlyAddedMods": [
       {
+        "name": "Invoker kid forged spirit",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/85X0S6kB/invoker-KID-forged-spirit.png",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak13_dir.vpk",
+        "createdAt": "2026-07-26T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "invoker",
+        "heroLabel": "Invoker",
+        "slot": "summon"
+      },
+      {
+        "name": "Keeper Of The Light - The King Of Thieves",
+        "author": "dddddddddddddd",
+        "preview": "https://i.postimg.cc/HW2LQWZx/photo-2026-07-26-13-36-55.jpge",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/The.King.Of.Thieves.zip",
+        "createdAt": "2026-07-26T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "keeper_of_the_light",
+        "heroLabel": "Keeper Of The Light",
+        "slot": "set"
+      },
+      {
+        "name": "Knightstatue",
+        "author": "XIIIpsiblade",
+        "preview": "https://i.postimg.cc/DZ0xBwQs/knightstatue-ward-npc-dota-observer-wards-png.png",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak98_dir.vpk",
+        "createdAt": "2026-07-26T00:00:00.000Z",
+        "categoryId": "wards",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Celestial Observatory",
+        "author": "XIIIpsiblade",
+        "preview": "https://i.postimg.cc/QxcZpfxm/celestial-observatory-npc-dota-observer-wards-png.png",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak23_dir.vpk",
+        "createdAt": "2026-07-26T00:00:00.000Z",
+        "categoryId": "wards",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Watcher Below",
+        "author": "XIIIpsiblade",
+        "preview": "https://i.postimg.cc/vZGk5MKD/watcher-below-ward-npc-dota-observer-wards-png.png",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak10_dir.vpk",
+        "createdAt": "2026-07-26T00:00:00.000Z",
+        "categoryId": "wards",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Esl One Jagged Vision",
+        "author": "XIIIpsiblade",
+        "preview": "https://i.postimg.cc/pXH6tRRc/esl-one-jagged-vision-npc-dota-observer-wards-png.png",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak55_dir.vpk",
+        "createdAt": "2026-07-26T00:00:00.000Z",
+        "categoryId": "wards",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Deep Observer",
+        "author": "XIIIpsiblade",
+        "preview": "https://i.postimg.cc/3wVtfHtS/deep-observer-npc-dota-observer-wards-png.png",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak38_dir.vpk",
+        "createdAt": "2026-07-26T00:00:00.000Z",
+        "categoryId": "wards",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Esl Wardchest Franglerfish",
+        "author": "XIIIpsiblade",
+        "preview": "https://i.postimg.cc/tCp2MkNK/esl-wardchest-franglerfish-ward-npc-dota-observer-wards-png.png",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak53_dir.vpk",
+        "createdAt": "2026-07-26T00:00:00.000Z",
+        "categoryId": "wards",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Eye Of Avernus",
+        "author": "XIIIpsiblade",
+        "preview": "https://i.postimg.cc/0jxdh5DJ/eye-of-avernus-ward-npc-dota-observer-wards-png.png",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak64_dir.vpk",
+        "createdAt": "2026-07-26T00:00:00.000Z",
+        "categoryId": "wards",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Esl Wardchest Living Overgrowth",
+        "author": "XIIIpsiblade",
+        "preview": "https://i.postimg.cc/P5NbgRpM/esl-wardchest-living-overgrowth-npc-dota-observer-wards-png.png",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak30_dir.vpk",
+        "createdAt": "2026-07-26T00:00:00.000Z",
+        "categoryId": "wards",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Esl Wardchest Chromy Centipede",
+        "author": "XIIIpsiblade",
+        "preview": "https://i.postimg.cc/P5LZ3v9V/image-2026-07-25-03-38-08.png",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak56_dir.vpk",
+        "createdAt": "2026-07-26T00:00:00.000Z",
+        "categoryId": "wards",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Mlgward Yeah5",
+        "author": "XIIIpsiblade",
+        "preview": "https://i.postimg.cc/90FwGDy8/mlgward-yeah5-npc-dota-observer-wards-png.png",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak46_dir.vpk",
+        "createdAt": "2026-07-26T00:00:00.000Z",
+        "categoryId": "wards",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
         "name": "Ember Spirit set 1",
         "author": "Dota2VPK",
         "preview": "https://i.postimg.cc/LXB4ZhcB/photo-2026-07-25-21-12-43.jpg",
@@ -16088,7 +16374,7 @@
         "slot": "set"
       },
       {
-        "name": "nightlord arms",
+        "name": "Nightlord Arms",
         "author": "Anonymous",
         "preview": "https://i.postimg.cc/vB8FkD60/nightlord-arms-png.png",
         "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak15_dir.vpk",
@@ -16099,7 +16385,7 @@
         "slot": "hands"
       },
       {
-        "name": "nightlord head",
+        "name": "Nightlord Head",
         "author": "Anonymous",
         "preview": "https://i.postimg.cc/BvqVQkQc/nightlord-head-png.png",
         "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak94_dir.vpk",
@@ -16110,7 +16396,7 @@
         "slot": "head"
       },
       {
-        "name": "nightlord forged spirit",
+        "name": "Nightlord Forged Spirit",
         "author": "Anonymous",
         "preview": "https://i.postimg.cc/k5YPrqFg/nightlord-crypt-sentinel-npc-dota-invoker-forged-spirit-png.png",
         "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak89_dir.vpk",
@@ -16121,7 +16407,7 @@
         "slot": "summon"
       },
       {
-        "name": "nightlord back",
+        "name": "Nightlord Back",
         "author": "Anonymous",
         "preview": "https://i.postimg.cc/6TxNHcVb/nightlord-back-png.png",
         "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak27_dir.vpk",
@@ -16132,7 +16418,7 @@
         "slot": "back"
       },
       {
-        "name": "nightlord belt",
+        "name": "Nightlord Belt",
         "author": "Anonymous",
         "preview": "https://i.postimg.cc/XJTJbwcr/nightlord-belt-png.png",
         "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak68_dir.vpk",
@@ -16361,138 +16647,6 @@
         "hero": null,
         "heroLabel": null,
         "slot": null
-      },
-      {
-        "name": "Morphling Darktrench Stalker",
-        "author": "Arthas",
-        "preview": "https://i.postimg.cc/W49jH0Ln/photo-2026-07-21-02-21-05.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Morphling.Darktrench.Stalker.zip",
-        "createdAt": "2026-07-21T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "morphling",
-        "heroLabel": "Morphling",
-        "slot": "set"
-      },
-      {
-        "name": "Phantom lancer rich",
-        "author": "Dota2VPK",
-        "preview": "https://i.postimg.cc/m2tGWCrJ/photo-2026-07-21-18-27-49.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Phantom.lancer.rich.zip",
-        "createdAt": "2026-07-21T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "phantom_lancer",
-        "heroLabel": "Phantom Lancer",
-        "slot": "set"
-      },
-      {
-        "name": "Axe Immortal Set",
-        "author": "Arthas",
-        "preview": "https://i.postimg.cc/Qdhwx78y/photo-2026-07-21-18-31-06.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Axe.Immortal.Set.zip",
-        "createdAt": "2026-07-21T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "axe",
-        "heroLabel": "Axe",
-        "slot": "set"
-      },
-      {
-        "name": "Tinker Immortal Vodolaz",
-        "author": "Arthas",
-        "preview": "https://i.postimg.cc/wjp6y6Qm/photo-2026-07-21-02-20-23.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Tinker.Immortal.Vodolaz.zip",
-        "createdAt": "2026-07-21T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "tinker",
-        "heroLabel": "Tinker",
-        "slot": "set"
-      },
-      {
-        "name": "Rubick Ancient Magus",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/zvbjKBQX/Rubick-Ancient-Magus.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Rubick.Ancient.Magus.zip",
-        "createdAt": "2026-07-21T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "rubick",
-        "heroLabel": "Rubick",
-        "slot": "set"
-      },
-      {
-        "name": "arcana vengeful spirit - pedestal",
-        "author": "XIIIpsiblade",
-        "preview": "https://i.postimg.cc/d115ZRgK/photo-2026-07-21-18-29-45.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/arcana.vengeful.spirit.-.pedestal.zip",
-        "createdAt": "2026-07-21T00:00:00.000Z",
-        "categoryId": "pedestal",
-        "hero": "vengeful_spirit",
-        "heroLabel": "Vengeful Spirit",
-        "slot": "pedestal"
-      },
-      {
-        "name": "Unlock Hidden Animations",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/KvKDwfPb/Unlock-Hidden-Animations.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/pak17_dir.vpk",
-        "createdAt": "2026-07-21T00:00:00.000Z",
-        "categoryId": "other",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "Queen Of Pain Immortal",
-        "author": "Arthas",
-        "preview": "https://i.postimg.cc/8Ph0Xny2/photo-2026-07-20-01-24-21.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/Queen.Of.Pain.Immortal.zip",
-        "createdAt": "2026-07-20T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "queen_of_pain",
-        "heroLabel": "Queen Of Pain",
-        "slot": "set"
-      },
-      {
-        "name": "Concord Reversion",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/mksRH1pD/Concord-Reversion.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Concord.Reversion.zip",
-        "createdAt": "2026-07-20T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "phantom_lancer",
-        "heroLabel": "Phantom Lancer",
-        "slot": "head"
-      },
-      {
-        "name": "Tyrian Phantom Concord",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/5y0YDG1y/Tyrian-Phantom-Concord.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Tyrian.Phantom.Concord.zip",
-        "createdAt": "2026-07-20T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "phantom_lancer",
-        "heroLabel": "Phantom Lancer",
-        "slot": "weapon"
-      },
-      {
-        "name": "Rollermawster",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/fLX0xFZm/Rollermawster.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Rollermawster.zip",
-        "createdAt": "2026-07-20T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "tinker",
-        "heroLabel": "Tinker",
-        "slot": "head"
-      },
-      {
-        "name": "Soul Diffuser",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/x87gcL1j/Soul-Diffuser.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/spectre.diffusal.bladee.zip",
-        "createdAt": "2026-07-20T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "spectre",
-        "heroLabel": "Spectre",
-        "slot": "weapon"
       }
     ]
   },
@@ -16981,7 +17135,7 @@
         "name": "Invoker",
         "slug": "invoker",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/invoker.png",
-        "modsCount": 42,
+        "modsCount": 43,
         "slots": [
           "hands",
           "head",
@@ -17937,7 +18091,7 @@
         "name": "Keeper Of The Light",
         "slug": "keeper_of_the_light",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/keeper_of_the_light.png",
-        "modsCount": 2,
+        "modsCount": 3,
         "slots": [
           "set"
         ]
@@ -23374,6 +23528,116 @@
             "slot": null
           },
           {
+            "name": "Knightstatue",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/DZ0xBwQs/knightstatue-ward-npc-dota-observer-wards-png.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak98_dir.vpk",
+            "createdAt": "2026-07-26T00:00:00.000Z",
+            "categoryId": "wards",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "Celestial Observatory",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/QxcZpfxm/celestial-observatory-npc-dota-observer-wards-png.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak23_dir.vpk",
+            "createdAt": "2026-07-26T00:00:00.000Z",
+            "categoryId": "wards",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "Watcher Below",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/vZGk5MKD/watcher-below-ward-npc-dota-observer-wards-png.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak10_dir.vpk",
+            "createdAt": "2026-07-26T00:00:00.000Z",
+            "categoryId": "wards",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "Esl One Jagged Vision",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/pXH6tRRc/esl-one-jagged-vision-npc-dota-observer-wards-png.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak55_dir.vpk",
+            "createdAt": "2026-07-26T00:00:00.000Z",
+            "categoryId": "wards",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "Deep Observer",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/3wVtfHtS/deep-observer-npc-dota-observer-wards-png.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak38_dir.vpk",
+            "createdAt": "2026-07-26T00:00:00.000Z",
+            "categoryId": "wards",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "Esl Wardchest Franglerfish",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/tCp2MkNK/esl-wardchest-franglerfish-ward-npc-dota-observer-wards-png.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak53_dir.vpk",
+            "createdAt": "2026-07-26T00:00:00.000Z",
+            "categoryId": "wards",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "Eye Of Avernus",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/0jxdh5DJ/eye-of-avernus-ward-npc-dota-observer-wards-png.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak64_dir.vpk",
+            "createdAt": "2026-07-26T00:00:00.000Z",
+            "categoryId": "wards",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "Esl Wardchest Living Overgrowth",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/P5NbgRpM/esl-wardchest-living-overgrowth-npc-dota-observer-wards-png.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak30_dir.vpk",
+            "createdAt": "2026-07-26T00:00:00.000Z",
+            "categoryId": "wards",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "Esl Wardchest Chromy Centipede",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/P5LZ3v9V/image-2026-07-25-03-38-08.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak56_dir.vpk",
+            "createdAt": "2026-07-26T00:00:00.000Z",
+            "categoryId": "wards",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "Mlgward Yeah5",
+            "author": "XIIIpsiblade",
+            "preview": "https://i.postimg.cc/90FwGDy8/mlgward-yeah5-npc-dota-observer-wards-png.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/pak46_dir.vpk",
+            "createdAt": "2026-07-26T00:00:00.000Z",
+            "categoryId": "wards",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
             "name": "Immortal Rangs",
             "author": "XIIIpsiblade",
             "preview": "https://i.postimg.cc/Gh5NRSBh/photo-2026-07-22-22-04-11.jpg",
@@ -24037,6 +24301,34 @@
             "categoryId": "heroes",
             "hero": "templar_assassin",
             "heroLabel": "Templar Assassin",
+            "slot": "set"
+          }
+        ]
+      },
+      {
+        "id": "dddddddddddddd",
+        "displayName": "dddddddddddddd",
+        "avatarUrl": "https://i.postimg.cc/j2XC2t9N/photo-2026-07-26-13-35-13.jpg",
+        "authorLink": null,
+        "links": {
+          "steam": null,
+          "telegram": null,
+          "youtube": null,
+          "twitch": null,
+          "github": null,
+          "website": null,
+          "discord": null
+        },
+        "mods": [
+          {
+            "name": "Keeper Of The Light - The King Of Thieves",
+            "author": "dddddddddddddd",
+            "preview": "https://i.postimg.cc/HW2LQWZx/photo-2026-07-26-13-36-55.jpge",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/276/The.King.Of.Thieves.zip",
+            "createdAt": "2026-07-26T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "keeper_of_the_light",
+            "heroLabel": "Keeper Of The Light",
             "slot": "set"
           }
         ]
