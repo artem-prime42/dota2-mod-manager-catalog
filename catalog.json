@@ -2247,6 +2247,17 @@
           "slot": "weapon"
         },
         {
+          "name": "Kunkka The Divine Anchor",
+          "author": "Arthas",
+          "preview": "https://i.postimg.cc/QMR2WTGd/photo-2026-07-28-09-30-43.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/Kunkka.The.Divine.Anchor.zip",
+          "createdAt": "2026-07-28T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "kunkka",
+          "heroLabel": "Kunkka",
+          "slot": "set"
+        },
+        {
           "name": "Shock of the Anvil",
           "author": "Anonymous",
           "preview": "https://i.postimg.cc/L6PGSqMC/Shock-of-the-Anvil.webp",
@@ -2907,10 +2918,10 @@
           "slot": "set"
         },
         {
-          "name": "Phantom Lancer Troll Crimson",
+          "name": "Phantom Lancer Crimson",
           "author": "Dikiychyvak",
-          "preview": "https://i.postimg.cc/4xWkssPC/photo-2026-07-11-21-08-46.jpg",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/248/Phantom.Lancer.Troll.Crimson.zip",
+          "preview": "https://i.postimg.cc/Y9yBqsrV/Phantom-Lancer-Crimson-v2.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/Phantom.Lancer.Crimson.v2.zip",
           "createdAt": "2026-07-11T00:00:00.000Z",
           "categoryId": "heroes",
           "hero": "phantom_lancer",
@@ -4777,6 +4788,17 @@
           "slot": "set"
         },
         {
+          "name": "Bloody Spectre",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/4NDVq4gh/Bloody-Spectre.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/Bloody.Spectre.zip",
+          "createdAt": "2026-07-28T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "spectre",
+          "heroLabel": "Spectre",
+          "slot": "set"
+        },
+        {
           "name": "Soul Diffuser",
           "author": "Anonymous",
           "preview": "https://i.postimg.cc/x87gcL1j/Soul-Diffuser.webp",
@@ -5000,7 +5022,7 @@
           "name": "Juggernaut Purple Samurai",
           "author": "Dikiychyvak",
           "preview": "https://i.postimg.cc/YCnWhD62/photo-2026-07-25-21-10-34.jpg",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/Juggernaut.Purple.Samurai.zip",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/Juggernaut.Arcana.Purple.zip",
           "createdAt": "2026-07-25T00:00:00.000Z",
           "categoryId": "heroes",
           "hero": "juggernaut",
@@ -8361,6 +8383,17 @@
             "hero": "kunkka",
             "heroLabel": "Kunkka",
             "slot": "weapon"
+          },
+          {
+            "name": "Kunkka The Divine Anchor",
+            "author": "Arthas",
+            "preview": "https://i.postimg.cc/QMR2WTGd/photo-2026-07-28-09-30-43.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/Kunkka.The.Divine.Anchor.zip",
+            "createdAt": "2026-07-28T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "kunkka",
+            "heroLabel": "Kunkka",
+            "slot": "set"
           }
         ],
         "magnus": [
@@ -9041,10 +9074,10 @@
             "slot": "set"
           },
           {
-            "name": "Phantom Lancer Troll Crimson",
+            "name": "Phantom Lancer Crimson",
             "author": "Dikiychyvak",
-            "preview": "https://i.postimg.cc/4xWkssPC/photo-2026-07-11-21-08-46.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/248/Phantom.Lancer.Troll.Crimson.zip",
+            "preview": "https://i.postimg.cc/Y9yBqsrV/Phantom-Lancer-Crimson-v2.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/Phantom.Lancer.Crimson.v2.zip",
             "createdAt": "2026-07-11T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "phantom_lancer",
@@ -10995,6 +11028,17 @@
             "slot": "set"
           },
           {
+            "name": "Bloody Spectre",
+            "author": "Anonymous",
+            "preview": "https://i.postimg.cc/4NDVq4gh/Bloody-Spectre.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/Bloody.Spectre.zip",
+            "createdAt": "2026-07-28T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "spectre",
+            "heroLabel": "Spectre",
+            "slot": "set"
+          },
+          {
             "name": "Soul Diffuser",
             "author": "Anonymous",
             "preview": "https://i.postimg.cc/x87gcL1j/Soul-Diffuser.webp",
@@ -11230,7 +11274,7 @@
             "name": "Juggernaut Purple Samurai",
             "author": "Dikiychyvak",
             "preview": "https://i.postimg.cc/YCnWhD62/photo-2026-07-25-21-10-34.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/Juggernaut.Purple.Samurai.zip",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/Juggernaut.Arcana.Purple.zip",
             "createdAt": "2026-07-25T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "juggernaut",
@@ -13699,6 +13743,72 @@
           "slot": null
         },
         {
+          "name": "Invoker Andrey Sun Strike",
+          "author": "SENOp",
+          "preview": "https://i.postimg.cc/NMyrVzpM/Sun-STrike.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/278/Invoker.Andrey.Sun.Strike.zip",
+          "createdAt": "2026-07-28T00:00:00.000Z",
+          "categoryId": "hero-sounds",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Terrorblade Cursed Metamorphosis",
+          "author": "SENOp",
+          "preview": "https://i.postimg.cc/C1493c51/Meta.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/278/Terrorblade.Cursed.Metamorphosis.zip",
+          "createdAt": "2026-07-28T00:00:00.000Z",
+          "categoryId": "hero-sounds",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Bane Sleep Mimimi",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/GhMRM9n1/nothing.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/278/Bane.Sleep.Mimimi.zip",
+          "createdAt": "2026-07-28T00:00:00.000Z",
+          "categoryId": "hero-sounds",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Bounty Hunter Taunt",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/7LnBhfkS/Bounty-Hunter-Taunt.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/278/Bounty.Hunter.Taunt.zip",
+          "createdAt": "2026-07-28T00:00:00.000Z",
+          "categoryId": "hero-sounds",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "IO Relocate Rocket",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/vmbzJbVD/IO-Relocate-Rocket.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/278/IO.Relocate.Rocket.zip",
+          "createdAt": "2026-07-28T00:00:00.000Z",
+          "categoryId": "hero-sounds",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Hoodwink Taunt",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/qMKW0BNM/Hoodwink-Taunt.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/278/Hoodwink.Taunt.zip",
+          "createdAt": "2026-07-28T00:00:00.000Z",
+          "categoryId": "hero-sounds",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
           "name": "Kunkka Sailor Taunt",
           "author": "Anonymous",
           "preview": "https://i.postimg.cc/NFq1t9HY/Kunkka-Sailor-Taunt.webp",
@@ -14989,6 +15099,17 @@
           "slot": null
         },
         {
+          "name": "CS 1.6 Mega-Kill",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/rpBYn2wn/CS-1-6-Mega-Kill.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/CS.1.6.Mega-Kill.zip",
+          "createdAt": "2026-07-28T00:00:00.000Z",
+          "categoryId": "mega-kill",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
           "name": "Pyrion Flax",
           "author": "dota2pornfx",
           "preview": "https://i.postimg.cc/fTLRpw8C/Pyrion-Flax.webp",
@@ -15475,6 +15596,50 @@
           "preview": "https://i.postimg.cc/053dygCB/photo-2026-07-22-13-21-48.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/pak22_dir.vpk",
           "createdAt": "2026-07-22T00:00:00.000Z",
+          "categoryId": "other",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Blue Click",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/4yL60p1Y/Blue-Click.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/pak19_dir.vpk",
+          "createdAt": "2026-07-28T00:00:00.000Z",
+          "categoryId": "other",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Dummy In Profile",
+          "author": "Anonymous",
+          "preview": "https://i.postimg.cc/G3WG435r/Dummy-In-Profile.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/pak18_dir.vpk",
+          "createdAt": "2026-07-28T00:00:00.000Z",
+          "categoryId": "other",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Showcase Rotation",
+          "author": "dota2pornfx",
+          "preview": "https://i.postimg.cc/43ym8jSh/Showcase-Rotation.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/pak11_dir.vpk",
+          "createdAt": "2026-07-28T00:00:00.000Z",
+          "categoryId": "other",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "Gabe Shopkeeper",
+          "author": "dota2pornfx",
+          "preview": "https://i.postimg.cc/9F2z3Dkp/Gabe-Shopkeeper.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/pak13_dir.vpk",
+          "createdAt": "2026-07-28T00:00:00.000Z",
           "categoryId": "other",
           "hero": null,
           "heroLabel": null,
@@ -16209,6 +16374,149 @@
     },
     "recentlyAddedMods": [
       {
+        "name": "Kunkka The Divine Anchor",
+        "author": "Arthas",
+        "preview": "https://i.postimg.cc/QMR2WTGd/photo-2026-07-28-09-30-43.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/Kunkka.The.Divine.Anchor.zip",
+        "createdAt": "2026-07-28T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "kunkka",
+        "heroLabel": "Kunkka",
+        "slot": "set"
+      },
+      {
+        "name": "Bloody Spectre",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/4NDVq4gh/Bloody-Spectre.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/Bloody.Spectre.zip",
+        "createdAt": "2026-07-28T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "spectre",
+        "heroLabel": "Spectre",
+        "slot": "set"
+      },
+      {
+        "name": "Invoker Andrey Sun Strike",
+        "author": "SENOp",
+        "preview": "https://i.postimg.cc/NMyrVzpM/Sun-STrike.png",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/278/Invoker.Andrey.Sun.Strike.zip",
+        "createdAt": "2026-07-28T00:00:00.000Z",
+        "categoryId": "hero-sounds",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Terrorblade Cursed Metamorphosis",
+        "author": "SENOp",
+        "preview": "https://i.postimg.cc/C1493c51/Meta.png",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/278/Terrorblade.Cursed.Metamorphosis.zip",
+        "createdAt": "2026-07-28T00:00:00.000Z",
+        "categoryId": "hero-sounds",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Bane Sleep Mimimi",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/GhMRM9n1/nothing.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/278/Bane.Sleep.Mimimi.zip",
+        "createdAt": "2026-07-28T00:00:00.000Z",
+        "categoryId": "hero-sounds",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Bounty Hunter Taunt",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/7LnBhfkS/Bounty-Hunter-Taunt.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/278/Bounty.Hunter.Taunt.zip",
+        "createdAt": "2026-07-28T00:00:00.000Z",
+        "categoryId": "hero-sounds",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "IO Relocate Rocket",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/vmbzJbVD/IO-Relocate-Rocket.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/278/IO.Relocate.Rocket.zip",
+        "createdAt": "2026-07-28T00:00:00.000Z",
+        "categoryId": "hero-sounds",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Hoodwink Taunt",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/qMKW0BNM/Hoodwink-Taunt.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/278/Hoodwink.Taunt.zip",
+        "createdAt": "2026-07-28T00:00:00.000Z",
+        "categoryId": "hero-sounds",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "CS 1.6 Mega-Kill",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/rpBYn2wn/CS-1-6-Mega-Kill.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/CS.1.6.Mega-Kill.zip",
+        "createdAt": "2026-07-28T00:00:00.000Z",
+        "categoryId": "mega-kill",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Blue Click",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/4yL60p1Y/Blue-Click.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/pak19_dir.vpk",
+        "createdAt": "2026-07-28T00:00:00.000Z",
+        "categoryId": "other",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Dummy In Profile",
+        "author": "Anonymous",
+        "preview": "https://i.postimg.cc/G3WG435r/Dummy-In-Profile.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/pak18_dir.vpk",
+        "createdAt": "2026-07-28T00:00:00.000Z",
+        "categoryId": "other",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Showcase Rotation",
+        "author": "dota2pornfx",
+        "preview": "https://i.postimg.cc/43ym8jSh/Showcase-Rotation.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/pak11_dir.vpk",
+        "createdAt": "2026-07-28T00:00:00.000Z",
+        "categoryId": "other",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Gabe Shopkeeper",
+        "author": "dota2pornfx",
+        "preview": "https://i.postimg.cc/9F2z3Dkp/Gabe-Shopkeeper.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/pak13_dir.vpk",
+        "createdAt": "2026-07-28T00:00:00.000Z",
+        "categoryId": "other",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
         "name": "Invoker kid forged spirit",
         "author": "Anonymous",
         "preview": "https://i.postimg.cc/85X0S6kB/invoker-KID-forged-spirit.png",
@@ -16432,7 +16740,7 @@
         "name": "Juggernaut Purple Samurai",
         "author": "Dikiychyvak",
         "preview": "https://i.postimg.cc/YCnWhD62/photo-2026-07-25-21-10-34.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/Juggernaut.Purple.Samurai.zip",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/Juggernaut.Arcana.Purple.zip",
         "createdAt": "2026-07-25T00:00:00.000Z",
         "categoryId": "heroes",
         "hero": "juggernaut",
@@ -16501,149 +16809,6 @@
         "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/Axe.Rip.Your.Head.zip",
         "createdAt": "2026-07-22T00:00:00.000Z",
         "categoryId": "hero-sounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "Ursa Already Red",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/Pxvbm2Xm/Ursa-Already-Red.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/Ursa.Already.Red.zip",
-        "createdAt": "2026-07-22T00:00:00.000Z",
-        "categoryId": "hero-sounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "Sven Already Red",
-        "author": "Anonymous",
-        "preview": "https://i.postimg.cc/SR7MrPwb/Sven-Already-Red.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/Sven.Already.Red.zip",
-        "createdAt": "2026-07-22T00:00:00.000Z",
-        "categoryId": "hero-sounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "sematary",
-        "author": "XIIIpsiblade",
-        "preview": "https://i.postimg.cc/9QDh7ydk/photo-2026-07-22-04-42-12.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak33_dir.vpk",
-        "createdAt": "2026-07-22T00:00:00.000Z",
-        "categoryId": "backgrounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "sematary 2",
-        "author": "XIIIpsiblade",
-        "preview": "https://i.postimg.cc/T2tFJp3p/photo-2026-07-22-04-45-41.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak32_dir.vpk",
-        "createdAt": "2026-07-22T00:00:00.000Z",
-        "categoryId": "backgrounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "sematary 3",
-        "author": "XIIIpsiblade",
-        "preview": "https://i.postimg.cc/Dz3MwGBH/photo-2026-07-22-04-47-00.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak31_dir.vpk",
-        "createdAt": "2026-07-22T00:00:00.000Z",
-        "categoryId": "backgrounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "sematary 4",
-        "author": "XIIIpsiblade",
-        "preview": "https://i.postimg.cc/j228F4d1/photo-2026-07-22-04-47-53.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak30_dir.vpk",
-        "createdAt": "2026-07-22T00:00:00.000Z",
-        "categoryId": "backgrounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "Morphling",
-        "author": "XIIIpsiblade",
-        "preview": "https://i.postimg.cc/nzcTXG7X/photo-2026-07-22-04-49-38.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak34_dir.vpk",
-        "createdAt": "2026-07-22T00:00:00.000Z",
-        "categoryId": "backgrounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "dota 2 black",
-        "author": "XIIIpsiblade",
-        "preview": "https://i.postimg.cc/02JnKQ6B/photo-2026-07-22-04-50-49.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak35_dir.vpk",
-        "createdAt": "2026-07-22T00:00:00.000Z",
-        "categoryId": "backgrounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "BROODskoe",
-        "author": "XIIIpsiblade",
-        "preview": "https://i.postimg.cc/RFFQSV5G/photo-2026-07-22-04-51-36.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak36_dir.vpk",
-        "createdAt": "2026-07-22T00:00:00.000Z",
-        "categoryId": "backgrounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "TERRORBLADE",
-        "author": "XIIIpsiblade",
-        "preview": "https://i.postimg.cc/KcCVHCBd/photo-2026-07-22-04-52-49.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak37_dir.vpk",
-        "createdAt": "2026-07-22T00:00:00.000Z",
-        "categoryId": "backgrounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "Darck Anime",
-        "author": "XIIIpsiblade",
-        "preview": "https://i.postimg.cc/fLpH10tk/photo-2026-07-22-04-53-37.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/273/pak38_dir.vpk",
-        "createdAt": "2026-07-22T00:00:00.000Z",
-        "categoryId": "backgrounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "Shadow Fiend",
-        "author": "XIIIpsiblade",
-        "preview": "https://i.postimg.cc/Nf34ph9B/photo-2026-07-22-22-06-56.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/pak33_dir.vpk",
-        "createdAt": "2026-07-22T00:00:00.000Z",
-        "categoryId": "backgrounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "Replacing Bronze Tier with Grandmaster",
-        "author": "XIIIpsiblade",
-        "preview": "https://i.postimg.cc/053dygCB/photo-2026-07-22-13-21-48.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/pak22_dir.vpk",
-        "createdAt": "2026-07-22T00:00:00.000Z",
-        "categoryId": "other",
         "hero": null,
         "heroLabel": null,
         "slot": null
@@ -17221,7 +17386,7 @@
         "name": "Kunkka",
         "slug": "kunkka",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/kunkka.png",
-        "modsCount": 6,
+        "modsCount": 7,
         "slots": [
           "weapon",
           "head",
@@ -17766,7 +17931,7 @@
         "name": "Spectre",
         "slug": "spectre",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/spectre.png",
-        "modsCount": 8,
+        "modsCount": 9,
         "slots": [
           "set",
           "weapon"
@@ -21618,6 +21783,28 @@
             "slot": null
           },
           {
+            "name": "Showcase Rotation",
+            "author": "dota2pornfx",
+            "preview": "https://i.postimg.cc/43ym8jSh/Showcase-Rotation.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/pak11_dir.vpk",
+            "createdAt": "2026-07-28T00:00:00.000Z",
+            "categoryId": "other",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "Gabe Shopkeeper",
+            "author": "dota2pornfx",
+            "preview": "https://i.postimg.cc/9F2z3Dkp/Gabe-Shopkeeper.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/pak13_dir.vpk",
+            "createdAt": "2026-07-28T00:00:00.000Z",
+            "categoryId": "other",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
             "name": "Necronub Cursor",
             "author": "dota2pornfx",
             "preview": "https://i.postimg.cc/BnypT78T/Necronub-Cursor.webp",
@@ -23377,6 +23564,17 @@
             "slot": "set"
           },
           {
+            "name": "Kunkka The Divine Anchor",
+            "author": "Arthas",
+            "preview": "https://i.postimg.cc/QMR2WTGd/photo-2026-07-28-09-30-43.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/Kunkka.The.Divine.Anchor.zip",
+            "createdAt": "2026-07-28T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "kunkka",
+            "heroLabel": "Kunkka",
+            "slot": "set"
+          },
+          {
             "name": "Anti Mage Immortal",
             "author": "Arthas",
             "preview": "https://i.postimg.cc/85B94vQ6/photo-2026-06-04-01-26-46.jpg",
@@ -23821,10 +24019,10 @@
             "slot": "set"
           },
           {
-            "name": "Phantom Lancer Troll Crimson",
+            "name": "Phantom Lancer Crimson",
             "author": "Dikiychyvak",
-            "preview": "https://i.postimg.cc/4xWkssPC/photo-2026-07-11-21-08-46.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/248/Phantom.Lancer.Troll.Crimson.zip",
+            "preview": "https://i.postimg.cc/Y9yBqsrV/Phantom-Lancer-Crimson-v2.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/Phantom.Lancer.Crimson.v2.zip",
             "createdAt": "2026-07-11T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "phantom_lancer",
@@ -23868,7 +24066,7 @@
             "name": "Juggernaut Purple Samurai",
             "author": "Dikiychyvak",
             "preview": "https://i.postimg.cc/YCnWhD62/photo-2026-07-25-21-10-34.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/Juggernaut.Purple.Samurai.zip",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/Juggernaut.Arcana.Purple.zip",
             "createdAt": "2026-07-25T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "juggernaut",
@@ -24218,6 +24416,28 @@
             "hero": "marci",
             "heroLabel": "Marci",
             "slot": "set"
+          },
+          {
+            "name": "Invoker Andrey Sun Strike",
+            "author": "SENOp",
+            "preview": "https://i.postimg.cc/NMyrVzpM/Sun-STrike.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/278/Invoker.Andrey.Sun.Strike.zip",
+            "createdAt": "2026-07-28T00:00:00.000Z",
+            "categoryId": "hero-sounds",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
+          },
+          {
+            "name": "Terrorblade Cursed Metamorphosis",
+            "author": "SENOp",
+            "preview": "https://i.postimg.cc/C1493c51/Meta.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/278/Terrorblade.Cursed.Metamorphosis.zip",
+            "createdAt": "2026-07-28T00:00:00.000Z",
+            "categoryId": "hero-sounds",
+            "hero": null,
+            "heroLabel": null,
+            "slot": null
           },
           {
             "name": "Dark Carnival Chat Wheel & Vasilisa",
