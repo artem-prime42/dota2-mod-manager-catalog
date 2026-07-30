@@ -269,7 +269,7 @@
         {
           "name": "Batrider Empiric Incendiary",
           "author": "Papapodzaborniy",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ursa-Circus-Second-Style-1.webp",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/image.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/248/Batrider.Empiric.Incendiary.zip",
           "createdAt": "2026-07-10T00:00:00.000Z",
           "categoryId": "heroes",
@@ -643,7 +643,7 @@
         {
           "name": "Huskar Pharaoh's Guard",
           "author": "Papapodzaborniy",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Huskar-Pharaoh-s-Guard.webp",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Huskar Pharaoh's Guard.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Huskar.Pharaoh.s.Guard.zip",
           "createdAt": "2026-07-06T00:00:00.000Z",
           "categoryId": "heroes",
@@ -1413,7 +1413,7 @@
         {
           "name": "Invoker Dark Artistry",
           "author": "Papapodzaborniy",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/image.png",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Dark Artistry.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/pak79_dir.vpk",
           "createdAt": "2026-06-14T00:00:00.000Z",
           "categoryId": "heroes",
@@ -1809,7 +1809,7 @@
         {
           "name": "Shadow Fiend Black",
           "author": "Darkness",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow Fiend Arcana.jpg",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow Fiend Black.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/88/Shadow.Fined.Black.zip",
           "createdAt": "2026-05-20T00:00:00.000Z",
           "categoryId": "heroes",
@@ -2245,28 +2245,6 @@
           "hero": "kunkka",
           "heroLabel": "Kunkka",
           "slot": "head"
-        },
-        {
-          "name": "Anchors of the Ageless Deep",
-          "author": "Papapodzaborniy",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/image.png",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/49/Anchors.of.the.Ageless.Deep.-.Head.zip",
-          "createdAt": "2026-05-07T00:00:00.000Z",
-          "categoryId": "heroes",
-          "hero": "kunkka",
-          "heroLabel": "Kunkka",
-          "slot": "head"
-        },
-        {
-          "name": "Anchors of the Ageless Deep",
-          "author": "Papapodzaborniy",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Carnival-Chat-Wheel-Vasilisa.webp",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Anchors.of.the.Ageless.Deep.zip",
-          "createdAt": "2026-07-09T00:00:00.000Z",
-          "categoryId": "heroes",
-          "hero": "kunkka",
-          "heroLabel": "Kunkka",
-          "slot": "set"
         },
         {
           "name": "Whale Blade",
@@ -2711,7 +2689,7 @@
         {
           "name": "Drow Ranger Arcana",
           "author": "Fin",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ursa-Circus-Second-Style-1.webp",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Drow Ranger Arcana.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/47/Drow.ranger.arcana.zip",
           "createdAt": "2026-06-04T00:00:00.000Z",
           "categoryId": "heroes",
@@ -4372,7 +4350,7 @@
         {
           "name": "Ursa Circus Second Style 1",
           "author": "Papapodzaborniy",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/image.png",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ursa Circus Second Style 1.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/241/Ursa.Circus.Second.Style.1.zip",
           "createdAt": "2026-07-02T00:00:00.000Z",
           "categoryId": "heroes",
@@ -4603,7 +4581,7 @@
         {
           "name": "Lone Druid Clan of the Arctic Owlbear",
           "author": "Papapodzaborniy",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/zobrazenna.png",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lone Druid Clan of the Arctic Owlbear.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/pak09_dir.vpk",
           "createdAt": "2026-06-13T00:00:00.000Z",
           "categoryId": "heroes",
@@ -4801,7 +4779,7 @@
         {
           "name": "Spectre always here",
           "author": "mopsyara",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/izobrazenie.png",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spectre always here.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Spectre.always.here.zip",
           "createdAt": "2026-07-17T00:00:00.000Z",
           "categoryId": "heroes",
@@ -5593,7 +5571,7 @@
         {
           "name": "Dark Seer Keeper of Oloxicam's Glass",
           "author": "Papapodzaborniy",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Seer-Keeper-of-Oloxicam-s-Glass.webp",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark Seer Keeper of Oloxicam's Glass.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/248/Dark.Seer.Keeper.of.Oloxicam.s.Glass.zip",
           "createdAt": "2026-07-10T00:00:00.000Z",
           "categoryId": "heroes",
@@ -6442,7 +6420,7 @@
           {
             "name": "Batrider Empiric Incendiary",
             "author": "Papapodzaborniy",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ursa-Circus-Second-Style-1.webp",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/image.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/248/Batrider.Empiric.Incendiary.zip",
             "createdAt": "2026-07-10T00:00:00.000Z",
             "categoryId": "heroes",
@@ -6826,7 +6804,7 @@
           {
             "name": "Huskar Pharaoh's Guard",
             "author": "Papapodzaborniy",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Huskar-Pharaoh-s-Guard.webp",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Huskar Pharaoh's Guard.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Huskar.Pharaoh.s.Guard.zip",
             "createdAt": "2026-07-06T00:00:00.000Z",
             "categoryId": "heroes",
@@ -7614,7 +7592,7 @@
           {
             "name": "Invoker Dark Artistry",
             "author": "Papapodzaborniy",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/image.png",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Dark Artistry.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/pak79_dir.vpk",
             "createdAt": "2026-06-14T00:00:00.000Z",
             "categoryId": "heroes",
@@ -8016,7 +7994,7 @@
           {
             "name": "Shadow Fiend Black",
             "author": "Darkness",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow Fiend Arcana.jpg",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow Fiend Black.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/88/Shadow.Fined.Black.zip",
             "createdAt": "2026-05-20T00:00:00.000Z",
             "categoryId": "heroes",
@@ -8460,28 +8438,6 @@
             "hero": "kunkka",
             "heroLabel": "Kunkka",
             "slot": "head"
-          },
-          {
-            "name": "Anchors of the Ageless Deep",
-            "author": "Papapodzaborniy",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/image.png",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/49/Anchors.of.the.Ageless.Deep.-.Head.zip",
-            "createdAt": "2026-05-07T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "kunkka",
-            "heroLabel": "Kunkka",
-            "slot": "head"
-          },
-          {
-            "name": "Anchors of the Ageless Deep",
-            "author": "Papapodzaborniy",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Carnival-Chat-Wheel-Vasilisa.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Anchors.of.the.Ageless.Deep.zip",
-            "createdAt": "2026-07-09T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "kunkka",
-            "heroLabel": "Kunkka",
-            "slot": "set"
           },
           {
             "name": "Whale Blade",
@@ -8936,7 +8892,7 @@
           {
             "name": "Drow Ranger Arcana",
             "author": "Fin",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ursa-Circus-Second-Style-1.webp",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Drow Ranger Arcana.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/47/Drow.ranger.arcana.zip",
             "createdAt": "2026-06-04T00:00:00.000Z",
             "categoryId": "heroes",
@@ -10661,7 +10617,7 @@
           {
             "name": "Ursa Circus Second Style 1",
             "author": "Papapodzaborniy",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/image.png",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ursa Circus Second Style 1.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/241/Ursa.Circus.Second.Style.1.zip",
             "createdAt": "2026-07-02T00:00:00.000Z",
             "categoryId": "heroes",
@@ -10908,7 +10864,7 @@
           {
             "name": "Lone Druid Clan of the Arctic Owlbear",
             "author": "Papapodzaborniy",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/zobrazenna.png",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lone Druid Clan of the Arctic Owlbear.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/pak09_dir.vpk",
             "createdAt": "2026-06-13T00:00:00.000Z",
             "categoryId": "heroes",
@@ -11118,7 +11074,7 @@
           {
             "name": "Spectre always here",
             "author": "mopsyara",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/izobrazenie.png",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spectre always here.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Spectre.always.here.zip",
             "createdAt": "2026-07-17T00:00:00.000Z",
             "categoryId": "heroes",
@@ -11952,7 +11908,7 @@
           {
             "name": "Dark Seer Keeper of Oloxicam's Glass",
             "author": "Papapodzaborniy",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Seer-Keeper-of-Oloxicam-s-Glass.webp",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark Seer Keeper of Oloxicam's Glass.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/248/Dark.Seer.Keeper.of.Oloxicam.s.Glass.zip",
             "createdAt": "2026-07-10T00:00:00.000Z",
             "categoryId": "heroes",
@@ -15725,19 +15681,8 @@
         {
           "name": "Show NetWorth",
           "author": "Anonymous",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/image.png",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/snow netfors.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/237/pak66_dir.vpk",
-          "createdAt": "2026-06-22T00:00:00.000Z",
-          "categoryId": "other",
-          "hero": null,
-          "heroLabel": null,
-          "slot": null
-        },
-        {
-          "name": "Auto Accept Match",
-          "author": "Anonymous",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/image.png",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/237/pak64_dir.vpk",
           "createdAt": "2026-06-22T00:00:00.000Z",
           "categoryId": "other",
           "hero": null,
@@ -17541,7 +17486,7 @@
         "name": "Kunkka",
         "slug": "kunkka",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/kunkka.png",
-        "modsCount": 7,
+        "modsCount": 5,
         "slots": [
           "weapon",
           "head",
@@ -23246,7 +23191,7 @@
           {
             "name": "Shadow Fiend Black",
             "author": "Darkness",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow Fiend Arcana.jpg",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow Fiend Black.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/88/Shadow.Fined.Black.zip",
             "createdAt": "2026-05-20T00:00:00.000Z",
             "categoryId": "heroes",
@@ -24199,7 +24144,7 @@
           {
             "name": "Batrider Empiric Incendiary",
             "author": "Papapodzaborniy",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ursa-Circus-Second-Style-1.webp",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/image.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/248/Batrider.Empiric.Incendiary.zip",
             "createdAt": "2026-07-10T00:00:00.000Z",
             "categoryId": "heroes",
@@ -24243,7 +24188,7 @@
           {
             "name": "Huskar Pharaoh's Guard",
             "author": "Papapodzaborniy",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Huskar-Pharaoh-s-Guard.webp",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Huskar Pharaoh's Guard.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Huskar.Pharaoh.s.Guard.zip",
             "createdAt": "2026-07-06T00:00:00.000Z",
             "categoryId": "heroes",
@@ -24419,7 +24364,7 @@
           {
             "name": "Invoker Dark Artistry",
             "author": "Papapodzaborniy",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/image.png",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Dark Artistry.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/pak79_dir.vpk",
             "createdAt": "2026-06-14T00:00:00.000Z",
             "categoryId": "heroes",
@@ -24448,28 +24393,6 @@
             "hero": "kunkka",
             "heroLabel": "Kunkka",
             "slot": "head"
-          },
-          {
-            "name": "Anchors of the Ageless Deep",
-            "author": "Papapodzaborniy",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/image.png",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/49/Anchors.of.the.Ageless.Deep.-.Head.zip",
-            "createdAt": "2026-05-07T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "kunkka",
-            "heroLabel": "Kunkka",
-            "slot": "head"
-          },
-          {
-            "name": "Anchors of the Ageless Deep",
-            "author": "Papapodzaborniy",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Carnival-Chat-Wheel-Vasilisa.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Anchors.of.the.Ageless.Deep.zip",
-            "createdAt": "2026-07-09T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "kunkka",
-            "heroLabel": "Kunkka",
-            "slot": "set"
           },
           {
             "name": "Belt of the Spectral Hunter",
@@ -24584,7 +24507,7 @@
           {
             "name": "Ursa Circus Second Style 1",
             "author": "Papapodzaborniy",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/image.png",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ursa Circus Second Style 1.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/241/Ursa.Circus.Second.Style.1.zip",
             "createdAt": "2026-07-02T00:00:00.000Z",
             "categoryId": "heroes",
@@ -24595,7 +24518,7 @@
           {
             "name": "Lone Druid Clan of the Arctic Owlbear",
             "author": "Papapodzaborniy",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/zobrazenna.png",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lone Druid Clan of the Arctic Owlbear.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/pak09_dir.vpk",
             "createdAt": "2026-06-13T00:00:00.000Z",
             "categoryId": "heroes",
@@ -24617,7 +24540,7 @@
           {
             "name": "Dark Seer Keeper of Oloxicam's Glass",
             "author": "Papapodzaborniy",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Seer-Keeper-of-Oloxicam-s-Glass.webp",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark Seer Keeper of Oloxicam's Glass.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/248/Dark.Seer.Keeper.of.Oloxicam.s.Glass.zip",
             "createdAt": "2026-07-10T00:00:00.000Z",
             "categoryId": "heroes",
@@ -25552,7 +25475,7 @@
           {
             "name": "Spectre always here",
             "author": "mopsyara",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/izobrazenie.png",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spectre always here.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Spectre.always.here.zip",
             "createdAt": "2026-07-17T00:00:00.000Z",
             "categoryId": "heroes",
@@ -25993,7 +25916,7 @@
           {
             "name": "Drow Ranger Arcana",
             "author": "Fin",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ursa-Circus-Second-Style-1.webp",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Drow Ranger Arcana.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/47/Drow.ranger.arcana.zip",
             "createdAt": "2026-06-04T00:00:00.000Z",
             "categoryId": "heroes",
