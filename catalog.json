@@ -1589,7 +1589,7 @@
         {
           "name": "Lightning Orchid",
           "author": "dota2pornfx",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden Mandate of the Stormborn.webp",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lightning Orchid.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Lightning.Orchid.zip",
           "createdAt": "2026-05-07T00:00:00.000Z",
           "categoryId": "heroes",
@@ -1622,7 +1622,7 @@
         {
           "name": "Corridan Maestro",
           "author": "dota2pornfx",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Old-Storm-Spirit.webp",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Corridan Maestro.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Corridan.Maestro.zip",
           "createdAt": "2026-05-07T00:00:00.000Z",
           "categoryId": "heroes",
@@ -2874,6 +2874,17 @@
           "slot": "set"
         },
         {
+          "name": "Luna Moonfall",
+          "author": "Tenkay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/luna moonfall .jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/luna.moonfall.zip",
+          "createdAt": "2026-07-31T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "luna",
+          "heroLabel": "Luna",
+          "slot": "set"
+        },
+        {
           "name": "Concord Dominion",
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Concord-Dominion.webp",
@@ -3616,6 +3627,17 @@
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Marci-School-of-the-Solar-Fang.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/221/Marci.School.of.the.Solar.Fang.zip",
           "createdAt": "2026-06-09T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "marci",
+          "heroLabel": "Marci",
+          "slot": "set"
+        },
+        {
+          "name": "Marci Blue Horizons",
+          "author": "Tenkay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/marci blue horizons.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/marci.blue.horizons.zip",
+          "createdAt": "2026-07-31T00:00:00.000Z",
           "categoryId": "heroes",
           "hero": "marci",
           "heroLabel": "Marci",
@@ -4863,6 +4885,17 @@
           "hero": "spectre",
           "heroLabel": "Spectre",
           "slot": "weapon"
+        },
+        {
+          "name": "Spectre Crescent Huntress",
+          "author": "Tenkay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/spectre crescent huntress.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/spectre.crescent.huntress.zip",
+          "createdAt": "2026-07-31T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "spectre",
+          "heroLabel": "Spectre",
+          "slot": "set"
         },
         {
           "name": "Techies Sodbustin Saboteurs",
@@ -7770,7 +7803,7 @@
           {
             "name": "Lightning Orchid",
             "author": "dota2pornfx",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden Mandate of the Stormborn.webp",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lightning Orchid.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Lightning.Orchid.zip",
             "createdAt": "2026-05-07T00:00:00.000Z",
             "categoryId": "heroes",
@@ -7803,7 +7836,7 @@
           {
             "name": "Corridan Maestro",
             "author": "dota2pornfx",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Old-Storm-Spirit.webp",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Corridan Maestro.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Corridan.Maestro.zip",
             "createdAt": "2026-05-07T00:00:00.000Z",
             "categoryId": "heroes",
@@ -9081,6 +9114,17 @@
             "hero": "luna",
             "heroLabel": "Luna",
             "slot": "set"
+          },
+          {
+            "name": "Luna Moonfall",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/luna moonfall .jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/luna.moonfall.zip",
+            "createdAt": "2026-07-31T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "luna",
+            "heroLabel": "Luna",
+            "slot": "set"
           }
         ],
         "phantom_lancer": [
@@ -9855,6 +9899,17 @@
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Marci-School-of-the-Solar-Fang.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/221/Marci.School.of.the.Solar.Fang.zip",
             "createdAt": "2026-06-09T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "marci",
+            "heroLabel": "Marci",
+            "slot": "set"
+          },
+          {
+            "name": "Marci Blue Horizons",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/marci blue horizons.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/marci.blue.horizons.zip",
+            "createdAt": "2026-07-31T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "marci",
             "heroLabel": "Marci",
@@ -11158,6 +11213,17 @@
             "hero": "spectre",
             "heroLabel": "Spectre",
             "slot": "weapon"
+          },
+          {
+            "name": "Spectre Crescent Huntress",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/spectre crescent huntress.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/spectre.crescent.huntress.zip",
+            "createdAt": "2026-07-31T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "spectre",
+            "heroLabel": "Spectre",
+            "slot": "set"
           }
         ],
         "techies": [
@@ -16473,6 +16539,39 @@
     },
     "recentlyAddedMods": [
       {
+        "name": "Luna Moonfall",
+        "author": "Tenkay",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/luna moonfall .jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/luna.moonfall.zip",
+        "createdAt": "2026-07-31T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "luna",
+        "heroLabel": "Luna",
+        "slot": "set"
+      },
+      {
+        "name": "Marci Blue Horizons",
+        "author": "Tenkay",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/marci blue horizons.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/marci.blue.horizons.zip",
+        "createdAt": "2026-07-31T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "marci",
+        "heroLabel": "Marci",
+        "slot": "set"
+      },
+      {
+        "name": "Spectre Crescent Huntress",
+        "author": "Tenkay",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/spectre crescent huntress.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/spectre.crescent.huntress.zip",
+        "createdAt": "2026-07-31T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "spectre",
+        "heroLabel": "Spectre",
+        "slot": "set"
+      },
+      {
         "name": "Naga Siren Snickers",
         "author": "Arthas",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Naga Siren Snickers.webp",
@@ -16878,39 +16977,6 @@
         "hero": "invoker",
         "heroLabel": "Invoker",
         "slot": "head"
-      },
-      {
-        "name": "Nightlord Forged Spirit",
-        "author": "XIIIpsiblade",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/nightlord-crypt-sentinel-npc-dota-invoker-forged-spirit-png.png",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak89_dir.vpk",
-        "createdAt": "2026-07-25T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "invoker",
-        "heroLabel": "Invoker",
-        "slot": "summon"
-      },
-      {
-        "name": "Nightlord Back",
-        "author": "XIIIpsiblade",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/nightlord-back-png.png",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak27_dir.vpk",
-        "createdAt": "2026-07-25T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "invoker",
-        "heroLabel": "Invoker",
-        "slot": "back"
-      },
-      {
-        "name": "Nightlord Belt",
-        "author": "XIIIpsiblade",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/nightlord-belt-png.png",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/pak68_dir.vpk",
-        "createdAt": "2026-07-25T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "invoker",
-        "heroLabel": "Invoker",
-        "slot": "belt"
       }
     ]
   },
@@ -17580,7 +17646,7 @@
         "name": "Luna",
         "slug": "luna",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/luna.png",
-        "modsCount": 8,
+        "modsCount": 9,
         "slots": [
           "weapon",
           "shield",
@@ -17739,7 +17805,7 @@
         "name": "Marci",
         "slug": "marci",
         "preview": "https://i.postimg.cc/cH2dPrxv/Marci-icon.webp",
-        "modsCount": 9,
+        "modsCount": 10,
         "slots": [
           "set"
         ]
@@ -18032,7 +18098,7 @@
         "name": "Spectre",
         "slug": "spectre",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/spectre.png",
-        "modsCount": 9,
+        "modsCount": 10,
         "slots": [
           "set",
           "weapon"
@@ -18762,7 +18828,7 @@
           {
             "name": "Lightning Orchid",
             "author": "dota2pornfx",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden Mandate of the Stormborn.webp",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lightning Orchid.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Lightning.Orchid.zip",
             "createdAt": "2026-05-07T00:00:00.000Z",
             "categoryId": "heroes",
@@ -18784,7 +18850,7 @@
           {
             "name": "Corridan Maestro",
             "author": "dota2pornfx",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Old-Storm-Spirit.webp",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Corridan Maestro.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Corridan.Maestro.zip",
             "createdAt": "2026-05-07T00:00:00.000Z",
             "categoryId": "heroes",
@@ -25680,6 +25746,134 @@
         ]
       },
       {
+        "id": "tenkay",
+        "displayName": "Tenkay",
+        "avatarUrl": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/tenkay.jpg",
+        "telegram": "https://t.me/dota2Tenkay",
+        "authorLink": null,
+        "links": {
+          "steam": null,
+          "telegram": "https://t.me/dota2Tenkay",
+          "youtube": null,
+          "twitch": null,
+          "github": null,
+          "website": null,
+          "discord": null
+        },
+        "mods": [
+          {
+            "name": "Mace of Aeons",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mace-of-Aeons.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Mace.of.Aeons.zip",
+            "createdAt": "2026-07-06T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "faceless_void",
+            "heroLabel": "Faceless Void",
+            "slot": "weapon"
+          },
+          {
+            "name": "Mace of Aeons Oathbreaker",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mace-of-Aeons-Oathbreaker.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Mace.of.Aeons.Oathbreaker.zip",
+            "createdAt": "2026-07-06T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "faceless_void",
+            "heroLabel": "Faceless Void",
+            "slot": "weapon"
+          },
+          {
+            "name": "Mace of Aeons Usurper",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mace-of-Aeons-Usurper.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Mace.of.Aeons.Usurper.zip",
+            "createdAt": "2026-07-06T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "faceless_void",
+            "heroLabel": "Faceless Void",
+            "slot": "weapon"
+          },
+          {
+            "name": "Luna Moonfall",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/luna moonfall .jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/luna.moonfall.zip",
+            "createdAt": "2026-07-31T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "luna",
+            "heroLabel": "Luna",
+            "slot": "set"
+          },
+          {
+            "name": "Anubis Phantom Lancer",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-17-00-05-36.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/phantom.lancer.anubis.zip",
+            "createdAt": "2026-06-16T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "phantom_lancer",
+            "heroLabel": "Phantom Lancer",
+            "slot": "set"
+          },
+          {
+            "name": "Orbuculum Equinox Dire Delight",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Orbuculum Equinox Dire Delight.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/arc.warden.orbuculum.equinox.zip",
+            "createdAt": "2026-07-30T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "arc_warden",
+            "heroLabel": "Arc Warden",
+            "slot": "head"
+          },
+          {
+            "name": "Marci Blue Horizons",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/marci blue horizons.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/marci.blue.horizons.zip",
+            "createdAt": "2026-07-31T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "marci",
+            "heroLabel": "Marci",
+            "slot": "set"
+          },
+          {
+            "name": "bloodseeker eztzhok",
+            "author": "tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-12-10-31-12.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/bloodseeker.eztzhok.V2.zip",
+            "createdAt": "2026-06-16T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "bloodseeker",
+            "heroLabel": "Bloodseeker",
+            "slot": "set"
+          },
+          {
+            "name": "Spectre Crescent Huntress",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/spectre crescent huntress.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/spectre.crescent.huntress.zip",
+            "createdAt": "2026-07-31T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "spectre",
+            "heroLabel": "Spectre",
+            "slot": "set"
+          },
+          {
+            "name": "Templar Assassin ritual of the loyal fold",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-16-09-09-16.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/lanaya.ritual.of.the.loyal.fold.zip",
+            "createdAt": "2026-06-16T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "templar_assassin",
+            "heroLabel": "Templar Assassin",
+            "slot": "set"
+          }
+        ]
+      },
+      {
         "id": "senop",
         "displayName": "SENOp",
         "avatarUrl": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/senop.jpg",
@@ -25771,101 +25965,6 @@
             "hero": null,
             "heroLabel": null,
             "slot": null
-          }
-        ]
-      },
-      {
-        "id": "tenkay",
-        "displayName": "Tenkay",
-        "avatarUrl": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/tenkay.jpg",
-        "telegram": "https://t.me/dota2Tenkay",
-        "authorLink": null,
-        "links": {
-          "steam": null,
-          "telegram": "https://t.me/dota2Tenkay",
-          "youtube": null,
-          "twitch": null,
-          "github": null,
-          "website": null,
-          "discord": null
-        },
-        "mods": [
-          {
-            "name": "Mace of Aeons",
-            "author": "Tenkay",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mace-of-Aeons.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Mace.of.Aeons.zip",
-            "createdAt": "2026-07-06T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "faceless_void",
-            "heroLabel": "Faceless Void",
-            "slot": "weapon"
-          },
-          {
-            "name": "Mace of Aeons Oathbreaker",
-            "author": "Tenkay",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mace-of-Aeons-Oathbreaker.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Mace.of.Aeons.Oathbreaker.zip",
-            "createdAt": "2026-07-06T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "faceless_void",
-            "heroLabel": "Faceless Void",
-            "slot": "weapon"
-          },
-          {
-            "name": "Mace of Aeons Usurper",
-            "author": "Tenkay",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mace-of-Aeons-Usurper.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Mace.of.Aeons.Usurper.zip",
-            "createdAt": "2026-07-06T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "faceless_void",
-            "heroLabel": "Faceless Void",
-            "slot": "weapon"
-          },
-          {
-            "name": "Anubis Phantom Lancer",
-            "author": "Tenkay",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-17-00-05-36.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/phantom.lancer.anubis.zip",
-            "createdAt": "2026-06-16T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "phantom_lancer",
-            "heroLabel": "Phantom Lancer",
-            "slot": "set"
-          },
-          {
-            "name": "Orbuculum Equinox Dire Delight",
-            "author": "Tenkay",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Orbuculum Equinox Dire Delight.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/arc.warden.orbuculum.equinox.zip",
-            "createdAt": "2026-07-30T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "arc_warden",
-            "heroLabel": "Arc Warden",
-            "slot": "head"
-          },
-          {
-            "name": "bloodseeker eztzhok",
-            "author": "tenkay",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-12-10-31-12.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/bloodseeker.eztzhok.V2.zip",
-            "createdAt": "2026-06-16T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "bloodseeker",
-            "heroLabel": "Bloodseeker",
-            "slot": "set"
-          },
-          {
-            "name": "Templar Assassin ritual of the loyal fold",
-            "author": "Tenkay",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-16-09-09-16.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/lanaya.ritual.of.the.loyal.fold.zip",
-            "createdAt": "2026-06-16T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "templar_assassin",
-            "heroLabel": "Templar Assassin",
-            "slot": "set"
           }
         ]
       },
