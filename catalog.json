@@ -6172,6 +6172,50 @@
           "hero": "bane",
           "heroLabel": "Bane",
           "slot": "set"
+        },
+        {
+          "name": "Thirst of Eztzhok Blade",
+          "author": "Tenkay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Thirst of Eztzhok Blade.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Thirst.of.Eztzhok.Blade.zip",
+          "createdAt": "2026-08-01T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "bloodseeker",
+          "heroLabel": "Bloodseeker",
+          "slot": "weapon"
+        },
+        {
+          "name": "Thirst of Eztzhok Off Hand",
+          "author": "Tenkay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Thirst of Eztzhok - Off-Hand.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Thirst.of.Eztzhok.Off-Hand.zip",
+          "createdAt": "2026-08-01T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "bloodseeker",
+          "heroLabel": "Bloodseeker",
+          "slot": "off_hand"
+        },
+        {
+          "name": "Tiny Banana",
+          "author": "dota2pornfx",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tiny Banana.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Tiny.Banana.zip",
+          "createdAt": "2026-08-01T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "tiny",
+          "heroLabel": "Tiny",
+          "slot": "weapon"
+        },
+        {
+          "name": "Sven Guts Sword",
+          "author": "dota2pornfx",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sven Guts Sword.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Sven.Guts.Sword.zip",
+          "createdAt": "2026-08-01T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "sven",
+          "heroLabel": "Sven",
+          "slot": "weapon"
         }
       ],
       "heroesByHero": {
@@ -10052,6 +10096,28 @@
             "hero": "bloodseeker",
             "heroLabel": "Bloodseeker",
             "slot": "set"
+          },
+          {
+            "name": "Thirst of Eztzhok Blade",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Thirst of Eztzhok Blade.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Thirst.of.Eztzhok.Blade.zip",
+            "createdAt": "2026-08-01T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "bloodseeker",
+            "heroLabel": "Bloodseeker",
+            "slot": "weapon"
+          },
+          {
+            "name": "Thirst of Eztzhok Off Hand",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Thirst of Eztzhok - Off-Hand.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Thirst.of.Eztzhok.Off-Hand.zip",
+            "createdAt": "2026-08-01T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "bloodseeker",
+            "heroLabel": "Bloodseeker",
+            "slot": "off_hand"
           }
         ],
         "brewmaster": [
@@ -10808,6 +10874,17 @@
             "hero": "sven",
             "heroLabel": "Sven",
             "slot": "set"
+          },
+          {
+            "name": "Sven Guts Sword",
+            "author": "dota2pornfx",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sven Guts Sword.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Sven.Guts.Sword.zip",
+            "createdAt": "2026-08-01T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "sven",
+            "heroLabel": "Sven",
+            "slot": "weapon"
           }
         ],
         "sand_king": [
@@ -11885,6 +11962,17 @@
             "hero": "tiny",
             "heroLabel": "Tiny",
             "slot": "set"
+          },
+          {
+            "name": "Tiny Banana",
+            "author": "dota2pornfx",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tiny Banana.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Tiny.Banana.zip",
+            "createdAt": "2026-08-01T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "tiny",
+            "heroLabel": "Tiny",
+            "slot": "weapon"
           }
         ],
         "treant_protector": [
