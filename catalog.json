@@ -971,6 +971,17 @@
           "slot": "set"
         },
         {
+          "name": "Soul Shredder",
+          "author": "Arthas",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Soul Shredder.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/281/Guitar.zip",
+          "createdAt": "2026-08-02T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "doom",
+          "heroLabel": "Doom",
+          "slot": "weapon"
+        },
+        {
           "name": "Morphling Fluid Frenzy",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling-Fluid-Frenzy.webp",
@@ -7239,6 +7250,17 @@
             "hero": "doom",
             "heroLabel": "Doom",
             "slot": "set"
+          },
+          {
+            "name": "Soul Shredder",
+            "author": "Arthas",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Soul Shredder.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/281/Guitar.zip",
+            "createdAt": "2026-08-02T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "doom",
+            "heroLabel": "Doom",
+            "slot": "weapon"
           }
         ],
         "morphling": [
