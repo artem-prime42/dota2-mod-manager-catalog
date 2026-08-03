@@ -36,6 +36,17 @@
           "slot": "set"
         },
         {
+          "name": "Abaddon frostmourne",
+          "author": "Arthas",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Abaddon%20frostmourne.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/281/Abaddon.frostmourne.zip",
+          "createdAt": "2026-08-03T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "abaddon",
+          "heroLabel": "Abaddon",
+          "slot": "weapon"
+        },
+        {
           "name": "Enigma Angel of the Abyss",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Enigma-Angel-of-the-Abyss.webp",
@@ -14175,6 +14186,18 @@
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Enigma%20Black%20Hole%20Kate%20v1.mp4"
         },
         {
+          "name": "Doom spells SEMATARY COME WITH ME TO HELL",
+          "author": "XIIIpsiblade",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Doom%20spells%20SEMATARY%20COME%20WITH%20ME%20TO%20HELL.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/281/Doom.spells.SEMATARY.COME.WITH.ME.TO.HELL.zip",
+          "createdAt": "2026-08-03T00:00:00.000Z",
+          "categoryId": "hero-sounds",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null,
+          "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/sound%20Doom%20spells%20SEMATARY%20COME%20WITH%20ME%20TO%20HELL.mp4"
+        },
+        {
           "name": "Enigma Black Hole Kate v2",
           "author": "XIIIpsiblade",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Enigma-Black-Hole-Kate.webp",
@@ -16700,6 +16723,29 @@
       ]
     },
     "recentlyAddedMods": [
+      {
+        "name": "Abaddon frostmourne",
+        "author": "Arthas",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Abaddon%20frostmourne.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/281/Abaddon.frostmourne.zip",
+        "createdAt": "2026-08-03T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "abaddon",
+        "heroLabel": "Abaddon",
+        "slot": "weapon"
+      },
+      {
+        "name": "Doom spells SEMATARY COME WITH ME TO HELL",
+        "author": "XIIIpsiblade",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Doom%20spells%20SEMATARY%20COME%20WITH%20ME%20TO%20HELL.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/281/Doom.spells.SEMATARY.COME.WITH.ME.TO.HELL.zip",
+        "createdAt": "2026-08-03T00:00:00.000Z",
+        "categoryId": "hero-sounds",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null,
+        "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/sound%20Doom%20spells%20SEMATARY%20COME%20WITH%20ME%20TO%20HELL.mp4"
+      },
       {
         "name": "Enigma Black Hole Kate v2",
         "author": "XIIIpsiblade",
