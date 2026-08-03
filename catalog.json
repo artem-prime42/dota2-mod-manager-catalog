@@ -1875,7 +1875,7 @@
         {
           "name": "Ghost Shadow Fiend",
           "author": "Darkness",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow-Fiend-Souls-Tyrant.webp",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ghost Shadow Fiend.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/241/Ghost.Fiend.zip",
           "createdAt": "2026-07-03T00:00:00.000Z",
           "categoryId": "heroes",
@@ -13410,17 +13410,6 @@
           "hero": null,
           "heroLabel": null,
           "slot": null
-        },
-        {
-          "name": "Misc Optimization",
-          "author": "Anonymous",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/image.png",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/237/pak65_dir.vpk",
-          "createdAt": "2026-06-22T00:00:00.000Z",
-          "categoryId": "optimization",
-          "hero": null,
-          "heroLabel": null,
-          "slot": null
         }
       ],
       "river": [
@@ -15314,7 +15303,7 @@
         {
           "name": "Emblem of the Crystal Echelon",
           "author": "dota2pornfx",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/image.png",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Emblem of the Crystal Echelon.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/pak33_dir.vpk",
           "createdAt": "2026-06-15T00:00:00.000Z",
           "categoryId": "emblems",
@@ -22417,7 +22406,7 @@
           {
             "name": "Emblem of the Crystal Echelon",
             "author": "dota2pornfx",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/image.png",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Emblem-of-the-Crystal-Echelon.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/pak33_dir.vpk",
             "createdAt": "2026-06-15T00:00:00.000Z",
             "categoryId": "emblems",
