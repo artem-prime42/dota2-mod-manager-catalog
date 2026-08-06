@@ -1865,7 +1865,7 @@
           "name": "Shadow Fiend Arcana",
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow Fiend Arcana.jpg",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/281/Shadow.Fiend.Arcana.zip",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Shadow.Fiend.Arcana.zip",
           "createdAt": "2026-05-20T00:00:00.000Z",
           "categoryId": "heroes",
           "hero": "shadow_fiend",
@@ -14255,6 +14255,18 @@
           "heroLabel": null,
           "slot": null,
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Sven%20Already%20Red.mp4"
+        },
+        {
+          "name": "Naga Siren – I Like Big",
+          "author": "XIIIpsiblade",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Naga%20Siren%20I%20Like%20Big.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Naga.Siren.I.Like.Big.zip",
+          "createdAt": "2026-08-06T00:00:00.000Z",
+          "categoryId": "hero-sounds",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null,
+          "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Naga%20Siren%20I%20Like%20Big.mp4"
         }
       ],
       "packs": [
@@ -17269,6 +17281,17 @@
           "hero": null,
           "heroLabel": null,
           "slot": null
+        },
+        {
+          "name": "Cute Naga Siren Icon",
+          "author": "XIIIpsiblade",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cute%20Naga%20Siren%20Icon.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Cute.Naga.Siren.Icon.zip",
+          "createdAt": "2026-08-06T00:00:00.000Z",
+          "categoryId": "other",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
         }
       ],
       "sounds": [
@@ -17305,6 +17328,17 @@
           "heroLabel": null,
           "slot": null,
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Spirit%20Breaker%20Beer.mp4"
+        },
+        {
+          "name": "World of Tanks Battle Match Found Sound",
+          "author": "XIIIpsiblade",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/World%20of%20Tanks%20Battle%20Match%20Found%20Sound.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/World.of.Tanks.Battle.Match.Found.Sound.zip",
+          "createdAt": "2026-08-06T00:00:00.000Z",
+          "categoryId": "sounds",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
         }
       ],
       "cursors": [
