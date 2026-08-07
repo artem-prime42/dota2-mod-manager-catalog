@@ -5305,6 +5305,17 @@
           "slot": "set"
         },
         {
+          "name": "Kez Zangetsu",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Kez-Zangetsu.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Kez.Zangetsu.zip",
+          "createdAt": "2026-08-07T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "kez",
+          "heroLabel": "Kez",
+          "slot": "set"
+        },
+        {
           "name": "Lycan Red Wolf Clan",
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lycan-Red-Wolf-Clan.webp",
@@ -11698,6 +11709,17 @@
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Kez-Tensura.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Kez.Tensura.zip",
             "createdAt": "2026-07-07T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "kez",
+            "heroLabel": "Kez",
+            "slot": "set"
+          },
+          {
+            "name": "Kez Zangetsu",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Kez-Zangetsu.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Kez.Zangetsu.zip",
+            "createdAt": "2026-08-07T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "kez",
             "heroLabel": "Kez",
