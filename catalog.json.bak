@@ -861,6 +861,28 @@
           "slot": "set"
         },
         {
+          "name": "Rapier of the Burning God",
+          "author": "mopsyara",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rapier%20of%20the%20Burning%20God.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Rapier.of.the.Burning.zip",
+          "createdAt": "2026-08-07T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "ember_spirit",
+          "heroLabel": "Ember Spirit",
+          "slot": "weapon"
+        },
+        {
+          "name": "Rapier of the Burning God Offhand",
+          "author": "mopsyara",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rapier%20of%20the%20Burning%20God%20Offhand.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Rapier.of.the.Burning.God.Offhand.zip",
+          "createdAt": "2026-08-07T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "ember_spirit",
+          "heroLabel": "Ember Spirit",
+          "slot": "off_hand"
+        },
+        {
           "name": "Meepo Diretide",
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Meepo Diretide.jpg",
@@ -1865,7 +1887,7 @@
           "name": "Shadow Fiend Arcana",
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow Fiend Arcana.jpg",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/281/Shadow.Fiend.Arcana.zip",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Shadow.Fiend.Arcana.zip",
           "createdAt": "2026-05-20T00:00:00.000Z",
           "categoryId": "heroes",
           "hero": "shadow_fiend",
@@ -5307,7 +5329,7 @@
         {
           "name": "Kez Zangetsu",
           "author": "Anonymous",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Kez-Zangetsu.webp",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Kez Zangetsu.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Kez.Zangetsu.zip",
           "createdAt": "2026-08-07T00:00:00.000Z",
           "categoryId": "heroes",
@@ -6067,7 +6089,7 @@
           "name": "Legion Commander Holy Paladin",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Legion-Commander-Holy-Paladin.webp",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/244/Cursed.Queen.of.Pain.zip",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Legion.Commander.Holy.Paladin.zip",
           "createdAt": "2026-07-07T00:00:00.000Z",
           "categoryId": "heroes",
           "hero": "legion_commander",
@@ -7169,6 +7191,28 @@
             "hero": "ember_spirit",
             "heroLabel": "Ember Spirit",
             "slot": "set"
+          },
+          {
+            "name": "Rapier of the Burning God",
+            "author": "mopsyara",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rapier%20of%20the%20Burning%20God.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Rapier.of.the.Burning.zip",
+            "createdAt": "2026-08-07T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "ember_spirit",
+            "heroLabel": "Ember Spirit",
+            "slot": "weapon"
+          },
+          {
+            "name": "Rapier of the Burning God Offhand",
+            "author": "mopsyara",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rapier%20of%20the%20Burning%20God%20Offhand.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Rapier.of.the.Burning.God.Offhand.zip",
+            "createdAt": "2026-08-07T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "ember_spirit",
+            "heroLabel": "Ember Spirit",
+            "slot": "off_hand"
           }
         ],
         "meepo": [
@@ -11717,7 +11761,7 @@
           {
             "name": "Kez Zangetsu",
             "author": "Anonymous",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Kez-Zangetsu.webp",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Kez Zangetsu.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Kez.Zangetsu.zip",
             "createdAt": "2026-08-07T00:00:00.000Z",
             "categoryId": "heroes",
@@ -14277,6 +14321,18 @@
           "heroLabel": null,
           "slot": null,
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Sven%20Already%20Red.mp4"
+        },
+        {
+          "name": "Naga Siren – I Like Big",
+          "author": "XIIIpsiblade",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Naga%20Siren%20I%20Like%20Big.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Naga.Siren.I.Like.Big.zip",
+          "createdAt": "2026-08-06T00:00:00.000Z",
+          "categoryId": "hero-sounds",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null,
+          "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Naga%20Siren%20I%20Like%20Big.mp4"
         }
       ],
       "packs": [
@@ -15454,7 +15510,7 @@
         },
         {
           "name": "Darkness Blink Dagger",
-          "author": "dota2pornfx",
+          "author": "Darkness",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Darkness%20Blink%20Dagger.webp",
           "file": "https://raw.githubusercontent.com/artem-prime42/dota2-mods/main/Darkness%20Blink%20Dagger.zip",
           "createdAt": "2026-08-05T18:38:56.070Z",
@@ -15465,7 +15521,7 @@
         },
         {
           "name": "Darkness Bottle",
-          "author": "dota2pornfx",
+          "author": "Darkness",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Darkness%20Bottle.webp",
           "file": "https://raw.githubusercontent.com/artem-prime42/dota2-mods/main/Darkness%20Bottle.zip",
           "createdAt": "2026-08-05T18:38:56.363Z",
@@ -15476,7 +15532,7 @@
         },
         {
           "name": "Darkness Euls Scepter",
-          "author": "dota2pornfx",
+          "author": "Darkness",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Darkness%20Euls%20Scepter.webp",
           "file": "https://raw.githubusercontent.com/artem-prime42/dota2-mods/main/Darkness%20Euls%20Scepter.zip",
           "createdAt": "2026-08-05T18:38:56.649Z",
@@ -15487,7 +15543,7 @@
         },
         {
           "name": "Darkness Lvl up",
-          "author": "dota2pornfx",
+          "author": "Darkness",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Darkness%20Lvl%20up.webp",
           "file": "https://raw.githubusercontent.com/artem-prime42/dota2-mods/main/Darkness%20Lvl%20up.zip",
           "createdAt": "2026-08-05T18:38:56.948Z",
@@ -15498,7 +15554,7 @@
         },
         {
           "name": "Darkness Mekanism",
-          "author": "dota2pornfx",
+          "author": "Darkness",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Darkness%20Mekanism.webp",
           "file": "https://raw.githubusercontent.com/artem-prime42/dota2-mods/main/Darkness%20Mekanism.zip",
           "createdAt": "2026-08-05T18:38:57.239Z",
@@ -15509,7 +15565,7 @@
         },
         {
           "name": "Darkness Mjollner",
-          "author": "dota2pornfx",
+          "author": "Darkness",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Darkness%20Mjollner.webp",
           "file": "https://raw.githubusercontent.com/artem-prime42/dota2-mods/main/Darkness%20Mjollner.zip",
           "createdAt": "2026-08-05T18:38:57.530Z",
@@ -15520,7 +15576,7 @@
         },
         {
           "name": "Darkness Phase Boots",
-          "author": "dota2pornfx",
+          "author": "Darkness",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Darkness%20Phase%20Boots.webp",
           "file": "https://raw.githubusercontent.com/artem-prime42/dota2-mods/main/Darkness%20Phase%20Boots.zip",
           "createdAt": "2026-08-05T18:38:57.807Z",
@@ -15531,7 +15587,7 @@
         },
         {
           "name": "Darkness Radiance",
-          "author": "dota2pornfx",
+          "author": "Darkness",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Darkness%20Radiance.webp",
           "file": "https://raw.githubusercontent.com/artem-prime42/dota2-mods/main/Darkness%20Radiance.zip",
           "createdAt": "2026-08-05T18:38:58.109Z",
@@ -15542,7 +15598,7 @@
         },
         {
           "name": "Darkness Shivas",
-          "author": "dota2pornfx",
+          "author": "Darkness",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Darkness%20Shivas.webp",
           "file": "https://raw.githubusercontent.com/artem-prime42/dota2-mods/main/Darkness%20Shivas.zip",
           "createdAt": "2026-08-05T18:38:58.389Z",
@@ -15634,17 +15690,6 @@
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Phantom%20Adven%20Blademail%20White.webp",
           "file": "https://raw.githubusercontent.com/artem-prime42/dota2-mods/main/Phantom%20Adven%20Blademail%20White.zip",
           "createdAt": "2026-08-05T18:39:00.769Z",
-          "categoryId": "item-effects",
-          "hero": null,
-          "heroLabel": null,
-          "slot": null
-        },
-        {
-          "name": "README",
-          "author": "dota2pornfx",
-          "preview": null,
-          "file": "https://raw.githubusercontent.com/artem-prime42/dota2-mods/main/README.md",
-          "createdAt": "2026-08-05T18:39:01.827Z",
           "categoryId": "item-effects",
           "hero": null,
           "heroLabel": null,
@@ -17302,6 +17347,17 @@
           "hero": null,
           "heroLabel": null,
           "slot": null
+        },
+        {
+          "name": "Cute Naga Siren Icon",
+          "author": "XIIIpsiblade",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cute%20Naga%20Siren%20Icon.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Cute.Naga.Siren.Icon.zip",
+          "createdAt": "2026-08-06T00:00:00.000Z",
+          "categoryId": "other",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
         }
       ],
       "sounds": [
@@ -17338,6 +17394,17 @@
           "heroLabel": null,
           "slot": null,
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Spirit%20Breaker%20Beer.mp4"
+        },
+        {
+          "name": "World of Tanks Battle Match Found Sound",
+          "author": "XIIIpsiblade",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/World%20of%20Tanks%20Battle%20Match%20Found%20Sound.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/World.of.Tanks.Battle.Match.Found.Sound.zip",
+          "createdAt": "2026-08-06T00:00:00.000Z",
+          "categoryId": "sounds",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
         }
       ],
       "cursors": [

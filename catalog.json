@@ -861,6 +861,28 @@
           "slot": "set"
         },
         {
+          "name": "Rapier of the Burning God",
+          "author": "mopsyara",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rapier%20of%20the%20Burning%20God.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Rapier.of.the.Burning.zip",
+          "createdAt": "2026-08-07T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "ember_spirit",
+          "heroLabel": "Ember Spirit",
+          "slot": "weapon"
+        },
+        {
+          "name": "Rapier of the Burning God Offhand",
+          "author": "mopsyara",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rapier%20of%20the%20Burning%20God%20Offhand.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Rapier.of.the.Burning.God.Offhand.zip",
+          "createdAt": "2026-08-07T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "ember_spirit",
+          "heroLabel": "Ember Spirit",
+          "slot": "off_hand"
+        },
+        {
           "name": "Meepo Diretide",
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Meepo Diretide.jpg",
@@ -7169,6 +7191,28 @@
             "hero": "ember_spirit",
             "heroLabel": "Ember Spirit",
             "slot": "set"
+          },
+          {
+            "name": "Rapier of the Burning God",
+            "author": "mopsyara",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rapier%20of%20the%20Burning%20God.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Rapier.of.the.Burning.zip",
+            "createdAt": "2026-08-07T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "ember_spirit",
+            "heroLabel": "Ember Spirit",
+            "slot": "weapon"
+          },
+          {
+            "name": "Rapier of the Burning God Offhand",
+            "author": "mopsyara",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rapier%20of%20the%20Burning%20God%20Offhand.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Rapier.of.the.Burning.God.Offhand.zip",
+            "createdAt": "2026-08-07T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "ember_spirit",
+            "heroLabel": "Ember Spirit",
+            "slot": "off_hand"
           }
         ],
         "meepo": [
