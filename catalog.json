@@ -1786,7 +1786,7 @@
         },
         {
           "name": "Aquamarine Naga Siren",
-          "author": "Anonymous",
+          "author": "NahuiToSay",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Aquamarine-Naga-Siren.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/Aquamarine.Naga.Siren.zip",
           "createdAt": "2026-07-02T00:00:00.000Z",
@@ -5317,7 +5317,7 @@
         },
         {
           "name": "Kez Tensura",
-          "author": "Anonymous",
+          "author": "NahuiToSay",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Kez-Tensura.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Kez.Tensura.zip",
           "createdAt": "2026-07-07T00:00:00.000Z",
@@ -5328,7 +5328,7 @@
         },
         {
           "name": "Kez Zangetsu",
-          "author": "Anonymous",
+          "author": "NahuiToSay",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Kez Zangetsu.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/282/Kez.Zangetsu.zip",
           "createdAt": "2026-08-07T00:00:00.000Z",
@@ -17229,7 +17229,7 @@
         },
         {
           "name": "Tower re-aggro Radius",
-          "author": "dota2pornfx",
+          "author": "NahuiToSay",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tower-re-aggro-Radius.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/28/Tower.re-aggro.Radius.zip",
           "createdAt": "2026-05-15T00:00:00.000Z",
@@ -17240,7 +17240,7 @@
         },
         {
           "name": "Purple Click",
-          "author": "Anonymous",
+          "author": "NahuiToSay",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Purple-Click.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/29/Purple.Click.zip",
           "createdAt": "2026-05-15T00:00:00.000Z",
@@ -17306,7 +17306,7 @@
         },
         {
           "name": "Blue Click",
-          "author": "Anonymous",
+          "author": "NahuiToSay",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Blue-Click.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/pak19_dir.vpk",
           "createdAt": "2026-07-28T00:00:00.000Z",
@@ -17652,7 +17652,7 @@
         },
         {
           "name": "White Necronub Cursor",
-          "author": "Anonymous",
+          "author": "NahuiToSay",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/White-Necronub-Cursor.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/268/White.Necronub.Cursor.zip",
           "createdAt": "2026-07-16T00:00:00.000Z",
@@ -20167,7 +20167,9 @@
       }
     ],
     "TAG_CONFIGS": {},
-    "MOD_AUTHOR": {},
+    "MOD_AUTHOR": {
+      "NahuiToSay": "https://t.me/n2tripleS"
+    },
     "MOD_SENDER": {},
     "AUTHOR_PROFILES": [
       {
@@ -27681,6 +27683,26 @@
             "slot": "set"
           }
         ]
+      },
+      {
+        "id": "nahuitosay",
+        "displayName": "NahuiToSay",
+        "avatarUrl": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/NahuiToSay.jpg",
+        "website": null,
+        "github": null,
+        "telegram": "https://t.me/n2tripleS",
+        "discord": null,
+        "authorLink": "https://t.me/n2tripleS",
+        "links": {
+          "steam": null,
+          "telegram": "https://t.me/n2tripleS",
+          "youtube": null,
+          "twitch": null,
+          "github": null,
+          "website": null,
+          "discord": null
+        },
+        "mods": []
       }
     ]
   },
