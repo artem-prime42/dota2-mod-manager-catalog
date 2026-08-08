@@ -3105,6 +3105,17 @@
           "slot": "set"
         },
         {
+          "name": "phantom lancer fire",
+          "author": "Tenkay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/phantom%20lancer%20fire.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/283/phantom.lancer.fire.zip",
+          "createdAt": "2026-08-09T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "phantom_lancer",
+          "heroLabel": "Phantom Lancer",
+          "slot": "set"
+        },
+        {
           "name": "Concord Reversion",
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Concord-Reversion.webp",
