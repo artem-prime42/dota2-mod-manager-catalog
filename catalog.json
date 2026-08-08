@@ -1411,6 +1411,17 @@
           "slot": "set"
         },
         {
+          "name": "Invoker Immortal Ascendant",
+          "author": "XIIIpsiblade",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker%20Immortal%20Ascendant.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/283/Invoker.Immortal.Ascendant.zip",
+          "createdAt": "2026-08-08T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "invoker",
+          "heroLabel": "Invoker",
+          "slot": "set"
+        },
+        {
           "name": "Young Invoker",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Young-Invoker.webp",
@@ -5295,7 +5306,7 @@
         },
         {
           "name": "Purple Kez",
-          "author": "Darkness",
+          "author": "NahuiToSay",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Purple-Kez.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Purple.Kez.zip",
           "createdAt": "2026-06-08T00:00:00.000Z",
@@ -11727,7 +11738,7 @@
           },
           {
             "name": "Purple Kez",
-            "author": "Darkness",
+            "author": "NahuiToSay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Purple-Kez.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Purple.Kez.zip",
             "createdAt": "2026-06-08T00:00:00.000Z",
@@ -25209,7 +25220,7 @@
           },
           {
             "name": "Purple Kez",
-            "author": "Darkness",
+            "author": "NahuiToSay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Purple-Kez.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Purple.Kez.zip",
             "createdAt": "2026-06-08T00:00:00.000Z",
