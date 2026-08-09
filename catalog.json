@@ -2784,7 +2784,7 @@
           "hero": "anti_mage",
           "heroLabel": "Anti Mage",
           "slot": "set",
-          "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Anti Mage Bloody Reaper.mp4"
+          "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Anti%20Mage%20Bloody%20Reaper.mp4"
         },
         {
           "name": "Drow Ranger Arcana",
@@ -9118,7 +9118,7 @@
             "hero": "anti_mage",
             "heroLabel": "Anti Mage",
             "slot": "set",
-            "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Anti Mage Bloody Reaper.mp4"
+            "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Anti%20Mage%20Bloody%20Reaper.mp4"
           }
         ],
         "drow_ranger": [
@@ -27279,7 +27279,7 @@
             "hero": "anti_mage",
             "heroLabel": "Anti Mage",
             "slot": "set",
-            "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Anti Mage Bloody Reaper.mp4"
+            "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Anti%20Mage%20Bloody%20Reaper.mp4"
           },
           {
             "name": "Luna Whitemoon Stalker Custom",
