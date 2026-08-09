@@ -2775,15 +2775,16 @@
           "slot": "set"
         },
         {
-          "name": "Anti Mage Red",
+          "name": "Anti Mage Bloody Reaper",
           "author": "Dikiychyvak",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crimson-Anti-Mage.webp",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Anti.Mage.Red.zip",
-          "createdAt": "2026-07-10T00:00:00.000Z",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Anti Mage Bloody Reaper.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/283/Anti-Mage.Bloody.Reaper.zip",
+          "createdAt": "2026-08-09T00:00:00.000Z",
           "categoryId": "heroes",
           "hero": "anti_mage",
           "heroLabel": "Anti Mage",
-          "slot": "set"
+          "slot": "set",
+          "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Anti Mage Bloody Reaper.mp4"
         },
         {
           "name": "Drow Ranger Arcana",
@@ -27269,15 +27270,16 @@
             "slot": "set"
           },
           {
-            "name": "Anti Mage Red",
+            "name": "Anti Mage Bloody Reaper",
             "author": "Dikiychyvak",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crimson-Anti-Mage.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Anti.Mage.Red.zip",
-            "createdAt": "2026-07-10T00:00:00.000Z",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Anti Mage Bloody Reaper.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/283/Anti-Mage.Bloody.Reaper.zip",
+            "createdAt": "2026-08-09T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "anti_mage",
             "heroLabel": "Anti Mage",
-            "slot": "set"
+            "slot": "set",
+            "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Anti Mage Bloody Reaper.mp4"
           },
           {
             "name": "Luna Whitemoon Stalker Custom",
