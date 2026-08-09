@@ -2784,7 +2784,7 @@
           "hero": "anti_mage",
           "heroLabel": "Anti Mage",
           "slot": "set",
-          "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Anti%20Mage%20Bloody%20Reaper.mp4"
+          "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Anti Mage Bloody Reaper.mp4"
         },
         {
           "name": "Drow Ranger Arcana",
@@ -3609,6 +3609,17 @@
           "categoryId": "heroes",
           "hero": "puck",
           "heroLabel": "Puck",
+          "slot": "set"
+        },
+        {
+          "name": "Earthshaker Arcana Style 2",
+          "author": "Papapodzaborniy",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker%20Arcana%20Style%202.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/283/Earthshaker.Arcana.Style.2.zip",
+          "createdAt": "2026-08-10T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "earthshaker",
+          "heroLabel": "Earthshaker",
           "slot": "set"
         },
         {
@@ -5201,17 +5212,6 @@
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Juggernaut-Ancient-Exile.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Juggernaut.Ancient.Exile.zip",
           "createdAt": "2026-06-07T00:00:00.000Z",
-          "categoryId": "heroes",
-          "hero": "juggernaut",
-          "heroLabel": "Juggernaut",
-          "slot": "set"
-        },
-        {
-          "name": "Juggernaut Script Honor",
-          "author": "Dikiychyvak",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Juggernaut-Script-Honor.webp",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/Juggernaut.Script.Honor.zip",
-          "createdAt": "2026-06-30T00:00:00.000Z",
           "categoryId": "heroes",
           "hero": "juggernaut",
           "heroLabel": "Juggernaut",
@@ -9118,7 +9118,7 @@
             "hero": "anti_mage",
             "heroLabel": "Anti Mage",
             "slot": "set",
-            "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Anti%20Mage%20Bloody%20Reaper.mp4"
+            "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Anti Mage Bloody Reaper.mp4"
           }
         ],
         "drow_ranger": [
@@ -9970,6 +9970,17 @@
           }
         ],
         "earthshaker": [
+          {
+            "name": "Earthshaker Arcana Style 2",
+            "author": "Papapodzaborniy",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker%20Arcana%20Style%202.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/283/Earthshaker.Arcana.Style.2.zip",
+            "createdAt": "2026-08-10T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "earthshaker",
+            "heroLabel": "Earthshaker",
+            "slot": "set"
+          },
           {
             "name": "Cosmic Earthshaker",
             "author": "dota2pornfx",
@@ -11630,17 +11641,6 @@
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Juggernaut-Ancient-Exile.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Juggernaut.Ancient.Exile.zip",
             "createdAt": "2026-06-07T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "juggernaut",
-            "heroLabel": "Juggernaut",
-            "slot": "set"
-          },
-          {
-            "name": "Juggernaut Script Honor",
-            "author": "Dikiychyvak",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Juggernaut-Script-Honor.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/Juggernaut.Script.Honor.zip",
-            "createdAt": "2026-06-30T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "juggernaut",
             "heroLabel": "Juggernaut",
@@ -27279,7 +27279,7 @@
             "hero": "anti_mage",
             "heroLabel": "Anti Mage",
             "slot": "set",
-            "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Anti%20Mage%20Bloody%20Reaper.mp4"
+            "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Anti Mage Bloody Reaper.mp4"
           },
           {
             "name": "Luna Whitemoon Stalker Custom",
@@ -27323,17 +27323,6 @@
             "categoryId": "heroes",
             "hero": "lina",
             "heroLabel": "Lina",
-            "slot": "set"
-          },
-          {
-            "name": "Juggernaut Script Honor",
-            "author": "Dikiychyvak",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Juggernaut-Script-Honor.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/Juggernaut.Script.Honor.zip",
-            "createdAt": "2026-06-30T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "juggernaut",
-            "heroLabel": "Juggernaut",
             "slot": "set"
           },
           {
