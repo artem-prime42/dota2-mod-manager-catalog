@@ -27838,6 +27838,38 @@
           "discord": null
         },
         "mods": []
+      },
+      {
+        "id": "pudgek",
+        "displayName": "pudgek",
+        "avatarUrl": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/ds-el_pudgek.jpg",
+        "website": null,
+        "github": null,
+        "telegram": null,
+        "discord": null,
+        "authorLink": null,
+        "links": {
+          "steam": null,
+          "telegram": null,
+          "youtube": null,
+          "twitch": null,
+          "github": null,
+          "website": null,
+          "discord": null
+        },
+        "mods": [
+          {
+            "name": "Pudge Toy Butcher Black",
+            "author": "pudgek",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge%20Toy%20Butcher%20Black.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/284/Pudge.Toy.Butcher.Black.zip",
+            "createdAt": "2026-08-10T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "pudge",
+            "heroLabel": "Pudge",
+            "slot": "set"
+          }
+        ]
       }
     ]
   },
