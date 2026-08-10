@@ -6208,6 +6208,17 @@
           "slot": "set"
         },
         {
+          "name": "Mirana Photax Fluttercat",
+          "author": "pudgek",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mirana%20Photax%20Fluttercat.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/284/Mirana.Photax.Fluttercat.zip",
+          "createdAt": "2026-08-10T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "mirana",
+          "heroLabel": "Mirana",
+          "slot": "set"
+        },
+        {
           "name": "Pink Nyx Assassin",
           "author": "Darkness",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pink-Nyx-Assassin.webp",
