@@ -619,6 +619,17 @@
           "slot": "set"
         },
         {
+          "name": "Grimstroke The Chained Scribe",
+          "author": "mopsyara",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Grimstroke The Chained Scribe.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/283/Grimstorke.The.Chained.Scribe.zip",
+          "createdAt": "2026-08-10T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "grimstroke",
+          "heroLabel": "Grimstroke",
+          "slot": "set"
+        },
+        {
           "name": "Huskar Flashpoint Proselyte",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Huskar-Flashpoint-Proselyte.webp",
@@ -1838,6 +1849,28 @@
           "hero": "naga_siren",
           "heroLabel": "Naga Siren",
           "slot": "weapon"
+        },
+        {
+          "name": "Naga Siren Goldfish",
+          "author": "NahuiToSay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Naga Siren Goldfish.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/283/Naga.Siren.Goldfish.zip",
+          "createdAt": "2026-08-10T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "naga_siren",
+          "heroLabel": "Naga Siren",
+          "slot": "set"
+        },
+        {
+          "name": "Naga Siren 42 Bratuha",
+          "author": "NahuiToSay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Naga Siren 42 Bratuha.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/283/Naga.Siren.42.Bratuha.zip",
+          "createdAt": "2026-08-10T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "naga_siren",
+          "heroLabel": "Naga Siren",
+          "slot": "set"
         },
         {
           "name": "Pauldrons of Eternal Harvest",
@@ -6964,6 +6997,17 @@
             "hero": "grimstroke",
             "heroLabel": "Grimstroke",
             "slot": "set"
+          },
+          {
+            "name": "Grimstroke The Chained Scribe",
+            "author": "mopsyara",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Grimstroke The Chained Scribe.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/283/Grimstorke.The.Chained.Scribe.zip",
+            "createdAt": "2026-08-10T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "grimstroke",
+            "heroLabel": "Grimstroke",
+            "slot": "set"
           }
         ],
         "huskar": [
@@ -8154,6 +8198,28 @@
             "hero": "naga_siren",
             "heroLabel": "Naga Siren",
             "slot": "weapon"
+          },
+          {
+            "name": "Naga Siren Goldfish",
+            "author": "NahuiToSay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Naga Siren Goldfish.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/283/Naga.Siren.Goldfish.zip",
+            "createdAt": "2026-08-10T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "naga_siren",
+            "heroLabel": "Naga Siren",
+            "slot": "set"
+          },
+          {
+            "name": "Naga Siren 42 Bratuha",
+            "author": "NahuiToSay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Naga Siren 42 Bratuha.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/283/Naga.Siren.42.Bratuha.zip",
+            "createdAt": "2026-08-10T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "naga_siren",
+            "heroLabel": "Naga Siren",
+            "slot": "set"
           }
         ],
         "shadow_fiend": [
