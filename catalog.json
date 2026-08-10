@@ -399,6 +399,50 @@
           "slot": "set"
         },
         {
+          "name": "Dragonclaw Hook",
+          "author": "Arthas",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dragonclaw-Hook.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/284/Dragonclaw.Hook.zip",
+          "createdAt": "2026-08-10T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "pudge",
+          "heroLabel": "Pudge",
+          "slot": "weapon"
+        },
+        {
+          "name": "Insatiable Bonesaw",
+          "author": "Arthas",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Insatiable%20Bonesaw.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/284/Insatiable.Bonesaw.zip",
+          "createdAt": "2026-08-10T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "pudge",
+          "heroLabel": "Pudge",
+          "slot": "off_hand"
+        },
+        {
+          "name": "Rotten Stache",
+          "author": "Arthas",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rotten%20Stache.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/284/Rotten.Stache.zip",
+          "createdAt": "2026-08-10T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "pudge",
+          "heroLabel": "Pudge",
+          "slot": "head"
+        },
+        {
+          "name": "Pudge Toy Butcher Black",
+          "author": "ds-el_pudgek",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge%20Toy%20Butcher%20Black.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/284/Pudge.Toy.Butcher.Black.zip",
+          "createdAt": "2026-08-10T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "pudge",
+          "heroLabel": "Pudge",
+          "slot": "set"
+        },
+        {
           "name": "Direcourt Jester Cap",
           "author": "Papapodzaborniy",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Direcourt-Jester-Cap.webp",
