@@ -413,6 +413,20 @@
           ]
         },
         {
+          "name": "Feast of Abscession Hook Bundle",
+          "author": "lansoty",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Feast of Abscession Hook Bundle.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/285/Feast.of.Abscession.Hook.Bundle.zip",
+          "createdAt": "2026-08-12T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "pudge",
+          "heroLabel": "Pudge",
+          "slot": "weapon",
+          "tags": [
+            "immortal"
+          ]
+        },
+        {
           "name": "Insatiable Bonesaw",
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Insatiable%20Bonesaw.webp",
@@ -2242,6 +2256,20 @@
           "hero": "shadow_fiend",
           "heroLabel": "Shadow Fiend",
           "slot": "set"
+        },
+        {
+          "name": "shadow fiend avice mode",
+          "author": "Tenkay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/shadow fiend avice mode.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/285/shadow.fiend.avice.mode.zip",
+          "createdAt": "2026-08-12T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "shadow_fiend",
+          "heroLabel": "Shadow Fiend",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ]
         },
         {
           "name": "Hell-Spar Anathema Crimson",
