@@ -407,7 +407,10 @@
           "categoryId": "heroes",
           "hero": "pudge",
           "heroLabel": "Pudge",
-          "slot": "weapon"
+          "slot": "weapon",
+          "tags": [
+            "immortal"
+          ]
         },
         {
           "name": "Insatiable Bonesaw",
@@ -924,7 +927,10 @@
           "categoryId": "heroes",
           "hero": "ember_spirit",
           "heroLabel": "Ember Spirit",
-          "slot": "weapon"
+          "slot": "weapon",
+          "tags": [
+            "immortal"
+          ]
         },
         {
           "name": "Rapier of the Burning God Offhand",
@@ -935,7 +941,10 @@
           "categoryId": "heroes",
           "hero": "ember_spirit",
           "heroLabel": "Ember Spirit",
-          "slot": "off_hand"
+          "slot": "off_hand",
+          "tags": [
+            "immortal"
+          ]
         },
         {
           "name": "Meepo Diretide",
@@ -1068,6 +1077,20 @@
           "hero": "doom",
           "heroLabel": "Doom",
           "slot": "weapon"
+        },
+        {
+          "name": "Doom sematary spells + ultimate song",
+          "author": "XIIIpsiblade",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Doom sematary spells + ultimate song.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/284/Doom.sematary.spells.+.ultimate.song.zip",
+          "createdAt": "2026-08-11T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "doom",
+          "heroLabel": "Doom",
+          "slot": "set",
+          "tags": [
+            "immortal"
+          ]
         },
         {
           "name": "Morphling Fluid Frenzy",
@@ -3203,7 +3226,10 @@
           "categoryId": "heroes",
           "hero": "phantom_lancer",
           "heroLabel": "Phantom Lancer",
-          "slot": "set"
+          "slot": "set",
+          "tags": [
+            "immortal"
+          ]
         },
         {
           "name": "Concord Reversion",
@@ -4908,7 +4934,10 @@
           "categoryId": "heroes",
           "hero": "slark",
           "heroLabel": "Slark",
-          "slot": "set"
+          "slot": "set",
+          "tags": [
+            "immortal"
+          ]
         },
         {
           "name": "Dark Ancient Slark",
@@ -5612,7 +5641,10 @@
           "categoryId": "heroes",
           "hero": "jakiro",
           "heroLabel": "Jakiro",
-          "slot": "set"
+          "slot": "set",
+          "tags": [
+            "anime"
+          ]
         },
         {
           "name": "Immortal Jakiro",
@@ -6239,7 +6271,10 @@
           "categoryId": "heroes",
           "hero": "mirana",
           "heroLabel": "Mirana",
-          "slot": "set"
+          "slot": "set",
+          "tags": [
+            "immortal"
+          ]
         },
         {
           "name": "Pink Nyx Assassin",
@@ -6427,6 +6462,20 @@
           "hero": "vengeful_spirit",
           "heroLabel": "Vengeful Spirit",
           "slot": "set"
+        },
+        {
+          "name": "Vengeful Spirit Arcana",
+          "author": "lansory",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Vengeful-Spirit-Arcana.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/284/Vengeful.Spirit.Arcana.zip",
+          "createdAt": "2026-08-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "vengeful_spirit",
+          "heroLabel": "Vengeful Spirit",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ]
         },
         {
           "name": "Black Witch Doctor",
@@ -7346,7 +7395,10 @@
             "categoryId": "heroes",
             "hero": "ember_spirit",
             "heroLabel": "Ember Spirit",
-            "slot": "weapon"
+            "slot": "weapon",
+            "tags": [
+              "immortal"
+            ]
           },
           {
             "name": "Rapier of the Burning God Offhand",
@@ -7357,7 +7409,10 @@
             "categoryId": "heroes",
             "hero": "ember_spirit",
             "heroLabel": "Ember Spirit",
-            "slot": "off_hand"
+            "slot": "off_hand",
+            "tags": [
+              "immortal"
+            ]
           }
         ],
         "meepo": [
@@ -7494,6 +7549,20 @@
             "hero": "doom",
             "heroLabel": "Doom",
             "slot": "weapon"
+          },
+          {
+            "name": "Doom sematary spells + ultimate song",
+            "author": "XIIIpsiblade",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Doom sematary spells + ultimate song.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/284/Doom.sematary.spells.+.ultimate.song.zip",
+            "createdAt": "2026-08-11T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "doom",
+            "heroLabel": "Doom",
+            "slot": "set",
+            "tags": [
+              "immortal"
+            ]
           }
         ],
         "morphling": [
@@ -11370,7 +11439,10 @@
             "categoryId": "heroes",
             "hero": "slark",
             "heroLabel": "Slark",
-            "slot": "set"
+            "slot": "set",
+            "tags": [
+              "immortal"
+            ]
           },
           {
             "name": "Dark Ancient Slark",
@@ -12110,7 +12182,10 @@
             "categoryId": "heroes",
             "hero": "jakiro",
             "heroLabel": "Jakiro",
-            "slot": "set"
+            "slot": "set",
+            "tags": [
+              "anime"
+            ]
           },
           {
             "name": "Immortal Jakiro",
@@ -12974,6 +13049,20 @@
             "hero": "vengeful_spirit",
             "heroLabel": "Vengeful Spirit",
             "slot": "set"
+          },
+          {
+            "name": "Vengeful Spirit Arcana",
+            "author": "lansory",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Vengeful-Spirit-Arcana.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/284/Vengeful.Spirit.Arcana.zip",
+            "createdAt": "2026-08-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "vengeful_spirit",
+            "heroLabel": "Vengeful Spirit",
+            "slot": "set",
+            "tags": [
+              "arcana"
+            ]
           }
         ],
         "witch_doctor": [
