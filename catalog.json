@@ -655,6 +655,18 @@
           "slot": "set"
         },
         {
+          "name": "Wraith King Papich",
+          "author": "XIIIpsiblade",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wraith King papich.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/285/Wraith.King.papich.zip",
+          "createdAt": "2026-08-11T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "wraith_king",
+          "heroLabel": "Wraith King",
+          "slot": "set",
+          "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/papich%20+%20sound%20taunt.mp4"
+        },
+        {
           "name": "Grimstroke Gloom Shroud",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Grimstroke-Gloom-Shroud.webp",
@@ -14767,6 +14779,18 @@
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Axe%20Rip%20Your%20Head.mp4"
         },
         {
+          "name": "Taunt Wraith King Papich",
+          "author": "XIIIpsiblade",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Taunt Fit to Rule Papich.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/285/Taunt.Fit.to.Rule.Papich.zip",
+          "createdAt": "2026-08-11T00:00:00.000Z",
+          "categoryId": "hero-sounds",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null,
+          "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/TAUNT%20PAPPARAM%20PAPICH.mp4"
+        },
+        {
           "name": "Ursa Already Red",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ursa-Already-Red.webp",
@@ -17873,6 +17897,18 @@
           "hero": null,
           "heroLabel": null,
           "slot": null
+        },
+        {
+          "name": "Reincarnation song papich",
+          "author": "XIIIpsiblade",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Reincarnation song papich.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/285/Reincarnation.song.papich.zip",
+          "createdAt": "2026-08-11T00:00:00.000Z",
+          "categoryId": "sounds",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null,
+          "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Reincarnation%20song%20papich.mp4"
         }
       ],
       "cursors": [
