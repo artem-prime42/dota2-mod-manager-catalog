@@ -8367,6 +8367,17 @@
             "hero": "naga_siren",
             "heroLabel": "Naga Siren",
             "slot": "set"
+          },
+          {
+            "name": "naga siren blue",
+            "author": "NahuiToSay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/naga siren blue.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/284/naga.siren.blue.zip",
+            "createdAt": "2026-08-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "naga_siren",
+            "heroLabel": "Naga Siren",
+            "slot": "set"
           }
         ],
         "shadow_fiend": [
@@ -28002,6 +28013,42 @@
             "hero": "pudge",
             "heroLabel": "Pudge",
             "slot": "set"
+          }
+        ]
+      }
+      ,
+      {
+        "id": "lansory",
+        "displayName": "lansory",
+        "avatarUrl": null,
+        "website": null,
+        "github": null,
+        "telegram": null,
+        "discord": null,
+        "authorLink": null,
+        "links": {
+          "steam": null,
+          "telegram": null,
+          "youtube": null,
+          "twitch": null,
+          "github": null,
+          "website": null,
+          "discord": null
+        },
+        "mods": [
+          {
+            "name": "Vengeful Spirit Arcana",
+            "author": "lansory",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Vengeful Spirit Arcana.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/284/Vengeful.Spirit.Arcana.zip",
+            "createdAt": "2026-08-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "vengeful_spirit",
+            "heroLabel": "Vengeful Spirit",
+            "slot": "set",
+            "tags": [
+              "arcana"
+            ]
           }
         ]
       }
