@@ -1940,6 +1940,17 @@
           "slot": "set"
         },
         {
+          "name": "naga siren blue",
+          "author": "NahuiToSay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/naga siren blue.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/284/naga.siren.blue.zip",
+          "createdAt": "2026-08-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "naga_siren",
+          "heroLabel": "Naga Siren",
+          "slot": "set"
+        },
+        {
           "name": "Pauldrons of Eternal Harvest",
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pauldrons-of-Eternal-Harvest.webp",
