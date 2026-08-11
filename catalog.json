@@ -14137,6 +14137,28 @@
           "slot": null
         },
         {
+          "name": "simple Dark Terrain minify",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/simple Dark Terrain minify.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/285/simple.Dark.Terrain.minify.zip",
+          "createdAt": "2026-08-11T00:00:00.000Z",
+          "categoryId": "terrains",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
+          "name": "simple Dark Terrain minify v2",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/simple Dark Terrain minify v2.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/285/simple.Dark.Terrain.minify.v2.zip",
+          "createdAt": "2026-08-11T00:00:00.000Z",
+          "categoryId": "terrains",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
+        },
+        {
           "name": "LowPoly+Trees",
           "author": "Darkness",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Low-Poly-Trees.webp",
