@@ -3421,6 +3421,20 @@
           "slot": "set"
         },
         {
+          "name": "Phantom Assassin Arcana",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/phantom assassin arcana.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/285/phantom.assassin.arcana.zip",
+          "createdAt": "2026-08-12T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "phantom_assassin",
+          "heroLabel": "Phantom Assassin",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ]
+        },
+        {
           "name": "Arc Warden Ancient Gaoler",
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Arc-Warden-Ancient-Gaoler.webp",
@@ -6135,6 +6149,20 @@
           "hero": "rubick",
           "heroLabel": "Rubick",
           "slot": "set"
+        },
+        {
+          "name": "Rubick Arcana",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rubick Arcana.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/285/Rubick.Arcana.zip",
+          "createdAt": "2026-08-12T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "rubick",
+          "heroLabel": "Rubick",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ]
         },
         {
           "name": "Custom Largo",
