@@ -12065,6 +12065,17 @@
             "hero": "sven",
             "heroLabel": "Sven",
             "slot": "weapon"
+          },
+          {
+            "name": "Sven Immortal Indomitable Legacy",
+            "author": "ceomods",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sven Immortal Indomitable Legacy.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/285/Sven.Immortal.Indomitable.Legacy.zip",
+            "createdAt": "2026-08-12T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "sven",
+            "heroLabel": "Sven",
+            "slot": "set"
           }
         ],
         "sand_king": [
