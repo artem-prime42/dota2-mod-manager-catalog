@@ -399,6 +399,21 @@
           "downloads": 25
         },
         {
+          "name": "Pudge immortal",
+          "author": "Tenkay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge immortal.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Pudge.immortal.zip",
+          "createdAt": "2026-08-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "pudge",
+          "heroLabel": "Pudge",
+          "slot": "set",
+          "tags": [
+            "immortal"
+          ],
+          "downloads": 0
+        },
+        {
           "name": "Gopo Pudge",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Gopo-Pudge.webp",
@@ -19698,6 +19713,34 @@
     },
     "recentlyAddedMods": [
       {
+        "name": "Pudge immortal",
+        "author": "Tenkay",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge immortal.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Pudge.immortal.zip",
+        "createdAt": "2026-08-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "pudge",
+        "heroLabel": "Pudge",
+        "slot": "set",
+        "tags": [
+          "immortal"
+        ]
+      },
+      {
+        "name": "Morphling Immortal Electro Gem",
+        "author": "ceomods",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling Immortal Electro Gem.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Morphling.Immortal.Electro.Gem.zip",
+        "createdAt": "2026-08-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "morphling",
+        "heroLabel": "Morphling",
+        "slot": "set",
+        "tags": [
+          "immortal"
+        ]
+      },
+      {
         "name": "Outworld Destroyer Ulqiorra",
         "author": "Anonymous",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Outworld Destroyer Ulqiorra.webp",
@@ -29022,6 +29065,20 @@
             "slot": "set"
           },
           {
+            "name": "Morphling Immortal Electro Gem",
+            "author": "ceomods",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling Immortal Electro Gem.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Morphling.Immortal.Electro.Gem.zip",
+            "createdAt": "2026-08-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "morphling",
+            "heroLabel": "Morphling",
+            "slot": "set",
+            "tags": [
+              "immortal"
+            ]
+          },
+          {
             "name": "Juggernaut Purple Samurai",
             "author": "ceomods",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-07-25-21-10-34.jpg",
@@ -29225,6 +29282,20 @@
             "hero": "bloodseeker",
             "heroLabel": "Bloodseeker",
             "slot": "off_hand"
+          },
+          {
+            "name": "Pudge immortal",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge immortal.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Pudge.immortal.zip",
+            "createdAt": "2026-08-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "pudge",
+            "heroLabel": "Pudge",
+            "slot": "set",
+            "tags": [
+              "immortal"
+            ]
           },
           {
             "name": "Spectre Crescent Huntress",
