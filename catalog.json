@@ -3,6 +3,34 @@
     "modsData": {
       "heroes": [
         {
+          "name": "Morphling Immortal Electro Gem",
+          "author": "ceomods",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling Immortal Electro Gem.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Morphling.Immortal.Electro.Gem.zip",
+          "createdAt": "2026-08-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "morphling",
+          "heroLabel": "Morphling",
+          "slot": "set",
+          "tags": [
+            "immortal"
+          ]
+        },
+        {
+          "name": "Sven Immortal Indomitable Legacy",
+          "author": "ceomods",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sven Immortal Indomitable Legacy.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/285/Sven.Immortal.Indomitable.Legacy.zip",
+          "createdAt": "2026-08-13T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "sven",
+          "heroLabel": "Sven",
+          "slot": "set",
+          "tags": [
+            "immortal"
+          ]
+        },
+        {
           "name": "Red Abaddon",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Red-Abaddon.webp",
@@ -12169,20 +12197,6 @@
             "hero": "sven",
             "heroLabel": "Sven",
             "slot": "weapon"
-          },
-          {
-            "name": "Sven Immortal Indomitable Legacy",
-            "author": "ceomods",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sven Immortal Indomitable Legacy.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/285/Sven.Immortal.Indomitable.Legacy.zip",
-            "createdAt": "2026-08-13T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "sven",
-            "heroLabel": "Sven",
-            "slot": "set",
-            "tags": [
-              "Immortal"
-            ]
           }
         ],
         "sand_king": [
@@ -19752,7 +19766,7 @@
         "heroLabel": "Morphling",
         "slot": "set",
         "tags": [
-          "Immortal"
+          "immortal"
         ]
       },
       {
@@ -19791,7 +19805,7 @@
         "heroLabel": "Sven",
         "slot": "set",
         "tags": [
-          "Immortal"
+          "immortal"
         ]
       },
       {
@@ -29082,7 +29096,7 @@
             "heroLabel": "Sven",
             "slot": "set",
             "tags": [
-              "Immortal"
+              "immortal"
             ]
           },
           {
@@ -29096,7 +29110,7 @@
             "heroLabel": "Morphling",
             "slot": "set",
             "tags": [
-              "Immortal"
+              "immortal"
             ]
           },
           {
