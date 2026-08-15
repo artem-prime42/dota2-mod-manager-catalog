@@ -1990,7 +1990,10 @@
           "categoryId": "heroes",
           "hero": "invoker",
           "heroLabel": "Invoker",
-          "slot": "set"
+          "slot": "set",
+          "tags": [
+            "Immortal"
+          ]
         },
         {
           "name": "Stormborn",
@@ -2975,7 +2978,10 @@
           "categoryId": "heroes",
           "hero": "beastmaster",
           "heroLabel": "Beastmaster",
-          "slot": "set"
+          "slot": "set",
+          "tags": [
+            "Immortal"
+          ]
         },
         {
           "name": "Pugna Nightwither Revenant",
@@ -8519,7 +8525,10 @@
             "categoryId": "heroes",
             "hero": "morphling",
             "heroLabel": "Morphling",
-            "slot": "set"
+            "slot": "set",
+            "tags": [
+              "Immortal"
+            ]
           }
         ],
         "troll_warlord": [
@@ -12101,7 +12110,10 @@
             "categoryId": "heroes",
             "hero": "sven",
             "heroLabel": "Sven",
-            "slot": "set"
+            "slot": "set",
+            "tags": [
+              "Immortal"
+            ]
           },
           {
             "name": "Sven Indomitable Legacy",
@@ -12167,7 +12179,10 @@
             "categoryId": "heroes",
             "hero": "sven",
             "heroLabel": "Sven",
-            "slot": "set"
+            "slot": "set",
+            "tags": [
+              "Immortal"
+            ]
           }
         ],
         "sand_king": [
@@ -19737,7 +19752,7 @@
         "heroLabel": "Morphling",
         "slot": "set",
         "tags": [
-          "immortal"
+          "Immortal"
         ]
       },
       {
@@ -19774,7 +19789,10 @@
         "categoryId": "heroes",
         "hero": "sven",
         "heroLabel": "Sven",
-        "slot": "set"
+        "slot": "set",
+        "tags": [
+          "Immortal"
+        ]
       },
       {
         "name": "Ember Spirit immortal fire",
@@ -29062,7 +29080,10 @@
             "categoryId": "heroes",
             "hero": "sven",
             "heroLabel": "Sven",
-            "slot": "set"
+            "slot": "set",
+            "tags": [
+              "Immortal"
+            ]
           },
           {
             "name": "Morphling Immortal Electro Gem",
@@ -29075,7 +29096,7 @@
             "heroLabel": "Morphling",
             "slot": "set",
             "tags": [
-              "immortal"
+              "Immortal"
             ]
           },
           {
