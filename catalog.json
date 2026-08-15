@@ -1956,6 +1956,28 @@
           "downloads": 12
         },
         {
+          "name": "Ice Invoker",
+          "author": "ceomods",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ice Invoker.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Ice.Invoker.zip",
+          "createdAt": "2026-08-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "invoker",
+          "heroLabel": "Invoker",
+          "slot": "set"
+        },
+        {
+          "name": "Avice Aura Invoker",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Avice Aura Invoker.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Avice.Aura.Invoker.zip",
+          "createdAt": "2026-08-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "invoker",
+          "heroLabel": "Invoker",
+          "slot": "set"
+        },
+        {
           "name": "Stormborn",
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Stormborn.png",
@@ -2924,6 +2946,17 @@
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Beastmaster-Bone-Armor.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/215/Beastmaster.Bone.Armor.zip",
           "createdAt": "2026-06-04T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "beastmaster",
+          "heroLabel": "Beastmaster",
+          "slot": "set"
+        },
+        {
+          "name": "Crimson Beastmaster",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crimson Beastmaster.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Crimson.Beastmaster.zip",
+          "createdAt": "2026-08-15T00:00:00.000Z",
           "categoryId": "heroes",
           "hero": "beastmaster",
           "heroLabel": "Beastmaster",
@@ -5992,6 +6025,17 @@
           "downloads": 288
         },
         {
+          "name": "Juggernaut Pilgrimage of the Bladeform Aesthete",
+          "author": "Tenkay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Juggernaut Pilgrimage of the Bladeform Aesthete.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Juggernaut.Pilgrimage.of.the.Bladeform.Aesthete.zip",
+          "createdAt": "2026-08-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "juggernaut",
+          "heroLabel": "Juggernaut",
+          "slot": "set"
+        },
+        {
           "name": "Lifestealer Golden Maw",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lifestealer-Golden-Maw.webp",
@@ -7678,6 +7722,17 @@
             "hero": "pudge",
             "heroLabel": "Pudge",
             "slot": "head"
+          },
+          {
+            "name": "Pudge immortal",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge immortal.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Pudge.immortal.zip",
+            "createdAt": "2026-08-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "pudge",
+            "heroLabel": "Pudge",
+            "slot": "set"
           }
         ],
         "broodmother": [
@@ -8435,6 +8490,17 @@
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling Darktrench Stalker.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Morphling.Darktrench.Stalker.zip",
             "createdAt": "2026-07-21T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "morphling",
+            "heroLabel": "Morphling",
+            "slot": "set"
+          },
+          {
+            "name": "Morphling Immortal Electro Gem",
+            "author": "ceomods",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling Immortal Electro Gem.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Morphling.Immortal.Electro.Gem.zip",
+            "createdAt": "2026-08-15T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "morphling",
             "heroLabel": "Morphling",
