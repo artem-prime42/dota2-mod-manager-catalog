@@ -2987,6 +2987,21 @@
           "downloads": 45
         },
         {
+          "name": "Primal Paean of the Crimson Witness",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Primal Paean of the Crimson Witness.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Primal.Paean.of.the.Crimson.Witness.zip",
+          "createdAt": "2026-08-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "beastmaster",
+          "heroLabel": "Beastmaster",
+          "slot": "shoulders",
+          "downloads": 0,
+          "tags": [
+            "Immortal"
+          ]
+        },
+        {
           "name": "Beastmaster Bone Armor",
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Beastmaster-Bone-Armor.webp",
@@ -19778,6 +19793,20 @@
         "slot": "set",
         "tags": [
           "immortal"
+        ]
+      },
+      {
+        "name": "Primal Paean of the Crimson Witness",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Primal Paean of the Crimson Witness.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Primal.Paean.of.the.Crimson.Witness.zip",
+        "createdAt": "2026-08-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "beastmaster",
+        "heroLabel": "Beastmaster",
+        "slot": "shoulders",
+        "tags": [
+          "Immortal"
         ]
       },
       {
