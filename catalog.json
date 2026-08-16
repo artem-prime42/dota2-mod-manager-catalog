@@ -294,6 +294,21 @@
           "downloads": 173
         },
         {
+          "name": "Io Arcana",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/IO Benevolent Companion.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/IO.Benevolent.Companion.zip",
+          "createdAt": "2026-08-17T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "io",
+          "heroLabel": "Io",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
           "name": "Hunter's Hoard",
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hunter-s-Hoard.webp",
@@ -7669,11 +7684,11 @@
             "slot": "set"
           },
           {
-            "name": "IO Arcana",
+            "name": "Io Arcana",
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/IO Benevolent Companion.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/IO.Benevolent.Companion.zip",
-            "createdAt": "2026-08-16T00:00:00.000Z",
+            "createdAt": "2026-08-17T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "io",
             "heroLabel": "Io",
@@ -19975,20 +19990,6 @@
         "slot": "set",
         "tags": [
           "immortal"
-        ]
-      },
-      {
-        "name": "IO Arcana",
-        "author": "Anonymous",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/IO Benevolent Companion.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/IO.Benevolent.Companion.zip",
-        "createdAt": "2026-08-16T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "io",
-        "heroLabel": "Io",
-        "slot": "set",
-        "tags": [
-          "arcana"
         ]
       },
       {
