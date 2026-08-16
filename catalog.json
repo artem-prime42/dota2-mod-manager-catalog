@@ -48,6 +48,21 @@
           "downloads": 0
         },
         {
+          "name": "Insight of Forlorn Precipice of the Crimson Witness",
+          "author": "Arthas",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Insight of Forlorn Precipice of the Crimson Witness.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Insight.of.Forlorn.Precipice.of.the.Crimson.Witness.zip",
+          "createdAt": "2026-08-17T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "dark_seer",
+          "heroLabel": "Dark Seer",
+          "slot": "head",
+          "tags": [
+            "immortal"
+          ],
+          "downloads": 0
+        },
+        {
           "name": "Morphling Immortal Electro Gem",
           "author": "ceomods",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling Immortal Electro Gem.webp",
@@ -13585,6 +13600,17 @@
             "hero": "dark_seer",
             "heroLabel": "Dark Seer",
             "slot": "set"
+          },
+          {
+            "name": "Insight of Forlorn Precipice of the Crimson Witness",
+            "author": "Arthas",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Insight of Forlorn Precipice of the Crimson Witness.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Insight.of.Forlorn.Precipice.of.the.Crimson.Witness.zip",
+            "createdAt": "2026-08-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "dark_seer",
+            "heroLabel": "Dark Seer",
+            "slot": "head"
           },
           {
             "name": "Golden Bracers of Forlorn Precipice",
