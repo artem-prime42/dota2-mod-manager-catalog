@@ -12,6 +12,9 @@
           "hero": "anti_mage",
           "heroLabel": "Anti Mage",
           "slot": "armor",
+          "tags": [
+            "immortal"
+          ],
           "downloads": 0
         },
         {
@@ -24,18 +27,24 @@
           "hero": "mirana",
           "heroLabel": "Mirana",
           "slot": "set",
+          "tags": [
+            "immortal"
+          ],
           "downloads": 0
         },
         {
           "name": "Dark Seer Immortal set",
           "author": "Arthas",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/images/Dark%20Seer%20Immortal%20set.jpg",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark Seer Immortal set.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Dark.Seer.Immortal.sets.zip",
           "createdAt": "2026-08-17T00:00:00.000Z",
           "categoryId": "heroes",
           "hero": "dark_seer",
           "heroLabel": "Dark Seer",
           "slot": "set",
+          "tags": [
+            "immortal"
+          ],
           "downloads": 0
         },
         {
@@ -13554,7 +13563,7 @@
           {
             "name": "Dark Seer Immortal set",
             "author": "Arthas",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/images/Dark%20Seer%20Immortal%20set.jpg",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark Seer Immortal set.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Dark.Seer.Immortal.sets.zip",
             "createdAt": "2026-08-17T00:00:00.000Z",
             "categoryId": "heroes",
