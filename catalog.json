@@ -3682,6 +3682,20 @@
           "downloads": 100
         },
         {
+          "name": "Phantom Lancer Epileptick1d Mod",
+          "author": "Tenkay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Phantom Lancer Epileptick1d Mod.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Phantom.Lancer.Epileptick1d.Mod.zip",
+          "createdAt": "2026-08-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "phantom_lancer",
+          "heroLabel": "Phantom Lancer",
+          "slot": "set",
+          "tags": [
+            "immortal"
+          ]
+        },
+        {
           "name": "Phantom lancer rich",
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-07-21-18-27-49.jpg",
@@ -4267,6 +4281,20 @@
           "downloads": 338
         },
         {
+          "name": "Fire Puck",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Fire Puck.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Fire.Puck.zip",
+          "createdAt": "2026-08-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "puck",
+          "heroLabel": "Puck",
+          "slot": "set",
+          "tags": [
+            "immortal"
+          ]
+        },
+        {
           "name": "Earthshaker Arcana Style 2",
           "author": "Papapodzaborniy",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker%20Arcana%20Style%202.jpg",
@@ -4553,6 +4581,20 @@
           "heroLabel": "Tinker",
           "slot": "set",
           "downloads": 221
+        },
+        {
+          "name": "Lens Tinker",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/LenS.Tinker.zip",
+          "createdAt": "2026-08-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "tinker",
+          "heroLabel": "Tinker",
+          "slot": "set",
+          "tags": [
+            "immortal"
+          ]
         },
         {
           "name": "bloodseeker eztzhok",
@@ -6820,6 +6862,20 @@
           "downloads": 164
         },
         {
+          "name": "Rubick Immortal Arcana",
+          "author": "lansory",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rubick Immortal Arcana.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Rubick.Immortal.Arcana.zip",
+          "createdAt": "2026-08-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "rubick",
+          "heroLabel": "Rubick",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ]
+        },
+        {
           "name": "Rubick Arcana",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rubick Arcana.webp",
@@ -7566,6 +7622,20 @@
             "hero": "io",
             "heroLabel": "Io",
             "slot": "set"
+          },
+          {
+            "name": "IO Benevolent Companion",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/IO Benevolent Companion.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/IO.Benevolent.Companion.zip",
+            "createdAt": "2026-08-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "io",
+            "heroLabel": "Io",
+            "slot": "set",
+            "tags": [
+              "arcana"
+            ]
           }
         ],
         "bounty_hunter": [
@@ -19774,6 +19844,76 @@
     },
     "recentlyAddedMods": [
       {
+        "name": "Rubick Immortal Arcana",
+        "author": "lansory",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rubick Immortal Arcana.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Rubick.Immortal.Arcana.zip",
+        "createdAt": "2026-08-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "rubick",
+        "heroLabel": "Rubick",
+        "slot": "set",
+        "tags": [
+          "arcana"
+        ]
+      },
+      {
+        "name": "Lens Tinker",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/LenS.Tinker.zip",
+        "createdAt": "2026-08-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "tinker",
+        "heroLabel": "Tinker",
+        "slot": "set",
+        "tags": [
+          "immortal"
+        ]
+      },
+      {
+        "name": "Phantom Lancer Epileptick1d Mod",
+        "author": "Tenkay",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Phantom Lancer Epileptick1d Mod.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Phantom.Lancer.Epileptick1d.Mod.zip",
+        "createdAt": "2026-08-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "phantom_lancer",
+        "heroLabel": "Phantom Lancer",
+        "slot": "set",
+        "tags": [
+          "immortal"
+        ]
+      },
+      {
+        "name": "Fire Puck",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Fire Puck.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Fire.Puck.zip",
+        "createdAt": "2026-08-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "puck",
+        "heroLabel": "Puck",
+        "slot": "set",
+        "tags": [
+          "immortal"
+        ]
+      },
+      {
+        "name": "IO Benevolent Companion",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/IO Benevolent Companion.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/IO.Benevolent.Companion.zip",
+        "createdAt": "2026-08-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "io",
+        "heroLabel": "Io",
+        "slot": "set",
+        "tags": [
+          "arcana"
+        ]
+      },
+      {
         "name": "Pudge immortal",
         "author": "Tenkay",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge immortal.jpg",
@@ -29628,6 +29768,20 @@
           "discord": null
         },
         "mods": [
+          {
+            "name": "Rubick Immortal Arcana",
+            "author": "lansory",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rubick Immortal Arcana.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Rubick.Immortal.Arcana.zip",
+            "createdAt": "2026-08-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "rubick",
+            "heroLabel": "Rubick",
+            "slot": "set",
+            "tags": [
+              "arcana"
+            ]
+          },
           {
             "name": "Vengeful Spirit Arcana",
             "author": "lansory",
