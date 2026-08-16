@@ -3,6 +3,42 @@
     "modsData": {
       "heroes": [
         {
+          "name": "Golden Origins of Faith",
+          "author": "Arthas",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden Origins of Faith.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Golden.Origins.of.Faith.zip",
+          "createdAt": "2026-08-17T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "anti_mage",
+          "heroLabel": "Anti Mage",
+          "slot": "armor",
+          "downloads": 0
+        },
+        {
+          "name": "Mirana Purple Set",
+          "author": "Arthas",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mirana Purple Set.jpg",
+          "file": "",
+          "createdAt": "2026-08-17T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "mirana",
+          "heroLabel": "Mirana",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Dark Seer Immortal set",
+          "author": "Arthas",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/images/Dark Seer Immortal set.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Dark.Seer.Immortal.sets.zip",
+          "createdAt": "2026-08-17T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "dark_seer",
+          "heroLabel": "Dark Seer",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
           "name": "Morphling Immortal Electro Gem",
           "author": "ceomods",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling Immortal Electro Gem.webp",
@@ -7626,7 +7662,7 @@
           {
             "name": "IO Benevolent Companion",
             "author": "Anonymous",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/IO%20Benevolent%20Companion.webp",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/IO Benevolent Companion.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/IO.Benevolent.Companion.zip",
             "createdAt": "2026-08-16T00:00:00.000Z",
             "categoryId": "heroes",
@@ -10085,6 +10121,17 @@
           }
         ],
         "anti_mage": [
+          {
+            "name": "Golden Origins of Faith",
+            "author": "Arthas",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden Origins of Faith.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Golden.Origins.of.Faith.zip",
+            "createdAt": "2026-08-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "anti_mage",
+            "heroLabel": "Anti Mage",
+            "slot": "armor"
+          },
           {
             "name": "Anti Mage Turstarkuri Pilgrim",
             "author": "Anonymous",
@@ -13505,6 +13552,17 @@
         ],
         "dark_seer": [
           {
+            "name": "Dark Seer Immortal set",
+            "author": "Arthas",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/images/Dark Seer Immortal set.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Dark.Seer.Immortal.sets.zip",
+            "createdAt": "2026-08-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "dark_seer",
+            "heroLabel": "Dark Seer",
+            "slot": "set"
+          },
+          {
             "name": "Golden Bracers of Forlorn Precipice",
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Bracers-of-Forlorn-Precipice.webp",
@@ -13904,6 +13962,17 @@
           }
         ],
         "mirana": [
+          {
+            "name": "Mirana Purple Set",
+            "author": "Arthas",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mirana Purple Set.jpg",
+            "file": "",
+            "createdAt": "2026-08-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "mirana",
+            "heroLabel": "Mirana",
+            "slot": "set"
+          },
           {
             "name": "Mirana Suigintou",
             "author": "Anonymous",
@@ -19902,7 +19971,7 @@
       {
         "name": "IO Benevolent Companion",
         "author": "Anonymous",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/IO%20Benevolent%20Companion.webp",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/IO Benevolent Companion.webp",
         "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/IO.Benevolent.Companion.zip",
         "createdAt": "2026-08-16T00:00:00.000Z",
         "categoryId": "heroes",
