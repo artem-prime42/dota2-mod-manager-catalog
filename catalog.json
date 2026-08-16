@@ -901,6 +901,18 @@
           "downloads": 20
         },
         {
+          "name": "Custom herald of the ember eye",
+          "author": "hi",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/herald of the ember eye.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/herald.of.the.ember.eye.zip",
+          "createdAt": "2026-08-17T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "grimstroke",
+          "heroLabel": "Grimstroke",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
           "name": "Huskar Flashpoint Proselyte",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Huskar-Flashpoint-Proselyte.webp",
@@ -8174,6 +8186,17 @@
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Grimstorke The Chained Scribe.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/283/Grimstorke.The.Chained.Scribe.zip",
             "createdAt": "2026-08-10T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "grimstroke",
+            "heroLabel": "Grimstroke",
+            "slot": "set"
+          },
+          {
+            "name": "Custom herald of the ember eye",
+            "author": "hi",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/herald of the ember eye.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/herald.of.the.ember.eye.zip",
+            "createdAt": "2026-08-17T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "grimstroke",
             "heroLabel": "Grimstroke",
@@ -29876,6 +29899,38 @@
             "categoryId": "heroes",
             "hero": "pudge",
             "heroLabel": "Pudge",
+            "slot": "set"
+          }
+        ]
+      },
+      {
+        "id": "hi",
+        "displayName": "hi",
+        "avatarUrl": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/hi.jpg",
+        "website": null,
+        "github": null,
+        "telegram": null,
+        "discord": null,
+        "authorLink": null,
+        "links": {
+          "steam": null,
+          "telegram": null,
+          "youtube": null,
+          "twitch": null,
+          "github": null,
+          "website": null,
+          "discord": null
+        },
+        "mods": [
+          {
+            "name": "Custom herald of the ember eye",
+            "author": "hi",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/herald of the ember eye.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/herald.of.the.ember.eye.zip",
+            "createdAt": "2026-08-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "grimstroke",
+            "heroLabel": "Grimstroke",
             "slot": "set"
           }
         ]
