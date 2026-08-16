@@ -63,6 +63,21 @@
           "downloads": 0
         },
         {
+          "name": "Keeper of Oloxicam's Glass Hourglass",
+          "author": "Arthas",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper of Oloxicam's Glass Hourglass.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Keeper.of.Oloxicam.s.Glass.Hourglass.zip",
+          "createdAt": "2026-08-17T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "dark_seer",
+          "heroLabel": "Dark Seer",
+          "slot": "back",
+          "tags": [
+            "immortal"
+          ],
+          "downloads": 0
+        },
+        {
           "name": "Morphling Immortal Electro Gem",
           "author": "ceomods",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling Immortal Electro Gem.webp",
@@ -13611,6 +13626,17 @@
             "hero": "dark_seer",
             "heroLabel": "Dark Seer",
             "slot": "head"
+          },
+          {
+            "name": "Keeper of Oloxicam's Glass Hourglass",
+            "author": "Arthas",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper of Oloxicam's Glass Hourglass.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Keeper.of.Oloxicam.s.Glass.Hourglass.zip",
+            "createdAt": "2026-08-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "dark_seer",
+            "heroLabel": "Dark Seer",
+            "slot": "back"
           },
           {
             "name": "Golden Bracers of Forlorn Precipice",
