@@ -27,6 +27,9 @@
           "hero": "slark",
           "heroLabel": "Slark",
           "slot": "weapon",
+          "tags": [
+            "immortal"
+          ],
           "downloads": 0
         },
         {
@@ -12646,7 +12649,10 @@
             "hero": "slark",
             "heroLabel": "Slark",
             "slot": "weapon",
-            "downloads": 0
+              "tags": [
+                "immortal"
+              ],
+              "downloads": 0
           }
         ],
         "sniper": [
