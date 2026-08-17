@@ -18,6 +18,18 @@
           "downloads": 0
         },
         {
+          "name": "Golden Hydrakan Latch",
+          "author": "Tenkay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden Hydrakan Latch.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Golden.Hydrakan.Latch.zip",
+          "createdAt": "2026-08-17T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "slark",
+          "heroLabel": "Slark",
+          "slot": "weapon",
+          "downloads": 0
+        },
+        {
           "name": "Mirana Purple Set",
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mirana Purple Set.jpg",
@@ -12623,6 +12635,18 @@
             "hero": "slark",
             "heroLabel": "Slark",
             "slot": "set"
+          },
+          {
+            "name": "Golden Hydrakan Latch",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden Hydrakan Latch.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Golden.Hydrakan.Latch.zip",
+            "createdAt": "2026-08-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "slark",
+            "heroLabel": "Slark",
+            "slot": "weapon",
+            "downloads": 0
           }
         ],
         "sniper": [
