@@ -11759,6 +11759,48 @@
         ],
         "clinkz": [
           {
+            "name": "Clinkz Leader of the Molten Army",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Clinkz Leader of the Molten Army.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Clinkz.Leader.of.the.Molten.Army.zip",
+            "createdAt": "2026-08-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "clinkz",
+            "heroLabel": "Clinkz",
+            "slot": "set",
+            "tags": [
+              "Immortal"
+            ]
+          },
+          {
+            "name": "Maraxiform's Fate",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Maraxiform's Fate.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Clinkz.Maraxiforms.Fate.zip",
+            "createdAt": "2026-08-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "clinkz",
+            "heroLabel": "Clinkz",
+            "slot": "weapon",
+            "tags": [
+              "Immortal"
+            ]
+          },
+          {
+            "name": "Maraxiforms Ire Prem",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Maraxiforms Ire Prem.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Clinkz.Maraxiforms.Ire.zip",
+            "createdAt": "2026-08-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "clinkz",
+            "heroLabel": "Clinkz",
+            "slot": "back",
+            "tags": [
+              "Immortal"
+            ]
+          },
+          {
             "name": "Clinkz Silver Metall Pink",
             "author": "Darkness",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Clinkz-Silver-Metall-Pink.webp",
@@ -12374,6 +12416,20 @@
           }
         ],
         "sven": [
+          {
+            "name": "Sven Holy Paladin",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sven Holy Paladin.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Sven.Holy.Paladin.zip",
+            "createdAt": "2026-08-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "sven",
+            "heroLabel": "Sven",
+            "slot": "set",
+            "tags": [
+              "Immortal"
+            ]
+          },
           {
             "name": "Sven Immortal Indomitable Legacy",
             "author": "ceomods",
@@ -13271,6 +13327,20 @@
           }
         ],
         "nature_prophet": [
+          {
+            "name": "Natures Prophet Immortal Allfather",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Natures Prophet Immortal Allfather.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Natures.Prophet.Immortal.Allfather.zip",
+            "createdAt": "2026-08-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "nature_prophet",
+            "heroLabel": "Nature Prophet",
+            "slot": "set",
+            "tags": [
+              "Immortal"
+            ]
+          },
           {
             "name": "Natures Prophet Allfather",
             "author": "dota2pornfx",
@@ -20144,6 +20214,76 @@
         ]
       },
       {
+        "name": "Clinkz Leader of the Molten Army",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Clinkz Leader of the Molten Army.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Clinkz.Leader.of.the.Molten.Army.zip",
+        "createdAt": "2026-08-17T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "clinkz",
+        "heroLabel": "Clinkz",
+        "slot": "set",
+        "tags": [
+          "Immortal"
+        ]
+      },
+      {
+        "name": "Maraxiform's Fate",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Maraxiform's Fate.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Clinkz.Maraxiforms.Fate.zip",
+        "createdAt": "2026-08-17T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "clinkz",
+        "heroLabel": "Clinkz",
+        "slot": "weapon",
+        "tags": [
+          "Immortal"
+        ]
+      },
+      {
+        "name": "Maraxiforms Ire Prem",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Maraxiforms Ire Prem.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Clinkz.Maraxiforms.Ire.zip",
+        "createdAt": "2026-08-17T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "clinkz",
+        "heroLabel": "Clinkz",
+        "slot": "back",
+        "tags": [
+          "Immortal"
+        ]
+      },
+      {
+        "name": "Natures Prophet Immortal Allfather",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Natures Prophet Immortal Allfather.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Natures.Prophet.Immortal.Allfather.zip",
+        "createdAt": "2026-08-17T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "nature_prophet",
+        "heroLabel": "Nature Prophet",
+        "slot": "set",
+        "tags": [
+          "Immortal"
+        ]
+      },
+      {
+        "name": "Sven Holy Paladin",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sven Holy Paladin.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Sven.Holy.Paladin.zip",
+        "createdAt": "2026-08-17T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "sven",
+        "heroLabel": "Sven",
+        "slot": "set",
+        "tags": [
+          "Immortal"
+        ]
+      },
+      {
         "name": "Outworld Destroyer Ulqiorra",
         "author": "Anonymous",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Outworld Destroyer Ulqiorra.webp",
@@ -21625,9 +21765,11 @@
         "name": "Clinkz",
         "slug": "clinkz",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/clinkz.png",
-        "modsCount": 1,
+        "modsCount": 4,
         "slots": [
-          "set"
+          "set",
+          "weapon",
+          "back"
         ]
       },
       {
@@ -21743,7 +21885,7 @@
         "name": "Sven",
         "slug": "sven",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/sven.png",
-        "modsCount": 5,
+        "modsCount": 6,
         "slots": [
           "set",
           "weapon"
@@ -21950,7 +22092,7 @@
         "name": "Nature Prophet",
         "slug": "nature_prophet",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/nature_prophet.png",
-        "modsCount": 5,
+        "modsCount": 6,
         "slots": [
           "set"
         ]
