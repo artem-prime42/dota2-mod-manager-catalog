@@ -135,6 +135,75 @@
           "downloads": 51
         },
         {
+          "name": "Disciple of the Wyrmwrought Flame",
+          "author": "mopsyara",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Disciple of the Wyrmwrought Flame.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Lina.Wyrmwrought.Flame.zip",
+          "createdAt": "2026-08-18T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "lina",
+          "heroLabel": "Lina",
+          "slot": "set",
+          "tags": [
+            "Immortal"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Blistering Shade of the Crimson Witness",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Blistering Shade of the Crimson Witness.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Wraith.King.Blistering.Crimson.zip",
+          "createdAt": "2026-08-18T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "wraith_king",
+          "heroLabel": "Wraith King",
+          "slot": "hands",
+          "tags": [
+            "Immortal"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Wraith King Radiance",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wraith King Radiance.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Wraith.King.Radiance.zip",
+          "createdAt": "2026-08-18T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "wraith_king",
+          "heroLabel": "Wraith King",
+          "slot": "weapon",
+          "downloads": 0
+        },
+        {
+          "name": "Leshrac Immortal Set",
+          "author": "Arthas",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Leshrac Immortal Set.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Leshrac.Immortal.Set.zip",
+          "createdAt": "2026-08-18T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "leshrac",
+          "heroLabel": "Leshrac",
+          "slot": "set",
+          "tags": [
+            "Immortal"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Tinker Vodolaz V2",
+          "author": "Arthas",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker Vodolaz V2.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Tinker.Vodolaz.V2.zip",
+          "createdAt": "2026-08-18T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "tinker",
+          "heroLabel": "Tinker",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
           "name": "Red Abaddon",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Red-Abaddon.webp",
@@ -8287,6 +8356,31 @@
             "hero": "wraith_king",
             "heroLabel": "Wraith King",
             "slot": "set"
+          },
+          {
+            "name": "Blistering Shade of the Crimson Witness",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Blistering Shade of the Crimson Witness.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Wraith.King.Blistering.Crimson.zip",
+            "createdAt": "2026-08-18T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "wraith_king",
+            "heroLabel": "Wraith King",
+            "slot": "hands",
+            "tags": [
+              "Immortal"
+            ]
+          },
+          {
+            "name": "Wraith King Radiance",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wraith King Radiance.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Wraith.King.Radiance.zip",
+            "createdAt": "2026-08-18T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "wraith_king",
+            "heroLabel": "Wraith King",
+            "slot": "weapon"
           }
         ],
         "grimstroke": [
@@ -12719,6 +12813,36 @@
             "hero": "lina",
             "heroLabel": "Lina",
             "slot": "set"
+          },
+          {
+            "name": "Disciple of the Wyrmwrought Flame",
+            "author": "mopsyara",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Disciple of the Wyrmwrought Flame.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Lina.Wyrmwrought.Flame.zip",
+            "createdAt": "2026-08-18T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "lina",
+            "heroLabel": "Lina",
+            "slot": "set",
+            "tags": [
+              "Immortal"
+            ]
+          }
+        ],
+        "leshrac": [
+          {
+            "name": "Leshrac Immortal Set",
+            "author": "Arthas",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Leshrac Immortal Set.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Leshrac.Immortal.Set.zip",
+            "createdAt": "2026-08-18T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "leshrac",
+            "heroLabel": "Leshrac",
+            "slot": "set",
+            "tags": [
+              "Immortal"
+            ]
           }
         ],
         "lone_druid": [
@@ -20242,6 +20366,70 @@
       ]
     },
     "recentlyAddedMods": [
+      {
+        "name": "Disciple of the Wyrmwrought Flame",
+        "author": "mopsyara",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Disciple of the Wyrmwrought Flame.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Lina.Wyrmwrought.Flame.zip",
+        "createdAt": "2026-08-18T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "lina",
+        "heroLabel": "Lina",
+        "slot": "set",
+        "tags": [
+          "Immortal"
+        ]
+      },
+      {
+        "name": "Blistering Shade of the Crimson Witness",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Blistering Shade of the Crimson Witness.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Wraith.King.Blistering.Crimson.zip",
+        "createdAt": "2026-08-18T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "wraith_king",
+        "heroLabel": "Wraith King",
+        "slot": "hands",
+        "tags": [
+          "Immortal"
+        ]
+      },
+      {
+        "name": "Wraith King Radiance",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wraith King Radiance.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Wraith.King.Radiance.zip",
+        "createdAt": "2026-08-18T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "wraith_king",
+        "heroLabel": "Wraith King",
+        "slot": "weapon"
+      },
+      {
+        "name": "Leshrac Immortal Set",
+        "author": "Arthas",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Leshrac Immortal Set.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Leshrac.Immortal.Set.zip",
+        "createdAt": "2026-08-18T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "leshrac",
+        "heroLabel": "Leshrac",
+        "slot": "set",
+        "tags": [
+          "Immortal"
+        ]
+      },
+      {
+        "name": "Tinker Vodolaz V2",
+        "author": "Arthas",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker Vodolaz V2.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Tinker.Vodolaz.V2.zip",
+        "createdAt": "2026-08-18T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "tinker",
+        "heroLabel": "Tinker",
+        "slot": "set"
+      },
       {
         "name": "Sven Holy Paladin",
         "author": "Anonymous",
