@@ -143,7 +143,7 @@
           "categoryId": "heroes",
           "hero": "lina",
           "heroLabel": "Lina",
-          "slot": "set",
+          "slot": "neck",
           "tags": [
             "Immortal"
           ],
@@ -12823,7 +12823,7 @@
             "categoryId": "heroes",
             "hero": "lina",
             "heroLabel": "Lina",
-            "slot": "set",
+            "slot": "neck",
             "tags": [
               "Immortal"
             ]
@@ -20375,7 +20375,7 @@
         "categoryId": "heroes",
         "hero": "lina",
         "heroLabel": "Lina",
-        "slot": "set",
+        "slot": "neck",
         "tags": [
           "Immortal"
         ]
