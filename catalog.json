@@ -3523,6 +3523,21 @@
           "downloads": 49
         },
         {
+          "name": "Drow Ranger immortal",
+          "author": "Tenkay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/drow ranger immortal.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/drow.ranger.immortal.zip",
+          "createdAt": "2026-08-17T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "drow_ranger",
+          "heroLabel": "Drow Ranger",
+          "slot": "set",
+          "tags": [
+            "Immortal"
+          ],
+          "downloads": 0
+        },
+        {
           "name": "Dark Willow Saccharine Saboteur",
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Willow-Saccharine-Saboteur.webp",
@@ -3689,6 +3704,21 @@
           "heroLabel": "Luna",
           "slot": "set",
           "downloads": 140
+        },
+        {
+          "name": "luna crescent wheel",
+          "author": "Tenkay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/luna crescent wheel.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/luna.crescent.wheel.zip",
+          "createdAt": "2026-08-17T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "luna",
+          "heroLabel": "Luna",
+          "slot": "set",
+          "tags": [
+            "Immortal"
+          ],
+          "downloads": 0
         },
         {
           "name": "Concord Dominion",
@@ -10610,6 +10640,20 @@
             "hero": "drow_ranger",
             "heroLabel": "Drow Ranger",
             "slot": "set"
+          },
+          {
+            "name": "Drow Ranger immortal",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/drow ranger immortal.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/drow.ranger.immortal.zip",
+            "createdAt": "2026-08-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "drow_ranger",
+            "heroLabel": "Drow Ranger",
+            "slot": "set",
+            "tags": [
+              "Immortal"
+            ]
           }
         ],
         "dark_willow": [
@@ -10770,6 +10814,20 @@
             "hero": "luna",
             "heroLabel": "Luna",
             "slot": "set"
+          },
+          {
+            "name": "luna crescent wheel",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/luna crescent wheel.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/luna.crescent.wheel.zip",
+            "createdAt": "2026-08-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "luna",
+            "heroLabel": "Luna",
+            "slot": "set",
+            "tags": [
+              "Immortal"
+            ]
           }
         ],
         "phantom_lancer": [
@@ -20538,6 +20596,34 @@
         "hero": "luna",
         "heroLabel": "Luna",
         "slot": "set"
+      },
+      {
+        "name": "luna crescent wheel",
+        "author": "Tenkay",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/luna crescent wheel.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/luna.crescent.wheel.zip",
+        "createdAt": "2026-08-17T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "luna",
+        "heroLabel": "Luna",
+        "slot": "set",
+        "tags": [
+          "Immortal"
+        ]
+      },
+      {
+        "name": "Drow Ranger immortal",
+        "author": "Tenkay",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/drow ranger immortal.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/drow.ranger.immortal.zip",
+        "createdAt": "2026-08-17T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "drow_ranger",
+        "heroLabel": "Drow Ranger",
+        "slot": "set",
+        "tags": [
+          "Immortal"
+        ]
       },
       {
         "name": "Marci Blue Horizons",
