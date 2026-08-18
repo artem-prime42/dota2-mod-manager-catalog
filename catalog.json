@@ -3523,7 +3523,7 @@
           "downloads": 49
         },
         {
-          "name": "Drow Ranger immortal",
+          "name": "drow ranger immortal",
           "author": "Tenkay",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/drow ranger immortal.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/drow.ranger.immortal.zip",
@@ -10642,7 +10642,7 @@
             "slot": "set"
           },
           {
-            "name": "Drow Ranger immortal",
+            "name": "drow ranger immortal",
             "author": "Tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/drow ranger immortal.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/drow.ranger.immortal.zip",
@@ -20310,6 +20310,34 @@
         ]
       },
       {
+        "name": "drow ranger immortal",
+        "author": "Tenkay",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/drow ranger immortal.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/drow.ranger.immortal.zip",
+        "createdAt": "2026-08-17T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "drow_ranger",
+        "heroLabel": "Drow Ranger",
+        "slot": "set",
+        "tags": [
+          "Immortal"
+        ]
+      },
+      {
+        "name": "luna crescent wheel",
+        "author": "Tenkay",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/luna crescent wheel.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/luna.crescent.wheel.zip",
+        "createdAt": "2026-08-17T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "luna",
+        "heroLabel": "Luna",
+        "slot": "set",
+        "tags": [
+          "Immortal"
+        ]
+      },
+      {
         "name": "Rubick Immortal Arcana",
         "author": "lansory",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rubick Immortal Arcana.webp",
@@ -20596,34 +20624,6 @@
         "hero": "luna",
         "heroLabel": "Luna",
         "slot": "set"
-      },
-      {
-        "name": "luna crescent wheel",
-        "author": "Tenkay",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/luna crescent wheel.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/luna.crescent.wheel.zip",
-        "createdAt": "2026-08-17T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "luna",
-        "heroLabel": "Luna",
-        "slot": "set",
-        "tags": [
-          "Immortal"
-        ]
-      },
-      {
-        "name": "Drow Ranger immortal",
-        "author": "Tenkay",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/drow ranger immortal.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/drow.ranger.immortal.zip",
-        "createdAt": "2026-08-17T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "drow_ranger",
-        "heroLabel": "Drow Ranger",
-        "slot": "set",
-        "tags": [
-          "Immortal"
-        ]
       },
       {
         "name": "Marci Blue Horizons",
