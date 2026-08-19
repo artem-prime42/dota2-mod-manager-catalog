@@ -14837,14 +14837,14 @@
           "downloads": 142
         }
       ],
-      "interface": [
+      "huds": [
         {
           "name": "Black Hud",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Black-Hud.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/20/Black.Hud.zip",
           "createdAt": "2026-05-15T00:00:00.000Z",
-          "categoryId": "interface",
+          "categoryId": "huds",
           "hero": null,
           "heroLabel": null,
           "slot": null,
@@ -14856,13 +14856,14 @@
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/White-Sora-Hud.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/111/pak05_dir.vpk",
           "createdAt": "2026-06-04T00:00:00.000Z",
-          "categoryId": "interface",
+          "categoryId": "huds",
           "hero": null,
           "heroLabel": null,
           "slot": null,
           "downloads": 526
         }
       ],
+      "interface": [],
       "wards": [
         {
           "name": "Floes Tower",
@@ -18701,7 +18702,7 @@
           "name": "Enigmatic Emblem of the Diretide - Green",
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Enigmatic-Emblem-of-the-Diretide-Green.webp",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/bp2/Enigmatic.Emblem.of.the.Diretide.-.Green.zip",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/pak28_dir.vpk",
           "createdAt": "2026-05-15T00:00:00.000Z",
           "categoryId": "emblems",
           "hero": null,
@@ -18713,7 +18714,7 @@
           "name": "Enigmatic Emblem of the Diretide - Blue",
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Enigmatic-Emblem-of-the-Diretide-Blue.webp",
-          "file": "https://github.com.artem-prime42/dota2-mods/releases/download/bm3/Enigmatic.Emblem.of.the.Diretide.-.Blue.zip",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/pak29_dir.vpk",
           "createdAt": "2026-05-15T00:00:00.000Z",
           "categoryId": "emblems",
           "hero": null,
@@ -21292,6 +21293,11 @@
         "id": "backgrounds",
         "label": "backgrounds",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sad-Maomao.webp"
+      },
+      {
+        "id": "huds",
+        "label": "huds",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Black-Hud.webp"
       },
       {
         "id": "announcers",
@@ -26334,7 +26340,7 @@
             "name": "Enigmatic Emblem of the Diretide - Green",
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Enigmatic-Emblem-of-the-Diretide-Green.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/bp2/Enigmatic.Emblem.of.the.Diretide.-.Green.zip",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/pak28_dir.vpk",
             "createdAt": "2026-05-15T00:00:00.000Z",
             "categoryId": "emblems",
             "hero": null,
@@ -26345,7 +26351,7 @@
             "name": "Enigmatic Emblem of the Diretide - Blue",
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Enigmatic-Emblem-of-the-Diretide-Blue.webp",
-            "file": "https://github.com.artem-prime42/dota2-mods/releases/download/bm3/Enigmatic.Emblem.of.the.Diretide.-.Blue.zip",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/pak35_dir.vpk",
             "createdAt": "2026-05-15T00:00:00.000Z",
             "categoryId": "emblems",
             "hero": null,
