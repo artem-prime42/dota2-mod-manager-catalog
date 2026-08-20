@@ -4639,6 +4639,18 @@
           "downloads": 841
         },
         {
+          "name": "Earthshaker Bindings of Deep Magma",
+          "author": "Tenkay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker Bindings of Deep Magma.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/Earthshaker.Bindings.of.Deep.Magma.zip",
+          "createdAt": "2026-08-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "earthshaker",
+          "heroLabel": "Earthshaker",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
           "name": "Marci Cosmic Cartographer",
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cosmic-Cartographer.webp",
@@ -11765,6 +11777,18 @@
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker-Purple-Arcana.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/221/Earthshaker.Purple.Arcana.zip",
             "createdAt": "2026-06-09T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "earthshaker",
+            "heroLabel": "Earthshaker",
+            "slot": "set"
+          }
+          ,
+          {
+            "name": "Earthshaker Bindings of Deep Magma",
+            "author": "Tenkay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker Bindings of Deep Magma.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/Earthshaker.Bindings.of.Deep.Magma.zip",
+            "createdAt": "2026-08-20T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "earthshaker",
             "heroLabel": "Earthshaker",
