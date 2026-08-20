@@ -3386,6 +3386,42 @@
           "downloads": 0
         },
         {
+          "name": "Blade of the Survivor",
+          "author": "mopsyara",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Blade of the Survivor.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Blade.of.the.Survivor.zip",
+          "createdAt": "2026-08-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "anti_mage",
+          "heroLabel": "Anti Mage",
+          "slot": "weapon",
+          "downloads": 0
+        },
+        {
+          "name": "Offhand Blade of the Survivor",
+          "author": "mopsyara",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Offhand Blade of the Survivor.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Offhand.Blade.of.the.Survivor.zip",
+          "createdAt": "2026-08-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "anti_mage",
+          "heroLabel": "Anti Mage",
+          "slot": "off_hand",
+          "downloads": 0
+        },
+        {
+          "name": "Bracers of the Survivor",
+          "author": "mopsyara",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bracers of the Survivor.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Bracers.of.the.Survivor.zip",
+          "createdAt": "2026-08-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "anti_mage",
+          "heroLabel": "Anti Mage",
+          "slot": "hands",
+          "downloads": 0
+        },
+        {
           "name": "Belt of the Spectral Hunter",
           "author": "Papapodzaborniy",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Belt-of-the-Spectral-Hunter.webp",
@@ -10649,6 +10685,39 @@
             "hero": "anti_mage",
             "heroLabel": "Anti Mage",
             "slot": "armor"
+          },
+          {
+            "name": "Blade of the Survivor",
+            "author": "mopsyara",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Blade of the Survivor.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Blade.of.the.Survivor.zip",
+            "createdAt": "2026-08-20T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "anti_mage",
+            "heroLabel": "Anti Mage",
+            "slot": "weapon"
+          },
+          {
+            "name": "Offhand Blade of the Survivor",
+            "author": "mopsyara",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Offhand Blade of the Survivor.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Offhand.Blade.of.the.Survivor.zip",
+            "createdAt": "2026-08-20T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "anti_mage",
+            "heroLabel": "Anti Mage",
+            "slot": "off_hand"
+          },
+          {
+            "name": "Bracers of the Survivor",
+            "author": "mopsyara",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bracers of the Survivor.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Bracers.of.the.Survivor.zip",
+            "createdAt": "2026-08-20T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "anti_mage",
+            "heroLabel": "Anti Mage",
+            "slot": "hands"
           },
           {
             "name": "Golden Origins of Faith",
