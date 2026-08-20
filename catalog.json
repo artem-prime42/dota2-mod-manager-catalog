@@ -15,7 +15,7 @@
           "tags": [
             "immortal"
           ],
-          "downloads": 9
+          "downloads": 11
         },
         {
           "name": "Golden Hydrakan Latch",
@@ -30,7 +30,7 @@
           "tags": [
             "immortal"
           ],
-          "downloads": 7
+          "downloads": 8
         },
         {
           "name": "Mirana Purple Set",
@@ -45,7 +45,7 @@
           "tags": [
             "immortal"
           ],
-          "downloads": 55
+          "downloads": 56
         },
         {
           "name": "Dark Seer Immortal set",
@@ -60,7 +60,7 @@
           "tags": [
             "immortal"
           ],
-          "downloads": 49
+          "downloads": 59
         },
         {
           "name": "Insight of Forlorn Precipice of the Crimson Witness",
@@ -75,7 +75,7 @@
           "tags": [
             "immortal"
           ],
-          "downloads": 3
+          "downloads": 6
         },
         {
           "name": "Keeper of Oloxicam's Glass Hourglass",
@@ -90,7 +90,7 @@
           "tags": [
             "immortal"
           ],
-          "downloads": 3
+          "downloads": 6
         },
         {
           "name": "Keeper of Oloxicam's Glass Pauldrons",
@@ -102,7 +102,7 @@
           "hero": "dark_seer",
           "heroLabel": "Dark Seer",
           "slot": "shoulders",
-          "downloads": 0
+          "downloads": 1
         },
         {
           "name": "Book of the Vizier Exile",
@@ -114,7 +114,7 @@
           "hero": "dark_seer",
           "heroLabel": "Dark Seer",
           "slot": "back",
-          "downloads": 0
+          "downloads": 1
         },
         {
           "name": "Hood of the Vizier Exile",
@@ -126,7 +126,7 @@
           "hero": "dark_seer",
           "heroLabel": "Dark Seer",
           "slot": "head",
-          "downloads": 0
+          "downloads": 1
         },
         {
           "name": "Morphling Immortal Electro Gem",
@@ -141,7 +141,7 @@
           "tags": [
             "immortal"
           ],
-          "downloads": 148
+          "downloads": 160
         },
         {
           "name": "Sven Holy Paladin",
@@ -153,7 +153,7 @@
           "hero": "sven",
           "heroLabel": "Sven",
           "slot": "set",
-          "downloads": 19
+          "downloads": 24
         },
         {
           "name": "Sven Immortal Indomitable Legacy",
@@ -168,7 +168,7 @@
           "tags": [
             "immortal"
           ],
-          "downloads": 87
+          "downloads": 89
         },
         {
           "name": "Disciple of the Wyrmwrought Flame",
@@ -198,7 +198,7 @@
           "tags": [
             "Immortal"
           ],
-          "downloads": 21
+          "downloads": 23
         },
         {
           "name": "Wraith King Radiance",
@@ -210,7 +210,7 @@
           "hero": "wraith_king",
           "heroLabel": "Wraith King",
           "slot": "weapon",
-          "downloads": 11
+          "downloads": 12
         },
         {
           "name": "Leshrac Immortal Set",
@@ -225,7 +225,7 @@
           "tags": [
             "Immortal"
           ],
-          "downloads": 46
+          "downloads": 47
         },
         {
           "name": "Tinker Vodolaz V2",
@@ -237,7 +237,7 @@
           "hero": "tinker",
           "heroLabel": "Tinker",
           "slot": "set",
-          "downloads": 12
+          "downloads": 14
         },
         {
           "name": "Red Abaddon",
@@ -261,7 +261,7 @@
           "hero": "abaddon",
           "heroLabel": "Abaddon",
           "slot": "set",
-          "downloads": 477
+          "downloads": 478
         },
         {
           "name": "Abaddon Bloody Fallen King",
@@ -273,7 +273,7 @@
           "hero": "abaddon",
           "heroLabel": "Abaddon",
           "slot": "set",
-          "downloads": 253
+          "downloads": 254
         },
         {
           "name": "Abaddon frostmourne",
@@ -297,7 +297,7 @@
           "hero": "enigma",
           "heroLabel": "Enigma",
           "slot": "set",
-          "downloads": 310
+          "downloads": 311
         },
         {
           "name": "Cosmic Enigma",
@@ -309,7 +309,7 @@
           "hero": "enigma",
           "heroLabel": "Enigma",
           "slot": "set",
-          "downloads": 319
+          "downloads": 320
         },
         {
           "name": "Battlefury",
@@ -333,7 +333,7 @@
           "hero": "faceless_void",
           "heroLabel": "Faceless Void",
           "slot": "weapon",
-          "downloads": 187
+          "downloads": 192
         },
         {
           "name": "Mace of Aeons Oathbreaker",
@@ -357,7 +357,7 @@
           "hero": "faceless_void",
           "heroLabel": "Faceless Void",
           "slot": "weapon",
-          "downloads": 197
+          "downloads": 198
         },
         {
           "name": "Faceless Void Arcana",
@@ -369,7 +369,7 @@
           "hero": "faceless_void",
           "heroLabel": "Faceless Void",
           "slot": "set",
-          "downloads": 749
+          "downloads": 754
         },
         {
           "name": "Faceless Void Chrononaut Continuum",
@@ -381,7 +381,7 @@
           "hero": "faceless_void",
           "heroLabel": "Faceless Void",
           "slot": "set",
-          "downloads": 305
+          "downloads": 309
         },
         {
           "name": "Faceless Void Arcana Style 2",
@@ -393,7 +393,7 @@
           "hero": "faceless_void",
           "heroLabel": "Faceless Void",
           "slot": "set",
-          "downloads": 1299
+          "downloads": 1304
         },
         {
           "name": "IO Pink Arcana",
@@ -405,7 +405,7 @@
           "hero": "io",
           "heroLabel": "Io",
           "slot": "set",
-          "downloads": 628
+          "downloads": 629
         },
         {
           "name": "Galactic IO",
@@ -417,7 +417,7 @@
           "hero": "io",
           "heroLabel": "Io",
           "slot": "set",
-          "downloads": 300
+          "downloads": 301
         },
         {
           "name": "Chaos IO",
@@ -441,7 +441,7 @@
           "hero": "io",
           "heroLabel": "Io",
           "slot": "set",
-          "downloads": 240
+          "downloads": 243
         },
         {
           "name": "IO Histoire",
@@ -468,7 +468,7 @@
           "tags": [
             "arcana"
           ],
-          "downloads": 56
+          "downloads": 62
         },
         {
           "name": "Hunter's Hoard",
@@ -480,7 +480,7 @@
           "hero": "bounty_hunter",
           "heroLabel": "Bounty Hunter",
           "slot": "back",
-          "downloads": 150
+          "downloads": 152
         },
         {
           "name": "Tines of Tybara",
@@ -492,7 +492,7 @@
           "hero": "bounty_hunter",
           "heroLabel": "Bounty Hunter",
           "slot": "weapon",
-          "downloads": 174
+          "downloads": 176
         },
         {
           "name": "Bounty Hunter Old Man",
@@ -504,7 +504,7 @@
           "hero": "bounty_hunter",
           "heroLabel": "Bounty Hunter",
           "slot": "set",
-          "downloads": 134
+          "downloads": 136
         },
         {
           "name": "Bounty Hunter Old Man Night",
@@ -516,7 +516,7 @@
           "hero": "bounty_hunter",
           "heroLabel": "Bounty Hunter",
           "slot": "set",
-          "downloads": 189
+          "downloads": 191
         },
         {
           "name": "Bounty Hunter Old Verminator",
@@ -528,7 +528,7 @@
           "hero": "bounty_hunter",
           "heroLabel": "Bounty Hunter",
           "slot": "set",
-          "downloads": 76
+          "downloads": 79
         },
         {
           "name": "Batrider Night Snotty",
@@ -540,7 +540,7 @@
           "hero": "batrider",
           "heroLabel": "Batrider",
           "slot": "set",
-          "downloads": 132
+          "downloads": 133
         },
         {
           "name": "Batrider Apex Explorer",
@@ -552,7 +552,7 @@
           "hero": "batrider",
           "heroLabel": "Batrider",
           "slot": "set",
-          "downloads": 166
+          "downloads": 169
         },
         {
           "name": "Batrider Empiric Incendiary",
@@ -564,7 +564,7 @@
           "hero": "batrider",
           "heroLabel": "Batrider",
           "slot": "set",
-          "downloads": 94
+          "downloads": 95
         },
         {
           "name": "Pudge Toy Butcher",
@@ -576,7 +576,7 @@
           "hero": "pudge",
           "heroLabel": "Pudge",
           "slot": "set",
-          "downloads": 537
+          "downloads": 539
         },
         {
           "name": "Pudge Rotzo the Clown",
@@ -624,7 +624,7 @@
           "hero": "pudge",
           "heroLabel": "Pudge",
           "slot": "set",
-          "downloads": 107
+          "downloads": 108
         },
         {
           "name": "Hat of the Jolly Reaver",
@@ -663,7 +663,7 @@
           "tags": [
             "immortal"
           ],
-          "downloads": 60
+          "downloads": 64
         },
         {
           "name": "Gopo Pudge",
@@ -687,7 +687,7 @@
           "hero": "pudge",
           "heroLabel": "Pudge",
           "slot": "set",
-          "downloads": 642
+          "downloads": 643
         },
         {
           "name": "Pudge Clown Toy",
@@ -699,7 +699,7 @@
           "hero": "pudge",
           "heroLabel": "Pudge",
           "slot": "set",
-          "downloads": 165
+          "downloads": 166
         },
         {
           "name": "Dragonclaw Hook",
@@ -801,7 +801,7 @@
           "hero": "broodmother",
           "heroLabel": "Broodmother",
           "slot": "set",
-          "downloads": 1521
+          "downloads": 1529
         },
         {
           "name": "Broodmother Golden Orbweaver",
@@ -873,7 +873,7 @@
           "hero": "broodmother",
           "heroLabel": "Broodmother",
           "slot": "set",
-          "downloads": 320
+          "downloads": 323
         },
         {
           "name": "Purple Witch Broodmother",
@@ -969,7 +969,7 @@
           "hero": "wraith_king",
           "heroLabel": "Wraith King",
           "slot": "set",
-          "downloads": 824
+          "downloads": 830
         },
         {
           "name": "Wraith King as Papich",
@@ -993,7 +993,7 @@
           "hero": "wraith_king",
           "heroLabel": "Wraith King",
           "slot": "set",
-          "downloads": 46
+          "downloads": 47
         },
         {
           "name": "Wraith King Papich",
@@ -1042,7 +1042,7 @@
           "hero": "grimstroke",
           "heroLabel": "Grimstroke",
           "slot": "set",
-          "downloads": 17
+          "downloads": 19
         },
         {
           "name": "Huskar Flashpoint Proselyte",
@@ -1054,7 +1054,7 @@
           "hero": "huskar",
           "heroLabel": "Huskar",
           "slot": "set",
-          "downloads": 381
+          "downloads": 382
         },
         {
           "name": "Huskar The Burning Sentinel, Flashpoint Proselyte",
@@ -1066,7 +1066,7 @@
           "hero": "huskar",
           "heroLabel": "Huskar",
           "slot": "set",
-          "downloads": 445
+          "downloads": 447
         },
         {
           "name": "Blue Soul Huskar",
@@ -1102,7 +1102,7 @@
           "hero": "queen_of_pain",
           "heroLabel": "Queen Of Pain",
           "slot": "set",
-          "downloads": 757
+          "downloads": 758
         },
         {
           "name": "Nude Queen of Pain",
@@ -1114,7 +1114,7 @@
           "hero": "queen_of_pain",
           "heroLabel": "Queen Of Pain",
           "slot": "set",
-          "downloads": 614
+          "downloads": 616
         },
         {
           "name": "Cursed Queen of Pain",
@@ -1126,7 +1126,7 @@
           "hero": "queen_of_pain",
           "heroLabel": "Queen Of Pain",
           "slot": "set",
-          "downloads": 744
+          "downloads": 746
         },
         {
           "name": "Purple Queen of Pain",
@@ -1138,7 +1138,7 @@
           "hero": "queen_of_pain",
           "heroLabel": "Queen Of Pain",
           "slot": "set",
-          "downloads": 264
+          "downloads": 265
         },
         {
           "name": "Queen Of Pain Immortal",
@@ -1150,7 +1150,7 @@
           "hero": "queen_of_pain",
           "heroLabel": "Queen Of Pain",
           "slot": "set",
-          "downloads": 404
+          "downloads": 406
         },
         {
           "name": "Queen of pain Arcana",
@@ -1165,7 +1165,7 @@
           "tags": [
             "arcana"
           ],
-          "downloads": 136
+          "downloads": 139
         },
         {
           "name": "Terrorblade Immortal Arcana",
@@ -1177,7 +1177,7 @@
           "hero": "terrorblade",
           "heroLabel": "Terrorblade",
           "slot": "set",
-          "downloads": 251
+          "downloads": 252
         },
         {
           "name": "Terrorblade Black Arcana",
@@ -1189,7 +1189,7 @@
           "hero": "terrorblade",
           "heroLabel": "Terrorblade",
           "slot": "set",
-          "downloads": 383
+          "downloads": 384
         },
         {
           "name": "Terrorblade Unblinking Horror",
@@ -1201,7 +1201,7 @@
           "hero": "terrorblade",
           "heroLabel": "Terrorblade",
           "slot": "set",
-          "downloads": 462
+          "downloads": 464
         },
         {
           "name": "Terrorblade Fractal Horns of Inner red",
@@ -1213,7 +1213,7 @@
           "hero": "terrorblade",
           "heroLabel": "Terrorblade",
           "slot": "set",
-          "downloads": 472
+          "downloads": 479
         },
         {
           "name": "Terrorblade Fractal Horns of Inner WHITE",
@@ -1225,7 +1225,7 @@
           "hero": "terrorblade",
           "heroLabel": "Terrorblade",
           "slot": "set",
-          "downloads": 505
+          "downloads": 509
         },
         {
           "name": "Terrorblade Green Fractal Horns",
@@ -1237,7 +1237,7 @@
           "hero": "terrorblade",
           "heroLabel": "Terrorblade",
           "slot": "set",
-          "downloads": 432
+          "downloads": 435
         },
         {
           "name": "Terrorblade Fractal Horns of Inner WHITE v2",
@@ -1249,7 +1249,7 @@
           "hero": "terrorblade",
           "heroLabel": "Terrorblade",
           "slot": "set",
-          "downloads": 514
+          "downloads": 516
         },
         {
           "name": "Ember Spirit Cinder Sensei",
@@ -1273,7 +1273,7 @@
           "hero": "ember_spirit",
           "heroLabel": "Ember Spirit",
           "slot": "set",
-          "downloads": 862
+          "downloads": 867
         },
         {
           "name": "Ember Spirit Master of Searing Path",
@@ -1321,7 +1321,7 @@
           "hero": "ember_spirit",
           "heroLabel": "Ember Spirit",
           "slot": "set",
-          "downloads": 59
+          "downloads": 60
         },
         {
           "name": "Rapier of the Burning God",
@@ -1377,7 +1377,7 @@
           "hero": "meepo",
           "heroLabel": "Meepo",
           "slot": "set",
-          "downloads": 183
+          "downloads": 185
         },
         {
           "name": "Meepo Spolis of the Bone Ruins",
@@ -1401,7 +1401,7 @@
           "hero": "meepo",
           "heroLabel": "Meepo",
           "slot": "set",
-          "downloads": 335
+          "downloads": 336
         },
         {
           "name": "Meepo Mocking Bird",
@@ -1449,7 +1449,7 @@
           "hero": "meepo",
           "heroLabel": "Meepo",
           "slot": "set",
-          "downloads": 27
+          "downloads": 29
         },
         {
           "name": "Meepo lotus bird",
@@ -1461,7 +1461,7 @@
           "hero": "meepo",
           "heroLabel": "Meepo",
           "slot": "set",
-          "downloads": 86
+          "downloads": 87
         },
         {
           "name": "Doom Jeanne Alter",
@@ -1485,7 +1485,7 @@
           "hero": "doom",
           "heroLabel": "Doom",
           "slot": "set",
-          "downloads": 183
+          "downloads": 184
         },
         {
           "name": "Doom Fallen Khorne",
@@ -1524,7 +1524,7 @@
           "tags": [
             "immortal"
           ],
-          "downloads": 107
+          "downloads": 108
         },
         {
           "name": "Morphling Fluid Frenzy",
@@ -1536,7 +1536,7 @@
           "hero": "morphling",
           "heroLabel": "Morphling",
           "slot": "set",
-          "downloads": 499
+          "downloads": 500
         },
         {
           "name": "Morphling Darktrench Tears",
@@ -1548,7 +1548,7 @@
           "hero": "morphling",
           "heroLabel": "Morphling",
           "slot": "set",
-          "downloads": 887
+          "downloads": 891
         },
         {
           "name": "Morphling Darktrench Stalker Purple",
@@ -1584,7 +1584,7 @@
           "hero": "morphling",
           "heroLabel": "Morphling",
           "slot": "set",
-          "downloads": 209
+          "downloads": 213
         },
         {
           "name": "Morphling Megalodon",
@@ -1596,7 +1596,7 @@
           "hero": "morphling",
           "heroLabel": "Morphling",
           "slot": "set",
-          "downloads": 192
+          "downloads": 193
         },
         {
           "name": "Morphling Automaton",
@@ -1608,7 +1608,7 @@
           "hero": "morphling",
           "heroLabel": "Morphling",
           "slot": "set",
-          "downloads": 58
+          "downloads": 60
         },
         {
           "name": "Morphling Darktrench Stalker",
@@ -1632,7 +1632,7 @@
           "hero": "troll_warlord",
           "heroLabel": "Troll Warlord",
           "slot": "set",
-          "downloads": 95
+          "downloads": 96
         },
         {
           "name": "Zeus Arcana",
@@ -1644,7 +1644,7 @@
           "hero": "zeus",
           "heroLabel": "Zeus",
           "slot": "set",
-          "downloads": 906
+          "downloads": 913
         },
         {
           "name": "Cosmic Zeus",
@@ -1656,7 +1656,7 @@
           "hero": "zeus",
           "heroLabel": "Zeus",
           "slot": "set",
-          "downloads": 179
+          "downloads": 181
         },
         {
           "name": "Magus Accord",
@@ -1668,7 +1668,7 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "hands",
-          "downloads": 311
+          "downloads": 312
         },
         {
           "name": "Mask of the Divine Sorrow",
@@ -1680,7 +1680,7 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "head",
-          "downloads": 180
+          "downloads": 183
         },
         {
           "name": "Covenant of the Depths Mask",
@@ -1692,7 +1692,7 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "head",
-          "downloads": 34
+          "downloads": 35
         },
         {
           "name": "Dark Artistry Hair",
@@ -1752,7 +1752,7 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "hands",
-          "downloads": 133
+          "downloads": 135
         },
         {
           "name": "Sempiternal Revelations Hat Alt",
@@ -1812,7 +1812,7 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "summon",
-          "downloads": 183
+          "downloads": 184
         },
         {
           "name": "Heaven Piercing Pauldrons",
@@ -1824,7 +1824,7 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "shoulders",
-          "downloads": 241
+          "downloads": 243
         },
         {
           "name": "Dark Artistry Pauldrons",
@@ -1836,7 +1836,7 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "shoulders",
-          "downloads": 92
+          "downloads": 94
         },
         {
           "name": "Covenant of the Depths Robes",
@@ -1884,7 +1884,7 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "belt",
-          "downloads": 109
+          "downloads": 111
         },
         {
           "name": "Belt of Glorious Inspiration",
@@ -1920,7 +1920,7 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "back",
-          "downloads": 45
+          "downloads": 47
         },
         {
           "name": "Grievous Ingots",
@@ -1944,7 +1944,7 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "set",
-          "downloads": 1069
+          "downloads": 1072
         },
         {
           "name": "Invoker Immortal",
@@ -1956,7 +1956,7 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "set",
-          "downloads": 579
+          "downloads": 582
         },
         {
           "name": "Invoker Immortal Ascendant",
@@ -1980,7 +1980,7 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "set",
-          "downloads": 297
+          "downloads": 299
         },
         {
           "name": "Mantle of the Blackguard Magus",
@@ -2028,7 +2028,7 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "set",
-          "downloads": 265
+          "downloads": 266
         },
         {
           "name": "Invoker Bloody Wizard",
@@ -2040,7 +2040,7 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "set",
-          "downloads": 338
+          "downloads": 339
         },
         {
           "name": "Invoker Patchouli",
@@ -2064,7 +2064,7 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "set",
-          "downloads": 552
+          "downloads": 554
         },
         {
           "name": "Invoker Dark Artistry",
@@ -2076,7 +2076,7 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "set",
-          "downloads": 343
+          "downloads": 345
         },
         {
           "name": "Invoker Covenant of the Depths",
@@ -2208,7 +2208,7 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "summon",
-          "downloads": 76
+          "downloads": 78
         },
         {
           "name": "Nightlord Back",
@@ -2259,7 +2259,7 @@
           "tags": [
             "Immortal"
           ],
-          "downloads": 135
+          "downloads": 139
         },
         {
           "name": "Stormborn",
@@ -2271,7 +2271,7 @@
           "hero": "storm_spirit",
           "heroLabel": "Storm Spirit",
           "slot": "hands",
-          "downloads": 65
+          "downloads": 66
         },
         {
           "name": "Golden Mandate of the Stormborn",
@@ -2295,7 +2295,7 @@
           "hero": "storm_spirit",
           "heroLabel": "Storm Spirit",
           "slot": "head",
-          "downloads": 48
+          "downloads": 50
         },
         {
           "name": "The Lightning Orchid of Eminent Revival",
@@ -2307,7 +2307,7 @@
           "hero": "storm_spirit",
           "heroLabel": "Storm Spirit",
           "slot": "head",
-          "downloads": 96
+          "downloads": 99
         },
         {
           "name": "Old Storm Spirit",
@@ -2319,7 +2319,7 @@
           "hero": "storm_spirit",
           "heroLabel": "Storm Spirit",
           "slot": "set",
-          "downloads": 46
+          "downloads": 47
         },
         {
           "name": "Corridan Maestro",
@@ -2331,7 +2331,7 @@
           "hero": "storm_spirit",
           "heroLabel": "Storm Spirit",
           "slot": "armor",
-          "downloads": 107
+          "downloads": 108
         },
         {
           "name": "Storm Spirit Gold",
@@ -2343,7 +2343,7 @@
           "hero": "storm_spirit",
           "heroLabel": "Storm Spirit",
           "slot": "set",
-          "downloads": 1031
+          "downloads": 1039
         },
         {
           "name": "Storm Spirit Beast of Thunder",
@@ -2355,7 +2355,7 @@
           "hero": "storm_spirit",
           "heroLabel": "Storm Spirit",
           "slot": "set",
-          "downloads": 246
+          "downloads": 248
         },
         {
           "name": "Storm Spirit Corridan Maestro",
@@ -2379,7 +2379,7 @@
           "hero": "naga_siren",
           "heroLabel": "Naga Siren",
           "slot": "set",
-          "downloads": 210
+          "downloads": 212
         },
         {
           "name": "Naga Siren Allure Of The Deep",
@@ -2403,7 +2403,7 @@
           "hero": "naga_siren",
           "heroLabel": "Naga Siren",
           "slot": "set",
-          "downloads": 175
+          "downloads": 177
         },
         {
           "name": "Aquamarine Naga Siren",
@@ -2415,7 +2415,7 @@
           "hero": "naga_siren",
           "heroLabel": "Naga Siren",
           "slot": "set",
-          "downloads": 376
+          "downloads": 377
         },
         {
           "name": "Nude Naga Siren",
@@ -2463,7 +2463,7 @@
           "hero": "naga_siren",
           "heroLabel": "Naga Siren",
           "slot": "set",
-          "downloads": 66
+          "downloads": 67
         },
         {
           "name": "Naga Siren 42 Bratuha",
@@ -2487,7 +2487,7 @@
           "hero": "naga_siren",
           "heroLabel": "Naga Siren",
           "slot": "set",
-          "downloads": 132
+          "downloads": 133
         },
         {
           "name": "Pauldrons of Eternal Harvest",
@@ -2499,7 +2499,7 @@
           "hero": "shadow_fiend",
           "heroLabel": "Shadow Fiend",
           "slot": "shoulders",
-          "downloads": 208
+          "downloads": 212
         },
         {
           "name": "Lord of the Sundered Souls",
@@ -2523,7 +2523,7 @@
           "hero": "shadow_fiend",
           "heroLabel": "Shadow Fiend",
           "slot": "hands",
-          "downloads": 314
+          "downloads": 318
         },
         {
           "name": "Horns of Eternal Harvest",
@@ -2535,7 +2535,7 @@
           "hero": "shadow_fiend",
           "heroLabel": "Shadow Fiend",
           "slot": "head",
-          "downloads": 74
+          "downloads": 76
         },
         {
           "name": "Shadow Fiend Immortal",
@@ -2547,7 +2547,7 @@
           "hero": "shadow_fiend",
           "heroLabel": "Shadow Fiend",
           "slot": "set",
-          "downloads": 313
+          "downloads": 314
         },
         {
           "name": "Shadow Fiend Arcana",
@@ -2559,7 +2559,7 @@
           "hero": "shadow_fiend",
           "heroLabel": "Shadow Fiend",
           "slot": "set",
-          "downloads": 222
+          "downloads": 233
         },
         {
           "name": "Shadow Fiend Black",
@@ -2571,7 +2571,7 @@
           "hero": "shadow_fiend",
           "heroLabel": "Shadow Fiend",
           "slot": "set",
-          "downloads": 1567
+          "downloads": 1576
         },
         {
           "name": "Shadow Fiend Souls Tyrant",
@@ -2583,7 +2583,7 @@
           "hero": "shadow_fiend",
           "heroLabel": "Shadow Fiend",
           "slot": "set",
-          "downloads": 106
+          "downloads": 107
         },
         {
           "name": "Ghost Shadow Fiend",
@@ -2607,7 +2607,7 @@
           "hero": "shadow_fiend",
           "heroLabel": "Shadow Fiend",
           "slot": "set",
-          "downloads": 576
+          "downloads": 577
         },
         {
           "name": "Pink Shadow Fiend",
@@ -2619,7 +2619,7 @@
           "hero": "shadow_fiend",
           "heroLabel": "Shadow Fiend",
           "slot": "set",
-          "downloads": 971
+          "downloads": 975
         },
         {
           "name": "Shadow Fiend Eternal Harvest",
@@ -2778,7 +2778,7 @@
           "tags": [
             "arcana"
           ],
-          "downloads": 106
+          "downloads": 108
         },
         {
           "name": "Hell-Spar Anathema Crimson",
@@ -2790,7 +2790,7 @@
           "hero": "lion",
           "heroLabel": "Lion",
           "slot": "left_hand",
-          "downloads": 186
+          "downloads": 187
         },
         {
           "name": "Mulctant Pall",
@@ -2814,7 +2814,7 @@
           "hero": "lion",
           "heroLabel": "Lion",
           "slot": "set",
-          "downloads": 423
+          "downloads": 426
         },
         {
           "name": "Lion Immortal Chimera",
@@ -2826,7 +2826,7 @@
           "hero": "lion",
           "heroLabel": "Lion",
           "slot": "set",
-          "downloads": 313
+          "downloads": 314
         },
         {
           "name": "Mulctant Pall Crimson",
@@ -2862,7 +2862,7 @@
           "hero": "lion",
           "heroLabel": "Lion",
           "slot": "set",
-          "downloads": 546
+          "downloads": 553
         },
         {
           "name": "Fin King's Charm of Eminent Revival",
@@ -2958,7 +2958,7 @@
           "hero": "dazzle",
           "heroLabel": "Dazzle",
           "slot": "set",
-          "downloads": 130
+          "downloads": 131
         },
         {
           "name": "Dazzle Darkclaw Crimson",
@@ -2970,7 +2970,7 @@
           "hero": "dazzle",
           "heroLabel": "Dazzle",
           "slot": "set",
-          "downloads": 246
+          "downloads": 247
         },
         {
           "name": "Dazzle Needlepoint Necromance",
@@ -2994,7 +2994,7 @@
           "hero": "dazzle",
           "heroLabel": "Dazzle",
           "slot": "set",
-          "downloads": 225
+          "downloads": 226
         },
         {
           "name": "Earth Spirit Slithering Stone",
@@ -3006,7 +3006,7 @@
           "hero": "earth_spirit",
           "heroLabel": "Earth Spirit",
           "slot": "set",
-          "downloads": 550
+          "downloads": 555
         },
         {
           "name": "Green Earth Spirit",
@@ -3018,7 +3018,7 @@
           "hero": "earth_spirit",
           "heroLabel": "Earth Spirit",
           "slot": "set",
-          "downloads": 307
+          "downloads": 310
         },
         {
           "name": "Shadow Blade",
@@ -3078,7 +3078,7 @@
           "hero": "kunkka",
           "heroLabel": "Kunkka",
           "slot": "set",
-          "downloads": 224
+          "downloads": 226
         },
         {
           "name": "Shock of the Anvil",
@@ -3090,7 +3090,7 @@
           "hero": "magnus",
           "heroLabel": "Magnus",
           "slot": "weapon",
-          "downloads": 116
+          "downloads": 117
         },
         {
           "name": "Magnus Vortexbull",
@@ -3102,7 +3102,7 @@
           "hero": "magnus",
           "heroLabel": "Magnus",
           "slot": "set",
-          "downloads": 318
+          "downloads": 319
         },
         {
           "name": "Eyes of Ardenok",
@@ -3126,7 +3126,7 @@
           "hero": "magnus",
           "heroLabel": "Magnus",
           "slot": "head",
-          "downloads": 76
+          "downloads": 77
         },
         {
           "name": "Magnus Ornate Cruelty",
@@ -3138,7 +3138,7 @@
           "hero": "magnus",
           "heroLabel": "Magnus",
           "slot": "set",
-          "downloads": 251
+          "downloads": 253
         },
         {
           "name": "Magnus White Tiger",
@@ -3186,7 +3186,7 @@
           "hero": "beastmaster",
           "heroLabel": "Beastmaster",
           "slot": "set",
-          "downloads": 1021
+          "downloads": 1023
         },
         {
           "name": "Beastmaster Primal Peacemaker",
@@ -3210,7 +3210,7 @@
           "hero": "beastmaster",
           "heroLabel": "Beastmaster",
           "slot": "weapon",
-          "downloads": 87
+          "downloads": 88
         },
         {
           "name": "Beastmaster Primal Paean",
@@ -3234,7 +3234,7 @@
           "hero": "beastmaster",
           "heroLabel": "Beastmaster",
           "slot": "shoulders",
-          "downloads": 6,
+          "downloads": 7,
           "tags": [
             "Immortal"
           ]
@@ -3263,7 +3263,7 @@
           "tags": [
             "Immortal"
           ],
-          "downloads": 90
+          "downloads": 95
         },
         {
           "name": "Pugna Nightwither Revenant",
@@ -3287,7 +3287,7 @@
           "hero": "anti_mage",
           "heroLabel": "Anti Mage",
           "slot": "set",
-          "downloads": 286
+          "downloads": 289
         },
         {
           "name": "Anti-Mage Creep",
@@ -3311,7 +3311,7 @@
           "hero": "anti_mage",
           "heroLabel": "Anti Mage",
           "slot": "set",
-          "downloads": 1502
+          "downloads": 1510
         },
         {
           "name": "Anti Mage Ronin Warrior",
@@ -3371,7 +3371,7 @@
           "hero": "anti_mage",
           "heroLabel": "Anti Mage",
           "slot": "belt",
-          "downloads": 72
+          "downloads": 74
         },
         {
           "name": "Shoulders of the Spectral Hunter",
@@ -3455,7 +3455,7 @@
           "hero": "anti_mage",
           "heroLabel": "Anti Mage",
           "slot": "weapon",
-          "downloads": 101
+          "downloads": 103
         },
         {
           "name": "Golden Offhand Basher of Mage Skulls",
@@ -3467,7 +3467,7 @@
           "hero": "anti_mage",
           "heroLabel": "Anti Mage",
           "slot": "off_hand",
-          "downloads": 93
+          "downloads": 95
         },
         {
           "name": "Hair of the Survivor",
@@ -3479,7 +3479,7 @@
           "hero": "anti_mage",
           "heroLabel": "Anti Mage",
           "slot": "head",
-          "downloads": 175
+          "downloads": 177
         },
         {
           "name": "Mohawk of the Spectral Hunter",
@@ -3503,7 +3503,7 @@
           "hero": "anti_mage",
           "heroLabel": "Anti Mage",
           "slot": "hands",
-          "downloads": 83
+          "downloads": 85
         },
         {
           "name": "Anti Mage Shadow Slayer",
@@ -3551,7 +3551,7 @@
           "hero": "anti_mage",
           "heroLabel": "Anti Mage",
           "slot": "set",
-          "downloads": 524
+          "downloads": 526
         },
         {
           "name": "Anti Mage Bloody Reaper",
@@ -3564,7 +3564,7 @@
           "heroLabel": "Anti Mage",
           "slot": "set",
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Anti Mage Bloody Reaper.mp4",
-          "downloads": 122
+          "downloads": 123
         },
         {
           "name": "Drow Ranger Arcana",
@@ -3576,7 +3576,7 @@
           "hero": "drow_ranger",
           "heroLabel": "Drow Ranger",
           "slot": "set",
-          "downloads": 1512
+          "downloads": 1528
         },
         {
           "name": "Drow Ranger Stranger Arcana",
@@ -3588,7 +3588,7 @@
           "hero": "drow_ranger",
           "heroLabel": "Drow Ranger",
           "slot": "set",
-          "downloads": 1354
+          "downloads": 1358
         },
         {
           "author": "Papapodzaborniy",
@@ -3613,7 +3613,7 @@
           "hero": "drow_ranger",
           "heroLabel": "Drow Ranger",
           "slot": "set",
-          "downloads": 747
+          "downloads": 750
         },
         {
           "name": "Drow Ranger Diretide",
@@ -3640,7 +3640,7 @@
           "tags": [
             "Immortal"
           ],
-          "downloads": 37
+          "downloads": 38
         },
         {
           "name": "Dark Willow Saccharine Saboteur",
@@ -3700,7 +3700,7 @@
           "hero": "disruptor",
           "heroLabel": "Disruptor",
           "slot": "set",
-          "downloads": 178
+          "downloads": 182
         },
         {
           "name": "Twilight Schism",
@@ -3712,7 +3712,7 @@
           "hero": "luna",
           "heroLabel": "Luna",
           "slot": "weapon",
-          "downloads": 42
+          "downloads": 43
         },
         {
           "name": "Golden Twilight Schism",
@@ -3772,7 +3772,7 @@
           "hero": "luna",
           "heroLabel": "Luna",
           "slot": "set",
-          "downloads": 445
+          "downloads": 446
         },
         {
           "name": "Luna scord of the winged sentinel",
@@ -3796,7 +3796,7 @@
           "hero": "luna",
           "heroLabel": "Luna",
           "slot": "set",
-          "downloads": 414
+          "downloads": 417
         },
         {
           "name": "Luna Moonfall",
@@ -3808,7 +3808,7 @@
           "hero": "luna",
           "heroLabel": "Luna",
           "slot": "set",
-          "downloads": 156
+          "downloads": 158
         },
         {
           "name": "luna crescent wheel",
@@ -3823,7 +3823,7 @@
           "tags": [
             "Immortal"
           ],
-          "downloads": 37
+          "downloads": 43
         },
         {
           "name": "Concord Dominion",
@@ -3847,7 +3847,7 @@
           "hero": "phantom_lancer",
           "heroLabel": "Phantom Lancer",
           "slot": "shoulders",
-          "downloads": 101
+          "downloads": 103
         },
         {
           "name": "Phantom Lancer Immortal",
@@ -3859,7 +3859,7 @@
           "hero": "phantom_lancer",
           "heroLabel": "Phantom Lancer",
           "slot": "set",
-          "downloads": 925
+          "downloads": 926
         },
         {
           "name": "Immortal Phantom Lancer v2",
@@ -3871,7 +3871,7 @@
           "hero": "phantom_lancer",
           "heroLabel": "Phantom Lancer",
           "slot": "set",
-          "downloads": 1638
+          "downloads": 1649
         },
         {
           "name": "Anubis Phantom Lancer",
@@ -3958,7 +3958,7 @@
           "tags": [
             "immortal"
           ],
-          "downloads": 60
+          "downloads": 64
         },
         {
           "name": "Phantom lancer rich",
@@ -3970,7 +3970,7 @@
           "hero": "phantom_lancer",
           "heroLabel": "Phantom Lancer",
           "slot": "set",
-          "downloads": 38
+          "downloads": 39
         },
         {
           "name": "phantom lancer fire",
@@ -3985,7 +3985,7 @@
           "tags": [
             "immortal"
           ],
-          "downloads": 286
+          "downloads": 292
         },
         {
           "name": "Concord Reversion",
@@ -4009,7 +4009,7 @@
           "hero": "phantom_lancer",
           "heroLabel": "Phantom Lancer",
           "slot": "weapon",
-          "downloads": 152
+          "downloads": 155
         },
         {
           "name": "Phantom Assassin Arcana gothic whisper",
@@ -4021,7 +4021,7 @@
           "hero": "phantom_assassin",
           "heroLabel": "Phantom Assassin",
           "slot": "set",
-          "downloads": 1305
+          "downloads": 1307
         },
         {
           "name": "Codicil of the Veiled Ones",
@@ -4033,7 +4033,7 @@
           "hero": "phantom_assassin",
           "heroLabel": "Phantom Assassin",
           "slot": "head",
-          "downloads": 159
+          "downloads": 162
         },
         {
           "name": "Avowance of the Veiled Ones",
@@ -4045,7 +4045,7 @@
           "hero": "phantom_assassin",
           "heroLabel": "Phantom Assassin",
           "slot": "shoulders",
-          "downloads": 86
+          "downloads": 88
         },
         {
           "name": "Avowance of the Crimson Witness",
@@ -4057,7 +4057,7 @@
           "hero": "phantom_assassin",
           "heroLabel": "Phantom Assassin",
           "slot": "shoulders",
-          "downloads": 99
+          "downloads": 100
         },
         {
           "name": "Warden Phantom Assassin",
@@ -4093,7 +4093,7 @@
           "hero": "phantom_assassin",
           "heroLabel": "Phantom Assassin",
           "slot": "set",
-          "downloads": 195
+          "downloads": 196
         },
         {
           "name": "Phantom Assassin Skull Arcana",
@@ -4120,7 +4120,7 @@
           "tags": [
             "arcana"
           ],
-          "downloads": 156
+          "downloads": 162
         },
         {
           "name": "Arc Warden Ancient Gaoler",
@@ -4132,7 +4132,7 @@
           "hero": "arc_warden",
           "heroLabel": "Arc Warden",
           "slot": "set",
-          "downloads": 742
+          "downloads": 747
         },
         {
           "name": "Arc Warden Sakura Winter",
@@ -4156,7 +4156,7 @@
           "hero": "arc_warden",
           "heroLabel": "Arc Warden",
           "slot": "set",
-          "downloads": 333
+          "downloads": 334
         },
         {
           "name": "Ashes Arc Warden",
@@ -4180,7 +4180,7 @@
           "hero": "arc_warden",
           "heroLabel": "Arc Warden",
           "slot": "set",
-          "downloads": 421
+          "downloads": 423
         },
         {
           "name": "Orbuculum Equinox Dire Delight",
@@ -4192,7 +4192,7 @@
           "hero": "arc_warden",
           "heroLabel": "Arc Warden",
           "slot": "head",
-          "downloads": 78
+          "downloads": 79
         },
         {
           "name": "Alchemist Darkbrew Enforcer",
@@ -4204,7 +4204,7 @@
           "hero": "alchemist",
           "heroLabel": "Alchemist",
           "slot": "set",
-          "downloads": 663
+          "downloads": 665
         },
         {
           "name": "Cosmic Alchemist",
@@ -4216,7 +4216,7 @@
           "hero": "alchemist",
           "heroLabel": "Alchemist",
           "slot": "set",
-          "downloads": 164
+          "downloads": 165
         },
         {
           "name": "Frostivus Alchemist",
@@ -4240,7 +4240,7 @@
           "hero": "alchemist",
           "heroLabel": "Alchemist",
           "slot": "weapon",
-          "downloads": 179
+          "downloads": 181
         },
         {
           "name": "Immortal Ancient Apparition",
@@ -4252,7 +4252,7 @@
           "hero": "ancient_apparition",
           "heroLabel": "Ancient Apparition",
           "slot": "set",
-          "downloads": 380
+          "downloads": 382
         },
         {
           "name": "Bloody Ancient Apparition",
@@ -4264,7 +4264,7 @@
           "hero": "ancient_apparition",
           "heroLabel": "Ancient Apparition",
           "slot": "set",
-          "downloads": 316
+          "downloads": 317
         },
         {
           "name": "Axe Custom Unleashed",
@@ -4276,7 +4276,7 @@
           "hero": "axe",
           "heroLabel": "Axe",
           "slot": "set",
-          "downloads": 406
+          "downloads": 410
         },
         {
           "name": "Axe Days Of The Demon",
@@ -4300,7 +4300,7 @@
           "hero": "axe",
           "heroLabel": "Axe",
           "slot": "set",
-          "downloads": 186
+          "downloads": 187
         },
         {
           "name": "Axe Unleashed",
@@ -4312,7 +4312,7 @@
           "hero": "axe",
           "heroLabel": "Axe",
           "slot": "set",
-          "downloads": 285
+          "downloads": 286
         },
         {
           "name": "Axe Heracles",
@@ -4336,7 +4336,7 @@
           "hero": "axe",
           "heroLabel": "Axe",
           "slot": "set",
-          "downloads": 151
+          "downloads": 152
         },
         {
           "name": "Axe Immortal Bootblack Brawler",
@@ -4360,7 +4360,7 @@
           "hero": "axe",
           "heroLabel": "Axe",
           "slot": "set",
-          "downloads": 227
+          "downloads": 233
         },
         {
           "name": "Windranger Autumn Arcana",
@@ -4372,7 +4372,7 @@
           "hero": "windranger",
           "heroLabel": "Windranger",
           "slot": "set",
-          "downloads": 1126
+          "downloads": 1131
         },
         {
           "name": "Peregrine Flight",
@@ -4387,7 +4387,7 @@
           "tags": [
             "Immortal"
           ],
-          "downloads": 1
+          "downloads": 6
         },
         {
           "name": "Immortal Winter Wyvern",
@@ -4402,7 +4402,7 @@
           "tags": [
             "Immortal"
           ],
-          "downloads": 0
+          "downloads": 12
         },
         {
           "name": "Gyrocopter Kongou",
@@ -4441,7 +4441,7 @@
           "hero": "night_stalker",
           "heroLabel": "Night Stalker",
           "slot": "set",
-          "downloads": 332
+          "downloads": 337
         },
         {
           "name": "Night Stalker Relict",
@@ -4489,7 +4489,7 @@
           "hero": "pangolier",
           "heroLabel": "Pangolier",
           "slot": "set",
-          "downloads": 335
+          "downloads": 340
         },
         {
           "name": "Pangolier Gentleman",
@@ -4501,7 +4501,7 @@
           "hero": "pangolier",
           "heroLabel": "Pangolier",
           "slot": "set",
-          "downloads": 255
+          "downloads": 256
         },
         {
           "name": "Viper Stuffed Menace",
@@ -4513,7 +4513,7 @@
           "hero": "viper",
           "heroLabel": "Viper",
           "slot": "set",
-          "downloads": 79
+          "downloads": 80
         },
         {
           "name": "Viper Butch Dog",
@@ -4537,7 +4537,7 @@
           "hero": "viper",
           "heroLabel": "Viper",
           "slot": "set",
-          "downloads": 68
+          "downloads": 70
         },
         {
           "name": "Underlord Immortal Ravenous",
@@ -4549,7 +4549,7 @@
           "hero": "underlord",
           "heroLabel": "Underlord",
           "slot": "set",
-          "downloads": 180
+          "downloads": 185
         },
         {
           "name": "Immortal Puck",
@@ -4561,7 +4561,7 @@
           "hero": "puck",
           "heroLabel": "Puck",
           "slot": "set",
-          "downloads": 281
+          "downloads": 282
         },
         {
           "name": "Blue Dragon Puck",
@@ -4588,7 +4588,7 @@
           "tags": [
             "immortal"
           ],
-          "downloads": 45
+          "downloads": 49
         },
         {
           "name": "Earthshaker Arcana Style 2",
@@ -4600,7 +4600,7 @@
           "hero": "earthshaker",
           "heroLabel": "Earthshaker",
           "slot": "set",
-          "downloads": 13
+          "downloads": 19
         },
         {
           "name": "Cosmic Earthshaker",
@@ -4612,7 +4612,7 @@
           "hero": "earthshaker",
           "heroLabel": "Earthshaker",
           "slot": "set",
-          "downloads": 831
+          "downloads": 833
         },
         {
           "name": "Earthshaker Red Arcana",
@@ -4624,7 +4624,7 @@
           "hero": "earthshaker",
           "heroLabel": "Earthshaker",
           "slot": "set",
-          "downloads": 746
+          "downloads": 747
         },
         {
           "name": "Earthshaker Purple Arcana",
@@ -4636,7 +4636,7 @@
           "hero": "earthshaker",
           "heroLabel": "Earthshaker",
           "slot": "set",
-          "downloads": 835
+          "downloads": 841
         },
         {
           "name": "Marci Cosmic Cartographer",
@@ -4684,7 +4684,7 @@
           "hero": "marci",
           "heroLabel": "Marci",
           "slot": "set",
-          "downloads": 199
+          "downloads": 201
         },
         {
           "name": "Marci Laurels of the Downstar",
@@ -4696,7 +4696,7 @@
           "hero": "marci",
           "heroLabel": "Marci",
           "slot": "set",
-          "downloads": 145
+          "downloads": 147
         },
         {
           "name": "Maid Marci",
@@ -4744,7 +4744,7 @@
           "hero": "marci",
           "heroLabel": "Marci",
           "slot": "set",
-          "downloads": 19
+          "downloads": 20
         },
         {
           "name": "Marci Blue Horizons",
@@ -4780,7 +4780,7 @@
           "hero": "mars",
           "heroLabel": "Mars",
           "slot": "weapon",
-          "downloads": 24
+          "downloads": 25
         },
         {
           "name": "Crimson Progenitor's Bane",
@@ -4792,7 +4792,7 @@
           "hero": "mars",
           "heroLabel": "Mars",
           "slot": "weapon",
-          "downloads": 127
+          "downloads": 128
         },
         {
           "name": "Cosmic Immortal Tinker",
@@ -4804,7 +4804,7 @@
           "hero": "tinker",
           "heroLabel": "Tinker",
           "slot": "set",
-          "downloads": 608
+          "downloads": 611
         },
         {
           "name": "Tinker Submerged Hazard",
@@ -4840,7 +4840,7 @@
           "hero": "tinker",
           "heroLabel": "Tinker",
           "slot": "set",
-          "downloads": 703
+          "downloads": 705
         },
         {
           "name": "Tinker Cripple",
@@ -4852,7 +4852,7 @@
           "hero": "tinker",
           "heroLabel": "Tinker",
           "slot": "set",
-          "downloads": 224
+          "downloads": 226
         },
         {
           "name": "Rollermawster",
@@ -4891,7 +4891,7 @@
           "tags": [
             "immortal"
           ],
-          "downloads": 50
+          "downloads": 54
         },
         {
           "name": "bloodseeker eztzhok",
@@ -4903,7 +4903,7 @@
           "hero": "bloodseeker",
           "heroLabel": "Bloodseeker",
           "slot": "set",
-          "downloads": 901
+          "downloads": 908
         },
         {
           "name": "Bloodseeker Harvest Hound",
@@ -4951,7 +4951,7 @@
           "hero": "brewmaster",
           "heroLabel": "Brewmaster",
           "slot": "set",
-          "downloads": 355
+          "downloads": 356
         },
         {
           "name": "Bare Brewmaster",
@@ -4963,7 +4963,7 @@
           "hero": "brewmaster",
           "heroLabel": "Brewmaster",
           "slot": "set",
-          "downloads": 36
+          "downloads": 37
         },
         {
           "name": "Brewmaster Jousting Panda",
@@ -4987,7 +4987,7 @@
           "hero": "bristleback",
           "heroLabel": "Bristleback",
           "slot": "set",
-          "downloads": 779
+          "downloads": 785
         },
         {
           "name": "Crystal Bristleback",
@@ -5011,7 +5011,7 @@
           "hero": "chaos_knight",
           "heroLabel": "Chaos Knight",
           "slot": "set",
-          "downloads": 356
+          "downloads": 357
         },
         {
           "name": "Nightmare Chaos Knight",
@@ -5035,7 +5035,7 @@
           "hero": "chaos_knight",
           "heroLabel": "Chaos Knight",
           "slot": "set",
-          "downloads": 110
+          "downloads": 111
         },
         {
           "name": "Clinkz Leader of the Molten Army",
@@ -5050,7 +5050,7 @@
           "tags": [
             "Immortal"
           ],
-          "downloads": 69
+          "downloads": 75
         },
         {
           "name": "Maraxiform's Fate",
@@ -5092,7 +5092,7 @@
           "hero": "clinkz",
           "heroLabel": "Clinkz",
           "slot": "set",
-          "downloads": 626
+          "downloads": 627
         },
         {
           "name": "Centaur Cunning Counterfeit",
@@ -5104,7 +5104,7 @@
           "hero": "centaur",
           "heroLabel": "Centaur",
           "slot": "set",
-          "downloads": 244
+          "downloads": 245
         },
         {
           "name": "Centaur Emerald Marauder",
@@ -5140,7 +5140,7 @@
           "hero": "centaur",
           "heroLabel": "Centaur",
           "slot": "set",
-          "downloads": 89
+          "downloads": 90
         },
         {
           "name": "Infernal Menace",
@@ -5152,7 +5152,7 @@
           "hero": "centaur",
           "heroLabel": "Centaur",
           "slot": "weapon",
-          "downloads": 89
+          "downloads": 90
         },
         {
           "name": "Infernal Chieftain",
@@ -5176,7 +5176,7 @@
           "hero": "centaur",
           "heroLabel": "Centaur",
           "slot": "head",
-          "downloads": 71
+          "downloads": 73
         },
         {
           "name": "Golden Infernal Chieftain",
@@ -5212,7 +5212,7 @@
           "hero": "centaur",
           "heroLabel": "Centaur",
           "slot": "shoulders",
-          "downloads": 73
+          "downloads": 75
         },
         {
           "name": "Monkey King Simian Sovereign",
@@ -5236,7 +5236,7 @@
           "hero": "monkey_king",
           "heroLabel": "Monkey King",
           "slot": "set",
-          "downloads": 232
+          "downloads": 234
         },
         {
           "name": "Monkey King Arcana Water",
@@ -5260,7 +5260,7 @@
           "hero": "monkey_king",
           "heroLabel": "Monkey King",
           "slot": "set",
-          "downloads": 101
+          "downloads": 102
         },
         {
           "name": "Monkey King Arcana Fire",
@@ -5284,7 +5284,7 @@
           "hero": "monkey_king",
           "heroLabel": "Monkey King",
           "slot": "set",
-          "downloads": 204
+          "downloads": 205
         },
         {
           "name": "Staff of Gun-Yu",
@@ -5332,7 +5332,7 @@
           "hero": "monkey_king",
           "heroLabel": "Monkey King",
           "slot": "weapon",
-          "downloads": 96
+          "downloads": 97
         },
         {
           "name": "Red Monkey King",
@@ -5356,7 +5356,7 @@
           "hero": "monkey_king",
           "heroLabel": "Monkey King",
           "slot": "set",
-          "downloads": 252
+          "downloads": 254
         },
         {
           "name": "Chen Infernal Psychic",
@@ -5368,7 +5368,7 @@
           "hero": "chen",
           "heroLabel": "Chen",
           "slot": "set",
-          "downloads": 136
+          "downloads": 139
         },
         {
           "name": "Chen Seed of Strife",
@@ -5404,7 +5404,7 @@
           "hero": "clockwerk",
           "heroLabel": "Clockwerk",
           "slot": "set",
-          "downloads": 147
+          "downloads": 149
         },
         {
           "name": "Clockwerk Apex Automated",
@@ -5431,7 +5431,7 @@
           "tags": [
             "Immortal"
           ],
-          "downloads": 0
+          "downloads": 3
         },
         {
           "name": "Paraflare Cannon",
@@ -5446,7 +5446,7 @@
           "tags": [
             "Immortal"
           ],
-          "downloads": 0
+          "downloads": 3
         },
         {
           "name": "Nuclear Clockwerk",
@@ -5470,7 +5470,7 @@
           "hero": "crystal_maiden",
           "heroLabel": "Crystal Maiden",
           "slot": "set",
-          "downloads": 202
+          "downloads": 204
         },
         {
           "name": "Sherman Crystal Maiden",
@@ -5482,7 +5482,7 @@
           "hero": "crystal_maiden",
           "heroLabel": "Crystal Maiden",
           "slot": "set",
-          "downloads": 544
+          "downloads": 546
         },
         {
           "name": "Ice Blossom",
@@ -5542,7 +5542,7 @@
           "hero": "dawnbreaker",
           "heroLabel": "Dawnbreaker",
           "slot": "set",
-          "downloads": 612
+          "downloads": 618
         },
         {
           "name": "Dawnbreaker Death Knight",
@@ -5578,7 +5578,7 @@
           "hero": "ursa",
           "heroLabel": "Ursa",
           "slot": "set",
-          "downloads": 534
+          "downloads": 537
         },
         {
           "name": "Ursa Crystal Drift",
@@ -5590,7 +5590,7 @@
           "hero": "ursa",
           "heroLabel": "Ursa",
           "slot": "set",
-          "downloads": 147
+          "downloads": 148
         },
         {
           "name": "Swift Claw",
@@ -5602,7 +5602,7 @@
           "hero": "ursa",
           "heroLabel": "Ursa",
           "slot": "hands",
-          "downloads": 35
+          "downloads": 37
         },
         {
           "name": "Ursa Feast of the Damned",
@@ -5614,7 +5614,7 @@
           "hero": "ursa",
           "heroLabel": "Ursa",
           "slot": "set",
-          "downloads": 20
+          "downloads": 21
         },
         {
           "name": "Ursa Alpine Stalker",
@@ -5638,7 +5638,7 @@
           "hero": "ursa",
           "heroLabel": "Ursa",
           "slot": "set",
-          "downloads": 110
+          "downloads": 111
         },
         {
           "name": "Ursa White and Red",
@@ -5650,7 +5650,7 @@
           "hero": "ursa",
           "heroLabel": "Ursa",
           "slot": "set",
-          "downloads": 408
+          "downloads": 409
         },
         {
           "name": "Night Ursa",
@@ -5686,7 +5686,7 @@
           "hero": "medusa",
           "heroLabel": "Medusa",
           "slot": "set",
-          "downloads": 409
+          "downloads": 411
         },
         {
           "name": "Immortal Hoodwink",
@@ -5698,7 +5698,7 @@
           "hero": "hoodwink",
           "heroLabel": "Hoodwink",
           "slot": "set",
-          "downloads": 1015
+          "downloads": 1021
         },
         {
           "name": "Hoodwink Bilge Rat Buccaneer",
@@ -5722,7 +5722,7 @@
           "hero": "hoodwink",
           "heroLabel": "Hoodwink",
           "slot": "set",
-          "downloads": 32
+          "downloads": 33
         },
         {
           "name": "Bare Hoodwink",
@@ -5734,7 +5734,7 @@
           "hero": "hoodwink",
           "heroLabel": "Hoodwink",
           "slot": "set",
-          "downloads": 80
+          "downloads": 81
         },
         {
           "name": "Dragon Knight Silverwurm Sacrifice",
@@ -5746,7 +5746,7 @@
           "hero": "dragon_knight",
           "heroLabel": "Dragon Knight",
           "slot": "set",
-          "downloads": 297
+          "downloads": 298
         },
         {
           "name": "Dragon knight set buyaica",
@@ -5758,7 +5758,7 @@
           "hero": "dragon_knight",
           "heroLabel": "Dragon Knight",
           "slot": "set",
-          "downloads": 80
+          "downloads": 81
         },
         {
           "name": "Sven Indomitable Legacy",
@@ -5770,7 +5770,7 @@
           "hero": "sven",
           "heroLabel": "Sven",
           "slot": "set",
-          "downloads": 513
+          "downloads": 514
         },
         {
           "name": "Sven Blue Angel",
@@ -5782,7 +5782,7 @@
           "hero": "sven",
           "heroLabel": "Sven",
           "slot": "set",
-          "downloads": 205
+          "downloads": 206
         },
         {
           "name": "Pinkie Sven",
@@ -5830,7 +5830,7 @@
           "hero": "sand_king",
           "heroLabel": "Sand King",
           "slot": "set",
-          "downloads": 358
+          "downloads": 359
         },
         {
           "name": "Immortal Necrophos",
@@ -5842,7 +5842,7 @@
           "hero": "necrophos",
           "heroLabel": "Necrophos",
           "slot": "set",
-          "downloads": 902
+          "downloads": 906
         },
         {
           "name": "Necrophos Serpent Spite",
@@ -5854,7 +5854,7 @@
           "hero": "necrophos",
           "heroLabel": "Necrophos",
           "slot": "set",
-          "downloads": 248
+          "downloads": 249
         },
         {
           "name": "Immortal Lina",
@@ -5866,7 +5866,7 @@
           "hero": "lina",
           "heroLabel": "Lina",
           "slot": "set",
-          "downloads": 686
+          "downloads": 690
         },
         {
           "name": "Ancients Lina",
@@ -5878,7 +5878,7 @@
           "hero": "lina",
           "heroLabel": "Lina",
           "slot": "set",
-          "downloads": 568
+          "downloads": 569
         },
         {
           "name": "Lina Aerial Aphrodite Flame",
@@ -5890,7 +5890,7 @@
           "hero": "lina",
           "heroLabel": "Lina",
           "slot": "set",
-          "downloads": 277
+          "downloads": 278
         },
         {
           "name": "Lina Crystal Empress",
@@ -5926,7 +5926,7 @@
           "hero": "lone_druid",
           "heroLabel": "Lone Druid",
           "slot": "hands",
-          "downloads": 116
+          "downloads": 124
         },
         {
           "name": "Cauldron of Xahryx Retro v2",
@@ -5938,7 +5938,7 @@
           "hero": "lone_druid",
           "heroLabel": "Lone Druid",
           "slot": "weapon",
-          "downloads": 112
+          "downloads": 118
         },
         {
           "name": "Lone Druid Clan of the Arctic Owlbear",
@@ -5950,7 +5950,7 @@
           "hero": "lone_druid",
           "heroLabel": "Lone Druid",
           "slot": "set",
-          "downloads": 426
+          "downloads": 433
         },
         {
           "name": "Slark Shadow in the Deep",
@@ -5998,7 +5998,7 @@
           "hero": "slark",
           "heroLabel": "Slark",
           "slot": "set",
-          "downloads": 22
+          "downloads": 23
         },
         {
           "name": "slark immortal v2",
@@ -6013,7 +6013,7 @@
           "tags": [
             "immortal"
           ],
-          "downloads": 87
+          "downloads": 88
         },
         {
           "name": "Dark Ancient Slark",
@@ -6025,7 +6025,7 @@
           "hero": "slark",
           "heroLabel": "Slark",
           "slot": "set",
-          "downloads": 284
+          "downloads": 285
         },
         {
           "name": "Sniper Ardalan Interdictor",
@@ -6037,7 +6037,7 @@
           "hero": "sniper",
           "heroLabel": "Sniper",
           "slot": "set",
-          "downloads": 709
+          "downloads": 715
         },
         {
           "name": "Sniper Odogaron Armor",
@@ -6049,7 +6049,7 @@
           "hero": "sniper",
           "heroLabel": "Sniper",
           "slot": "set",
-          "downloads": 203
+          "downloads": 204
         },
         {
           "name": "Sniper Howling Wolf",
@@ -6085,7 +6085,7 @@
           "hero": "oracle",
           "heroLabel": "Oracle",
           "slot": "set",
-          "downloads": 297
+          "downloads": 299
         },
         {
           "name": "Shaolin Master Oracle",
@@ -6097,7 +6097,7 @@
           "hero": "oracle",
           "heroLabel": "Oracle",
           "slot": "set",
-          "downloads": 50
+          "downloads": 51
         },
         {
           "name": "Skywrath Mage Arcana II",
@@ -6109,7 +6109,7 @@
           "hero": "skywrath_mage",
           "heroLabel": "Skywrath Mage",
           "slot": "set",
-          "downloads": 242
+          "downloads": 246
         },
         {
           "name": "Skywrath Mage Arcana I",
@@ -6121,7 +6121,7 @@
           "hero": "skywrath_mage",
           "heroLabel": "Skywrath Mage",
           "slot": "set",
-          "downloads": 487
+          "downloads": 490
         },
         {
           "name": "Devil Skywrath Mage",
@@ -6157,7 +6157,7 @@
           "hero": "slardar",
           "heroLabel": "Slardar",
           "slot": "set",
-          "downloads": 345
+          "downloads": 348
         },
         {
           "name": "Spectre Arcana",
@@ -6169,7 +6169,7 @@
           "hero": "spectre",
           "heroLabel": "Spectre",
           "slot": "set",
-          "downloads": 1087
+          "downloads": 1093
         },
         {
           "name": "Spectre always here",
@@ -6193,7 +6193,7 @@
           "hero": "spectre",
           "heroLabel": "Spectre",
           "slot": "set",
-          "downloads": 254
+          "downloads": 255
         },
         {
           "name": "Spectre Arcana Style 2",
@@ -6205,7 +6205,7 @@
           "hero": "spectre",
           "heroLabel": "Spectre",
           "slot": "set",
-          "downloads": 735
+          "downloads": 737
         },
         {
           "name": "Spectre Toxin",
@@ -6217,7 +6217,7 @@
           "hero": "spectre",
           "heroLabel": "Spectre",
           "slot": "set",
-          "downloads": 105
+          "downloads": 106
         },
         {
           "name": "Spectre Phantom Advent",
@@ -6241,7 +6241,7 @@
           "hero": "spectre",
           "heroLabel": "Spectre",
           "slot": "set",
-          "downloads": 232
+          "downloads": 233
         },
         {
           "name": "Bloody Spectre",
@@ -6253,7 +6253,7 @@
           "hero": "spectre",
           "heroLabel": "Spectre",
           "slot": "set",
-          "downloads": 139
+          "downloads": 141
         },
         {
           "name": "Soul Diffuser",
@@ -6301,7 +6301,7 @@
           "hero": "techies",
           "heroLabel": "Techies",
           "slot": "set",
-          "downloads": 599
+          "downloads": 601
         },
         {
           "name": "Techies Alien",
@@ -6340,7 +6340,7 @@
           "tags": [
             "Arcana"
           ],
-          "downloads": 0
+          "downloads": 21
         },
         {
           "name": "Omniknight Blinding Bastion",
@@ -6352,7 +6352,7 @@
           "hero": "omniknight",
           "heroLabel": "Omniknight",
           "slot": "set",
-          "downloads": 205
+          "downloads": 206
         },
         {
           "name": "Immortal Lich",
@@ -6364,7 +6364,7 @@
           "hero": "lich",
           "heroLabel": "Lich",
           "slot": "set",
-          "downloads": 343
+          "downloads": 344
         },
         {
           "name": "Templar Assassin Whisper Gates",
@@ -6376,7 +6376,7 @@
           "hero": "templar_assassin",
           "heroLabel": "Templar Assassin",
           "slot": "set",
-          "downloads": 180
+          "downloads": 182
         },
         {
           "name": "Immortal Templar Assassin",
@@ -6388,7 +6388,7 @@
           "hero": "templar_assassin",
           "heroLabel": "Templar Assassin",
           "slot": "set",
-          "downloads": 482
+          "downloads": 486
         },
         {
           "name": "Templar Assassin ritual of the loyal fold",
@@ -6424,7 +6424,7 @@
           "hero": "templar_assassin",
           "heroLabel": "Templar Assassin",
           "slot": "set",
-          "downloads": 226
+          "downloads": 227
         },
         {
           "name": "Timbersaw Clearcut Cavalier",
@@ -6436,7 +6436,7 @@
           "hero": "timbersaw",
           "heroLabel": "Timbersaw",
           "slot": "set",
-          "downloads": 394
+          "downloads": 395
         },
         {
           "name": "ToxicPunk Timbersaw",
@@ -6448,7 +6448,7 @@
           "hero": "timbersaw",
           "heroLabel": "Timbersaw",
           "slot": "set",
-          "downloads": 26
+          "downloads": 28
         },
         {
           "name": "Shadow Timbersaw",
@@ -6472,7 +6472,7 @@
           "hero": "juggernaut",
           "heroLabel": "Juggernaut",
           "slot": "set",
-          "downloads": 788
+          "downloads": 790
         },
         {
           "name": "Juggernaut Samurai of Wind",
@@ -6520,7 +6520,7 @@
           "hero": "juggernaut",
           "heroLabel": "Juggernaut",
           "slot": "set",
-          "downloads": 363
+          "downloads": 365
         },
         {
           "name": "Juggernaut Pilgrimage of the Bladeform Aesthete",
@@ -6544,7 +6544,7 @@
           "hero": "lifestealer",
           "heroLabel": "Lifestealer",
           "slot": "set",
-          "downloads": 624
+          "downloads": 628
         },
         {
           "name": "Lifestealer Diretide Shimmer",
@@ -6556,7 +6556,7 @@
           "hero": "lifestealer",
           "heroLabel": "Lifestealer",
           "slot": "set",
-          "downloads": 67
+          "downloads": 68
         },
         {
           "name": "Gothic Lifestealer",
@@ -6580,7 +6580,7 @@
           "hero": "kez",
           "heroLabel": "Kez",
           "slot": "set",
-          "downloads": 668
+          "downloads": 672
         },
         {
           "name": "Kez Guts Sword",
@@ -6616,7 +6616,7 @@
           "hero": "kez",
           "heroLabel": "Kez",
           "slot": "set",
-          "downloads": 176
+          "downloads": 178
         },
         {
           "name": "Kez Tensura",
@@ -6640,7 +6640,7 @@
           "hero": "kez",
           "heroLabel": "Kez",
           "slot": "set",
-          "downloads": 224
+          "downloads": 225
         },
         {
           "name": "Kez 200",
@@ -6703,7 +6703,7 @@
           "tags": [
             "Immortal"
           ],
-          "downloads": 90
+          "downloads": 103
         },
         {
           "name": "Natures Prophet Allfather",
@@ -6751,7 +6751,7 @@
           "hero": "nature_prophet",
           "heroLabel": "Nature Prophet",
           "slot": "set",
-          "downloads": 252
+          "downloads": 254
         },
         {
           "name": "Natures Prophet Saya",
@@ -6775,7 +6775,7 @@
           "hero": "death_prophet",
           "heroLabel": "Death Prophet",
           "slot": "set",
-          "downloads": 373
+          "downloads": 374
         },
         {
           "name": "Ogre Magi Pyrexae Polymorph",
@@ -6811,7 +6811,7 @@
           "hero": "ogre_magi",
           "heroLabel": "Ogre Magi",
           "slot": "set",
-          "downloads": 267
+          "downloads": 269
         },
         {
           "name": "Ogre Magi Arcana",
@@ -6826,7 +6826,7 @@
           "tags": [
             "arcana"
           ],
-          "downloads": 139
+          "downloads": 143
         },
         {
           "name": "Jakiro Himera",
@@ -6838,7 +6838,7 @@
           "hero": "jakiro",
           "heroLabel": "Jakiro",
           "slot": "set",
-          "downloads": 197
+          "downloads": 199
         },
         {
           "name": "Jakiro Kiyohime",
@@ -6865,7 +6865,7 @@
           "hero": "jakiro",
           "heroLabel": "Jakiro",
           "slot": "set",
-          "downloads": 116
+          "downloads": 117
         },
         {
           "name": "Primal Beast Snowbeast",
@@ -6913,7 +6913,7 @@
           "hero": "primal_beast",
           "heroLabel": "Primal Beast",
           "slot": "set",
-          "downloads": 166
+          "downloads": 168
         },
         {
           "name": "Snapfire Whippersnapper",
@@ -6937,7 +6937,7 @@
           "hero": "snapfire",
           "heroLabel": "Snapfire",
           "slot": "set",
-          "downloads": 634
+          "downloads": 636
         },
         {
           "name": "Snapfire Snail",
@@ -6985,7 +6985,7 @@
           "hero": "spirit_breaker",
           "heroLabel": "Spirit Breaker",
           "slot": "set",
-          "downloads": 669
+          "downloads": 671
         },
         {
           "name": "Iron Surge",
@@ -7015,7 +7015,7 @@
           "tags": [
             "Immortal"
           ],
-          "downloads": 1
+          "downloads": 5
         },
         {
           "name": "Savage Mettle",
@@ -7051,7 +7051,7 @@
           "hero": "tiny",
           "heroLabel": "Tiny",
           "slot": "set",
-          "downloads": 619
+          "downloads": 622
         },
         {
           "name": "Tiny Stone Giant Stronghold",
@@ -7063,7 +7063,7 @@
           "hero": "tiny",
           "heroLabel": "Tiny",
           "slot": "set",
-          "downloads": 119
+          "downloads": 120
         },
         {
           "name": "Tiny Banana",
@@ -7099,7 +7099,7 @@
           "hero": "treant_protector",
           "heroLabel": "Treant Protector",
           "slot": "set",
-          "downloads": 148
+          "downloads": 149
         },
         {
           "name": "Harrows Harvest Ringmaster",
@@ -7111,7 +7111,7 @@
           "hero": "ringmaster",
           "heroLabel": "Ringmaster",
           "slot": "set",
-          "downloads": 254
+          "downloads": 257
         },
         {
           "name": "Joker Ringmaster",
@@ -7135,7 +7135,7 @@
           "hero": "silencer",
           "heroLabel": "Silencer",
           "slot": "set",
-          "downloads": 333
+          "downloads": 335
         },
         {
           "name": "Golden Bracers of Forlorn Precipice",
@@ -7147,7 +7147,7 @@
           "hero": "dark_seer",
           "heroLabel": "Dark Seer",
           "slot": "hands",
-          "downloads": 30
+          "downloads": 31
         },
         {
           "name": "Bracers of Forlorn Precipice",
@@ -7171,7 +7171,7 @@
           "hero": "dark_seer",
           "heroLabel": "Dark Seer",
           "slot": "set",
-          "downloads": 361
+          "downloads": 362
         },
         {
           "name": "Razor Silver Rrevenant",
@@ -7183,7 +7183,7 @@
           "hero": "razor",
           "heroLabel": "Razor",
           "slot": "set",
-          "downloads": 262
+          "downloads": 264
         },
         {
           "name": "Razor Rainbow Statics",
@@ -7219,7 +7219,7 @@
           "hero": "razor",
           "heroLabel": "Razor",
           "slot": "set",
-          "downloads": 277
+          "downloads": 278
         },
         {
           "name": "Tidehunter Insatiable Seas",
@@ -7231,7 +7231,7 @@
           "hero": "tidehunter",
           "heroLabel": "Tidehunter",
           "slot": "set",
-          "downloads": 260
+          "downloads": 263
         },
         {
           "name": "Tidehunter Gopo",
@@ -7243,7 +7243,7 @@
           "hero": "tidehunter",
           "heroLabel": "Tidehunter",
           "slot": "set",
-          "downloads": 197
+          "downloads": 198
         },
         {
           "name": "Riki Hunger of the Howling Wilds",
@@ -7255,7 +7255,7 @@
           "hero": "riki",
           "heroLabel": "Riki",
           "slot": "set",
-          "downloads": 432
+          "downloads": 435
         },
         {
           "name": "Rubick Plagueroad Apothacary",
@@ -7306,7 +7306,7 @@
           "tags": [
             "arcana"
           ],
-          "downloads": 56
+          "downloads": 60
         },
         {
           "name": "Rubick Arcana",
@@ -7321,7 +7321,7 @@
           "tags": [
             "arcana"
           ],
-          "downloads": 126
+          "downloads": 130
         },
         {
           "name": "Custom Largo",
@@ -7333,7 +7333,7 @@
           "hero": "largo",
           "heroLabel": "Largo",
           "slot": "set",
-          "downloads": 263
+          "downloads": 265
         },
         {
           "name": "Muerta Blackwing Bandolera",
@@ -7381,7 +7381,7 @@
           "hero": "muerta",
           "heroLabel": "Muerta",
           "slot": "set",
-          "downloads": 302
+          "downloads": 305
         },
         {
           "name": "Enchantress Darkwood Witness",
@@ -7405,7 +7405,7 @@
           "hero": "void_spirit",
           "heroLabel": "Void Spirit",
           "slot": "set",
-          "downloads": 679
+          "downloads": 680
         },
         {
           "name": "Ghost Void Spirit",
@@ -7489,7 +7489,7 @@
           "hero": "keeper_of_the_light",
           "heroLabel": "Keeper Of The Light",
           "slot": "set",
-          "downloads": 1117
+          "downloads": 1124
         },
         {
           "name": "Keeper of the Light Renegade",
@@ -7501,7 +7501,7 @@
           "hero": "keeper_of_the_light",
           "heroLabel": "Keeper Of The Light",
           "slot": "set",
-          "downloads": 258
+          "downloads": 260
         },
         {
           "name": "Keeper Of The Light - The King Of Thieves",
@@ -7513,7 +7513,7 @@
           "hero": "keeper_of_the_light",
           "heroLabel": "Keeper Of The Light",
           "slot": "set",
-          "downloads": 169
+          "downloads": 171
         },
         {
           "name": "Legion Commander Crimson Black",
@@ -7525,7 +7525,7 @@
           "hero": "legion_commander",
           "heroLabel": "Legion Commander",
           "slot": "set",
-          "downloads": 324
+          "downloads": 325
         },
         {
           "name": "Legion Commander Persona",
@@ -7549,7 +7549,7 @@
           "hero": "legion_commander",
           "heroLabel": "Legion Commander",
           "slot": "set",
-          "downloads": 297
+          "downloads": 298
         },
         {
           "name": "Devil Legion Commander",
@@ -7561,7 +7561,7 @@
           "hero": "legion_commander",
           "heroLabel": "Legion Commander",
           "slot": "set",
-          "downloads": 346
+          "downloads": 348
         },
         {
           "name": "Legion Commander Holy Paladin",
@@ -7573,7 +7573,7 @@
           "hero": "legion_commander",
           "heroLabel": "Legion Commander",
           "slot": "set",
-          "downloads": 87
+          "downloads": 88
         },
         {
           "name": "Mirana Suigintou",
@@ -7615,7 +7615,7 @@
           "tags": [
             "Immortal"
           ],
-          "downloads": 0
+          "downloads": 1
         },
         {
           "name": "Pink Nyx Assassin",
@@ -7639,7 +7639,7 @@
           "hero": "nyx_assassin",
           "heroLabel": "Nyx Assassin",
           "slot": "set",
-          "downloads": 249
+          "downloads": 251
         },
         {
           "name": "Undying Archange",
@@ -7651,7 +7651,7 @@
           "hero": "undying",
           "heroLabel": "Undying",
           "slot": "set",
-          "downloads": 307
+          "downloads": 308
         },
         {
           "name": "Undying Grim Reformation",
@@ -7663,7 +7663,7 @@
           "hero": "undying",
           "heroLabel": "Undying",
           "slot": "set",
-          "downloads": 143
+          "downloads": 144
         },
         {
           "name": "The Hallows Within",
@@ -7687,7 +7687,7 @@
           "hero": "outworld_devourer",
           "heroLabel": "Outworld Devourer",
           "slot": "set",
-          "downloads": 307
+          "downloads": 309
         },
         {
           "name": "Outworld Destroyer Ulqiorra",
@@ -7702,7 +7702,7 @@
           "tags": [
             "anime"
           ],
-          "downloads": 35
+          "downloads": 36
         },
         {
           "name": "Black Phoenix",
@@ -7714,7 +7714,7 @@
           "hero": "phoenix",
           "heroLabel": "Phoenix",
           "slot": "set",
-          "downloads": 337
+          "downloads": 338
         },
         {
           "name": "Shadow Shaman Purple",
@@ -7726,7 +7726,7 @@
           "hero": "shadow_shaman",
           "heroLabel": "Shadow Shaman",
           "slot": "set",
-          "downloads": 190
+          "downloads": 191
         },
         {
           "name": "White Shadow Shaman",
@@ -7738,7 +7738,7 @@
           "hero": "shadow_shaman",
           "heroLabel": "Shadow Shaman",
           "slot": "set",
-          "downloads": 304
+          "downloads": 305
         },
         {
           "name": "Shadow Shaman Immortal Crimson",
@@ -7762,7 +7762,7 @@
           "hero": "weaver",
           "heroLabel": "Weaver",
           "slot": "set",
-          "downloads": 600
+          "downloads": 601
         },
         {
           "name": "Visage Azure Phantom",
@@ -7798,7 +7798,7 @@
           "hero": "tusk",
           "heroLabel": "Tusk",
           "slot": "set",
-          "downloads": 256
+          "downloads": 257
         },
         {
           "name": "Tusk Odobenus Footman",
@@ -7822,7 +7822,7 @@
           "hero": "tusk",
           "heroLabel": "Tusk",
           "slot": "set",
-          "downloads": 19
+          "downloads": 20
         },
         {
           "name": "Vengful Spirit Vision of the Seraph Scion",
@@ -7834,7 +7834,7 @@
           "hero": "vengeful_spirit",
           "heroLabel": "Vengeful Spirit",
           "slot": "set",
-          "downloads": 157
+          "downloads": 158
         },
         {
           "name": "Vengeful Spirit Arcana",
@@ -7849,7 +7849,7 @@
           "tags": [
             "arcana"
           ],
-          "downloads": 132
+          "downloads": 138
         },
         {
           "name": "Black Witch Doctor",
@@ -7861,7 +7861,7 @@
           "hero": "witch_doctor",
           "heroLabel": "Witch Doctor",
           "slot": "set",
-          "downloads": 341
+          "downloads": 342
         },
         {
           "name": "Bane Komeiji Koishi",
@@ -7873,7 +7873,7 @@
           "hero": "bane",
           "heroLabel": "Bane",
           "slot": "set",
-          "downloads": 254
+          "downloads": 255
         }
       ],
       "heroesByHero": {
@@ -8098,7 +8098,6 @@
             "heroLabel": "Bounty Hunter",
             "slot": "back"
           },
-          
           {
             "name": "Tines of Tybara",
             "author": "dota2pornfx",
@@ -14986,7 +14985,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 130
+          "downloads": 131
         },
         {
           "name": "Frostivus Tormentor",
@@ -15012,7 +15011,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 583
+          "downloads": 589
         },
         {
           "name": "Frostivus Ancient",
@@ -15024,7 +15023,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 149
+          "downloads": 150
         }
       ],
       "huds": [
@@ -15038,7 +15037,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 712
+          "downloads": 725
         },
         {
           "name": "White Sora Hud",
@@ -15050,7 +15049,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 526
+          "downloads": 532
         }
       ],
       "interface": [],
@@ -15065,7 +15064,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 70
+          "downloads": 71
         },
         {
           "name": "Monty",
@@ -15077,7 +15076,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 35
+          "downloads": 36
         },
         {
           "name": "Portal",
@@ -15089,7 +15088,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 80
+          "downloads": 81
         },
         {
           "name": "Trailgazer",
@@ -15235,7 +15234,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 114
+          "downloads": 116
         },
         {
           "name": "Baby Roshan",
@@ -15247,7 +15246,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 117
+          "downloads": 119
         },
         {
           "name": "Gingerbread Baby Roshan",
@@ -15295,7 +15294,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 200
+          "downloads": 202
         },
         {
           "name": "Honey Heist Baby Roshan",
@@ -15307,7 +15306,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 133
+          "downloads": 134
         },
         {
           "name": "Strongback the Swift",
@@ -15331,7 +15330,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 37
+          "downloads": 38
         },
         {
           "name": "Golden Flopjaw the Boxhound",
@@ -15379,7 +15378,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 24
+          "downloads": 25
         },
         {
           "name": "Billy Bounceback",
@@ -15415,7 +15414,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 165
+          "downloads": 166
         },
         {
           "name": "Baby Roshan 2018",
@@ -15475,7 +15474,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 22
+          "downloads": 23
         },
         {
           "name": "Desert Sands Baby Roshan",
@@ -15549,7 +15548,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 129
+          "downloads": 130
         },
         {
           "name": "Flaming Medals",
@@ -15561,7 +15560,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 194
+          "downloads": 195
         },
         {
           "name": "Slates of the Damned",
@@ -15599,7 +15598,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 623
+          "downloads": 625
         },
         {
           "name": "Default Wards",
@@ -15636,7 +15635,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 724
+          "downloads": 730
         },
         {
           "name": "Dry River",
@@ -15648,7 +15647,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 122
+          "downloads": 123
         },
         {
           "name": "Blood River",
@@ -15696,7 +15695,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 76
+          "downloads": 78
         },
         {
           "name": "Slime River",
@@ -15732,7 +15731,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 110
+          "downloads": 111
         },
         {
           "name": "Gold River",
@@ -15756,7 +15755,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 53
+          "downloads": 54
         },
         {
           "name": "Purple River",
@@ -15768,7 +15767,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 169
+          "downloads": 170
         }
       ],
       "terrains": [
@@ -15806,7 +15805,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 282
+          "downloads": 284
         },
         {
           "name": "LowPoly",
@@ -15818,7 +15817,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 293
+          "downloads": 296
         },
         {
           "name": "Dark Terrain",
@@ -15830,7 +15829,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 261
+          "downloads": 264
         },
         {
           "name": "simple Dark Terrain minify",
@@ -15842,7 +15841,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 109
+          "downloads": 112
         },
         {
           "name": "simple Dark Terrain minify v2",
@@ -15854,7 +15853,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 60
+          "downloads": 61
         },
         {
           "name": "LowPoly+Trees",
@@ -15866,7 +15865,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 547
+          "downloads": 549
         },
         {
           "name": "DarkPoly+Trees",
@@ -15878,7 +15877,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 773
+          "downloads": 779
         },
         {
           "name": "Dota+ Autumn",
@@ -15926,7 +15925,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 258
+          "downloads": 259
         },
         {
           "name": "The Kings New Journey",
@@ -15950,7 +15949,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 481
+          "downloads": 485
         },
         {
           "name": "TI9 Overgrown Empire",
@@ -15986,7 +15985,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 243
+          "downloads": 244
         },
         {
           "name": "TI6 Immortal Gardens",
@@ -15998,7 +15997,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 170
+          "downloads": 172
         },
         {
           "name": "TI5 Desert Terrain",
@@ -16010,7 +16009,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 69
+          "downloads": 70
         }
       ],
       "shaders": [
@@ -16036,7 +16035,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 174
+          "downloads": 175
         },
         {
           "name": "Aghanim Purple Shader",
@@ -16084,7 +16083,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 147
+          "downloads": 148
         },
         {
           "name": "Wave White Shader",
@@ -16096,7 +16095,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 367
+          "downloads": 368
         },
         {
           "name": "Wave Green Shader",
@@ -16132,7 +16131,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 53
+          "downloads": 54
         },
         {
           "name": "Purple Ancient Shader",
@@ -16144,7 +16143,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 89
+          "downloads": 90
         },
         {
           "name": "Purple Outline Shader",
@@ -16192,7 +16191,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 200
+          "downloads": 202
         },
         {
           "name": "Wave Lite Green",
@@ -16216,7 +16215,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 83
+          "downloads": 84
         },
         {
           "name": "Simple Minify Shader",
@@ -16228,7 +16227,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 221
+          "downloads": 223
         }
       ],
       "towers": [
@@ -16242,7 +16241,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 320
+          "downloads": 322
         }
       ],
       "music": [
@@ -16307,7 +16306,7 @@
           "heroLabel": null,
           "slot": null,
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Lion%20Taunt.mp4",
-          "downloads": 281
+          "downloads": 283
         },
         {
           "name": "Shadow Shaman Taunt",
@@ -16320,7 +16319,7 @@
           "heroLabel": null,
           "slot": null,
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Shadow%20Shaman%20Taunt.mp4",
-          "downloads": 185
+          "downloads": 187
         },
         {
           "name": "Undying Taunt",
@@ -16333,7 +16332,7 @@
           "heroLabel": null,
           "slot": null,
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Undying%20Taunt.mp4",
-          "downloads": 139
+          "downloads": 140
         },
         {
           "name": "Warcraft III AllStars Voices",
@@ -16385,7 +16384,7 @@
           "heroLabel": null,
           "slot": null,
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Bane%20Sleep%20Mimimi.mp4",
-          "downloads": 118
+          "downloads": 119
         },
         {
           "name": "Bounty Hunter Taunt",
@@ -16398,7 +16397,7 @@
           "heroLabel": null,
           "slot": null,
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Bounty%20Hunter%20Taunt.mp4",
-          "downloads": 71
+          "downloads": 72
         },
         {
           "name": "IO Relocate Rocket",
@@ -16437,7 +16436,7 @@
           "heroLabel": null,
           "slot": null,
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Kunkka%20Sailor%20Taunt.mp4",
-          "downloads": 100
+          "downloads": 101
         },
         {
           "name": "Nature Prophet Taunt",
@@ -16450,7 +16449,7 @@
           "heroLabel": null,
           "slot": null,
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Nature%20Prophet%20Taunt.mp4",
-          "downloads": 145
+          "downloads": 146
         },
         {
           "name": "Witch Doctor Death Ward",
@@ -16463,7 +16462,7 @@
           "heroLabel": null,
           "slot": null,
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Witch%20Doctor%20Death%20Ward.mp4",
-          "downloads": 229
+          "downloads": 230
         },
         {
           "name": "Enigma Black Hole Kate",
@@ -16515,7 +16514,7 @@
           "heroLabel": null,
           "slot": null,
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Axe%20Rip%20Your%20Head.mp4",
-          "downloads": 129
+          "downloads": 130
         },
         {
           "name": "Taunt Wraith King Papich",
@@ -16528,7 +16527,7 @@
           "heroLabel": null,
           "slot": null,
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/TAUNT%20PAPPARAM%20PAPICH.mp4",
-          "downloads": 30
+          "downloads": 31
         },
         {
           "name": "Ursa Already Red",
@@ -16554,7 +16553,7 @@
           "heroLabel": null,
           "slot": null,
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Sven%20Already%20Red.mp4",
-          "downloads": 121
+          "downloads": 122
         },
         {
           "name": "Naga Siren – I Like Big",
@@ -16567,7 +16566,7 @@
           "heroLabel": null,
           "slot": null,
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Naga%20Siren%20I%20Like%20Big.mp4",
-          "downloads": 99
+          "downloads": 101
         }
       ],
       "packs": [
@@ -16581,7 +16580,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 150
+          "downloads": 151
         },
         {
           "name": "TI9 Versus Screen I",
@@ -16593,7 +16592,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 77
+          "downloads": 78
         },
         {
           "name": "TI 2024 Versus Screen",
@@ -16605,7 +16604,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 144
+          "downloads": 147
         },
         {
           "name": "Nemestice Versus Screen",
@@ -16617,7 +16616,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 703
+          "downloads": 708
         },
         {
           "name": "Diretide Radiant Versus Screen",
@@ -16629,7 +16628,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 256
+          "downloads": 257
         }
       ],
       "backgrounds": [
@@ -16667,7 +16666,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 191
+          "downloads": 193
         },
         {
           "name": "Liberalio Nikke",
@@ -16691,7 +16690,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 95
+          "downloads": 96
         },
         {
           "name": "Kira and Ryuk",
@@ -16703,7 +16702,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 155
+          "downloads": 156
         },
         {
           "name": "Cat Under Rain",
@@ -16727,7 +16726,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 7
+          "downloads": 8
         },
         {
           "name": "Pine Forest",
@@ -16739,7 +16738,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 32
+          "downloads": 33
         },
         {
           "name": "Shadow Fiend",
@@ -16751,7 +16750,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 87
+          "downloads": 89
         },
         {
           "name": "River Vials",
@@ -16787,7 +16786,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 35
+          "downloads": 36
         },
         {
           "name": "Illidan Stormrage",
@@ -16835,7 +16834,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 32
+          "downloads": 33
         },
         {
           "name": "sematary 4",
@@ -16871,7 +16870,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 98
+          "downloads": 100
         },
         {
           "name": "BROODskoe",
@@ -16919,7 +16918,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 145
+          "downloads": 146
         },
         {
           "name": "Katana In Forest",
@@ -16931,7 +16930,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 286
+          "downloads": 287
         },
         {
           "name": "Field Grass",
@@ -16943,7 +16942,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 574
+          "downloads": 575
         },
         {
           "name": "Moonflower Field",
@@ -17003,7 +17002,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 58
+          "downloads": 59
         },
         {
           "name": "Windranger",
@@ -17039,7 +17038,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 161
+          "downloads": 163
         },
         {
           "name": "Cyrene Song",
@@ -17063,7 +17062,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 169
+          "downloads": 171
         },
         {
           "name": "Dead Eyes",
@@ -17135,7 +17134,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 165
+          "downloads": 167
         },
         {
           "name": "Corgi Sleeping",
@@ -17171,7 +17170,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 189
+          "downloads": 190
         },
         {
           "name": "Guts",
@@ -17183,7 +17182,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 109
+          "downloads": 110
         },
         {
           "name": "Floating Dog",
@@ -17207,7 +17206,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 73
+          "downloads": 74
         },
         {
           "name": "Cloudy Tree",
@@ -17219,7 +17218,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 68
+          "downloads": 69
         },
         {
           "name": "Last Match",
@@ -17231,7 +17230,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 224
+          "downloads": 227
         },
         {
           "name": "Shadow Fiend",
@@ -17281,7 +17280,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 48
+          "downloads": 49
         },
         {
           "name": "Lina",
@@ -17293,7 +17292,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 48
+          "downloads": 49
         },
         {
           "name": "Dark Willow",
@@ -17343,7 +17342,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 610
+          "downloads": 614
         },
         {
           "name": "Dark Bounty Rune",
@@ -17355,7 +17354,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 350
+          "downloads": 351
         },
         {
           "name": "GG Iron Branch",
@@ -17403,7 +17402,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 231
+          "downloads": 233
         },
         {
           "name": "Blue Dagon",
@@ -17451,7 +17450,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 281
+          "downloads": 282
         },
         {
           "name": "TI9 Blink Dagger",
@@ -18910,7 +18909,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 2
+          "downloads": 6
         },
         {
           "name": "Enigmatic Emblem of the Diretide - Yellow",
@@ -18934,7 +18933,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 322
+          "downloads": 323
         },
         {
           "name": "Battle Pass 2022 Emblem",
@@ -18946,7 +18945,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 142
+          "downloads": 144
         },
         {
           "name": "Aghanims 2021 Emblem",
@@ -18970,7 +18969,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 67
+          "downloads": 68
         },
         {
           "name": "Overgrown Emblem",
@@ -18982,7 +18981,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 259
+          "downloads": 261
         },
         {
           "name": "Emblem of the Crystal Echelon",
@@ -18994,7 +18993,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 67
+          "downloads": 68
         }
       ],
       "roshan": [
@@ -19008,7 +19007,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 556
+          "downloads": 558
         },
         {
           "name": "Greevil Grief Roshan",
@@ -19044,7 +19043,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 56
+          "downloads": 57
         }
       ],
       "mega-kill": [
@@ -19058,7 +19057,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 1061
+          "downloads": 1064
         },
         {
           "name": "Rick & Morty.",
@@ -19130,7 +19129,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 7
+          "downloads": 8
         },
         {
           "name": "Umbrella Mega Kill",
@@ -19154,7 +19153,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 86
+          "downloads": 87
         },
         {
           "name": "Pyrion Flax",
@@ -19214,7 +19213,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 17
+          "downloads": 18
         },
         {
           "name": "deus ex",
@@ -19250,7 +19249,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 346
+          "downloads": 350
         }
       ],
       "creep-deny": [
@@ -19300,7 +19299,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 316
+          "downloads": 317
         },
         {
           "name": "Razor Deny I",
@@ -19312,7 +19311,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 196
+          "downloads": 199
         },
         {
           "name": "Razor Deny II",
@@ -19384,7 +19383,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 75
+          "downloads": 76
         },
         {
           "name": "Spectre Deny II",
@@ -19396,7 +19395,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 122
+          "downloads": 123
         }
       ],
       "ranged-attack": [
@@ -19434,7 +19433,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 64
+          "downloads": 65
         },
         {
           "name": "Aghanim Ranged Attack",
@@ -19446,7 +19445,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 176
+          "downloads": 177
         },
         {
           "name": "Green Diretide Ranged Attack",
@@ -19506,7 +19505,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 35
+          "downloads": 36
         }
       ],
       "item-icons": [
@@ -19544,7 +19543,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 191
+          "downloads": 194
         },
         {
           "name": "Purple Icons",
@@ -19556,7 +19555,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 266
+          "downloads": 268
         },
         {
           "name": "White Items",
@@ -19568,7 +19567,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 179
+          "downloads": 181
         }
       ],
       "other": [
@@ -19594,7 +19593,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 347
+          "downloads": 348
         },
         {
           "name": "Tower re-aggro Radius",
@@ -19606,7 +19605,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 399
+          "downloads": 400
         },
         {
           "name": "Purple Click",
@@ -19618,7 +19617,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 729
+          "downloads": 732
         },
         {
           "name": "Profile Graffiti & Phrases",
@@ -19642,7 +19641,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 388
+          "downloads": 391
         },
         {
           "name": "Tinker Peashooter Turrets",
@@ -19666,7 +19665,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 615
+          "downloads": 619
         },
         {
           "name": "Replacing Bronze Tier with Grandmaster",
@@ -19678,7 +19677,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 175
+          "downloads": 179
         },
         {
           "name": "Blue Click",
@@ -19690,7 +19689,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 87
+          "downloads": 90
         },
         {
           "name": "Dummy In Profile",
@@ -19738,7 +19737,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 139
+          "downloads": 140
         }
       ],
       "sounds": [
@@ -19789,7 +19788,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 62
+          "downloads": 63
         },
         {
           "name": "Reincarnation song papich",
@@ -19802,7 +19801,7 @@
           "heroLabel": null,
           "slot": null,
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Reincarnation%20song%20papich.mp4",
-          "downloads": 66
+          "downloads": 67
         }
       ],
       "cursors": [
@@ -19816,7 +19815,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 272
+          "downloads": 274
         },
         {
           "name": "TI 8 Cursor",
@@ -19876,7 +19875,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 93
+          "downloads": 94
         },
         {
           "name": "Warcog Cursor",
@@ -19900,7 +19899,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 17
+          "downloads": 18
         },
         {
           "name": "Earthshaker Cursor",
@@ -19948,7 +19947,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 6
+          "downloads": 8
         },
         {
           "name": "Holy Flame Cursor",
@@ -20008,7 +20007,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 34
+          "downloads": 35
         },
         {
           "name": "Skywrath Mage Cursor",
@@ -20080,7 +20079,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 100
+          "downloads": 101
         },
         {
           "name": "SpearMa Cursor",
@@ -20128,7 +20127,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 35
+          "downloads": 36
         },
         {
           "name": "Pepepains Cursor",
@@ -20140,7 +20139,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 75
+          "downloads": 76
         },
         {
           "name": "Old Cursor",
@@ -20152,7 +20151,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 55
+          "downloads": 56
         },
         {
           "name": "Demon Cursor",
@@ -20164,7 +20163,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 67
+          "downloads": 68
         },
         {
           "name": "Purple Demon Cursor",
@@ -20176,7 +20175,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 225
+          "downloads": 227
         },
         {
           "name": "Purple TI8 Cursor",
@@ -20188,7 +20187,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 62
+          "downloads": 64
         },
         {
           "name": "Purple Bts3 Cursor",
@@ -20214,7 +20213,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 68
+          "downloads": 69
         },
         {
           "name": "Wooden Trees",
@@ -20238,7 +20237,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 89
+          "downloads": 90
         },
         {
           "name": "Pumpkin Trees",
@@ -20286,7 +20285,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 38
+          "downloads": 39
         },
         {
           "name": "LowPoly Skull Trees",
@@ -20334,7 +20333,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 289
+          "downloads": 290
         },
         {
           "name": "Cartoon Trees",
@@ -20346,7 +20345,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 111
+          "downloads": 112
         },
         {
           "name": "Cone Trees",
@@ -20358,7 +20357,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 203
+          "downloads": 204
         },
         {
           "name": "Pine Cone Trees",
@@ -20431,7 +20430,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 193
+          "downloads": 194
         },
         {
           "name": "Woodland Radiant Siege",
@@ -20443,7 +20442,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 262
+          "downloads": 265
         },
         {
           "name": "Woodland Radiant Creeps",
@@ -20479,7 +20478,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 214
+          "downloads": 215
         },
         {
           "name": "Dark Carnival Radiant Creeps",
@@ -20491,7 +20490,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 209
+          "downloads": 212
         },
         {
           "name": "Dark Carnival Dire Creeps",
@@ -20503,7 +20502,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 234
+          "downloads": 236
         },
         {
           "name": "Dark Carnival Radiant Siege",
@@ -20515,7 +20514,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 147
+          "downloads": 148
         },
         {
           "name": "Dark Carnival Dire Siege",
@@ -20527,7 +20526,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 162
+          "downloads": 163
         }
       ],
       "high-five": [
@@ -20553,7 +20552,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 363
+          "downloads": 369
         }
       ]
     },
