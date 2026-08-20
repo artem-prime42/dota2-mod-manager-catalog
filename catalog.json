@@ -4074,7 +4074,7 @@
         {
           "name": "Phantom Assassin Arcana",
           "author": "Anonymous",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/phantom assassin arcana.png",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Phantom Assassin Arcana.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/285/phantom.assassin.arcana.zip",
           "createdAt": "2026-08-12T00:00:00.000Z",
           "categoryId": "heroes",
@@ -4337,6 +4337,30 @@
           "heroLabel": "Windranger",
           "slot": "set",
           "downloads": 1114
+        },
+        {
+          "name": "Peregrine Flight",
+          "author": "dota2pornfx",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Peregrine Flight.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/Windranger.Peregrine.Flight.zip",
+          "createdAt": "2026-08-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "windranger",
+          "heroLabel": "Windranger",
+          "slot": "weapon",
+          "downloads": 0
+        },
+        {
+          "name": "Immortal Winter Wyvern",
+          "author": "dota2pornfx",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal Winter Wyvern.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/Immortal.Winter.Wyvern.zip",
+          "createdAt": "2026-08-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "winter_wyvern",
+          "heroLabel": "Winter Wyvern",
+          "slot": "set",
+          "downloads": 0
         },
         {
           "name": "Gyrocopter Kongou",
@@ -5351,6 +5375,30 @@
           "heroLabel": "Clockwerk",
           "slot": "set",
           "downloads": 128
+        },
+        {
+          "name": "Rabid Watchcog",
+          "author": "dota2pornfx",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rabid Watchcog.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/Clockwerk.Rabid.Watchcog.zip",
+          "createdAt": "2026-08-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "clockwerk",
+          "heroLabel": "Clockwerk",
+          "slot": "weapon",
+          "downloads": 0
+        },
+        {
+          "name": "Paraflare Cannon",
+          "author": "dota2pornfx",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Paraflare Cannon.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/Clockwerk.Paraflare.Cannon.zip",
+          "createdAt": "2026-08-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "clockwerk",
+          "heroLabel": "Clockwerk",
+          "slot": "rocket",
+          "downloads": 0
         },
         {
           "name": "Nuclear Clockwerk",
@@ -6877,6 +6925,30 @@
           "downloads": 660
         },
         {
+          "name": "Iron Surge",
+          "author": "dota2pornfx",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Iron Surge.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/Spirit.Breaker.Iron.Surge.zip",
+          "createdAt": "2026-08-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "spirit_breaker",
+          "heroLabel": "Spirit Breaker",
+          "slot": "head",
+          "downloads": 0
+        },
+        {
+          "name": "Tyrian Iron Surge",
+          "author": "dota2pornfx",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tyrian Iron Surge.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/Spirit.Breaker.Iron.Surge.Tyrian.zip",
+          "createdAt": "2026-08-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "spirit_breaker",
+          "heroLabel": "Spirit Breaker",
+          "slot": "head",
+          "downloads": 0
+        },
+        {
           "name": "Savage Mettle",
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Savage-Mettle.webp",
@@ -7460,6 +7532,18 @@
             "immortal"
           ],
           "downloads": 55
+        },
+        {
+          "name": "Pulsar Remnant",
+          "author": "dota2pornfx",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pulsar Remnant.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/Mirana.Pulsar.Remnant.zip",
+          "createdAt": "2026-08-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "mirana",
+          "heroLabel": "Mirana",
+          "slot": "weapon",
+          "downloads": 0
         },
         {
           "name": "Pink Nyx Assassin",
