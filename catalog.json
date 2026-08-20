@@ -3350,6 +3350,42 @@
           "downloads": 28
         },
         {
+          "name": "Belt of the Dragon's Disciple",
+          "author": "Papapodzaborniy",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Belt of the Dragon's Disciple.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Belt.of.the.Dragon.s.Disciple.zip",
+          "createdAt": "2026-08-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "anti_mage",
+          "heroLabel": "Anti Mage",
+          "slot": "belt",
+          "downloads": 0
+        },
+        {
+          "name": "Monk of The Ancient Lands Head",
+          "author": "Papapodzaborniy",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monk of The Ancient Lands Head.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Monk.of.The.Ancient.Lands.Head.zip",
+          "createdAt": "2026-08-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "anti_mage",
+          "heroLabel": "Anti Mage",
+          "slot": "head",
+          "downloads": 0
+        },
+        {
+          "name": "Armor of the Forgotten Plane",
+          "author": "Papapodzaborniy",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Armor of the Forgotten Plane.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Armor.of.the.Forgotten.Plane.zip",
+          "createdAt": "2026-08-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "anti_mage",
+          "heroLabel": "Anti Mage",
+          "slot": "armor",
+          "downloads": 0
+        },
+        {
           "name": "Belt of the Spectral Hunter",
           "author": "Papapodzaborniy",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Belt-of-the-Spectral-Hunter.webp",
@@ -10581,6 +10617,39 @@
           }
         ],
         "anti_mage": [
+          {
+            "name": "Belt of the Dragon's Disciple",
+            "author": "Papapodzaborniy",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Belt of the Dragon's Disciple.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Belt.of.the.Dragon.s.Disciple.zip",
+            "createdAt": "2026-08-20T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "anti_mage",
+            "heroLabel": "Anti Mage",
+            "slot": "belt"
+          },
+          {
+            "name": "Monk of The Ancient Lands Head",
+            "author": "Papapodzaborniy",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monk of The Ancient Lands Head.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Monk.of.The.Ancient.Lands.Head.zip",
+            "createdAt": "2026-08-20T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "anti_mage",
+            "heroLabel": "Anti Mage",
+            "slot": "head"
+          },
+          {
+            "name": "Armor of the Forgotten Plane",
+            "author": "Papapodzaborniy",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Armor of the Forgotten Plane.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Armor.of.the.Forgotten.Plane.zip",
+            "createdAt": "2026-08-20T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "anti_mage",
+            "heroLabel": "Anti Mage",
+            "slot": "armor"
+          },
           {
             "name": "Golden Origins of Faith",
             "author": "Arthas",
