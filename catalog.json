@@ -4348,6 +4348,9 @@
           "hero": "windranger",
           "heroLabel": "Windranger",
           "slot": "weapon",
+          "tags": [
+            "Immortal"
+          ],
           "downloads": 0
         },
         {
@@ -4360,6 +4363,9 @@
           "hero": "winter_wyvern",
           "heroLabel": "Winter Wyvern",
           "slot": "set",
+          "tags": [
+            "Immortal"
+          ],
           "downloads": 0
         },
         {
@@ -5386,6 +5392,9 @@
           "hero": "clockwerk",
           "heroLabel": "Clockwerk",
           "slot": "weapon",
+          "tags": [
+            "Immortal"
+          ],
           "downloads": 0
         },
         {
@@ -5398,6 +5407,9 @@
           "hero": "clockwerk",
           "heroLabel": "Clockwerk",
           "slot": "rocket",
+          "tags": [
+            "Immortal"
+          ],
           "downloads": 0
         },
         {
@@ -6280,6 +6292,21 @@
           "downloads": 103
         },
         {
+          "name": "Techies Arcana",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Techies Arcana.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/Techies.Arcana.zip",
+          "createdAt": "2026-08-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "techies",
+          "heroLabel": "Techies",
+          "slot": "set",
+          "tags": [
+            "Arcana"
+          ],
+          "downloads": 0
+        },
+        {
           "name": "Omniknight Blinding Bastion",
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Omniknight-Blinding-Bastion.webp",
@@ -6934,6 +6961,9 @@
           "hero": "spirit_breaker",
           "heroLabel": "Spirit Breaker",
           "slot": "head",
+          "tags": [
+            "Immortal"
+          ],
           "downloads": 0
         },
         {
@@ -6946,6 +6976,9 @@
           "hero": "spirit_breaker",
           "heroLabel": "Spirit Breaker",
           "slot": "head",
+          "tags": [
+            "Immortal"
+          ],
           "downloads": 0
         },
         {
@@ -7543,6 +7576,9 @@
           "hero": "mirana",
           "heroLabel": "Mirana",
           "slot": "weapon",
+          "tags": [
+            "Immortal"
+          ],
           "downloads": 0
         },
         {
