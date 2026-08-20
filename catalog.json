@@ -8098,39 +8098,7 @@
             "heroLabel": "Bounty Hunter",
             "slot": "back"
           },
-          {
-            "name": "Keeper of Oloxicam's Glass Pauldrons",
-            "author": "Papapodzaborniy",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper of Oloxicam's Glass Pauldrons.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/Keeper.of.Oloxicam.s.Glass.Pauldrons.zip",
-            "createdAt": "2026-08-20T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "dark_seer",
-            "heroLabel": "Dark Seer",
-            "slot": "shoulders"
-          },
-          {
-            "name": "Book of the Vizier Exile",
-            "author": "Papapodzaborniy",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Book of the Vizier Exile.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/Book.of.the.Vizier.Exile.zip",
-            "createdAt": "2026-08-20T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "dark_seer",
-            "heroLabel": "Dark Seer",
-            "slot": "back"
-          },
-          {
-            "name": "Hood of the Vizier Exile",
-            "author": "Papapodzaborniy",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hood of the Vizier Exile.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/Hood.of.the.Vizier.Exile.zip",
-            "createdAt": "2026-08-20T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "dark_seer",
-            "heroLabel": "Dark Seer",
-            "slot": "head"
-          },
+          
           {
             "name": "Tines of Tybara",
             "author": "dota2pornfx",
@@ -14204,6 +14172,39 @@
             "hero": "dark_seer",
             "heroLabel": "Dark Seer",
             "slot": "back"
+          },
+          {
+            "name": "Keeper of Oloxicam's Glass Pauldrons",
+            "author": "Papapodzaborniy",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper of Oloxicam's Glass Pauldrons.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/Keeper.of.Oloxicam.s.Glass.Pauldrons.zip",
+            "createdAt": "2026-08-20T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "dark_seer",
+            "heroLabel": "Dark Seer",
+            "slot": "shoulders"
+          },
+          {
+            "name": "Book of the Vizier Exile",
+            "author": "Papapodzaborniy",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Book of the Vizier Exile.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/Book.of.the.Vizier.Exile.zip",
+            "createdAt": "2026-08-20T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "dark_seer",
+            "heroLabel": "Dark Seer",
+            "slot": "back"
+          },
+          {
+            "name": "Hood of the Vizier Exile",
+            "author": "Papapodzaborniy",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hood of the Vizier Exile.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/Hood.of.the.Vizier.Exile.zip",
+            "createdAt": "2026-08-20T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "dark_seer",
+            "heroLabel": "Dark Seer",
+            "slot": "head"
           },
           {
             "name": "Golden Bracers of Forlorn Precipice",
