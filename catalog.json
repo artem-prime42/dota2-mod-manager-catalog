@@ -1033,6 +1033,18 @@
           "downloads": 39
         },
         {
+          "name": "Grimstroke purple",
+          "author": "hi",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Grimstroke purple.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/Grimstroke.purple.zip",
+          "createdAt": "2026-08-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "grimstroke",
+          "heroLabel": "Grimstroke",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
           "name": "Custom herald of the ember eye",
           "author": "hi",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/herald of the ember eye.jpg",
@@ -4963,6 +4975,18 @@
           "downloads": 234
         },
         {
+          "name": "Tinker Frusy Set",
+          "author": "Arthas",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker Frusy Set.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/Tinker.Frusy.Set.zip",
+          "createdAt": "2026-08-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "tinker",
+          "heroLabel": "Tinker",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
           "name": "Lens Tinker",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/LenS Tinker.webp",
@@ -8800,6 +8824,17 @@
             "slot": "set"
           },
           {
+            "name": "Grimstroke purple",
+            "author": "hi",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Grimstroke purple.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/Grimstroke.purple.zip",
+            "createdAt": "2026-08-25T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "grimstroke",
+            "heroLabel": "Grimstroke",
+            "slot": "set"
+          },
+          {
             "name": "Custom herald of the ember eye",
             "author": "hi",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/herald of the ember eye.jpg",
@@ -12305,6 +12340,17 @@
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-07-21-02-20-23.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Tinker.Immortal.Vodolaz.zip",
             "createdAt": "2026-07-21T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "tinker",
+            "heroLabel": "Tinker",
+            "slot": "set"
+          },
+          {
+            "name": "Tinker Frusy Set",
+            "author": "Arthas",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker Frusy Set.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/Tinker.Frusy.Set.zip",
+            "createdAt": "2026-08-25T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "tinker",
             "heroLabel": "Tinker",
@@ -29031,20 +29077,6 @@
             "hero": "huskar",
             "heroLabel": "Huskar",
             "slot": "set"
-          },
-          {
-            "name": "Queen of pain Arcana",
-            "author": "Anonymous",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Queen of Pain Arcana.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/Queen.of.Pain.Arcana.zip",
-            "createdAt": "2026-08-11T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "queen_of_pain",
-            "heroLabel": "Queen Of Pain",
-            "slot": "set",
-            "tags": [
-              "arcana"
-            ]
           },
           {
             "name": "Mask of the Divine Sorrow",
