@@ -7958,6 +7958,159 @@
           "heroLabel": "Bane",
           "slot": "set",
           "downloads": 278
+        },
+        {
+          "name": "Lion Hell-Spar Anathema Purple",
+          "author": "dota2pornfx",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lion Hell-Spar Anathema Purple.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Lion.Hell-Spar.Anathema.Purple.zip",
+          "createdAt": "2026-08-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "lion",
+          "heroLabel": "Lion",
+          "slot": "left_hand",
+          "downloads": 3
+        },
+        {
+          "name": "Lion Fin Kings Charm Purple",
+          "author": "dota2pornfx",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lion Fin Kings Charm Purple.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Lion.Fin.Kings.Charm.Purple.zip",
+          "createdAt": "2026-08-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "lion",
+          "heroLabel": "Lion",
+          "slot": "weapon",
+          "downloads": 1
+        },
+        {
+          "name": "Keeper of the Light Frostbloom",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper of the Light Frostbloom.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Keeper.of.the.Light.Frostbloom.zip",
+          "createdAt": "2026-08-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "keeper_of_the_light",
+          "heroLabel": "Keeper Of The Light",
+          "slot": "weapon",
+          "downloads": 0
+        },
+        {
+          "name": "Tinker Immortal",
+          "author": "Arthas",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker Immortal.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Tinker.Immortal.zip",
+          "createdAt": "2026-08-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "tinker",
+          "heroLabel": "Tinker",
+          "slot": "set",
+          "tags": [
+            "immortal"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Lycan Furrytrop",
+          "author": "mopsyara",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lycan Furrytrop.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Lycan.Furrytrop.zip",
+          "createdAt": "2026-08-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "lycan",
+          "heroLabel": "Lycan",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Axe Automaton",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Axe Automaton.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Axe.Automaton.zip",
+          "createdAt": "2026-08-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "axe",
+          "heroLabel": "Axe",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Oracle Automaton",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Oracle Automaton.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Oracle.Automaton.zip",
+          "createdAt": "2026-08-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "oracle",
+          "heroLabel": "Oracle",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Legion Commander Automaton",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Legion Commander Automaton.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Legion.Commander.Automaton.zip",
+          "createdAt": "2026-08-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "legion_commander",
+          "heroLabel": "Legion Commander",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Bristleback Automaton",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bristleback Automaton.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Bristleback.Automaton.zip",
+          "createdAt": "2026-08-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "bristleback",
+          "heroLabel": "Bristleback",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Lycan Blood Beast",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lycan Blood Beast.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Lycan.Blood.Beast.zip",
+          "createdAt": "2026-08-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "lycan",
+          "heroLabel": "Lycan",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Natures Prophet Farm Champion",
+          "author": "mopsyara",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Natures Prophet Farm Champion.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Natures.Prophet.Farm.Champion.zip",
+          "createdAt": "2026-08-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "nature_prophet",
+          "heroLabel": "Nature's Prophet",
+          "slot": "set",
+          "tags": [
+            "immortal"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Juggernaut Arcana",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Juggernaut Arcana.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Juggernaut.Arcana.zip",
+          "createdAt": "2026-08-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "juggernaut",
+          "heroLabel": "Juggernaut",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
         }
       ],
       "heroesByHero": {
