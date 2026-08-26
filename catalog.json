@@ -3699,6 +3699,9 @@
           "hero": "drow_ranger",
           "heroLabel": "Drow Ranger",
           "slot": "set",
+          "tags": [
+            "Arcana"
+          ],
           "downloads": 3
         },
         {
@@ -8175,7 +8178,10 @@
             "categoryId": "heroes",
             "hero": "abaddon",
             "heroLabel": "Abaddon",
-            "slot": "set"
+            "slot": "set",
+            "tags": [
+              "Arcana"
+            ]
           },
           {
             "name": "Abaddon Fallen King",
@@ -14957,6 +14963,17 @@
             "hero": "keeper_of_the_light",
             "heroLabel": "Keeper Of The Light",
             "slot": "set"
+          },
+          {
+            "name": "Keeper of the Light Waitureally",
+            "author": "hi",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper of the Light Waitureally.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/Keeper.of.the.Light.Waitureally.zip",
+            "createdAt": "2026-08-26T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "keeper_of_the_light",
+            "heroLabel": "Keeper Of The Light",
+            "slot": "set"
           }
         ],
         "legion_commander": [
@@ -20150,6 +20167,17 @@
           "heroLabel": null,
           "slot": null,
           "downloads": 176
+        },
+        {
+          "name": "Feast of souls arcana icon",
+          "author": "XIIIpsiblade",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Feast of souls arcana icon.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/Feast.of.souls.arcana.icon.zip",
+          "createdAt": "2026-08-26T00:00:00.000Z",
+          "categoryId": "other",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
         }
       ],
       "sounds": [
@@ -20214,6 +20242,17 @@
           "slot": null,
           "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Reincarnation%20song%20papich.mp4",
           "downloads": 103
+        },
+        {
+          "name": "There is a small chance that Techies will shout “Allahu Akbar” when one of his mines explodes.",
+          "author": "XIIIpsiblade",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/There is a small chance that Techies will shout “Allahu Akbar” when one of his mines explodes..jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/There.is.a.small.chance.that.Techies.will.shout.Allahu.Akbar.when.one.of.his.mines.explodes.zip",
+          "createdAt": "2026-08-26T00:00:00.000Z",
+          "categoryId": "sounds",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
         }
       ],
       "cursors": [
@@ -20794,6 +20833,17 @@
           "heroLabel": null,
           "slot": null,
           "downloads": 103
+        },
+        {
+          "name": "LowPoly Trees v1",
+          "author": "dota2pornfx",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/LowPoly Trees v1.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/LowPoly.Trees.v1.zip",
+          "createdAt": "2026-08-26T00:00:00.000Z",
+          "categoryId": "trees",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
         }
       ],
       "creeps": [
