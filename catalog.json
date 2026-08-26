@@ -8165,6 +8165,17 @@
             "arcana"
           ],
           "downloads": 57
+        },
+        {
+          "name": "Keeper of the Light Waitureally",
+          "author": "hi",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper of the Light Waitureally.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/Keeper.of.the.Light.Waitureally.zip",
+          "createdAt": "2026-08-26T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "keeper_of_the_light",
+          "heroLabel": "Keeper Of The Light",
+          "slot": "set"
         }
       ],
       "heroesByHero": {
