@@ -5599,6 +5599,21 @@
           "downloads": 130
         },
         {
+          "name": "Crystal Maiden Immortal Arcana",
+          "author": "lansory",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crystal Maiden Immortal Arcana.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/Crystal.Maiden.Immortal.Arcana.zip",
+          "createdAt": "2026-08-26T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "crystal_maiden",
+          "heroLabel": "Crystal Maiden",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
           "name": "Crystal Maiden Tamamo no Mae",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crystal-Maiden-Tamamo-no-Mae.webp",
@@ -12938,6 +12953,20 @@
           }
         ],
         "crystal_maiden": [
+          {
+            "name": "Crystal Maiden Immortal Arcana",
+            "author": "lansory",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crystal Maiden Immortal Arcana.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/Crystal.Maiden.Immortal.Arcana.zip",
+            "createdAt": "2026-08-26T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "crystal_maiden",
+            "heroLabel": "Crystal Maiden",
+            "slot": "set",
+            "tags": [
+              "arcana"
+            ]
+          },
           {
             "name": "Crystal Maiden Tamamo no Mae",
             "author": "Anonymous",
