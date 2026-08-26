@@ -144,6 +144,20 @@
           "downloads": 288
         },
         {
+          "name": "Morphling Immortal Set",
+          "author": "Tenkay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/morphling immortal set.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/morphling.immortal.set.zip",
+          "createdAt": "2026-08-26T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "morphling",
+          "heroLabel": "Morphling",
+          "slot": "set",
+          "tags": [
+            "Immortal"
+          ]
+        },
+        {
           "name": "Sven Holy Paladin",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sven Holy Paladin.webp",
@@ -2382,6 +2396,17 @@
           "downloads": 34
         },
         {
+          "name": "Storm Spirit Mode Lorenof",
+          "author": "Tenkay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/storm spirit mode lorenof.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/storm.spirit.mode.lorenof.zip",
+          "createdAt": "2026-08-26T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "storm_spirit",
+          "heroLabel": "Storm Spirit",
+          "slot": "set"
+        },
+        {
           "name": "Naga Siren Call of the Coral Cultist",
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Naga Siren Call of the Coral Cultist.jpg",
@@ -3663,11 +3688,11 @@
           "downloads": 1706
         },
         {
-          "name": "Drow Ranger Stranger Arcana",
-          "author": "Anonymous",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Drow-Ranger-Stranger-Arcana.webp",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Drow.Ranger.Stranger.Arcana.zip",
-          "createdAt": "2026-06-08T00:00:00.000Z",
+          "name": "Drow Ranger stranger in the wandering isles Arcana",
+          "author": "Papapodzaborniy",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Drow Ranger stranger in the wandering isles Arcana.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/Drow.Ranger.stranger.in.the.wandering.isles.Arcana.zip",
+          "createdAt": "2026-08-26T00:00:00.000Z",
           "categoryId": "heroes",
           "hero": "drow_ranger",
           "heroLabel": "Drow Ranger",
@@ -9404,7 +9429,21 @@
             "tags": [
               "Immortal"
             ]
-          }
+            },
+            {
+              "name": "Morphling Immortal Set",
+              "author": "Tenkay",
+              "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/morphling immortal set.jpg",
+              "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/morphling.immortal.set.zip",
+              "createdAt": "2026-08-26T00:00:00.000Z",
+              "categoryId": "heroes",
+              "hero": "morphling",
+              "heroLabel": "Morphling",
+              "slot": "set",
+              "tags": [
+                "Immortal"
+              ]
+            }
         ],
         "troll_warlord": [
           {
@@ -10017,7 +10056,18 @@
             "hero": "storm_spirit",
             "heroLabel": "Storm Spirit",
             "slot": "set"
-          }
+            },
+            {
+              "name": "Storm Spirit Mode Lorenof",
+              "author": "Tenkay",
+              "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/storm spirit mode lorenof.jpg",
+              "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/storm.spirit.mode.lorenof.zip",
+              "createdAt": "2026-08-26T00:00:00.000Z",
+              "categoryId": "heroes",
+              "hero": "storm_spirit",
+              "heroLabel": "Storm Spirit",
+              "slot": "set"
+            }
         ],
         "naga_siren": [
           {
@@ -11197,11 +11247,11 @@
             "slot": "set"
           },
           {
-            "name": "Drow Ranger Stranger Arcana",
-            "author": "Anonymous",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Drow-Ranger-Stranger-Arcana.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Drow.Ranger.Stranger.Arcana.zip",
-            "createdAt": "2026-06-08T00:00:00.000Z",
+            "name": "Drow Ranger stranger in the wandering isles Arcana",
+            "author": "Papapodzaborniy",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Drow Ranger stranger in the wandering isles Arcana.png",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/Drow.Ranger.stranger.in.the.wandering.isles.Arcana.zip",
+            "createdAt": "2026-08-26T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "drow_ranger",
             "heroLabel": "Drow Ranger",
@@ -20917,6 +20967,31 @@
       ]
     },
     "recentlyAddedMods": [
+      {
+        "name": "Morphling Immortal Set",
+        "author": "Tenkay",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/morphling immortal set.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/morphling.immortal.set.zip",
+        "createdAt": "2026-08-26T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "morphling",
+        "heroLabel": "Morphling",
+        "slot": "set",
+        "tags": [
+          "Immortal"
+        ]
+      },
+      {
+        "name": "Storm Spirit Mode Lorenof",
+        "author": "Tenkay",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/storm spirit mode lorenof.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/storm.spirit.mode.lorenof.zip",
+        "createdAt": "2026-08-26T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "storm_spirit",
+        "heroLabel": "Storm Spirit",
+        "slot": "set"
+      },
       {
         "name": "Disciple of the Wyrmwrought Flame",
         "author": "mopsyara",
