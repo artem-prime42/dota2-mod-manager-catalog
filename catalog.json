@@ -7658,7 +7658,7 @@
         },
         {
           "name": "Keeper of the Light The King Of Thieves frostbloom",
-          "author": "ddddddddddddd",
+          "author": "dddddddddddddd",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper of the Light The King Of Thieves frostbloom.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Keeper.of.the.Light.The.King.Of.Thieves.frostbloom.zip",
           "createdAt": "2026-08-28T00:00:00.000Z",
@@ -21138,6 +21138,100 @@
     },
     "recentlyAddedMods": [
       {
+        "name": "Terrorblade Purple Arcana",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Yatoro Arcana.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Terrorblade.Yatoro.Arcana.zip",
+        "createdAt": "2026-08-28T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "terrorblade",
+        "heroLabel": "Terrorblade",
+        "slot": "set",
+        "tags": [
+          "Arcana"
+        ]
+      },
+      {
+        "name": "Scythes of Sorrow",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Scythes of Sorrow.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Terrorblade.Scythes.of.Sorrow.zip",
+        "createdAt": "2026-08-28T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "terrorblade",
+        "heroLabel": "Terrorblade",
+        "slot": "weapon",
+        "tags": [
+          "Immortal"
+        ]
+      },
+      {
+        "name": "Blades of the Foulfell Corruptor",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Blades of the Foulfell Corruptor.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Terrorblade.Foulfell.Corruptor.zip",
+        "createdAt": "2026-08-28T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "terrorblade",
+        "heroLabel": "Terrorblade",
+        "slot": "weapon"
+      },
+      {
+        "name": "Anti Mage Prime",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Anti-Mage Prime.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Anti-Mage.Prime.zip",
+        "createdAt": "2026-08-28T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "anti_mage",
+        "heroLabel": "Anti Mage",
+        "slot": "set"
+      },
+      {
+        "name": "Meepo Fractured Haul",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Meepo Fractured Haul.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Meepo.Fractured.Haul.zip",
+        "createdAt": "2026-08-28T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "meepo",
+        "heroLabel": "Meepo",
+        "slot": "set"
+      },
+      {
+        "name": "Frostbloom Weapon",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Techies Frostbloom Weapon.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Techies.Frostbloom.Weapon.zip",
+        "createdAt": "2026-08-28T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "techies",
+        "heroLabel": "Techies",
+        "slot": "weapon"
+      },
+      {
+        "name": "Dead",
+        "author": "XIIIpsiblade",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/dead screen.png",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/dead.zip",
+        "createdAt": "2026-08-28T00:00:00.000Z",
+        "categoryId": "backgrounds",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null
+      },
+      {
+        "name": "Keeper of the Light The King Of Thieves frostbloom",
+        "author": "dddddddddddddd",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper of the Light The King Of Thieves frostbloom.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Keeper.of.the.Light.The.King.Of.Thieves.frostbloom.zip",
+        "createdAt": "2026-08-28T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "keeper_of_the_light",
+        "heroLabel": "Keeper Of The Light",
+        "slot": "set"
+      },
+      {
         "name": "Morphling Immortal Set",
         "author": "Tenkay",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/morphling immortal set.jpg",
@@ -31125,7 +31219,7 @@
         "mods": [
           {
             "name": "Keeper of the Light The King Of Thieves frostbloom",
-            "author": "ddddddddddddd",
+            "author": "dddddddddddddd",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper of the Light The King Of Thieves frostbloom.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Keeper.of.the.Light.The.King.Of.Thieves.frostbloom.zip",
             "createdAt": "2026-08-28T00:00:00.000Z",
