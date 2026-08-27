@@ -7657,10 +7657,10 @@
           "downloads": 280
         },
         {
-          "name": "Keeper Frostbloom Variant",
-          "author": "Anonymous",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper Frostbloom Variant.webp",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Keeper.Frostbloom.Variant.zip",
+          "name": "Keeper of the Light The King Of Thieves frostbloom",
+          "author": "ddddddddddddd",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper of the Light The King Of Thieves frostbloom.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Keeper.of.the.Light.The.King.Of.Thieves.frostbloom.zip",
           "createdAt": "2026-08-28T00:00:00.000Z",
           "categoryId": "heroes",
           "hero": "keeper_of_the_light",
@@ -13931,15 +13931,15 @@
           }
           ,
           {
-            "name": "Techies Frostbloom Mines",
+            "name": "Frostbloom Weapon",
             "author": "Anonymous",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Techies Frostbloom Mines.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Techies.Frostbloom.Mines.zip",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Techies Frostbloom Weapon.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Techies.Frostbloom.Weapon.zip",
             "createdAt": "2026-08-28T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "techies",
             "heroLabel": "Techies",
-            "slot": "set"
+            "slot": "weapon"
           }
         ],
         "omniknight": [
@@ -15069,10 +15069,10 @@
             "slot": "set"
           },
           {
-            "name": "Keeper Frostbloom Variant",
-            "author": "Anonymous",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper Frostbloom Variant.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Keeper.Frostbloom.Variant.zip",
+            "name": "Keeper of the Light The King Of Thieves frostbloom",
+            "author": "ddddddddddddd",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper of the Light The King Of Thieves frostbloom.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Keeper.of.the.Light.The.King.Of.Thieves.frostbloom.zip",
             "createdAt": "2026-08-28T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "keeper_of_the_light",
@@ -21869,10 +21869,10 @@
         "slot": "summon"
       },
       {
-        "name": "Keeper Frostbloom Variant",
-        "author": "Anonymous",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper Frostbloom Variant.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Keeper.Frostbloom.Variant.zip",
+        "name": "Keeper of the Light The King Of Thieves frostbloom",
+        "author": "ddddddddddddd",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper of the Light The King Of Thieves frostbloom.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Keeper.of.the.Light.The.King.Of.Thieves.frostbloom.zip",
         "createdAt": "2026-08-28T00:00:00.000Z",
         "categoryId": "heroes",
         "hero": "keeper_of_the_light",
@@ -31124,10 +31124,10 @@
         },
         "mods": [
           {
-            "name": "Keeper Frostbloom Variant",
-            "author": "Anonymous",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper Frostbloom Variant.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Keeper.Frostbloom.Variant.zip",
+            "name": "Keeper of the Light The King Of Thieves frostbloom",
+            "author": "ddddddddddddd",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper of the Light The King Of Thieves frostbloom.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Keeper.of.the.Light.The.King.Of.Thieves.frostbloom.zip",
             "createdAt": "2026-08-28T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "keeper_of_the_light",
