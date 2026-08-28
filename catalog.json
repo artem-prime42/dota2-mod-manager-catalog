@@ -4747,6 +4747,21 @@
           "downloads": 143
         },
         {
+          "name": "Earthshaker Arcana",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker Arcana.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Earthshaker.Arcana.zip",
+          "createdAt": "2026-08-28T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "earthshaker",
+          "heroLabel": "Earthshaker",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
           "name": "Cosmic Earthshaker",
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cosmic-Earthshaker.webp",
@@ -12322,6 +12337,20 @@
             "hero": "earthshaker",
             "heroLabel": "Earthshaker",
             "slot": "set"
+          },
+          {
+            "name": "Earthshaker Arcana",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker Arcana.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Earthshaker.Arcana.zip",
+            "createdAt": "2026-08-28T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "earthshaker",
+            "heroLabel": "Earthshaker",
+            "slot": "set",
+            "tags": [
+              "arcana"
+            ]
           },
           {
             "name": "Cosmic Earthshaker",
@@ -21312,6 +21341,20 @@
         "hero": "anti_mage",
         "heroLabel": "Anti Mage",
         "slot": "set"
+      },
+      {
+        "name": "Earthshaker Arcana",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker Arcana.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Earthshaker.Arcana.zip",
+        "createdAt": "2026-08-28T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "earthshaker",
+        "heroLabel": "Earthshaker",
+        "slot": "set",
+        "tags": [
+          "arcana"
+        ]
       },
       {
         "name": "Faceless Void Immortal Arcana",
