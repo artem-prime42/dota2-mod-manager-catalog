@@ -9151,6 +9151,17 @@
             "hero": "terrorblade",
             "heroLabel": "Terrorblade",
             "slot": "set"
+          },
+          {
+            "name": "Span of Sorrow",
+            "author": "Arthas",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Span of Sorrow.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Span.of.Sorrow.zip",
+            "createdAt": "2026-08-28T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "terrorblade",
+            "heroLabel": "Terrorblade",
+            "slot": "back"
           }
         ],
         "ember_spirit": [
@@ -21187,6 +21198,17 @@
         "hero": "terrorblade",
         "heroLabel": "Terrorblade",
         "slot": "weapon"
+      },
+      {
+        "name": "Span of Sorrow",
+        "author": "Arthas",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Span of Sorrow.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Span.of.Sorrow.zip",
+        "createdAt": "2026-08-28T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "terrorblade",
+        "heroLabel": "Terrorblade",
+        "slot": "back"
       },
       {
         "name": "Anti Mage Prime",
