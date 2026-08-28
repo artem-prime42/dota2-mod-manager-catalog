@@ -411,6 +411,21 @@
           "downloads": 1464
         },
         {
+          "name": "Faceless Void Immortal Arcana",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Faceless Void Immortal Arcana.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Faceless.Void.Immortal.Arcana.zip",
+          "createdAt": "2026-08-28T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "faceless_void",
+          "heroLabel": "Faceless Void",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
           "name": "IO Pink Arcana",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/IO-Pink-Arcana.webp",
@@ -1282,7 +1297,7 @@
           "name": "Span of Sorrow",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Span of Sorrow.webp",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Span.of.Sorrow.zip",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Terrorblade.Span.Of.Sorrow.zip",
           "createdAt": "2026-08-28T00:00:00.000Z",
           "categoryId": "heroes",
           "hero": "terrorblade",
@@ -4718,21 +4733,6 @@
             "immortal"
           ],
           "downloads": 101
-        },
-        {
-          "name": "Earthshaker Arcana",
-          "author": "lansory",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker%20Arcana.jpg",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Earthshaker.Arcana.zip",
-          "createdAt": "2026-08-28T00:00:00.000Z",
-          "categoryId": "heroes",
-          "hero": "earthshaker",
-          "heroLabel": "Earthshaker",
-          "slot": "set",
-          "tags": [
-            "arcana"
-          ],
-          "downloads": 0
         },
         {
           "name": "Earthshaker Arcana Style 2",
@@ -8364,6 +8364,20 @@
             "hero": "faceless_void",
             "heroLabel": "Faceless Void",
             "slot": "set"
+          },
+          {
+            "name": "Faceless Void Immortal Arcana",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Faceless Void Immortal Arcana.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Faceless.Void.Immortal.Arcana.zip",
+            "createdAt": "2026-08-28T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "faceless_void",
+            "heroLabel": "Faceless Void",
+            "slot": "set",
+            "tags": [
+              "arcana"
+            ]
           }
         ],
         "io": [
@@ -9188,7 +9202,7 @@
             "name": "Wings of the Foulfell Corruptor",
             "author": "Papapodzaborniy",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wings of the Foulfell Corruptor.webp",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Wings.of.the.Foulfell.Corruptor.zip",
+            "file": "https://github.com/artem-prime42Terrorblade./dotaOfmods/releases/download/291/Wings.of.the.Foulfell.Corruptor.zip",
             "createdAt": "2026-08-28T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "terrorblade",
@@ -12298,20 +12312,6 @@
           }
         ],
         "earthshaker": [
-          {
-            "name": "Earthshaker Arcana",
-            "author": "lansory",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker%20Arcana.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Earthshaker.Arcana.zip",
-            "createdAt": "2026-08-28T00:00:00.000Z",
-            "categoryId": "heroes",
-            "hero": "earthshaker",
-            "heroLabel": "Earthshaker",
-            "slot": "set",
-            "tags": [
-              "arcana"
-            ]
-          },
           {
             "name": "Earthshaker Arcana Style 2",
             "author": "Papapodzaborniy",
@@ -21250,20 +21250,6 @@
     },
     "recentlyAddedMods": [
       {
-        "name": "Earthshaker Arcana",
-        "author": "lansory",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker%20Arcana.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Earthshaker.Arcana.zip",
-        "createdAt": "2026-08-28T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "earthshaker",
-        "heroLabel": "Earthshaker",
-        "slot": "set",
-        "tags": [
-          "Arcana"
-        ]
-      },
-      {
         "name": "Terrorblade Purple Arcana",
         "author": "Anonymous",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Yatoro Arcana.webp",
@@ -21328,6 +21314,20 @@
         "slot": "set"
       },
       {
+        "name": "Faceless Void Immortal Arcana",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Faceless Void Immortal Arcana.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Faceless.Void.Immortal.Arcana.zip",
+        "createdAt": "2026-08-28T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "faceless_void",
+        "heroLabel": "Faceless Void",
+        "slot": "set",
+        "tags": [
+          "arcana"
+        ]
+      },
+      {
         "name": "Meepo Fractured Haul",
         "author": "Anonymous",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Meepo Fractured Haul.webp",
@@ -21348,17 +21348,6 @@
         "hero": "techies",
         "heroLabel": "Techies",
         "slot": "weapon"
-      },
-      {
-        "name": "Dead",
-        "author": "XIIIpsiblade",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/dead screen.png",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/dead.zip",
-        "createdAt": "2026-08-28T00:00:00.000Z",
-        "categoryId": "backgrounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
       },
       {
         "name": "Spring Lineage Pauldrons of Eternal Harvest",
