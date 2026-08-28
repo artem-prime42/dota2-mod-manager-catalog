@@ -9168,6 +9168,17 @@
             "tags": [
               "Immortal"
             ]
+          },
+          {
+            "name": "Wings of the Foulfell Corruptor",
+            "author": "Papapodzaborniy",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wings of the Foulfell Corruptor.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Wings.of.the.Foulfell.Corruptor.zip",
+            "createdAt": "2026-08-28T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "terrorblade",
+            "heroLabel": "Terrorblade",
+            "slot": "back"
           }
         ],
         "ember_spirit": [
@@ -9368,8 +9379,7 @@
             "hero": "meepo",
             "heroLabel": "Meepo",
             "slot": "set"
-          }
-          ,
+          },
           {
             "name": "Meepo Fractured Haul",
             "author": "Anonymous",
@@ -10549,6 +10559,39 @@
             "hero": "shadow_fiend",
             "heroLabel": "Shadow Fiend",
             "slot": "set"
+          },
+          {
+            "name": "Spring Lineage Pauldrons of Eternal Harvest",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spring Lineage Pauldrons of Eternal Harvest.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Spring.Lineage.Pauldrons.of.Eternal.Harvest.zip",
+            "createdAt": "2026-08-28T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "shadow_fiend",
+            "heroLabel": "Shadow Fiend",
+            "slot": "shoulders"
+          },
+          {
+            "name": "Spring Lineage Horns of Eternal Harvest",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spring Lineage Horns of Eternal Harvest.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Spring.Lineage.Horns.of.Eternal.Harvest.zip",
+            "createdAt": "2026-08-28T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "shadow_fiend",
+            "heroLabel": "Shadow Fiend",
+            "slot": "head"
+          },
+          {
+            "name": "Spring Lineage Grips of Eternal Harvest",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spring Lineage Grips of Eternal Harvest.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Spring.Lineage.Grips.of.Eternal.Harvest.zip",
+            "createdAt": "2026-08-28T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "shadow_fiend",
+            "heroLabel": "Shadow Fiend",
+            "slot": "hands"
           }
         ],
         "lion": [
@@ -13957,8 +14000,7 @@
             "hero": "techies",
             "heroLabel": "Techies",
             "slot": "set"
-          }
-          ,
+          },
           {
             "name": "Frostbloom Weapon",
             "author": "Anonymous",
@@ -17816,6 +17858,18 @@
           "heroLabel": null,
           "slot": null,
           "downloads": 1
+        },
+        {
+          "name": "Dead",
+          "author": "XIIIpsiblade",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/dead screen.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/dead.zip",
+          "createdAt": "2026-08-28T00:00:00.000Z",
+          "categoryId": "backgrounds",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null,
+          "downloads": 0
         }
       ],
       "announcers": [
@@ -21262,6 +21316,50 @@
         "hero": null,
         "heroLabel": null,
         "slot": null
+      },
+      {
+        "name": "Spring Lineage Pauldrons of Eternal Harvest",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spring Lineage Pauldrons of Eternal Harvest.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Spring.Lineage.Pauldrons.of.Eternal.Harvest.zip",
+        "createdAt": "2026-08-28T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "shadow_fiend",
+        "heroLabel": "Shadow Fiend",
+        "slot": "shoulders"
+      },
+      {
+        "name": "Spring Lineage Horns of Eternal Harvest",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spring Lineage Horns of Eternal Harvest.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Spring.Lineage.Horns.of.Eternal.Harvest.zip",
+        "createdAt": "2026-08-28T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "shadow_fiend",
+        "heroLabel": "Shadow Fiend",
+        "slot": "head"
+      },
+      {
+        "name": "Spring Lineage Grips of Eternal Harvest",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spring Lineage Grips of Eternal Harvest.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Spring.Lineage.Grips.of.Eternal.Harvest.zip",
+        "createdAt": "2026-08-28T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "shadow_fiend",
+        "heroLabel": "Shadow Fiend",
+        "slot": "hands"
+      },
+      {
+        "name": "Wings of the Foulfell Corruptor",
+        "author": "Papapodzaborniy",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wings of the Foulfell Corruptor.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Wings.of.the.Foulfell.Corruptor.zip",
+        "createdAt": "2026-08-28T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "terrorblade",
+        "heroLabel": "Terrorblade",
+        "slot": "back"
       },
       {
         "name": "Keeper of the Light The King Of Thieves frostbloom",
