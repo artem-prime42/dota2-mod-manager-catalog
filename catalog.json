@@ -1288,6 +1288,9 @@
           "hero": "terrorblade",
           "heroLabel": "Terrorblade",
           "slot": "back",
+          "tags": [
+            "Immortal"
+          ],
           "downloads": 0
         },
         {
@@ -9161,7 +9164,10 @@
             "categoryId": "heroes",
             "hero": "terrorblade",
             "heroLabel": "Terrorblade",
-            "slot": "back"
+            "slot": "back",
+            "tags": [
+              "Immortal"
+            ]
           }
         ],
         "ember_spirit": [
@@ -21208,7 +21214,10 @@
         "categoryId": "heroes",
         "hero": "terrorblade",
         "heroLabel": "Terrorblade",
-        "slot": "back"
+        "slot": "back",
+        "tags": [
+          "Immortal"
+        ]
       },
       {
         "name": "Anti Mage Prime",
