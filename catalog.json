@@ -4720,6 +4720,21 @@
           "downloads": 101
         },
         {
+          "name": "Earthshaker Arcana",
+          "author": "lansory",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker%20Arcana.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Earthshaker.Arcana.zip",
+          "createdAt": "2026-08-28T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "earthshaker",
+          "heroLabel": "Earthshaker",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
           "name": "Earthshaker Arcana Style 2",
           "author": "Papapodzaborniy",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker%20Arcana%20Style%202.jpg",
@@ -12283,6 +12298,20 @@
           }
         ],
         "earthshaker": [
+          {
+            "name": "Earthshaker Arcana",
+            "author": "lansory",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker%20Arcana.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Earthshaker.Arcana.zip",
+            "createdAt": "2026-08-28T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "earthshaker",
+            "heroLabel": "Earthshaker",
+            "slot": "set",
+            "tags": [
+              "arcana"
+            ]
+          },
           {
             "name": "Earthshaker Arcana Style 2",
             "author": "Papapodzaborniy",
