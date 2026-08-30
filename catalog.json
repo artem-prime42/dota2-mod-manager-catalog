@@ -2586,6 +2586,21 @@
           "downloads": 247
         },
         {
+          "name": "Shadow Fiend Arcana",
+          "author": "Arthas",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow Fiend Arcana Arthas.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/293/Shadow.Fiend.Arcana.zip",
+          "createdAt": "2026-08-30T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "shadow_fiend",
+          "heroLabel": "Shadow Fiend",
+          "slot": "set",
+          "tags": [
+            "Arcana"
+          ],
+          "downloads": 0
+        },
+        {
           "name": "Lord of the Sundered Souls",
           "author": "Papapodzaborniy",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lord-of-the-Sundered-Souls-Shoulders.webp",
@@ -3103,6 +3118,21 @@
           "heroLabel": "Earth Spirit",
           "slot": "set",
           "downloads": 361
+        },
+        {
+          "name": "Jade Reckoning",
+          "author": "Arthas",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Jade Reckoning.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/293/Jade.Reckoning.zip",
+          "createdAt": "2026-08-30T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "earth_spirit",
+          "heroLabel": "Earth Spirit",
+          "slot": "weapon",
+          "tags": [
+            "Immortal"
+          ],
+          "downloads": 0
         },
         {
           "name": "Shadow Blade",
@@ -3920,6 +3950,36 @@
           "heroLabel": "Disruptor",
           "slot": "set",
           "downloads": 245
+        },
+        {
+          "name": "Resistive Pinfold",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Resistive Pinfold.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/293/Disruptor.Resistive.Pinfold.zip",
+          "createdAt": "2026-08-30T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "disruptor",
+          "heroLabel": "Disruptor",
+          "slot": "back",
+          "tags": [
+            "Immortal"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Tyrian Resistive Pinfold",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tyrian Resistive Pinfold.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/293/Disruptor.Resistive.Pinfold.Tyrian.zip",
+          "createdAt": "2026-08-30T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "disruptor",
+          "heroLabel": "Disruptor",
+          "slot": "back",
+          "tags": [
+            "Immortal"
+          ],
+          "downloads": 0
         },
         {
           "name": "Twilight Schism",
