@@ -8486,6 +8486,66 @@
           "heroLabel": "Keeper Of The Light",
           "slot": "set",
           "downloads": 61
+        },
+        {
+          "name": "Tyrian Lightning Orchid",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tyrian Lightning Orchid.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/293/Storm.Spirit.Lightning.Orchid.Tyrian.zip",
+          "createdAt": "2026-08-30T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "storm_spirit",
+          "heroLabel": "Storm Spirit",
+          "slot": "head",
+          "tags": [
+            "Immortal"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Rectifier",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rectifier.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/293/Timbersaw.Rectifier.zip",
+          "createdAt": "2026-08-30T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "timbersaw",
+          "heroLabel": "Timbersaw",
+          "slot": "off_hand",
+          "tags": [
+            "Immortal"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Golden Rectifier",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden Rectifier.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/293/Timbersaw.Rectifier.Golden.zip",
+          "createdAt": "2026-08-30T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "timbersaw",
+          "heroLabel": "Timbersaw",
+          "slot": "off_hand",
+          "tags": [
+            "Immortal"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Tyrian Rectifier",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tyrian Rectifier.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/293/Timbersaw.Rectifier.Tyrian.zip",
+          "createdAt": "2026-08-30T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "timbersaw",
+          "heroLabel": "Timbersaw",
+          "slot": "off_hand",
+          "tags": [
+            "Immortal"
+          ],
+          "downloads": 0
         }
       ],
       "heroesByHero": {
