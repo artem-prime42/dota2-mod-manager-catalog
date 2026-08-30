@@ -6370,6 +6370,9 @@
           "hero": "sniper",
           "heroLabel": "Sniper",
           "slot": "back",
+          "tags": [
+            "Immortal"
+          ],
           "downloads": 0
         },
         {
@@ -6382,6 +6385,9 @@
           "hero": "sniper",
           "heroLabel": "Sniper",
           "slot": "back",
+          "tags": [
+            "Immortal"
+          ],
           "downloads": 0
         },
         {
@@ -6394,6 +6400,9 @@
           "hero": "sniper",
           "heroLabel": "Sniper",
           "slot": "back",
+          "tags": [
+            "Immortal"
+          ],
           "downloads": 0
         },
         {
@@ -7973,6 +7982,51 @@
           "heroLabel": "Nyx Assassin",
           "slot": "set",
           "downloads": 303
+        },
+        {
+          "name": "Crimson Latticean Hierarchy",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crimson Latticean Hierarchy.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/293/Nyx.Assassin.Latticean.Hierarchy.Crimson.zip",
+          "createdAt": "2026-08-30T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "nyx_assassin",
+          "heroLabel": "Nyx Assassin",
+          "slot": "back",
+          "tags": [
+            "Immortal"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Tyrian Latticean Hierarchy",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tyrian Latticean Hierarchy.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/293/Nyx.Assassin.Latticean.Hierarchy.Tyrian.zip",
+          "createdAt": "2026-08-30T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "nyx_assassin",
+          "heroLabel": "Nyx Assassin",
+          "slot": "back",
+          "tags": [
+            "Immortal"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Latticean Hierarchy",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Latticean Hierarchy.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/293/Nyx.Assassin.Latticean.Hierarchy.zip",
+          "createdAt": "2026-08-30T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "nyx_assassin",
+          "heroLabel": "Nyx Assassin",
+          "slot": "back",
+          "tags": [
+            "Immortal"
+          ],
+          "downloads": 0
         },
         {
           "name": "Undying Archange",
@@ -13987,7 +14041,10 @@
             "categoryId": "heroes",
             "hero": "sniper",
             "heroLabel": "Sniper",
-            "slot": "back"
+              "slot": "back",
+              "tags": [
+                "Immortal"
+              ]
           },
           {
             "name": "Full-Bore Bonanza of the Crimson Witness",
@@ -13998,7 +14055,10 @@
             "categoryId": "heroes",
             "hero": "sniper",
             "heroLabel": "Sniper",
-            "slot": "back"
+              "slot": "back",
+              "tags": [
+                "Immortal"
+              ]
           },
           {
             "name": "Golden Full-Bore Bonanza",
@@ -14009,7 +14069,10 @@
             "categoryId": "heroes",
             "hero": "sniper",
             "heroLabel": "Sniper",
-            "slot": "back"
+              "slot": "back",
+              "tags": [
+                "Immortal"
+              ]
           },
           {
             "name": "Sniper Blacksail Cannoneer",
