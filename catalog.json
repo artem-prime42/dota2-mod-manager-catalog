@@ -8625,6 +8625,17 @@
           "slot": "set"
         },
         {
+          "name": "Prominence",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Prominence.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/294/Keeper.of.the.Light.Prominence.zip",
+          "createdAt": "2026-09-04T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "keeper_of_the_light",
+          "heroLabel": "Keeper Of The Light",
+          "slot": "weapon"
+        },
+        {
           "name": "Purple Naga Siren",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Purple Naga Siren.webp",
