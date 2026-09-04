@@ -8666,7 +8666,7 @@
           "categoryId": "heroes",
           "hero": "puck",
           "heroLabel": "Puck",
-          "slot": "set"
+          "slot": "back"
         }
       ],
       "heroesByHero": {
