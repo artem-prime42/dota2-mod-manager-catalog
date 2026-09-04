@@ -8546,6 +8546,127 @@
             "Immortal"
           ],
           "downloads": 23
+        },
+        {
+          "name": "Shadow Fiend Diabolical",
+          "author": "XIIIpsiblade",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow Fiend Diabolical.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/294/Shadow.Fiend.Diabolical.zip",
+          "createdAt": "2026-09-04T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "shadow_fiend",
+          "heroLabel": "Shadow Fiend",
+          "slot": "set"
+        },
+        {
+          "name": "Shadow Fiend Immortal Diabolical",
+          "author": "XIIIpsiblade",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow Fiend Immortal Diabolical.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/294/Shadow.Fiend.Immortal.Diabolical.zip",
+          "createdAt": "2026-09-04T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "shadow_fiend",
+          "heroLabel": "Shadow Fiend",
+          "slot": "set"
+        },
+        {
+          "name": "Lone Druid Immortal",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lone Druid Immortal.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/294/Lone.Druid.Immortal.zip",
+          "createdAt": "2026-09-04T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "lone_druid",
+          "heroLabel": "Lone Druid",
+          "slot": "set"
+        },
+        {
+          "name": "Grimstroke Purple V2",
+          "author": "hi",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Grimstroke Purple.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/294/Grimstroke.Purple.zip",
+          "createdAt": "2026-09-04T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "grimstroke",
+          "heroLabel": "Grimstroke",
+          "slot": "set"
+        },
+        {
+          "name": "Fire Natures Prophet",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Fire Natures Prophet.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/294/Fire.Natures.Prophet.zip",
+          "createdAt": "2026-09-04T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "nature_prophet",
+          "heroLabel": "Nature Prophet",
+          "slot": "set"
+        },
+        {
+          "name": "Hoodwink Immortal Fire",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hoodwink Immortal Fire.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/294/Hoodwink.Immortal.Fire.zip",
+          "createdAt": "2026-09-04T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "hoodwink",
+          "heroLabel": "Hoodwink",
+          "slot": "set"
+        },
+        {
+          "name": "White Keeper of the Light",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/White Keeper of the Light.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/294/White.Keeper.of.the.Light.zip",
+          "createdAt": "2026-09-04T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "keeper_of_the_light",
+          "heroLabel": "Keeper Of The Light",
+          "slot": "set"
+        },
+        {
+          "name": "Purple Naga Siren",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Purple Naga Siren.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/294/Purple.Naga.Siren.zip",
+          "createdAt": "2026-09-04T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "naga_siren",
+          "heroLabel": "Naga Siren",
+          "slot": "set"
+        },
+        {
+          "name": "Storm Spirit Grey",
+          "author": "Arthas",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Storm Spirit Gay.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/294/Storm.Spirit.Gay.zip",
+          "createdAt": "2026-09-04T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "storm_spirit",
+          "heroLabel": "Storm Spirit",
+          "slot": "set"
+        },
+        {
+          "name": "Team Spirit Visage",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Team Spirit Visage.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/294/Team.Spirit.Visage.zip",
+          "createdAt": "2026-09-04T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "visage",
+          "heroLabel": "Visage",
+          "slot": "set"
+        },
+        {
+          "name": "Merry Wanderer's Brush of the Crimson Witness",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Merry Wanderer's Brush of the Crimson Witness.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/294/Puck.Wanderers.Brush.Crimson.zip",
+          "createdAt": "2026-09-04T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "puck",
+          "heroLabel": "Puck",
+          "slot": "set"
         }
       ],
       "heroesByHero": {
@@ -20640,6 +20761,17 @@
           "heroLabel": null,
           "slot": null,
           "downloads": 243
+        },
+        {
+          "name": "Old Items",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Old Items.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/294/Old.Items.zip",
+          "createdAt": "2026-09-04T00:00:00.000Z",
+          "categoryId": "item-icons",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null
         }
       ],
       "other": [
