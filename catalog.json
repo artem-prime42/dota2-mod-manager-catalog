@@ -8678,6 +8678,89 @@
           "hero": "puck",
           "heroLabel": "Puck",
           "slot": "back"
+        },
+        {
+          "name": "Pudge Toy Woodcutter",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge Toy Woodcutter.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/295/Pudge.Toy.Woodcutter.zip",
+          "createdAt": "2026-09-07T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "pudge",
+          "heroLabel": "Pudge",
+          "slot": "set"
+        },
+        {
+          "name": "Zeus Thundervolt",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Zeus Thundervolt.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/295/Zeus.Thundervolt.zip",
+          "createdAt": "2026-09-07T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "zeus",
+          "heroLabel": "Zeus",
+          "slot": "set"
+        },
+        {
+          "name": "Dark Willow Fairy Godmummer",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark Willow Fairy Godmummer.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/295/Dark.Willow.Fairy.Godmummer.zip",
+          "createdAt": "2026-09-07T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "dark_willow",
+          "heroLabel": "Dark Willow",
+          "slot": "set"
+        },
+        {
+          "name": "Mantle of Grim Facade",
+          "author": "dota2pornfx",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mantle of Grim Facade.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/295/Shadow.Demon.Grim.Facade.zip",
+          "createdAt": "2026-09-07T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "shadow_demon",
+          "heroLabel": "Shadow Demon",
+          "slot": "back",
+          "tags": [
+            "Immortal"
+          ]
+        },
+        {
+          "name": "Golden Mantle of Grim Facade",
+          "author": "dota2pornfx",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden Mantle of Grim Facade.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/295/Shadow.Demon.Grim.Facade.Golden.zip",
+          "createdAt": "2026-09-07T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "shadow_demon",
+          "heroLabel": "Shadow Demon",
+          "slot": "back",
+          "tags": [
+            "Immortal"
+          ]
+        },
+        {
+          "name": "Dragon Knight Dragon Hold",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dragon Knight Dragon Hold.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/295/Dragon.Knight.Dragon.Hold.zip",
+          "createdAt": "2026-09-07T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "dragon_knight",
+          "heroLabel": "Dragon Knight",
+          "slot": "set"
+        },
+        {
+          "name": "Mirana of Nightsilver",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mirana of Nightsilver.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/295/Mirana.of.Nightsilver.zip",
+          "createdAt": "2026-09-07T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "mirana",
+          "heroLabel": "Mirana",
+          "slot": "set"
         }
       ],
       "heroesByHero": {
@@ -9138,6 +9221,17 @@
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge immortal.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Pudge.immortal.zip",
             "createdAt": "2026-08-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "pudge",
+            "heroLabel": "Pudge",
+            "slot": "set"
+          },
+          {
+            "name": "Pudge Toy Woodcutter",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge Toy Woodcutter.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/295/Pudge.Toy.Woodcutter.zip",
+            "createdAt": "2026-09-07T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "pudge",
             "heroLabel": "Pudge",
@@ -9672,7 +9766,7 @@
             "name": "Wings of the Foulfell Corruptor",
             "author": "Papapodzaborniy",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wings of the Foulfell Corruptor.webp",
-            "file": "https://github.com/artem-prime42Terrorblade./dotaOfmods/releases/download/291/Wings.of.the.Foulfell.Corruptor.zip",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Wings.of.the.Foulfell.Corruptor.zip",
             "createdAt": "2026-08-28T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "terrorblade",
@@ -10100,6 +10194,17 @@
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cosmic-Zeus.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/Cosmic.Zeus.zip",
             "createdAt": "2026-06-18T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "zeus",
+            "heroLabel": "Zeus",
+            "slot": "set"
+          },
+          {
+            "name": "Zeus Thundervolt",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Zeus Thundervolt.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/295/Zeus.Thundervolt.zip",
+            "createdAt": "2026-09-07T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "zeus",
             "heroLabel": "Zeus",
@@ -11969,6 +12074,17 @@
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Willow-Saccharine-Saboteur.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Dark.Willow.Saccharine.Saboteur.zip",
             "createdAt": "2026-06-10T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "dark_willow",
+            "heroLabel": "Dark Willow",
+            "slot": "set"
+          },
+          {
+            "name": "Dark Willow Fairy Godmummer",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark Willow Fairy Godmummer.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/295/Dark.Willow.Fairy.Godmummer.zip",
+            "createdAt": "2026-09-07T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "dark_willow",
             "heroLabel": "Dark Willow",
@@ -13899,6 +14015,17 @@
             "hero": "dragon_knight",
             "heroLabel": "Dragon Knight",
             "slot": "set"
+          },
+          {
+            "name": "Dragon Knight Dragon Hold",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dragon Knight Dragon Hold.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/295/Dragon.Knight.Dragon.Hold.zip",
+            "createdAt": "2026-09-07T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "dragon_knight",
+            "heroLabel": "Dragon Knight",
+            "slot": "set"
           }
         ],
         "sven": [
@@ -15818,6 +15945,17 @@
             "hero": "mirana",
             "heroLabel": "Mirana",
             "slot": "set"
+          },
+          {
+            "name": "Mirana of Nightsilver",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mirana of Nightsilver.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/295/Mirana.of.Nightsilver.zip",
+            "createdAt": "2026-09-07T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "mirana",
+            "heroLabel": "Mirana",
+            "slot": "set"
           }
         ],
         "nyx_assassin": [
@@ -16077,6 +16215,36 @@
             "hero": "bane",
             "heroLabel": "Bane",
             "slot": "set"
+          }
+        ],
+        "shadow_demon": [
+          {
+            "name": "Mantle of Grim Facade",
+            "author": "dota2pornfx",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mantle of Grim Facade.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/295/Shadow.Demon.Grim.Facade.zip",
+            "createdAt": "2026-09-07T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "shadow_demon",
+            "heroLabel": "Shadow Demon",
+            "slot": "back",
+            "tags": [
+              "Immortal"
+            ]
+          },
+          {
+            "name": "Golden Mantle of Grim Facade",
+            "author": "dota2pornfx",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden Mantle of Grim Facade.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/295/Shadow.Demon.Grim.Facade.Golden.zip",
+            "createdAt": "2026-09-07T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "shadow_demon",
+            "heroLabel": "Shadow Demon",
+            "slot": "back",
+            "tags": [
+              "Immortal"
+            ]
           }
         ]
       },
