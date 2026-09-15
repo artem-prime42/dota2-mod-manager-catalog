@@ -8761,6 +8761,61 @@
           "hero": "mirana",
           "heroLabel": "Mirana",
           "slot": "set"
+        },
+        {
+          "name": "Batrider Chubzarik Prime",
+          "author": "hi",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Batrider Chubzarik Prime.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Batrider.Chubzarik.Prime.zip",
+          "createdAt": "2026-09-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "batrider",
+          "heroLabel": "Batrider",
+          "slot": "set"
+        },
+        {
+          "name": "Monkey King Immortal",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey King Immortal.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Monkey.King.Immortal.zip",
+          "createdAt": "2026-09-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "monkey_king",
+          "heroLabel": "Monkey King",
+          "slot": "set"
+        },
+        {
+          "name": "Nyx Assassin Dalbaeb",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Nyx Assassin Dalbaeb.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Nyx.Assassin.Dalbaeb.zip",
+          "createdAt": "2026-09-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "nyx_assassin",
+          "heroLabel": "Nyx Assassin",
+          "slot": "set"
+        },
+        {
+          "name": "Wings Of Daybreak",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wings Of Daybreak.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Keeper.of.the.Light.Wings.of.Daybreak.zip",
+          "createdAt": "2026-09-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "keeper_of_the_light",
+          "heroLabel": "Keeper Of The Light",
+          "slot": "mount"
+        },
+        {
+          "name": "Invoker Magus Mimicry",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Magus Mimicry.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Invoker.Magus.Mimicry.zip",
+          "createdAt": "2026-09-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "invoker",
+          "heroLabel": "Invoker",
+          "slot": "set"
         }
       ],
       "heroesByHero": {
@@ -9080,6 +9135,17 @@
             "hero": "batrider",
             "heroLabel": "Batrider",
             "slot": "set"
+            },
+            {
+              "name": "Batrider Chubzarik Prime",
+              "author": "hi",
+              "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Batrider Chubzarik Prime.webp",
+              "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Batrider.Chubzarik.Prime.zip",
+              "createdAt": "2026-09-15T00:00:00.000Z",
+              "categoryId": "heroes",
+              "hero": "batrider",
+              "heroLabel": "Batrider",
+              "slot": "set"
           }
         ],
         "pudge": [
@@ -10684,6 +10750,17 @@
             "hero": "invoker",
             "heroLabel": "Invoker",
             "slot": "belt"
+            },
+            {
+              "name": "Invoker Magus Mimicry",
+              "author": "Anonymous",
+              "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Magus Mimicry.webp",
+              "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Invoker.Magus.Mimicry.zip",
+              "createdAt": "2026-09-15T00:00:00.000Z",
+              "categoryId": "heroes",
+              "hero": "invoker",
+              "heroLabel": "Invoker",
+              "slot": "set"
           }
         ],
         "storm_spirit": [
@@ -13644,6 +13721,17 @@
             "hero": "monkey_king",
             "heroLabel": "Monkey King",
             "slot": "set"
+            },
+            {
+              "name": "Monkey King Immortal",
+              "author": "Anonymous",
+              "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey King Immortal.webp",
+              "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Monkey.King.Immortal.zip",
+              "createdAt": "2026-09-15T00:00:00.000Z",
+              "categoryId": "heroes",
+              "hero": "monkey_king",
+              "heroLabel": "Monkey King",
+              "slot": "set"
           }
         ],
         "chen": [
@@ -15864,6 +15952,17 @@
             "hero": "keeper_of_the_light",
             "heroLabel": "Keeper Of The Light",
             "slot": "set"
+            },
+            {
+              "name": "Wings Of Daybreak",
+              "author": "Anonymous",
+              "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wings Of Daybreak.webp",
+              "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Keeper.of.the.Light.Wings.of.Daybreak.zip",
+              "createdAt": "2026-09-15T00:00:00.000Z",
+              "categoryId": "heroes",
+              "hero": "keeper_of_the_light",
+              "heroLabel": "Keeper Of The Light",
+              "slot": "mount"
           }
         ],
         "legion_commander": [
@@ -15980,6 +16079,17 @@
             "hero": "nyx_assassin",
             "heroLabel": "Nyx Assassin",
             "slot": "set"
+            },
+            {
+              "name": "Nyx Assassin Dalbaeb",
+              "author": "Anonymous",
+              "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Nyx Assassin Dalbaeb.webp",
+              "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Nyx.Assassin.Dalbaeb.zip",
+              "createdAt": "2026-09-15T00:00:00.000Z",
+              "categoryId": "heroes",
+              "hero": "nyx_assassin",
+              "heroLabel": "Nyx Assassin",
+              "slot": "set"
           }
         ],
         "undying": [
