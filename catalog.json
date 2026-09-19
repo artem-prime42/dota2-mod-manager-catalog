@@ -597,6 +597,18 @@
           "downloads": 166
         },
         {
+          "name": "Batrider Night Marauder",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Batrider Night Marauder.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Batrider.Night.Marauder.zip",
+          "createdAt": "2026-09-19T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "batrider",
+          "heroLabel": "Batrider",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
           "name": "Pudge Toy Butcher",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge-Toy-Butcher.webp",
@@ -2079,6 +2091,18 @@
           "downloads": 0
         },
         {
+          "name": "Japan Invoker",
+          "author": "hi",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Japan Invoker.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Japan.Invoker.zip",
+          "createdAt": "2026-09-19T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "invoker",
+          "heroLabel": "Invoker",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
           "name": "Invoker Fate Meridian",
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker-Fate-Meridian.webp",
@@ -3106,6 +3130,18 @@
           "heroLabel": "Dazzle",
           "slot": "set",
           "downloads": 373
+        },
+        {
+          "name": "Dazzle Graveman",
+          "author": "hi",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dazzle Graveman.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Dazzle.Graveman.zip",
+          "createdAt": "2026-09-19T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "dazzle",
+          "heroLabel": "Dazzle",
+          "slot": "set",
+          "downloads": 0
         },
         {
           "name": "Earth Spirit Slithering Stone",
@@ -8174,6 +8210,18 @@
           "heroLabel": "Phoenix",
           "slot": "set",
           "downloads": 508
+        },
+        {
+          "name": "Star Sage Phoenix",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Star Sage Phoenix.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Star.Sage.Phoenix.zip",
+          "createdAt": "2026-09-19T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "phoenix",
+          "heroLabel": "Phoenix",
+          "slot": "set",
+          "downloads": 0
         },
         {
           "name": "Shadow Shaman Purple",
