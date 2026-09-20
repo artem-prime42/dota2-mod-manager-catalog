@@ -8994,7 +8994,10 @@
           "categoryId": "heroes",
           "hero": "juggernaut",
           "heroLabel": "Juggernaut",
-          "slot": "set"
+          "slot": "set",
+          "tags": [
+            "Arcana"
+          ]
         },
         {
           "name": "Tinker Flame",
@@ -15189,7 +15192,10 @@
             "categoryId": "heroes",
             "hero": "juggernaut",
             "heroLabel": "Juggernaut",
-            "slot": "set"
+            "slot": "set",
+            "tags": [
+              "Arcana"
+            ]
           }
         ],
         "lifestealer": [
