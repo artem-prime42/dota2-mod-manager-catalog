@@ -8900,6 +8900,72 @@
           "heroLabel": "Invoker",
           "slot": "set",
           "downloads": 52
+        },
+        {
+          "name": "Mirana Sacred Grove",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mirana Sacred Grove.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/297/Mirana.Sacred.Grove.zip",
+          "createdAt": "2026-09-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "mirana",
+          "heroLabel": "Mirana",
+          "slot": "set"
+        },
+        {
+          "name": "Bounty Hunter Golden Rat",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bounty Hunter Golden Rat.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/297/Bounty.Hunter.Golden.Rat.zip",
+          "createdAt": "2026-09-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "bounty_hunter",
+          "heroLabel": "Bounty Hunter",
+          "slot": "set"
+        },
+        {
+          "name": "Keeper of the Light Darklord",
+          "author": "hi",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper of the Light Darklord.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/297/Keeper.of.the.Light.Darklord.zip",
+          "createdAt": "2026-09-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "keeper_of_the_light",
+          "heroLabel": "Keeper Of The Light",
+          "slot": "set"
+        },
+        {
+          "name": "Clinkz Black & White",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Clinkz Black & White.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/297/Clinkz.Black.White.zip",
+          "createdAt": "2026-09-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "clinkz",
+          "heroLabel": "Clinkz",
+          "slot": "set"
+        },
+        {
+          "name": "Brewmaster Wilding Tiger",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Brewmaster Wilding Tiger.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/297/Brewmaster.Wilding.Tiger.zip",
+          "createdAt": "2026-09-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "brewmaster",
+          "heroLabel": "Brewmaster",
+          "slot": "set"
+        },
+        {
+          "name": "Robe of the Raikage Warrior",
+          "author": "Papapodzaborniy",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Robe of the Raikage Warrior.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/297/Robe.of.the.Raikage.Warrior.zip",
+          "createdAt": "2026-09-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "storm_spirit",
+          "heroLabel": "Storm Spirit",
+          "slot": "armor"
         }
       ],
       "heroesByHero": {
