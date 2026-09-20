@@ -8984,6 +8984,28 @@
           "heroLabel": "Storm Spirit",
           "slot": "armor",
           "downloads": 1
+        },
+        {
+          "name": "Juggernaut Arcana 2 Style",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Juggernaut Arcana Golden Edge.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/297/Juggernaut.Arcana.Golden.Edge.zip",
+          "createdAt": "2026-09-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "juggernaut",
+          "heroLabel": "Juggernaut",
+          "slot": "set"
+        },
+        {
+          "name": "Tinker Flame",
+          "author": "lansory",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker Flame.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/297/Tinker.Flame.zip",
+          "createdAt": "2026-09-20T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "tinker",
+          "heroLabel": "Tinker",
+          "slot": "set"
         }
       ],
       "heroesByHero": {
@@ -13448,6 +13470,17 @@
             "hero": "tinker",
             "heroLabel": "Tinker",
             "slot": "set"
+          },
+          {
+            "name": "Tinker Flame",
+            "author": "lansory",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker Flame.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/297/Tinker.Flame.zip",
+            "createdAt": "2026-09-20T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "tinker",
+            "heroLabel": "Tinker",
+            "slot": "set"
           }
         ],
         "bloodseeker": [
@@ -15142,6 +15175,17 @@
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-07-25-21-10-34.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/Juggernaut.Arcana.Purple.zip",
             "createdAt": "2026-07-25T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "juggernaut",
+            "heroLabel": "Juggernaut",
+            "slot": "set"
+          },
+          {
+            "name": "Juggernaut Arcana 2 Style",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Juggernaut Arcana Golden Edge.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/297/Juggernaut.Arcana.Golden.Edge.zip",
+            "createdAt": "2026-09-20T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "juggernaut",
             "heroLabel": "Juggernaut",
