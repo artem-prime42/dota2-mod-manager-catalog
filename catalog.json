@@ -3,6 +3,54 @@
     "modsData": {
       "heroes": [
         {
+          "name": "Anti-Mage Manta",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Anti-Mage Manta.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/298/Anti-Mage.Manta.zip",
+          "createdAt": "2026-09-21T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "anti_mage",
+          "heroLabel": "Anti Mage",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Broodmother Immortal Antiquity",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Broodmother Immortal Antiquity.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/298/Broodmother.Immortal.Antiquity.zip",
+          "createdAt": "2026-09-21T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "broodmother",
+          "heroLabel": "Broodmother",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Chaos Knight Unities Of Discord",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Chaos Knight Unities Of Discord.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/298/Chaos.Knight.Unities.Of.Discord.zip",
+          "createdAt": "2026-09-21T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "chaos_knight",
+          "heroLabel": "Chaos Knight",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Pudge Gol0vach",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge Gol0vach.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/298/Pudge.Gol0vach.zip",
+          "createdAt": "2026-09-21T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "pudge",
+          "heroLabel": "Pudge",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
           "name": "Golden Origins of Faith",
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden Origins of Faith.webp",
@@ -9345,6 +9393,17 @@
         ],
         "pudge": [
           {
+            "name": "Pudge Gol0vach",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge Gol0vach.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/298/Pudge.Gol0vach.zip",
+            "createdAt": "2026-09-21T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "pudge",
+            "heroLabel": "Pudge",
+            "slot": "set"
+          },
+          {
             "name": "Pudge Toy Butcher",
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge-Toy-Butcher.webp",
@@ -9500,6 +9559,17 @@
           }
         ],
         "broodmother": [
+          {
+            "name": "Broodmother Immortal Antiquity",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Broodmother Immortal Antiquity.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/298/Broodmother.Immortal.Antiquity.zip",
+            "createdAt": "2026-09-21T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "broodmother",
+            "heroLabel": "Broodmother",
+            "slot": "set"
+          },
           {
             "name": "Broodmother Black Widow",
             "author": "Arthas",
@@ -11926,6 +11996,17 @@
         ],
         "anti_mage": [
           {
+            "name": "Anti-Mage Manta",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Anti-Mage Manta.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/298/Anti-Mage.Manta.zip",
+            "createdAt": "2026-09-21T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "anti_mage",
+            "heroLabel": "Anti Mage",
+            "slot": "set"
+          },
+          {
             "name": "Belt of the Dragon's Disciple",
             "author": "Papapodzaborniy",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Belt of the Dragon's Disciple.webp",
@@ -13594,6 +13675,17 @@
           }
         ],
         "chaos_knight": [
+          {
+            "name": "Chaos Knight Unities Of Discord",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Chaos Knight Unities Of Discord.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/298/Chaos.Knight.Unities.Of.Discord.zip",
+            "createdAt": "2026-09-21T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "chaos_knight",
+            "heroLabel": "Chaos Knight",
+            "slot": "set"
+          },
           {
             "name": "Ice Chaos Knight",
             "author": "Darkness",
