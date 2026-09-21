@@ -51,6 +51,18 @@
           "downloads": 0
         },
         {
+          "name": "Shade of Anguish",
+          "author": "Papapodzaborniy",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shade of Anguish.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/298/Shade.of.Anguish.zip",
+          "createdAt": "2026-09-21T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "queen_of_pain",
+          "heroLabel": "Queen Of Pain",
+          "slot": "head",
+          "downloads": 0
+        },
+        {
           "name": "Golden Origins of Faith",
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden Origins of Faith.webp",
@@ -9878,6 +9890,17 @@
           }
         ],
         "queen_of_pain": [
+          {
+            "name": "Shade of Anguish",
+            "author": "Papapodzaborniy",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shade of Anguish.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/298/Shade.of.Anguish.zip",
+            "createdAt": "2026-09-21T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "queen_of_pain",
+            "heroLabel": "Queen Of Pain",
+            "slot": "head"
+          },
           {
             "name": "Queen of Pain Rose",
             "author": "Anonymous",
