@@ -400,6 +400,7 @@
         },
         {
           "name": "Mace of Aeons",
+          "tags": ["Immortal"],
           "author": "Tenkay",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mace-of-Aeons.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Mace.of.Aeons.zip",
@@ -412,6 +413,7 @@
         },
         {
           "name": "Mace of Aeons Oathbreaker",
+          "tags": ["Immortal"],
           "author": "Tenkay",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mace-of-Aeons-Oathbreaker.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Mace.of.Aeons.Oathbreaker.zip",
@@ -424,6 +426,7 @@
         },
         {
           "name": "Mace of Aeons Usurper",
+          "tags": ["Immortal"],
           "author": "Tenkay",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mace-of-Aeons-Usurper.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Mace.of.Aeons.Usurper.zip",
@@ -436,6 +439,7 @@
         },
         {
           "name": "Faceless Void Arcana",
+          "tags": ["Arcana"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Faceless-Void-Arcana.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/215/Faceless.Void.Arcana.zip",
@@ -460,6 +464,7 @@
         },
         {
           "name": "Faceless Void Arcana Style 2",
+          "tags": ["Arcana"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Faceless-Void-Arcana-Style-2.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Faceless.Void.Arcana.Style.2.zip",
@@ -523,6 +528,7 @@
         },
         {
           "name": "IO Madame Scrio",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/IO-Madame-Scrio.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/246/IO.Madame.Scrio.zip",
@@ -562,6 +568,7 @@
         },
         {
           "name": "Hunter's Hoard",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hunter-s-Hoard.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/46/Bounty.Hunter.Hunters.Hoard.zip",
@@ -574,6 +581,7 @@
         },
         {
           "name": "Tines of Tybara",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tines-of-Tybara.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/45/Bounty.Hunter.Tines.of.Tybara.zip",
@@ -1063,6 +1071,7 @@
         },
         {
           "name": "Wraith King Arcana",
+          "tags": ["Arcana"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wraith-King-Arcana.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/138/Wraith.King.Arcana.zip",
@@ -1160,6 +1169,7 @@
         },
         {
           "name": "Huskar Flashpoint Proselyte",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Huskar-Flashpoint-Proselyte.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Huskar.Flashpoint.Proselyte.zip",
@@ -1172,6 +1182,7 @@
         },
         {
           "name": "Huskar The Burning Sentinel, Flashpoint Proselyte",
+          "tags": ["Immortal"],
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-11-14-39-39.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/The.Burning.Sentinel.Flashpoint.Proselyte.zip",
@@ -1256,6 +1267,7 @@
         },
         {
           "name": "Queen Of Pain Immortal",
+          "tags": ["Immortal"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Queen Of Pain Immortal.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/Queen.Of.Pain.Immortal.zip",
@@ -1298,6 +1310,7 @@
         },
         {
           "name": "Terrorblade Immortal Arcana",
+          "tags": ["Arcana"],
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade-Immortal-Arcana.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/93/Terrorblade.Immortal.Arcana.zip",
@@ -1310,6 +1323,7 @@
         },
         {
           "name": "Terrorblade Black Arcana",
+          "tags": ["Arcana"],
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade-black-arckana.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/235/pak24_dir.vpk",
@@ -1334,6 +1348,7 @@
         },
         {
           "name": "Terrorblade Fractal Horns of Inner red",
+          "tags": ["Arcana"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Fractal Horns of Inner red.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/97/Terrorblade.Fractal.Horns.of.Inner.red.zip",
@@ -1346,6 +1361,7 @@
         },
         {
           "name": "Terrorblade Fractal Horns of Inner WHITE",
+          "tags": ["Arcana"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Fractal Horns of Inner WHITE.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Fractal.Horns.of.Inner.WHITE.zip",
@@ -1358,6 +1374,7 @@
         },
         {
           "name": "Terrorblade Green Fractal Horns",
+          "tags": ["Arcana"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Green Fractal Horns.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Terrorblade.Green.Fractal.Horns.zip",
@@ -1370,6 +1387,7 @@
         },
         {
           "name": "Terrorblade Fractal Horns of Inner WHITE v2",
+          "tags": ["Arcana"],
           "author": "mopsyara",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Fractal Horns of Inner WHITE v2.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Terrorblade.Fractal.Horns.of.Inner.WHITE.v2.zip",
@@ -1409,6 +1427,7 @@
         },
         {
           "name": "Anonymous Ember",
+          "tags": ["Immortal"],
           "author": "mopsyara",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Anonymous Ember.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/Anonymous.Ember.zip",
@@ -1457,6 +1476,7 @@
         },
         {
           "name": "Ember Spirit set 1",
+          "tags": ["Immortal"],
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ember Spirit set 1.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/ember.spirit.set.1.zip",
@@ -1645,6 +1665,7 @@
         },
         {
           "name": "Soul Shredder",
+          "tags": ["Immortal"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Soul Shredder.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/281/Guitar.zip",
@@ -1684,6 +1705,7 @@
         },
         {
           "name": "Morphling Darktrench Tears",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling-Darktrench-Tears.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Morphling.Darktrench.Tears.zip",
@@ -1744,6 +1766,7 @@
         },
         {
           "name": "Morphling Automaton",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling-Automaton.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/259/Morphling.Automaton.zip",
@@ -1780,6 +1803,7 @@
         },
         {
           "name": "Zeus Arcana",
+          "tags": ["Arcana"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Zeus-Arcana.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/147/Zeus.Arcana.zip",
@@ -1804,6 +1828,7 @@
         },
         {
           "name": "Magus Accord",
+          "tags": ["Immortal"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Magus Accord.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/75/Magus.Accord.zip",
@@ -1912,6 +1937,7 @@
         },
         {
           "name": "Invoker Revelations Hat",
+          "tags": ["Immortal"],
           "author": "SENOp",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Revelations Hat.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Invoker.Revelations.Hat.zip",
@@ -1924,6 +1950,7 @@
         },
         {
           "name": "Magus Apex",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Magus-Apex.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/85/Invoker.Magus.Apex.zip",
@@ -1936,6 +1963,7 @@
         },
         {
           "name": "Dark Artistry Bracers",
+          "tags": ["Immortal"],
           "author": "Papapodzaborniy",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Artistry-Bracers.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/74/pak79_dir.vpk",
@@ -1972,6 +2000,7 @@
         },
         {
           "name": "Dark Artistry Pauldrons",
+          "tags": ["Immortal"],
           "author": "Papapodzaborniy",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Artistry-Pauldrons.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/pak26_dir.vpk",
@@ -2008,6 +2037,7 @@
         },
         {
           "name": "Dark Artistry Belt",
+          "tags": ["Immortal"],
           "author": "Papapodzaborniy",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Artistry-Belt.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/220/pak91_dir.vpk",
@@ -2056,6 +2086,7 @@
         },
         {
           "name": "Dark Artistry Cape",
+          "tags": ["Immortal"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Artistry-Cape.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/76/Dark.Artistry.Cape.zip",
@@ -2080,6 +2111,7 @@
         },
         {
           "name": "Invoker Inbossik",
+          "tags": ["Immortal"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Inbossik.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/63/invoker.divine_head.zip",
@@ -2092,6 +2124,7 @@
         },
         {
           "name": "Invoker Immortal",
+          "tags": ["Immortal"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Immortal.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/64/Invoker.Immortal.zip",
@@ -2248,6 +2281,7 @@
         },
         {
           "name": "Invoker Dark Artistry",
+          "tags": ["Immortal"],
           "author": "Papapodzaborniy",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Dark Artistry.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/pak79_dir.vpk",
@@ -2443,6 +2477,7 @@
         },
         {
           "name": "Stormborn",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Stormborn.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Stormborn.zip",
@@ -2455,6 +2490,7 @@
         },
         {
           "name": "Golden Mandate of the Stormborn",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden Mandate of the Stormborn.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Stormborn.Golden.zip",
@@ -2467,6 +2503,7 @@
         },
         {
           "name": "Lightning Orchid",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lightning Orchid.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Lightning.Orchid.zip",
@@ -2479,6 +2516,7 @@
         },
         {
           "name": "The Lightning Orchid of Eminent Revival",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/The-Lightning-Orchid-of-Eminent-Revival.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Lightning.Orchid.Retro.2.zip",
@@ -2515,6 +2553,7 @@
         },
         {
           "name": "Storm Spirit Gold",
+          "tags": ["Immortal"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Storm Spirit Gold.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/95/Storm.Spirit.Gold.zip",
@@ -2722,6 +2761,7 @@
         },
         {
           "name": "Arms of Desolation",
+          "tags": ["Immortal"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Arms-of-Desolation.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/92/Arms.of.Desolation.zip",
@@ -2758,6 +2798,7 @@
         },
         {
           "name": "Shadow Fiend Zxc Arcana",
+          "tags": ["Arcana"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow Fiend Arcana.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/283/Shadow.Fiend.Arcana.zip",
@@ -2989,6 +3030,7 @@
         },
         {
           "name": "Hell-Spar Anathema Crimson",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hell-Spar Anathema Crimson.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/108/Lion.Hell-Spar.Anathema.Crimson.zip",
@@ -3001,6 +3043,7 @@
         },
         {
           "name": "Mulctant Pall",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mulctant Pall.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/109/Lion.Mulctant.Pall.zip",
@@ -3025,6 +3068,7 @@
         },
         {
           "name": "Lion Immortal Chimera",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lion-Immortal-Chimera.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/263/Lion.Immortal.Chimera.zip",
@@ -3037,6 +3081,7 @@
         },
         {
           "name": "Mulctant Pall Crimson",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mulctant Pall Crimson.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/110/Lion.Mulctant.Pall.Crimson.zip",
@@ -3049,6 +3094,7 @@
         },
         {
           "name": "Lion Fin Kings Charm",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lion Fin Kings Charm.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/107/Lion.Fin.Kings.Charm.zip",
@@ -3061,6 +3107,7 @@
         },
         {
           "name": "Lion Cannonroar Confessor",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lion-Cannonroar-Confessor.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Lion.Cannonroar.Confessor.zip",
@@ -3073,6 +3120,7 @@
         },
         {
           "name": "Fin King's Charm of Eminent Revival",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Fin-King-s-Charm-of-Eminent-Revival.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Fin.Kings.Charm.Retro.zip",
@@ -3085,6 +3133,7 @@
         },
         {
           "name": "Fin Kings Charm of Eminent Revival Exceptional",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Fin-Kings-Charm-of-Eminent-Revival-Exceptional.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Fin.Kings.Charm.Exceptional.zip",
@@ -3097,6 +3146,7 @@
         },
         {
           "name": "Hell-Spar Anathema",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hell-Spar-Anathema.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Hell-Spar.Anathema.zip",
@@ -3109,6 +3159,7 @@
         },
         {
           "name": "Hell-Spar Anathema Obsidian Blight",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hell-Spar-Anathema-Obsidian-Blight.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Hell-Spar.Anathema.Obsidian.zip",
@@ -3121,6 +3172,7 @@
         },
         {
           "name": "Tyrian Mulctant Pall",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tyrian-Mulctant-Pall.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Mulctant.Pall.Purple.zip",
@@ -3133,6 +3185,7 @@
         },
         {
           "name": "Gates of Nothl",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/The Gates of Nothl.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/56/Dazzle.Gates.of.Nothl.zip",
@@ -3145,6 +3198,7 @@
         },
         {
           "name": "Gates of Nothl Crimson",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crimson-Gates-of-Nothl.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/57/Dazzle.Gates.of.Nothl.Crimson.zip",
@@ -3316,6 +3370,7 @@
         },
         {
           "name": "Shock of the Anvil",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shock-of-the-Anvil.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Magnus.Shock.of.the.Anvil.zip",
@@ -3340,6 +3395,7 @@
         },
         {
           "name": "Eyes of Ardenok",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Eyes-of-Ardenok.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Magnus.Eyes.of.Ardenok.zip",
@@ -3352,6 +3408,7 @@
         },
         {
           "name": "Eyes of Ardenok Crimson",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Eyes-of-Ardenok-of-the-Crimson-Witness.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Magnus.Eyes.of.Ardenok.Crimson.zip",
@@ -3412,6 +3469,7 @@
         },
         {
           "name": "Immortal Beastmaster",
+          "tags": ["Immortal"],
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Beastmaster.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/215/Immortal.Beastmaster.zip",
@@ -3424,6 +3482,7 @@
         },
         {
           "name": "Beastmaster Primal Peacemaker",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Primal-Peacemaker.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/33/Beastmaster.Primal.Peacemaker.zip",
@@ -3436,6 +3495,7 @@
         },
         {
           "name": "Beastmaster Primal Peacemaker Crimson",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Primal-Peacemaker-of-the-Crimson-Witness.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/34/Beastmaster.Primal.Peacemaker.Crimson.zip",
@@ -3448,6 +3508,7 @@
         },
         {
           "name": "Beastmaster Primal Paean",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Primal-Paean.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/35/Beastmaster.Primal.Paean.zip",
@@ -3537,6 +3598,7 @@
         },
         {
           "name": "Anti Mage Immortal",
+          "tags": ["Immortal"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-04-01-26-46.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/am3/Antimage.Immortal.v2.zip",
@@ -3693,6 +3755,7 @@
         },
         {
           "name": "Origins of Faith",
+          "tags": ["Immortal"],
           "author": "mopsyara",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Origins-of-Faith.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Anti.Mage.Origins.of.Faith.zip",
@@ -3753,6 +3816,7 @@
         },
         {
           "name": "Golden Basher of Mage Skulls",
+          "tags": ["Immortal"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Basher-of-Mage-Skulls.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/Golden.Basher.of.Mage.Skulls.zip",
@@ -3765,6 +3829,7 @@
         },
         {
           "name": "Golden Offhand Basher of Mage Skulls",
+          "tags": ["Immortal"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Offhand-Basher-of-Mage-Skulls.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/Golden.Offhand.Basher.of.Mage.Skulls.zip",
@@ -3874,6 +3939,7 @@
         },
         {
           "name": "Drow Ranger Arcana",
+          "tags": ["Arcana"],
           "author": "Fin",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Drow Ranger Arcana.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/47/Drow.ranger.arcana.zip",
@@ -3902,6 +3968,7 @@
         {
           "author": "Papapodzaborniy",
           "name": "Drow Ranger Arcana Style 2 Dark Carnival",
+          "tags": ["Arcana"],
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Drow Ranger Arcana Style 2 Dark Carnival.png",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/284/Drow.Ranger.Arcana.Style.2.Dark.Carnival.zip",
           "createdAt": "2026-08-11T00:00:00.000Z",
@@ -4061,6 +4128,7 @@
         },
         {
           "name": "Disruptor Tandem Storm",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Disruptor-Tandem-Storm.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/259/Disruptor.Tandem.Storm.zip",
@@ -4103,6 +4171,7 @@
         },
         {
           "name": "Twilight Schism",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Twilight-Schism.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/58/Luna.Twilight.Schism.zip",
@@ -4115,6 +4184,7 @@
         },
         {
           "name": "Golden Twilight Schism",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Twilight-Schism.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/59/Luna.Twilight.Schism.Golden.zip",
@@ -4127,6 +4197,7 @@
         },
         {
           "name": "Twilight Schism of the Crimson Witness",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Twilight-Schism-of-the-Crimson-Witness.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/60/Luna.Twilight.Schism.Crimson.zip",
@@ -4139,6 +4210,7 @@
         },
         {
           "name": "Moonfall",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Moonfall.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/61/Luna.Moonfall.zip",
@@ -4151,6 +4223,7 @@
         },
         {
           "name": "Golden Moonfall",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Moonfall.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/62/Luna.Moonfall.Golden.zip",
@@ -4175,6 +4248,7 @@
         },
         {
           "name": "Luna scord of the winged sentinel",
+          "tags": ["Immortal"],
           "author": "mopsyara",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-22-09-46-28.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/236/Luna.scord.of.the.winged.sentinel.zip",
@@ -4199,6 +4273,7 @@
         },
         {
           "name": "Luna Moonfall",
+          "tags": ["Immortal"],
           "author": "Tenkay",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/luna moonfall .jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/luna.moonfall.zip",
@@ -4226,6 +4301,7 @@
         },
         {
           "name": "Concord Dominion",
+          "tags": ["Immortal"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Concord-Dominion.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/Phantom.Lancer.Concord.Dominion.zip",
@@ -4238,6 +4314,7 @@
         },
         {
           "name": "Concord Dominion of the Crimson Witness",
+          "tags": ["Immortal"],
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Concord-Dominion-of-the-Crimson-Witness.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Concord.Dominion.of.the.Crimson.Witness.zip",
@@ -4250,6 +4327,7 @@
         },
         {
           "name": "Phantom Lancer Immortal",
+          "tags": ["Immortal"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-04-06-24-17.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/131/Phantom.Lancer.Immortal.zip",
@@ -4262,6 +4340,7 @@
         },
         {
           "name": "Immortal Phantom Lancer v2",
+          "tags": ["Immortal"],
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Phantom-Lancer.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Phantom.Lancer.zip",
@@ -4388,6 +4467,7 @@
         },
         {
           "name": "Concord Reversion",
+          "tags": ["Immortal"],
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Concord-Reversion.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Concord.Reversion.zip",
@@ -4400,6 +4480,7 @@
         },
         {
           "name": "Tyrian Phantom Concord",
+          "tags": ["Immortal"],
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tyrian-Phantom-Concord.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Tyrian.Phantom.Concord.zip",
@@ -4412,6 +4493,7 @@
         },
         {
           "name": "Phantom Assassin Arcana gothic whisper",
+          "tags": ["Arcana"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-05-23-54-03.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Phantom.Assassin.Arcana.gothic.whisper.zip",
@@ -4424,6 +4506,7 @@
         },
         {
           "name": "Codicil of the Veiled Ones",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Codicil-of-the-Veiled-Ones.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Phantom.Assassin.Codicil.zip",
@@ -4436,6 +4519,7 @@
         },
         {
           "name": "Avowance of the Veiled Ones",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Avowance-of-the-Veiled-Ones.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Phantom.Assassin.Avowance.zip",
@@ -4448,6 +4532,7 @@
         },
         {
           "name": "Avowance of the Crimson Witness",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Avowance-of-the-Crimson-Witness.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Phantom.Assassin.Avowance.Crimson.zip",
@@ -4583,6 +4668,7 @@
         },
         {
           "name": "Orbuculum Equinox Dire Delight",
+          "tags": ["Immortal"],
           "author": "Tenkay",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Orbuculum Equinox Dire Delight.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/arc.warden.orbuculum.equinox.zip",
@@ -4751,6 +4837,7 @@
         },
         {
           "name": "Axe Immortal Set",
+          "tags": ["Immortal"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-07-21-18-31-06.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Axe.Immortal.Set.zip",
@@ -4940,6 +5027,7 @@
         },
         {
           "name": "Underlord Immortal Ravenous",
+          "tags": ["Immortal"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Underlord-Immortal-Ravenous.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/220/Underlord.Immortal.Ravenous.zip",
@@ -4991,6 +5079,7 @@
         },
         {
           "name": "Earthshaker Arcana Style 2",
+          "tags": ["Arcana"],
           "author": "Papapodzaborniy",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker%20Arcana%20Style%202.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/283/Earthshaker.Arcana.Style.2.zip",
@@ -5018,6 +5107,7 @@
         },
         {
           "name": "Cosmic Earthshaker",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cosmic-Earthshaker.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Cosmic.Earthshaker.zip",
@@ -5054,6 +5144,7 @@
         },
         {
           "name": "Earthshaker Bindings of Deep Magma",
+          "tags": ["Immortal"],
           "author": "Tenkay",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker Bindings of Deep Magma.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/Earthshaker.Bindings.of.Deep.Magma.zip",
@@ -5198,6 +5289,7 @@
         },
         {
           "name": "Progenitor's Bane",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Progenitor-s-Bane.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Mars.Progenitors.Bane.zip",
@@ -5210,6 +5302,7 @@
         },
         {
           "name": "Crimson Progenitor's Bane",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crimson-Progenitor-s-Bane.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Mars.Progenitors.Bane.Crimson.zip",
@@ -5222,6 +5315,7 @@
         },
         {
           "name": "Cosmic Immortal Tinker",
+          "tags": ["Immortal"],
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cosmic-Immortal-Tinker.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/112/Cosmic.Immortal.Tinker.zip",
@@ -5258,6 +5352,7 @@
         },
         {
           "name": "Tinker Interstellar Astrarium",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker-Interstellar-Astrarium.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/221/Cosmic.Tinker.zip",
@@ -5282,6 +5377,7 @@
         },
         {
           "name": "Rollermawster",
+          "tags": ["Immortal"],
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rollermawster.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Rollermawster.zip",
@@ -5306,6 +5402,7 @@
         },
         {
           "name": "Tinker Frusy Set",
+          "tags": ["Immortal"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker Frusy Set.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/Tinker.Frusy.Set.zip",
@@ -5333,6 +5430,7 @@
         },
         {
           "name": "bloodseeker eztzhok",
+          "tags": ["Immortal"],
           "author": "tenkay",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-12-10-31-12.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/bloodseeker.eztzhok.V2.zip",
@@ -5357,6 +5455,7 @@
         },
         {
           "name": "Thirst of Eztzhok Blade",
+          "tags": ["Immortal"],
           "author": "Tenkay",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Thirst of Eztzhok Blade.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Thirst.of.Eztzhok.Blade.zip",
@@ -5369,6 +5468,7 @@
         },
         {
           "name": "Thirst of Eztzhok Off Hand",
+          "tags": ["Immortal"],
           "author": "Tenkay",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Thirst of Eztzhok - Off-Hand.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Thirst.of.Eztzhok.Off-Hand.zip",
@@ -5582,6 +5682,7 @@
         },
         {
           "name": "Infernal Menace",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Menace.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Centaur.Infernal.Menace.zip",
@@ -5594,6 +5695,7 @@
         },
         {
           "name": "Infernal Chieftain",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Chieftain.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Centaur.Infernal.Chieftain.zip",
@@ -5606,6 +5708,7 @@
         },
         {
           "name": "Infernal Chieftain of the Crimson Witness",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Chieftain-of-the-Crimson-Witness.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/232/Centaur.Infernal.Chieftain.Crimson.zip",
@@ -5618,6 +5721,7 @@
         },
         {
           "name": "Golden Infernal Chieftain",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Infernal-Chieftain.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/232/Centaur.Infernal.Chieftain.Golden.zip",
@@ -5630,6 +5734,7 @@
         },
         {
           "name": "Infernal Cavalcade",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Cavalcade.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/232/Centaur.Infernal.Cavalcade.zip",
@@ -5642,6 +5747,7 @@
         },
         {
           "name": "Infernal Cavalcade of the Crimson Witness",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Cavalcade-of-the-Crimson-Witness.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/232/Centaur.Infernal.Cavalcade.Crimson.zip",
@@ -5666,6 +5772,7 @@
         },
         {
           "name": "Monkey King Arcana",
+          "tags": ["Arcana"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey-King-Arcana.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/Monkey.King.Arcana.zip",
@@ -5678,6 +5785,7 @@
         },
         {
           "name": "Monkey King Arcana Water",
+          "tags": ["Arcana"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey-King-Arcana-Water.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/Monkey.King.Arcana.Water.zip",
@@ -5690,6 +5798,7 @@
         },
         {
           "name": "Monkey King Arcana Death",
+          "tags": ["Arcana"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey-King-Arcana-Death.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/Monkey.King.Arcana.Death.zip",
@@ -5702,6 +5811,7 @@
         },
         {
           "name": "Monkey King Arcana Fire",
+          "tags": ["Arcana"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey-King-Arcana-Fire.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/Monkey.King.Arcana.Fire.zip",
@@ -5726,6 +5836,7 @@
         },
         {
           "name": "Staff of Gun-Yu",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Staff-of-Gun-Yu.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Monkey.King.Staff.of.Gun-Yu.zip",
@@ -5738,6 +5849,7 @@
         },
         {
           "name": "Golden Staff of Gun-Yu",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Staff-of-Gun-Yu.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Staff.of.Gun-Yu.Golden.zip",
@@ -5750,6 +5862,7 @@
         },
         {
           "name": "10th Anniversary Staff of Gun-Yu",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/10th-Anniversary-Staff-of-Gun-Yu.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Staff.of.Gun-Yu.Anniversary.zip",
@@ -5762,6 +5875,7 @@
         },
         {
           "name": "Staff of Gun-Yu of the Crimson Witness",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Staff-of-Gun-Yu-of-the-Crimson-Witness.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Staff.of.Gun-Yu.Crimson.zip",
@@ -5939,6 +6053,7 @@
         },
         {
           "name": "Ice Blossom",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ice-Blossom.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Crystal.Maiden.Ice.Blossom.zip",
@@ -5951,6 +6066,7 @@
         },
         {
           "name": "Golden Ice Blossom",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Ice-Blossom.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Crystal.Maiden.Ice.Blossom.Golden.zip",
@@ -5963,6 +6079,7 @@
         },
         {
           "name": "Yulsaria's Glacier",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Yulsaria-s-Glacier.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Crystal.Maiden.Yulsarias.Glacier.zip",
@@ -5975,6 +6092,7 @@
         },
         {
           "name": "Yulsaria's Mantle",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Yulsaria-s-Mantle.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Crystal.Maiden.Yulsarias.Mantle.zip",
@@ -6023,6 +6141,7 @@
         },
         {
           "name": "Ursa Immortal Hallowed Hunt",
+          "tags": ["Immortal"],
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ursa-Immortal-Hallowed-Hunt.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Ursa.Immortal.Hallowed.Hunt.zip",
@@ -6047,6 +6166,7 @@
         },
         {
           "name": "Swift Claw",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Swift-Claw.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Ursa.Swift.Claw.zip",
@@ -6131,6 +6251,7 @@
         },
         {
           "name": "Immortal Medusa",
+          "tags": ["Immortal"],
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Medusa.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Medusa.zip",
@@ -6143,6 +6264,7 @@
         },
         {
           "name": "Immortal Hoodwink",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Hoodwink.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Hoodwink.zip",
@@ -6275,6 +6397,7 @@
         },
         {
           "name": "Sand King Black Sands",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sand-King-Black-Sands.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Sand.King.Black.Sands.zip",
@@ -6287,6 +6410,7 @@
         },
         {
           "name": "Immortal Necrophos",
+          "tags": ["Immortal"],
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Necrophos.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Necrophos.zip",
@@ -6311,6 +6435,7 @@
         },
         {
           "name": "Immortal Lina",
+          "tags": ["Immortal"],
           "author": "Arthas",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Lina.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Lina.zip",
@@ -6371,6 +6496,7 @@
         },
         {
           "name": "Claws of Nuranu",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Claws-of-Nuranu.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lone.Druid.Claws.of.Nuranu.zip",
@@ -6383,6 +6509,7 @@
         },
         {
           "name": "Cauldron of Xahryx Retro v2",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cosmetic-icon-Cauldron-of-Xahryx-of-Eminent-Revival-Exceptional.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lone.Druid.Cauldron.of.Xahryx.Retro.v2.zip",
@@ -6407,6 +6534,7 @@
         },
         {
           "name": "Slark Shadow in the Deep",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Slark-Shadow-in-the-Deep.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Slark.Shadow.in.the.Deep.zip",
@@ -6482,6 +6610,7 @@
         },
         {
           "name": "Sniper Ardalan Interdictor",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sniper-Ardalan-Interdictor.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Sniper.Ardalan.Interdictor.zip",
@@ -6530,6 +6659,7 @@
         },
         {
           "name": "Cannon of the Occultist's Pursuit",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cannon of the Occultist's Pursuit.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/292/Sniper.Occultists.Pursuit.zip",
@@ -6599,6 +6729,7 @@
         },
         {
           "name": "Oracle Immortal Silence",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Oracle-Immortal-Silence.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Oracle.Immortal.Silence.zip",
@@ -6623,6 +6754,7 @@
         },
         {
           "name": "Skywrath Mage Arcana II",
+          "tags": ["Arcana"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Skywrath-Mage-Arcana-II.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Skywrath.Mage.Arcana.II.zip",
@@ -6635,6 +6767,7 @@
         },
         {
           "name": "Skywrath Mage Arcana I",
+          "tags": ["Arcana"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Skywrath-Mage-Arcana-I.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Skywrath.Mage.Arcana.I.zip",
@@ -6671,6 +6804,7 @@
         },
         {
           "name": "Immortal Slardar",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Slardar.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Immortal.Slardar.zip",
@@ -6683,6 +6817,7 @@
         },
         {
           "name": "Spectre Arcana",
+          "tags": ["Arcana"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spectre-Arcana.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Spectre.Arcana.zip",
@@ -6719,6 +6854,7 @@
         },
         {
           "name": "Spectre Arcana Style 2",
+          "tags": ["Arcana"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spectre-Arcana-Style-2.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Spectre.Arcana.Style.2.zip",
@@ -6767,6 +6903,7 @@
         },
         {
           "name": "Bloody Spectre",
+          "tags": ["Arcana"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bloody-Spectre.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/Bloody.Spectre.zip",
@@ -6779,6 +6916,7 @@
         },
         {
           "name": "Soul Diffuser",
+          "tags": ["Immortal"],
           "author": "mopsyara",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Soul-Diffuser.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/spectre.diffusal.bladee.zip",
@@ -6878,6 +7016,7 @@
         },
         {
           "name": "Immortal Lich",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Lich.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Immortal.Lich.zip",
@@ -6902,6 +7041,7 @@
         },
         {
           "name": "Immortal Templar Assassin",
+          "tags": ["Immortal"],
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Templar-Assassin.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Immortal.Templar.Assassin.zip",
@@ -6914,6 +7054,7 @@
         },
         {
           "name": "Templar Assassin ritual of the loyal fold",
+          "tags": ["Immortal"],
           "author": "Tenkay",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-16-09-09-16.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/lanaya.ritual.of.the.loyal.fold.zip",
@@ -6938,6 +7079,7 @@
         },
         {
           "name": "Templar Assassin Royal Squire",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Templar-Assassin-Royal-Squire.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/259/Templar.Assassin.Royal.Squire.zip",
@@ -6986,6 +7128,7 @@
         },
         {
           "name": "Juggernaut Ancient Exile",
+          "tags": ["Immortal"],
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Juggernaut-Ancient-Exile.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Juggernaut.Ancient.Exile.zip",
@@ -7022,6 +7165,7 @@
         },
         {
           "name": "Serrakura",
+          "tags": ["Immortal"],
           "author": "Papapodzaborniy",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Serrakura-Prem.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Serrakura.zip",
@@ -7058,6 +7202,7 @@
         },
         {
           "name": "Lifestealer Golden Maw",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lifestealer-Golden-Maw.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Lifestealer.Golden.Maw.zip",
@@ -7427,6 +7572,7 @@
         },
         {
           "name": "Immortal Primal Beast",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Primal-Beast.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/223/Immortal.Primal.Beast.zip",
@@ -7451,6 +7597,7 @@
         },
         {
           "name": "Snapfire Immortal",
+          "tags": ["Immortal"],
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-11-14-37-27.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Snapfire.Immortal.zip",
@@ -7541,6 +7688,7 @@
         },
         {
           "name": "Savage Mettle",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Savage-Mettle.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Spirit.Breaker.Savage.Mettle.zip",
@@ -7565,6 +7713,7 @@
         },
         {
           "name": "Tiny Majesty of the Colossus",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tiny-Majesty-of-the-Colossus.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Tiny.Majesty.of.the.Colossus.zip",
@@ -7661,6 +7810,7 @@
         },
         {
           "name": "Golden Bracers of Forlorn Precipice",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Bracers-of-Forlorn-Precipice.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Dark.Seer.Forlorn.Precipice.Golden.zip",
@@ -7673,6 +7823,7 @@
         },
         {
           "name": "Bracers of Forlorn Precipice",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bracers-of-Forlorn-Precipice.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Dark.Seer.Forlorn.Precipice.zip",
@@ -7919,6 +8070,7 @@
         },
         {
           "name": "Void Spirit Hidden Vector",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Void-Spirit-Hidden-Vector.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Void.Spirit.Hidden.Vector.zip",
@@ -8234,6 +8386,7 @@
         },
         {
           "name": "The Hallows Within",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/The-Hallows-Within.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Undying.Hallows.Within.zip",
@@ -8297,6 +8450,7 @@
         },
         {
           "name": "Shadow Shaman Purple",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow-Shaman-Purple.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Shadow.Shaman.Purple.zip",
@@ -8321,6 +8475,7 @@
         },
         {
           "name": "Shadow Shaman Immortal Crimson",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow-Shaman-Immortal-Crimson.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/Shadow.Shaman.Immortal.Crimson.zip",
@@ -8369,6 +8524,7 @@
         },
         {
           "name": "Tusk Distinguished Pirate",
+          "tags": ["Immortal"],
           "author": "Dota2VPK",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-11-14-30-17.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Tusk.Set.1.zip",
@@ -8456,6 +8612,7 @@
         },
         {
           "name": "Lion Hell-Spar Anathema Purple",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lion Hell-Spar Anathema Purple.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Lion.Hell-Spar.Anathema.Purple.zip",
@@ -8468,6 +8625,7 @@
         },
         {
           "name": "Lion Fin Kings Charm Purple",
+          "tags": ["Immortal"],
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lion Fin Kings Charm Purple.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/289/Lion.Fin.Kings.Charm.Purple.zip",
@@ -8531,6 +8689,7 @@
         },
         {
           "name": "Oracle Automaton",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Oracle Automaton.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/Oracle.Automaton.zip",
@@ -8555,6 +8714,7 @@
         },
         {
           "name": "Bristleback Automaton",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bristleback Automaton.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/Bristleback.Automaton.zip",
@@ -8765,6 +8925,7 @@
         },
         {
           "name": "Prominence",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Prominence.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/294/Keeper.of.the.Light.Prominence.zip",
@@ -8813,6 +8974,7 @@
         },
         {
           "name": "Merry Wanderer's Brush of the Crimson Witness",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Merry Wanderer's Brush of the Crimson Witness.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/294/Puck.Wanderers.Brush.Crimson.zip",
@@ -8927,6 +9089,7 @@
         },
         {
           "name": "Monkey King Immortal",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey King Immortal.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Monkey.King.Immortal.zip",
@@ -8951,6 +9114,7 @@
         },
         {
           "name": "Wings Of Daybreak",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wings Of Daybreak.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Keeper.of.the.Light.Wings.of.Daybreak.zip",
@@ -8987,6 +9151,7 @@
         },
         {
           "name": "Bounty Hunter Golden Rat",
+          "tags": ["Immortal"],
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bounty Hunter Golden Rat.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/297/Bounty.Hunter.Golden.Rat.zip",
@@ -9161,6 +9326,7 @@
           },
           {
             "name": "Mace of Aeons",
+            "tags": ["Immortal"],
             "author": "Tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mace-of-Aeons.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Mace.of.Aeons.zip",
@@ -9172,6 +9338,7 @@
           },
           {
             "name": "Mace of Aeons Oathbreaker",
+            "tags": ["Immortal"],
             "author": "Tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mace-of-Aeons-Oathbreaker.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Mace.of.Aeons.Oathbreaker.zip",
@@ -9183,6 +9350,7 @@
           },
           {
             "name": "Mace of Aeons Usurper",
+            "tags": ["Immortal"],
             "author": "Tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mace-of-Aeons-Usurper.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Mace.of.Aeons.Usurper.zip",
@@ -9194,6 +9362,7 @@
           },
           {
             "name": "Faceless Void Arcana",
+            "tags": ["Arcana"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Faceless-Void-Arcana.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/215/Faceless.Void.Arcana.zip",
@@ -9216,6 +9385,7 @@
           },
           {
             "name": "Faceless Void Arcana Style 2",
+            "tags": ["Arcana"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Faceless-Void-Arcana-Style-2.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Faceless.Void.Arcana.Style.2.zip",
@@ -9276,6 +9446,7 @@
           },
           {
             "name": "IO Madame Scrio",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/IO-Madame-Scrio.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/246/IO.Madame.Scrio.zip",
@@ -9314,6 +9485,7 @@
         "bounty_hunter": [
           {
             "name": "Hunter's Hoard",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hunter-s-Hoard.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/46/Bounty.Hunter.Hunters.Hoard.zip",
@@ -9325,6 +9497,7 @@
           },
           {
             "name": "Tines of Tybara",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tines-of-Tybara.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/45/Bounty.Hunter.Tines.of.Tybara.zip",
@@ -9751,6 +9924,7 @@
           },
           {
             "name": "Wraith King Arcana",
+            "tags": ["Arcana"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wraith-King-Arcana.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/138/Wraith.King.Arcana.zip",
@@ -9857,6 +10031,7 @@
         "huskar": [
           {
             "name": "Huskar Flashpoint Proselyte",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Huskar-Flashpoint-Proselyte.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Huskar.Flashpoint.Proselyte.zip",
@@ -9868,6 +10043,7 @@
           },
           {
             "name": "Huskar The Burning Sentinel, Flashpoint Proselyte",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-11-14-39-39.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/The.Burning.Sentinel.Flashpoint.Proselyte.zip",
@@ -9958,6 +10134,7 @@
           },
           {
             "name": "Queen Of Pain Immortal",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Queen Of Pain Immortal.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/Queen.Of.Pain.Immortal.zip",
@@ -9999,6 +10176,7 @@
         "terrorblade": [
           {
             "name": "Terrorblade Immortal Arcana",
+            "tags": ["Arcana"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade-Immortal-Arcana.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/93/Terrorblade.Immortal.Arcana.zip",
@@ -10010,6 +10188,7 @@
           },
           {
             "name": "Terrorblade Black Arcana",
+            "tags": ["Arcana"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade-black-arckana.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/235/pak24_dir.vpk",
@@ -10032,6 +10211,7 @@
           },
           {
             "name": "Terrorblade Fractal Horns of Inner red",
+            "tags": ["Arcana"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Fractal Horns of Inner red.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/97/Terrorblade.Fractal.Horns.of.Inner.red.zip",
@@ -10043,6 +10223,7 @@
           },
           {
             "name": "Terrorblade Fractal Horns of Inner WHITE",
+            "tags": ["Arcana"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Fractal Horns of Inner WHITE.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Fractal.Horns.of.Inner.WHITE.zip",
@@ -10093,6 +10274,7 @@
           },
           {
             "name": "Terrorblade Green Fractal Horns",
+            "tags": ["Arcana"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Green Fractal Horns.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Terrorblade.Green.Fractal.Horns.zip",
@@ -10104,6 +10286,7 @@
           },
           {
             "name": "Terrorblade Fractal Horns of Inner WHITE v2",
+            "tags": ["Arcana"],
             "author": "mopsyara",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Fractal Horns of Inner WHITE v2.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Terrorblade.Fractal.Horns.of.Inner.WHITE.v2.zip",
@@ -10153,6 +10336,7 @@
           },
           {
             "name": "Anonymous Ember",
+            "tags": ["Immortal"],
             "author": "mopsyara",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Anonymous Ember.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/Anonymous.Ember.zip",
@@ -10197,6 +10381,7 @@
           },
           {
             "name": "Ember Spirit set 1",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ember Spirit set 1.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/ember.spirit.set.1.zip",
@@ -10386,6 +10571,7 @@
           },
           {
             "name": "Soul Shredder",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Soul Shredder.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/281/Guitar.zip",
@@ -10424,6 +10610,7 @@
           },
           {
             "name": "Morphling Darktrench Tears",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling-Darktrench-Tears.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Morphling.Darktrench.Tears.zip",
@@ -10479,6 +10666,7 @@
           },
           {
             "name": "Morphling Automaton",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling-Automaton.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/259/Morphling.Automaton.zip",
@@ -10544,6 +10732,7 @@
         "zeus": [
           {
             "name": "Zeus Arcana",
+            "tags": ["Arcana"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Zeus-Arcana.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/147/Zeus.Arcana.zip",
@@ -10579,6 +10768,7 @@
         "invoker": [
           {
             "name": "Magus Accord",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Magus Accord.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/75/Magus.Accord.zip",
@@ -10656,6 +10846,7 @@
           },
           {
             "name": "Invoker Revelations Hat",
+            "tags": ["Immortal"],
             "author": "SENOp",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Revelations Hat.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Invoker.Revelations.Hat.zip",
@@ -10667,6 +10858,7 @@
           },
           {
             "name": "Magus Apex",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Magus-Apex.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/85/Invoker.Magus.Apex.zip",
@@ -10678,6 +10870,7 @@
           },
           {
             "name": "Dark Artistry Bracers",
+            "tags": ["Immortal"],
             "author": "Papapodzaborniy",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Artistry-Bracers.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/74/pak79_dir.vpk",
@@ -10711,6 +10904,7 @@
           },
           {
             "name": "Dark Artistry Pauldrons",
+            "tags": ["Immortal"],
             "author": "Papapodzaborniy",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Artistry-Pauldrons.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/pak26_dir.vpk",
@@ -10744,6 +10938,7 @@
           },
           {
             "name": "Dark Artistry Belt",
+            "tags": ["Immortal"],
             "author": "Papapodzaborniy",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Artistry-Belt.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/220/pak91_dir.vpk",
@@ -10766,6 +10961,7 @@
           },
           {
             "name": "Dark Artistry Cape",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Artistry-Cape.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/76/Dark.Artistry.Cape.zip",
@@ -10788,6 +10984,7 @@
           },
           {
             "name": "Invoker Inbossik",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Inbossik.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/63/invoker.divine_head.zip",
@@ -10799,6 +10996,7 @@
           },
           {
             "name": "Invoker Immortal",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Immortal.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/64/Invoker.Immortal.zip",
@@ -10898,6 +11096,7 @@
           },
           {
             "name": "Invoker Dark Artistry",
+            "tags": ["Immortal"],
             "author": "Papapodzaborniy",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Dark Artistry.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/pak79_dir.vpk",
@@ -11065,6 +11264,7 @@
         "storm_spirit": [
           {
             "name": "Stormborn",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Stormborn.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Stormborn.zip",
@@ -11076,6 +11276,7 @@
           },
           {
             "name": "Golden Mandate of the Stormborn",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden Mandate of the Stormborn.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Stormborn.Golden.zip",
@@ -11087,6 +11288,7 @@
           },
           {
             "name": "Lightning Orchid",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lightning Orchid.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Lightning.Orchid.zip",
@@ -11098,6 +11300,7 @@
           },
           {
             "name": "The Lightning Orchid of Eminent Revival",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/The-Lightning-Orchid-of-Eminent-Revival.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Lightning.Orchid.Retro.2.zip",
@@ -11131,6 +11334,7 @@
           },
           {
             "name": "Storm Spirit Gold",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Storm Spirit Gold.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/95/Storm.Spirit.Gold.zip",
@@ -11311,6 +11515,7 @@
           },
           {
             "name": "Arms of Desolation",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Arms-of-Desolation.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/92/Arms.of.Desolation.zip",
@@ -11344,6 +11549,7 @@
           },
           {
             "name": "Shadow Fiend Zxc Arcana",
+            "tags": ["Arcana"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow Fiend Arcana.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/87/Shadow.Fiend.Demon.Eater.zip",
@@ -11577,6 +11783,7 @@
         "lion": [
           {
             "name": "Hell-Spar Anathema Crimson",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hell-Spar Anathema Crimson.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/108/Lion.Hell-Spar.Anathema.Crimson.zip",
@@ -11588,6 +11795,7 @@
           },
           {
             "name": "Mulctant Pall",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mulctant Pall.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/109/Lion.Mulctant.Pall.zip",
@@ -11610,6 +11818,7 @@
           },
           {
             "name": "Lion Immortal Chimera",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lion-Immortal-Chimera.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/263/Lion.Immortal.Chimera.zip",
@@ -11621,6 +11830,7 @@
           },
           {
             "name": "Mulctant Pall Crimson",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mulctant Pall Crimson.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/110/Lion.Mulctant.Pall.Crimson.zip",
@@ -11632,6 +11842,7 @@
           },
           {
             "name": "Lion Fin Kings Charm",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lion Fin Kings Charm.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/107/Lion.Fin.Kings.Charm.zip",
@@ -11643,6 +11854,7 @@
           },
           {
             "name": "Lion Cannonroar Confessor",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lion-Cannonroar-Confessor.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Lion.Cannonroar.Confessor.zip",
@@ -11654,6 +11866,7 @@
           },
           {
             "name": "Fin King's Charm of Eminent Revival",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Fin-King-s-Charm-of-Eminent-Revival.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Fin.Kings.Charm.Retro.zip",
@@ -11665,6 +11878,7 @@
           },
           {
             "name": "Fin Kings Charm of Eminent Revival Exceptional",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Fin-Kings-Charm-of-Eminent-Revival-Exceptional.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Fin.Kings.Charm.Exceptional.zip",
@@ -11676,6 +11890,7 @@
           },
           {
             "name": "Hell-Spar Anathema",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hell-Spar-Anathema.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Hell-Spar.Anathema.zip",
@@ -11687,6 +11902,7 @@
           },
           {
             "name": "Hell-Spar Anathema Obsidian Blight",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hell-Spar-Anathema-Obsidian-Blight.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Hell-Spar.Anathema.Obsidian.zip",
@@ -11698,6 +11914,7 @@
           },
           {
             "name": "Tyrian Mulctant Pall",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tyrian-Mulctant-Pall.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Mulctant.Pall.Purple.zip",
@@ -11711,6 +11928,7 @@
         "dazzle": [
           {
             "name": "Gates of Nothl",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/The Gates of Nothl.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/56/Dazzle.Gates.of.Nothl.zip",
@@ -11722,6 +11940,7 @@
           },
           {
             "name": "Gates of Nothl Crimson",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crimson-Gates-of-Nothl.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/57/Dazzle.Gates.of.Nothl.Crimson.zip",
@@ -11860,6 +12079,7 @@
         "magnus": [
           {
             "name": "Shock of the Anvil",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shock-of-the-Anvil.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Magnus.Shock.of.the.Anvil.zip",
@@ -11882,6 +12102,7 @@
           },
           {
             "name": "Eyes of Ardenok",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Eyes-of-Ardenok.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Magnus.Eyes.of.Ardenok.zip",
@@ -11893,6 +12114,7 @@
           },
           {
             "name": "Eyes of Ardenok Crimson",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Eyes-of-Ardenok-of-the-Crimson-Witness.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Magnus.Eyes.of.Ardenok.Crimson.zip",
@@ -11950,6 +12172,7 @@
         "beastmaster": [
           {
             "name": "Immortal Beastmaster",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Beastmaster.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/215/Immortal.Beastmaster.zip",
@@ -11961,6 +12184,7 @@
           },
           {
             "name": "Beastmaster Primal Peacemaker",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Primal-Peacemaker.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/33/Beastmaster.Primal.Peacemaker.zip",
@@ -11972,6 +12196,7 @@
           },
           {
             "name": "Beastmaster Primal Peacemaker Crimson",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Primal-Peacemaker-of-the-Crimson-Witness.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/34/Beastmaster.Primal.Peacemaker.Crimson.zip",
@@ -11983,6 +12208,7 @@
           },
           {
             "name": "Beastmaster Primal Paean",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Primal-Paean.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/35/Beastmaster.Primal.Paean.zip",
@@ -12141,6 +12367,7 @@
           },
           {
             "name": "Anti Mage Immortal",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-04-01-26-46.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/am3/Antimage.Immortal.v2.zip",
@@ -12218,6 +12445,7 @@
           },
           {
             "name": "Origins of Faith",
+            "tags": ["Immortal"],
             "author": "mopsyara",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Origins-of-Faith.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Anti.Mage.Origins.of.Faith.zip",
@@ -12273,6 +12501,7 @@
           },
           {
             "name": "Golden Basher of Mage Skulls",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Basher-of-Mage-Skulls.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/Golden.Basher.of.Mage.Skulls.zip",
@@ -12284,6 +12513,7 @@
           },
           {
             "name": "Golden Offhand Basher of Mage Skulls",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Offhand-Basher-of-Mage-Skulls.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/Golden.Offhand.Basher.of.Mage.Skulls.zip",
@@ -12397,6 +12627,7 @@
         "drow_ranger": [
           {
             "name": "Drow Ranger Arcana",
+            "tags": ["Arcana"],
             "author": "Fin",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Drow Ranger Arcana.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/47/Drow.ranger.arcana.zip",
@@ -12514,6 +12745,7 @@
           },
           {
             "name": "Disruptor Tandem Storm",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Disruptor-Tandem-Storm.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/259/Disruptor.Tandem.Storm.zip",
@@ -12527,6 +12759,7 @@
         "luna": [
           {
             "name": "Twilight Schism",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Twilight-Schism.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/58/Luna.Twilight.Schism.zip",
@@ -12538,6 +12771,7 @@
           },
           {
             "name": "Golden Twilight Schism",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Twilight-Schism.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/59/Luna.Twilight.Schism.Golden.zip",
@@ -12549,6 +12783,7 @@
           },
           {
             "name": "Twilight Schism of the Crimson Witness",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Twilight-Schism-of-the-Crimson-Witness.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/60/Luna.Twilight.Schism.Crimson.zip",
@@ -12560,6 +12795,7 @@
           },
           {
             "name": "Moonfall",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Moonfall.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/61/Luna.Moonfall.zip",
@@ -12571,6 +12807,7 @@
           },
           {
             "name": "Golden Moonfall",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Moonfall.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/62/Luna.Moonfall.Golden.zip",
@@ -12593,6 +12830,7 @@
           },
           {
             "name": "Luna scord of the winged sentinel",
+            "tags": ["Immortal"],
             "author": "mopsyara",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-22-09-46-28.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/236/Luna.scord.of.the.winged.sentinel.zip",
@@ -12615,6 +12853,7 @@
           },
           {
             "name": "Luna Moonfall",
+            "tags": ["Immortal"],
             "author": "Tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/luna moonfall .jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/luna.moonfall.zip",
@@ -12642,6 +12881,7 @@
         "phantom_lancer": [
           {
             "name": "Concord Dominion",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Concord-Dominion.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/Phantom.Lancer.Concord.Dominion.zip",
@@ -12653,6 +12893,7 @@
           },
           {
             "name": "Concord Dominion of the Crimson Witness",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Concord-Dominion-of-the-Crimson-Witness.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Concord.Dominion.of.the.Crimson.Witness.zip",
@@ -12664,6 +12905,7 @@
           },
           {
             "name": "Phantom Lancer Immortal",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-04-06-24-17.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/131/Phantom.Lancer.Immortal.zip",
@@ -12675,6 +12917,7 @@
           },
           {
             "name": "Immortal Phantom Lancer v2",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Phantom-Lancer.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Phantom.Lancer.zip",
@@ -12763,6 +13006,7 @@
           },
           {
             "name": "Concord Reversion",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Concord-Reversion.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Concord.Reversion.zip",
@@ -12774,6 +13018,7 @@
           },
           {
             "name": "Tyrian Phantom Concord",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tyrian-Phantom-Concord.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Tyrian.Phantom.Concord.zip",
@@ -12787,6 +13032,7 @@
         "phantom_assassin": [
           {
             "name": "Phantom Assassin Arcana gothic whisper",
+            "tags": ["Arcana"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-05-23-54-03.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Phantom.Assassin.Arcana.gothic.whisper.zip",
@@ -12798,6 +13044,7 @@
           },
           {
             "name": "Codicil of the Veiled Ones",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Codicil-of-the-Veiled-Ones.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Phantom.Assassin.Codicil.zip",
@@ -12809,6 +13056,7 @@
           },
           {
             "name": "Avowance of the Veiled Ones",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Avowance-of-the-Veiled-Ones.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Phantom.Assassin.Avowance.zip",
@@ -12820,6 +13068,7 @@
           },
           {
             "name": "Avowance of the Crimson Witness",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Avowance-of-the-Crimson-Witness.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Phantom.Assassin.Avowance.Crimson.zip",
@@ -12932,6 +13181,7 @@
           },
           {
             "name": "Orbuculum Equinox Dire Delight",
+            "tags": ["Immortal"],
             "author": "Tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Orbuculum Equinox Dire Delight.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/arc.warden.orbuculum.equinox.zip",
@@ -13092,6 +13342,7 @@
           },
           {
             "name": "Axe Immortal Set",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-07-21-18-31-06.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Axe.Immortal.Set.zip",
@@ -13250,6 +13501,7 @@
         "underlord": [
           {
             "name": "Underlord Immortal Ravenous",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Underlord-Immortal-Ravenous.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/220/Underlord.Immortal.Ravenous.zip",
@@ -13287,6 +13539,7 @@
         "earthshaker": [
           {
             "name": "Earthshaker Arcana Style 2",
+            "tags": ["Arcana"],
             "author": "Papapodzaborniy",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker%20Arcana%20Style%202.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/283/Earthshaker.Arcana.Style.2.zip",
@@ -13312,6 +13565,7 @@
           },
           {
             "name": "Cosmic Earthshaker",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cosmic-Earthshaker.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Cosmic.Earthshaker.zip",
@@ -13345,6 +13599,7 @@
           },
           {
             "name": "Earthshaker Bindings of Deep Magma",
+            "tags": ["Immortal"],
             "author": "Tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker Bindings of Deep Magma.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/Earthshaker.Bindings.of.Deep.Magma.zip",
@@ -13481,6 +13736,7 @@
           },
           {
             "name": "Progenitor's Bane",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Progenitor-s-Bane.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Mars.Progenitors.Bane.zip",
@@ -13492,6 +13748,7 @@
           },
           {
             "name": "Crimson Progenitor's Bane",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crimson-Progenitor-s-Bane.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Mars.Progenitors.Bane.Crimson.zip",
@@ -13505,6 +13762,7 @@
         "tinker": [
           {
             "name": "Cosmic Immortal Tinker",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cosmic-Immortal-Tinker.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/112/Cosmic.Immortal.Tinker.zip",
@@ -13538,6 +13796,7 @@
           },
           {
             "name": "Tinker Interstellar Astrarium",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker-Interstellar-Astrarium.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/221/Cosmic.Tinker.zip",
@@ -13560,6 +13819,7 @@
           },
           {
             "name": "Rollermawster",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rollermawster.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Rollermawster.zip",
@@ -13582,6 +13842,7 @@
           },
           {
             "name": "Tinker Frusy Set",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker Frusy Set.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/Tinker.Frusy.Set.zip",
@@ -13606,6 +13867,7 @@
         "bloodseeker": [
           {
             "name": "bloodseeker eztzhok",
+            "tags": ["Immortal"],
             "author": "tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-12-10-31-12.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/bloodseeker.eztzhok.V2.zip",
@@ -13628,6 +13890,7 @@
           },
           {
             "name": "Thirst of Eztzhok Blade",
+            "tags": ["Immortal"],
             "author": "Tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Thirst of Eztzhok Blade.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Thirst.of.Eztzhok.Blade.zip",
@@ -13639,6 +13902,7 @@
           },
           {
             "name": "Thirst of Eztzhok Off Hand",
+            "tags": ["Immortal"],
             "author": "Tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Thirst of Eztzhok - Off-Hand.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Thirst.of.Eztzhok.Off-Hand.zip",
@@ -13856,6 +14120,7 @@
           },
           {
             "name": "Infernal Menace",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Menace.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Centaur.Infernal.Menace.zip",
@@ -13867,6 +14132,7 @@
           },
           {
             "name": "Infernal Chieftain",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Chieftain.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Centaur.Infernal.Chieftain.zip",
@@ -13878,6 +14144,7 @@
           },
           {
             "name": "Infernal Chieftain of the Crimson Witness",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Chieftain-of-the-Crimson-Witness.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/232/Centaur.Infernal.Chieftain.Crimson.zip",
@@ -13889,6 +14156,7 @@
           },
           {
             "name": "Golden Infernal Chieftain",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Infernal-Chieftain.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/232/Centaur.Infernal.Chieftain.Golden.zip",
@@ -13900,6 +14168,7 @@
           },
           {
             "name": "Infernal Cavalcade",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Cavalcade.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/232/Centaur.Infernal.Cavalcade.zip",
@@ -13911,6 +14180,7 @@
           },
           {
             "name": "Infernal Cavalcade of the Crimson Witness",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Cavalcade-of-the-Crimson-Witness.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/232/Centaur.Infernal.Cavalcade.Crimson.zip",
@@ -13935,6 +14205,7 @@
           },
           {
             "name": "Monkey King Arcana",
+            "tags": ["Arcana"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey-King-Arcana.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/Monkey.King.Arcana.zip",
@@ -13946,6 +14217,7 @@
           },
           {
             "name": "Monkey King Arcana Water",
+            "tags": ["Arcana"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey-King-Arcana-Water.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/Monkey.King.Arcana.Water.zip",
@@ -13957,6 +14229,7 @@
           },
           {
             "name": "Monkey King Arcana Death",
+            "tags": ["Arcana"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey-King-Arcana-Death.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/Monkey.King.Arcana.Death.zip",
@@ -13968,6 +14241,7 @@
           },
           {
             "name": "Monkey King Arcana Fire",
+            "tags": ["Arcana"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey-King-Arcana-Fire.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/Monkey.King.Arcana.Fire.zip",
@@ -13990,6 +14264,7 @@
           },
           {
             "name": "Staff of Gun-Yu",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Staff-of-Gun-Yu.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Monkey.King.Staff.of.Gun-Yu.zip",
@@ -14001,6 +14276,7 @@
           },
           {
             "name": "Golden Staff of Gun-Yu",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Staff-of-Gun-Yu.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Staff.of.Gun-Yu.Golden.zip",
@@ -14012,6 +14288,7 @@
           },
           {
             "name": "10th Anniversary Staff of Gun-Yu",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/10th-Anniversary-Staff-of-Gun-Yu.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Staff.of.Gun-Yu.Anniversary.zip",
@@ -14023,6 +14300,7 @@
           },
           {
             "name": "Staff of Gun-Yu of the Crimson Witness",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Staff-of-Gun-Yu-of-the-Crimson-Witness.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Staff.of.Gun-Yu.Crimson.zip",
@@ -14056,6 +14334,7 @@
           },
           {
             "name": "Monkey King Immortal",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey King Immortal.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Monkey.King.Immortal.zip",
@@ -14175,6 +14454,7 @@
           },
           {
             "name": "Ice Blossom",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ice-Blossom.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Crystal.Maiden.Ice.Blossom.zip",
@@ -14186,6 +14466,7 @@
           },
           {
             "name": "Golden Ice Blossom",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Ice-Blossom.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Crystal.Maiden.Ice.Blossom.Golden.zip",
@@ -14197,6 +14478,7 @@
           },
           {
             "name": "Yulsaria's Glacier",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Yulsaria-s-Glacier.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Crystal.Maiden.Yulsarias.Glacier.zip",
@@ -14208,6 +14490,7 @@
           },
           {
             "name": "Yulsaria's Mantle",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Yulsaria-s-Mantle.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Crystal.Maiden.Yulsarias.Mantle.zip",
@@ -14256,6 +14539,7 @@
         "ursa": [
           {
             "name": "Ursa Immortal Hallowed Hunt",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ursa-Immortal-Hallowed-Hunt.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Ursa.Immortal.Hallowed.Hunt.zip",
@@ -14278,6 +14562,7 @@
           },
           {
             "name": "Swift Claw",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Swift-Claw.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Ursa.Swift.Claw.zip",
@@ -14357,6 +14642,7 @@
         "medusa": [
           {
             "name": "Immortal Medusa",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Medusa.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Medusa.zip",
@@ -14370,6 +14656,7 @@
         "hoodwink": [
           {
             "name": "Immortal Hoodwink",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Hoodwink.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Hoodwink.zip",
@@ -14533,6 +14820,7 @@
         "sand_king": [
           {
             "name": "Sand King Black Sands",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sand-King-Black-Sands.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Sand.King.Black.Sands.zip",
@@ -14546,6 +14834,7 @@
         "necrophos": [
           {
             "name": "Immortal Necrophos",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Necrophos.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Necrophos.zip",
@@ -14570,6 +14859,7 @@
         "lina": [
           {
             "name": "Immortal Lina",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Lina.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Lina.zip",
@@ -14657,6 +14947,7 @@
         "lone_druid": [
           {
             "name": "Claws of Nuranu",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Claws-of-Nuranu.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lone.Druid.Claws.of.Nuranu.zip",
@@ -14668,6 +14959,7 @@
           },
           {
             "name": "Cauldron of Xahryx Retro v2",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cosmetic-icon-Cauldron-of-Xahryx-of-Eminent-Revival-Exceptional.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lone.Druid.Cauldron.of.Xahryx.Retro.v2.zip",
@@ -14692,6 +14984,7 @@
         "slark": [
           {
             "name": "Slark Shadow in the Deep",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Slark-Shadow-in-the-Deep.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Slark.Shadow.in.the.Deep.zip",
@@ -14778,6 +15071,7 @@
         "sniper": [
           {
             "name": "Sniper Ardalan Interdictor",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sniper-Ardalan-Interdictor.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Sniper.Ardalan.Interdictor.zip",
@@ -14822,6 +15116,7 @@
           },
           {
             "name": "Cannon of the Occultist's Pursuit",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cannon of the Occultist's Pursuit.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/292/Sniper.Occultists.Pursuit.zip",
@@ -14888,6 +15183,7 @@
         "oracle": [
           {
             "name": "Oracle Immortal Silence",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Oracle-Immortal-Silence.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Oracle.Immortal.Silence.zip",
@@ -14912,6 +15208,7 @@
         "skywrath_mage": [
           {
             "name": "Skywrath Mage Arcana II",
+            "tags": ["Arcana"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Skywrath-Mage-Arcana-II.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Skywrath.Mage.Arcana.II.zip",
@@ -14923,6 +15220,7 @@
           },
           {
             "name": "Skywrath Mage Arcana I",
+            "tags": ["Arcana"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Skywrath-Mage-Arcana-I.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Skywrath.Mage.Arcana.I.zip",
@@ -14958,6 +15256,7 @@
           },
           {
             "name": "Immortal Slardar",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Slardar.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Immortal.Slardar.zip",
@@ -14971,6 +15270,7 @@
         "spectre": [
           {
             "name": "Spectre Arcana",
+            "tags": ["Arcana"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spectre-Arcana.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Spectre.Arcana.zip",
@@ -15004,6 +15304,7 @@
           },
           {
             "name": "Spectre Arcana Style 2",
+            "tags": ["Arcana"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spectre-Arcana-Style-2.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Spectre.Arcana.Style.2.zip",
@@ -15048,6 +15349,7 @@
           },
           {
             "name": "Bloody Spectre",
+            "tags": ["Arcana"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bloody-Spectre.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/Bloody.Spectre.zip",
@@ -15059,6 +15361,7 @@
           },
           {
             "name": "Soul Diffuser",
+            "tags": ["Immortal"],
             "author": "mopsyara",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Soul-Diffuser.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/spectre.diffusal.bladee.zip",
@@ -15153,6 +15456,7 @@
         "lich": [
           {
             "name": "Immortal Lich",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Lich.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Immortal.Lich.zip",
@@ -15177,6 +15481,7 @@
           },
           {
             "name": "Immortal Templar Assassin",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Templar-Assassin.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Immortal.Templar.Assassin.zip",
@@ -15188,6 +15493,7 @@
           },
           {
             "name": "Templar Assassin ritual of the loyal fold",
+            "tags": ["Immortal"],
             "author": "Tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-16-09-09-16.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/lanaya.ritual.of.the.loyal.fold.zip",
@@ -15210,6 +15516,7 @@
           },
           {
             "name": "Templar Assassin Royal Squire",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Templar-Assassin-Royal-Squire.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/259/Templar.Assassin.Royal.Squire.zip",
@@ -15258,6 +15565,7 @@
         "juggernaut": [
           {
             "name": "Juggernaut Ancient Exile",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Juggernaut-Ancient-Exile.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Juggernaut.Ancient.Exile.zip",
@@ -15291,6 +15599,7 @@
           },
           {
             "name": "Serrakura",
+            "tags": ["Immortal"],
             "author": "Papapodzaborniy",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Serrakura-Prem.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Serrakura.zip",
@@ -15329,6 +15638,7 @@
         "lifestealer": [
           {
             "name": "Lifestealer Golden Maw",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lifestealer-Golden-Maw.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Lifestealer.Golden.Maw.zip",
@@ -15682,6 +15992,7 @@
           },
           {
             "name": "Immortal Primal Beast",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Primal-Beast.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/223/Immortal.Primal.Beast.zip",
@@ -15706,6 +16017,7 @@
           },
           {
             "name": "Snapfire Immortal",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-11-14-37-27.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Snapfire.Immortal.zip",
@@ -15763,6 +16075,7 @@
           },
           {
             "name": "Savage Mettle",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Savage-Mettle.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Spirit.Breaker.Savage.Mettle.zip",
@@ -15787,6 +16100,7 @@
         "tiny": [
           {
             "name": "Tiny Majesty of the Colossus",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tiny-Majesty-of-the-Colossus.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Tiny.Majesty.of.the.Colossus.zip",
@@ -15949,6 +16263,7 @@
           },
           {
             "name": "Golden Bracers of Forlorn Precipice",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Bracers-of-Forlorn-Precipice.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Dark.Seer.Forlorn.Precipice.Golden.zip",
@@ -15960,6 +16275,7 @@
           },
           {
             "name": "Bracers of Forlorn Precipice",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bracers-of-Forlorn-Precipice.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Dark.Seer.Forlorn.Precipice.zip",
@@ -16188,6 +16504,7 @@
         "void_spirit": [
           {
             "name": "Void Spirit Hidden Vector",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Void-Spirit-Hidden-Vector.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Void.Spirit.Hidden.Vector.zip",
@@ -16315,6 +16632,7 @@
           },
           {
             "name": "Wings Of Daybreak",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wings Of Daybreak.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Keeper.of.the.Light.Wings.of.Daybreak.zip",
@@ -16477,6 +16795,7 @@
           },
           {
             "name": "The Hallows Within",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/The-Hallows-Within.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Undying.Hallows.Within.zip",
@@ -16530,6 +16849,7 @@
         "shadow_shaman": [
           {
             "name": "Shadow Shaman Purple",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow-Shaman-Purple.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Shadow.Shaman.Purple.zip",
@@ -16552,6 +16872,7 @@
           },
           {
             "name": "Shadow Shaman Immortal Crimson",
+            "tags": ["Immortal"],
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow-Shaman-Immortal-Crimson.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/Shadow.Shaman.Immortal.Crimson.zip",
@@ -16602,6 +16923,7 @@
         "tusk": [
           {
             "name": "Tusk Distinguished Pirate",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-11-14-30-17.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Tusk.Set.1.zip",
@@ -23024,6 +23346,7 @@
       },
       {
         "name": "Thirst of Eztzhok Blade",
+        "tags": ["Immortal"],
         "author": "Tenkay",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Thirst of Eztzhok Blade.webp",
         "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Thirst.of.Eztzhok.Blade.zip",
@@ -23035,6 +23358,7 @@
       },
       {
         "name": "Thirst of Eztzhok Off Hand",
+        "tags": ["Immortal"],
         "author": "Tenkay",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Thirst of Eztzhok - Off-Hand.webp",
         "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Thirst.of.Eztzhok.Off-Hand.zip",
@@ -23068,6 +23392,7 @@
       },
       {
         "name": "Luna Moonfall",
+        "tags": ["Immortal"],
         "author": "Tenkay",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/luna moonfall .jpg",
         "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/luna.moonfall.zip",
@@ -23112,6 +23437,7 @@
       },
       {
         "name": "Orbuculum Equinox Dire Delight",
+        "tags": ["Immortal"],
         "author": "Tenkay",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Orbuculum Equinox Dire Delight.webp",
         "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/arc.warden.orbuculum.equinox.zip",
@@ -23145,6 +23471,7 @@
       },
       {
         "name": "Golden Basher of Mage Skulls",
+        "tags": ["Immortal"],
         "author": "Arthas",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Basher-of-Mage-Skulls.webp",
         "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/Golden.Basher.of.Mage.Skulls.zip",
@@ -23156,6 +23483,7 @@
       },
       {
         "name": "Golden Offhand Basher of Mage Skulls",
+        "tags": ["Immortal"],
         "author": "Arthas",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Offhand-Basher-of-Mage-Skulls.webp",
         "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/Golden.Offhand.Basher.of.Mage.Skulls.zip",
@@ -23189,6 +23517,7 @@
       },
       {
         "name": "Bloody Spectre",
+        "tags": ["Arcana"],
         "author": "Anonymous",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bloody-Spectre.webp",
         "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/Bloody.Spectre.zip",
@@ -23459,6 +23788,7 @@
       },
       {
         "name": "Ember Spirit set 1",
+        "tags": ["Immortal"],
         "author": "Dota2VPK",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ember Spirit set 1.jpg",
         "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/ember.spirit.set.1.zip",
@@ -25110,6 +25440,7 @@
           },
           {
             "name": "IO Madame Scrio",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/IO-Madame-Scrio.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/246/IO.Madame.Scrio.zip",
@@ -25121,6 +25452,7 @@
           },
           {
             "name": "Hunter's Hoard",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hunter-s-Hoard.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/46/Bounty.Hunter.Hunters.Hoard.zip",
@@ -25132,6 +25464,7 @@
           },
           {
             "name": "Tines of Tybara",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tines-of-Tybara.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/45/Bounty.Hunter.Tines.of.Tybara.zip",
@@ -25308,6 +25641,7 @@
           },
           {
             "name": "Stormborn",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Stormborn.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Stormborn.zip",
@@ -25319,6 +25653,7 @@
           },
           {
             "name": "Golden Mandate of the Stormborn",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden Mandate of the Stormborn.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Stormborn.Golden.zip",
@@ -25330,6 +25665,7 @@
           },
           {
             "name": "Lightning Orchid",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lightning Orchid.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Lightning.Orchid.zip",
@@ -25341,6 +25677,7 @@
           },
           {
             "name": "The Lightning Orchid of Eminent Revival",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/The-Lightning-Orchid-of-Eminent-Revival.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Lightning.Orchid.Retro.2.zip",
@@ -25473,6 +25810,7 @@
           },
           {
             "name": "Hell-Spar Anathema Crimson",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hell-Spar Anathema Crimson.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/108/Lion.Hell-Spar.Anathema.Crimson.zip",
@@ -25484,6 +25822,7 @@
           },
           {
             "name": "Mulctant Pall",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mulctant Pall.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/109/Lion.Mulctant.Pall.zip",
@@ -25495,6 +25834,7 @@
           },
           {
             "name": "Mulctant Pall Crimson",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mulctant Pall Crimson.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/110/Lion.Mulctant.Pall.Crimson.zip",
@@ -25506,6 +25846,7 @@
           },
           {
             "name": "Lion Fin Kings Charm",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lion Fin Kings Charm.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/107/Lion.Fin.Kings.Charm.zip",
@@ -25517,6 +25858,7 @@
           },
           {
             "name": "Fin King's Charm of Eminent Revival",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Fin-King-s-Charm-of-Eminent-Revival.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Fin.Kings.Charm.Retro.zip",
@@ -25528,6 +25870,7 @@
           },
           {
             "name": "Fin Kings Charm of Eminent Revival Exceptional",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Fin-Kings-Charm-of-Eminent-Revival-Exceptional.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Fin.Kings.Charm.Exceptional.zip",
@@ -25539,6 +25882,7 @@
           },
           {
             "name": "Hell-Spar Anathema",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hell-Spar-Anathema.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Hell-Spar.Anathema.zip",
@@ -25550,6 +25894,7 @@
           },
           {
             "name": "Hell-Spar Anathema Obsidian Blight",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hell-Spar-Anathema-Obsidian-Blight.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Hell-Spar.Anathema.Obsidian.zip",
@@ -25561,6 +25906,7 @@
           },
           {
             "name": "Tyrian Mulctant Pall",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tyrian-Mulctant-Pall.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Mulctant.Pall.Purple.zip",
@@ -25572,6 +25918,7 @@
           },
           {
             "name": "Gates of Nothl",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/The Gates of Nothl.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/56/Dazzle.Gates.of.Nothl.zip",
@@ -25583,6 +25930,7 @@
           },
           {
             "name": "Gates of Nothl Crimson",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crimson-Gates-of-Nothl.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/57/Dazzle.Gates.of.Nothl.Crimson.zip",
@@ -25649,6 +25997,7 @@
           },
           {
             "name": "Shock of the Anvil",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shock-of-the-Anvil.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Magnus.Shock.of.the.Anvil.zip",
@@ -25660,6 +26009,7 @@
           },
           {
             "name": "Eyes of Ardenok",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Eyes-of-Ardenok.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Magnus.Eyes.of.Ardenok.zip",
@@ -25671,6 +26021,7 @@
           },
           {
             "name": "Eyes of Ardenok Crimson",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Eyes-of-Ardenok-of-the-Crimson-Witness.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Magnus.Eyes.of.Ardenok.Crimson.zip",
@@ -25693,6 +26044,7 @@
           },
           {
             "name": "Beastmaster Primal Peacemaker",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Primal-Peacemaker.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/33/Beastmaster.Primal.Peacemaker.zip",
@@ -25704,6 +26056,7 @@
           },
           {
             "name": "Beastmaster Primal Peacemaker Crimson",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Primal-Peacemaker-of-the-Crimson-Witness.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/34/Beastmaster.Primal.Peacemaker.Crimson.zip",
@@ -25715,6 +26068,7 @@
           },
           {
             "name": "Beastmaster Primal Paean",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Primal-Paean.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/35/Beastmaster.Primal.Paean.zip",
@@ -25737,6 +26091,7 @@
           },
           {
             "name": "Twilight Schism",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Twilight-Schism.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/58/Luna.Twilight.Schism.zip",
@@ -25748,6 +26103,7 @@
           },
           {
             "name": "Golden Twilight Schism",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Twilight-Schism.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/59/Luna.Twilight.Schism.Golden.zip",
@@ -25759,6 +26115,7 @@
           },
           {
             "name": "Twilight Schism of the Crimson Witness",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Twilight-Schism-of-the-Crimson-Witness.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/60/Luna.Twilight.Schism.Crimson.zip",
@@ -25770,6 +26127,7 @@
           },
           {
             "name": "Moonfall",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Moonfall.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/61/Luna.Moonfall.zip",
@@ -25781,6 +26139,7 @@
           },
           {
             "name": "Golden Moonfall",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Moonfall.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/62/Luna.Moonfall.Golden.zip",
@@ -25814,6 +26173,7 @@
           },
           {
             "name": "Codicil of the Veiled Ones",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Codicil-of-the-Veiled-Ones.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Phantom.Assassin.Codicil.zip",
@@ -25825,6 +26185,7 @@
           },
           {
             "name": "Avowance of the Veiled Ones",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Avowance-of-the-Veiled-Ones.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Phantom.Assassin.Avowance.zip",
@@ -25836,6 +26197,7 @@
           },
           {
             "name": "Avowance of the Crimson Witness",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Avowance-of-the-Crimson-Witness.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Phantom.Assassin.Avowance.Crimson.zip",
@@ -25891,6 +26253,7 @@
           },
           {
             "name": "Cosmic Earthshaker",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cosmic-Earthshaker.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Cosmic.Earthshaker.zip",
@@ -25924,6 +26287,7 @@
           },
           {
             "name": "Progenitor's Bane",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Progenitor-s-Bane.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Mars.Progenitors.Bane.zip",
@@ -25935,6 +26299,7 @@
           },
           {
             "name": "Crimson Progenitor's Bane",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crimson-Progenitor-s-Bane.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Mars.Progenitors.Bane.Crimson.zip",
@@ -25957,6 +26322,7 @@
           },
           {
             "name": "Tinker Interstellar Astrarium",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker-Interstellar-Astrarium.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/221/Cosmic.Tinker.zip",
@@ -26056,6 +26422,7 @@
           },
           {
             "name": "Infernal Menace",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Menace.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Centaur.Infernal.Menace.zip",
@@ -26067,6 +26434,7 @@
           },
           {
             "name": "Infernal Chieftain",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Chieftain.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Centaur.Infernal.Chieftain.zip",
@@ -26078,6 +26446,7 @@
           },
           {
             "name": "Infernal Chieftain of the Crimson Witness",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Chieftain-of-the-Crimson-Witness.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/232/Centaur.Infernal.Chieftain.Crimson.zip",
@@ -26089,6 +26458,7 @@
           },
           {
             "name": "Golden Infernal Chieftain",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Infernal-Chieftain.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/232/Centaur.Infernal.Chieftain.Golden.zip",
@@ -26100,6 +26470,7 @@
           },
           {
             "name": "Infernal Cavalcade",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Cavalcade.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/232/Centaur.Infernal.Cavalcade.zip",
@@ -26111,6 +26482,7 @@
           },
           {
             "name": "Infernal Cavalcade of the Crimson Witness",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Cavalcade-of-the-Crimson-Witness.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/232/Centaur.Infernal.Cavalcade.Crimson.zip",
@@ -26133,6 +26505,7 @@
           },
           {
             "name": "Monkey King Arcana",
+            "tags": ["Arcana"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey-King-Arcana.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/Monkey.King.Arcana.zip",
@@ -26144,6 +26517,7 @@
           },
           {
             "name": "Monkey King Arcana Water",
+            "tags": ["Arcana"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey-King-Arcana-Water.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/Monkey.King.Arcana.Water.zip",
@@ -26155,6 +26529,7 @@
           },
           {
             "name": "Monkey King Arcana Death",
+            "tags": ["Arcana"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey-King-Arcana-Death.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/Monkey.King.Arcana.Death.zip",
@@ -26166,6 +26541,7 @@
           },
           {
             "name": "Monkey King Arcana Fire",
+            "tags": ["Arcana"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey-King-Arcana-Fire.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/Monkey.King.Arcana.Fire.zip",
@@ -26177,6 +26553,7 @@
           },
           {
             "name": "Staff of Gun-Yu",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Staff-of-Gun-Yu.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Monkey.King.Staff.of.Gun-Yu.zip",
@@ -26188,6 +26565,7 @@
           },
           {
             "name": "Golden Staff of Gun-Yu",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Staff-of-Gun-Yu.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Staff.of.Gun-Yu.Golden.zip",
@@ -26199,6 +26577,7 @@
           },
           {
             "name": "10th Anniversary Staff of Gun-Yu",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/10th-Anniversary-Staff-of-Gun-Yu.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Staff.of.Gun-Yu.Anniversary.zip",
@@ -26210,6 +26589,7 @@
           },
           {
             "name": "Staff of Gun-Yu of the Crimson Witness",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Staff-of-Gun-Yu-of-the-Crimson-Witness.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Staff.of.Gun-Yu.Crimson.zip",
@@ -26276,6 +26656,7 @@
           },
           {
             "name": "Ice Blossom",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ice-Blossom.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Crystal.Maiden.Ice.Blossom.zip",
@@ -26287,6 +26668,7 @@
           },
           {
             "name": "Golden Ice Blossom",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Ice-Blossom.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Crystal.Maiden.Ice.Blossom.Golden.zip",
@@ -26298,6 +26680,7 @@
           },
           {
             "name": "Yulsaria's Glacier",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Yulsaria-s-Glacier.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Crystal.Maiden.Yulsarias.Glacier.zip",
@@ -26309,6 +26692,7 @@
           },
           {
             "name": "Yulsaria's Mantle",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Yulsaria-s-Mantle.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Crystal.Maiden.Yulsarias.Mantle.zip",
@@ -26331,6 +26715,7 @@
           },
           {
             "name": "Swift Claw",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Swift-Claw.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Ursa.Swift.Claw.zip",
@@ -26364,6 +26749,7 @@
           },
           {
             "name": "Immortal Hoodwink",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Hoodwink.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Hoodwink.zip",
@@ -26419,6 +26805,7 @@
           },
           {
             "name": "Sand King Black Sands",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sand-King-Black-Sands.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Sand.King.Black.Sands.zip",
@@ -26441,6 +26828,7 @@
           },
           {
             "name": "Slark Shadow in the Deep",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Slark-Shadow-in-the-Deep.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Slark.Shadow.in.the.Deep.zip",
@@ -26452,6 +26840,7 @@
           },
           {
             "name": "Sniper Ardalan Interdictor",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sniper-Ardalan-Interdictor.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Sniper.Ardalan.Interdictor.zip",
@@ -26474,6 +26863,7 @@
           },
           {
             "name": "Oracle Immortal Silence",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Oracle-Immortal-Silence.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Oracle.Immortal.Silence.zip",
@@ -26485,6 +26875,7 @@
           },
           {
             "name": "Immortal Slardar",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Slardar.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Immortal.Slardar.zip",
@@ -26628,6 +27019,7 @@
           },
           {
             "name": "Immortal Primal Beast",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Primal-Beast.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/223/Immortal.Primal.Beast.zip",
@@ -26683,6 +27075,7 @@
           },
           {
             "name": "Savage Mettle",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Savage-Mettle.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Spirit.Breaker.Savage.Mettle.zip",
@@ -26848,6 +27241,7 @@
           },
           {
             "name": "Shadow Shaman Purple",
+            "tags": ["Immortal"],
             "author": "dota2pornfx",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow-Shaman-Purple.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Shadow.Shaman.Purple.zip",
@@ -30309,6 +30703,7 @@
           },
           {
             "name": "Huskar The Burning Sentinel, Flashpoint Proselyte",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-11-14-39-39.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/The.Burning.Sentinel.Flashpoint.Proselyte.zip",
@@ -30320,6 +30715,7 @@
           },
           {
             "name": "Terrorblade Immortal Arcana",
+            "tags": ["Arcana"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade-Immortal-Arcana.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/93/Terrorblade.Immortal.Arcana.zip",
@@ -30331,6 +30727,7 @@
           },
           {
             "name": "Terrorblade Black Arcana",
+            "tags": ["Arcana"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade-black-arckana.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/235/pak24_dir.vpk",
@@ -30342,6 +30739,7 @@
           },
           {
             "name": "Ember Spirit set 1",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ember Spirit set 1.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/ember.spirit.set.1.zip",
@@ -30364,6 +30762,7 @@
           },
           {
             "name": "Immortal Beastmaster",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Beastmaster.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/215/Immortal.Beastmaster.zip",
@@ -30386,6 +30785,7 @@
           },
           {
             "name": "Concord Dominion of the Crimson Witness",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Concord-Dominion-of-the-Crimson-Witness.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Concord.Dominion.of.the.Crimson.Witness.zip",
@@ -30397,6 +30797,7 @@
           },
           {
             "name": "Immortal Phantom Lancer v2",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Phantom-Lancer.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Phantom.Lancer.zip",
@@ -30441,6 +30842,7 @@
           },
           {
             "name": "Concord Reversion",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Concord-Reversion.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Concord.Reversion.zip",
@@ -30452,6 +30854,7 @@
           },
           {
             "name": "Tyrian Phantom Concord",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tyrian-Phantom-Concord.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Tyrian.Phantom.Concord.zip",
@@ -30551,6 +30954,7 @@
           },
           {
             "name": "Cosmic Immortal Tinker",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cosmic-Immortal-Tinker.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/112/Cosmic.Immortal.Tinker.zip",
@@ -30573,6 +30977,7 @@
           },
           {
             "name": "Rollermawster",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rollermawster.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Rollermawster.zip",
@@ -30595,6 +31000,7 @@
           },
           {
             "name": "Ursa Immortal Hallowed Hunt",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ursa-Immortal-Hallowed-Hunt.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Ursa.Immortal.Hallowed.Hunt.zip",
@@ -30606,6 +31012,7 @@
           },
           {
             "name": "Immortal Medusa",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Medusa.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Medusa.zip",
@@ -30617,6 +31024,7 @@
           },
           {
             "name": "Immortal Necrophos",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Necrophos.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Necrophos.zip",
@@ -30628,6 +31036,7 @@
           },
           {
             "name": "Immortal Templar Assassin",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Templar-Assassin.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Immortal.Templar.Assassin.zip",
@@ -30639,6 +31048,7 @@
           },
           {
             "name": "Juggernaut Ancient Exile",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Juggernaut-Ancient-Exile.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Juggernaut.Ancient.Exile.zip",
@@ -30661,6 +31071,7 @@
           },
           {
             "name": "Snapfire Immortal",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-11-14-37-27.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Snapfire.Immortal.zip",
@@ -30705,6 +31116,7 @@
           },
           {
             "name": "Tusk Distinguished Pirate",
+            "tags": ["Immortal"],
             "author": "Dota2VPK",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-11-14-30-17.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Tusk.Set.1.zip",
@@ -30848,6 +31260,7 @@
           },
           {
             "name": "Dark Artistry Bracers",
+            "tags": ["Immortal"],
             "author": "Papapodzaborniy",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Artistry-Bracers.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/74/pak79_dir.vpk",
@@ -30881,6 +31294,7 @@
           },
           {
             "name": "Dark Artistry Pauldrons",
+            "tags": ["Immortal"],
             "author": "Papapodzaborniy",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Artistry-Pauldrons.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/pak26_dir.vpk",
@@ -30914,6 +31328,7 @@
           },
           {
             "name": "Dark Artistry Belt",
+            "tags": ["Immortal"],
             "author": "Papapodzaborniy",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Artistry-Belt.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/220/pak91_dir.vpk",
@@ -30958,6 +31373,7 @@
           },
           {
             "name": "Invoker Dark Artistry",
+            "tags": ["Immortal"],
             "author": "Papapodzaborniy",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Dark Artistry.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/pak79_dir.vpk",
@@ -31123,6 +31539,7 @@
           },
           {
             "name": "Serrakura",
+            "tags": ["Immortal"],
             "author": "Papapodzaborniy",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Serrakura-Prem.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Serrakura.zip",
@@ -31174,6 +31591,7 @@
           },
           {
             "name": "Queen Of Pain Immortal",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Queen Of Pain Immortal.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/Queen.Of.Pain.Immortal.zip",
@@ -31185,6 +31603,7 @@
           },
           {
             "name": "Terrorblade Fractal Horns of Inner red",
+            "tags": ["Arcana"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Fractal Horns of Inner red.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/97/Terrorblade.Fractal.Horns.of.Inner.red.zip",
@@ -31196,6 +31615,7 @@
           },
           {
             "name": "Terrorblade Fractal Horns of Inner WHITE",
+            "tags": ["Arcana"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Fractal Horns of Inner WHITE.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Fractal.Horns.of.Inner.WHITE.zip",
@@ -31251,6 +31671,7 @@
           },
           {
             "name": "Magus Accord",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Magus Accord.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/75/Magus.Accord.zip",
@@ -31262,6 +31683,7 @@
           },
           {
             "name": "Dark Artistry Cape",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Artistry-Cape.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/76/Dark.Artistry.Cape.zip",
@@ -31273,6 +31695,7 @@
           },
           {
             "name": "Invoker Inbossik",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Inbossik.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/63/invoker.divine_head.zip",
@@ -31284,6 +31707,7 @@
           },
           {
             "name": "Invoker Immortal",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Immortal.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/64/Invoker.Immortal.zip",
@@ -31295,6 +31719,7 @@
           },
           {
             "name": "Storm Spirit Gold",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Storm Spirit Gold.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/95/Storm.Spirit.Gold.zip",
@@ -31339,6 +31764,7 @@
           },
           {
             "name": "Arms of Desolation",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Arms-of-Desolation.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/92/Arms.of.Desolation.zip",
@@ -31361,6 +31787,7 @@
           },
           {
             "name": "Shadow Fiend Zxc Arcana",
+            "tags": ["Arcana"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow Fiend Arcana.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/87/Shadow.Fiend.Demon.Eater.zip",
@@ -31416,6 +31843,7 @@
           },
           {
             "name": "Anti Mage Immortal",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-04-01-26-46.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/am3/Antimage.Immortal.v2.zip",
@@ -31427,6 +31855,7 @@
           },
           {
             "name": "Golden Basher of Mage Skulls",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Basher-of-Mage-Skulls.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/Golden.Basher.of.Mage.Skulls.zip",
@@ -31438,6 +31867,7 @@
           },
           {
             "name": "Golden Offhand Basher of Mage Skulls",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Offhand-Basher-of-Mage-Skulls.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/Golden.Offhand.Basher.of.Mage.Skulls.zip",
@@ -31449,6 +31879,7 @@
           },
           {
             "name": "Concord Dominion",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Concord-Dominion.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/Phantom.Lancer.Concord.Dominion.zip",
@@ -31460,6 +31891,7 @@
           },
           {
             "name": "Phantom Lancer Immortal",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-04-06-24-17.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/131/Phantom.Lancer.Immortal.zip",
@@ -31471,6 +31903,7 @@
           },
           {
             "name": "Phantom Assassin Arcana gothic whisper",
+            "tags": ["Arcana"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-05-23-54-03.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Phantom.Assassin.Arcana.gothic.whisper.zip",
@@ -31482,6 +31915,7 @@
           },
           {
             "name": "Axe Immortal Set",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-07-21-18-31-06.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Axe.Immortal.Set.zip",
@@ -31493,6 +31927,7 @@
           },
           {
             "name": "Underlord Immortal Ravenous",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Underlord-Immortal-Ravenous.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/220/Underlord.Immortal.Ravenous.zip",
@@ -31515,6 +31950,7 @@
           },
           {
             "name": "Immortal Lina",
+            "tags": ["Immortal"],
             "author": "Arthas",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Lina.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Lina.zip",
@@ -31960,6 +32396,7 @@
           },
           {
             "name": "Anonymous Ember",
+            "tags": ["Immortal"],
             "author": "mopsyara",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Anonymous Ember.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/Anonymous.Ember.zip",
@@ -32015,6 +32452,7 @@
           },
           {
             "name": "Origins of Faith",
+            "tags": ["Immortal"],
             "author": "mopsyara",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Origins-of-Faith.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Anti.Mage.Origins.of.Faith.zip",
@@ -32037,6 +32475,7 @@
           },
           {
             "name": "Luna scord of the winged sentinel",
+            "tags": ["Immortal"],
             "author": "mopsyara",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-22-09-46-28.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/236/Luna.scord.of.the.winged.sentinel.zip",
@@ -32081,6 +32520,7 @@
           },
           {
             "name": "Soul Diffuser",
+            "tags": ["Immortal"],
             "author": "mopsyara",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Soul-Diffuser.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/spectre.diffusal.bladee.zip",
@@ -32322,6 +32762,7 @@
         "mods": [
           {
             "name": "Mace of Aeons",
+            "tags": ["Immortal"],
             "author": "Tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mace-of-Aeons.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Mace.of.Aeons.zip",
@@ -32333,6 +32774,7 @@
           },
           {
             "name": "Mace of Aeons Oathbreaker",
+            "tags": ["Immortal"],
             "author": "Tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mace-of-Aeons-Oathbreaker.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Mace.of.Aeons.Oathbreaker.zip",
@@ -32344,6 +32786,7 @@
           },
           {
             "name": "Mace of Aeons Usurper",
+            "tags": ["Immortal"],
             "author": "Tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mace-of-Aeons-Usurper.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Mace.of.Aeons.Usurper.zip",
@@ -32355,6 +32798,7 @@
           },
           {
             "name": "Luna Moonfall",
+            "tags": ["Immortal"],
             "author": "Tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/luna moonfall .jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/luna.moonfall.zip",
@@ -32377,6 +32821,7 @@
           },
           {
             "name": "Orbuculum Equinox Dire Delight",
+            "tags": ["Immortal"],
             "author": "Tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Orbuculum Equinox Dire Delight.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/arc.warden.orbuculum.equinox.zip",
@@ -32399,6 +32844,7 @@
           },
           {
             "name": "bloodseeker eztzhok",
+            "tags": ["Immortal"],
             "author": "tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-12-10-31-12.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/bloodseeker.eztzhok.V2.zip",
@@ -32410,6 +32856,7 @@
           },
           {
             "name": "Thirst of Eztzhok Blade",
+            "tags": ["Immortal"],
             "author": "Tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Thirst of Eztzhok Blade.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Thirst.of.Eztzhok.Blade.zip",
@@ -32421,6 +32868,7 @@
           },
           {
             "name": "Thirst of Eztzhok Off Hand",
+            "tags": ["Immortal"],
             "author": "Tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Thirst of Eztzhok - Off-Hand.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Thirst.of.Eztzhok.Off-Hand.zip",
@@ -32457,6 +32905,7 @@
           },
           {
             "name": "Templar Assassin ritual of the loyal fold",
+            "tags": ["Immortal"],
             "author": "Tenkay",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-16-09-09-16.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/lanaya.ritual.of.the.loyal.fold.zip",
@@ -32486,6 +32935,7 @@
         "mods": [
           {
             "name": "Invoker Revelations Hat",
+            "tags": ["Immortal"],
             "author": "SENOp",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Revelations Hat.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Invoker.Revelations.Hat.zip",
@@ -32612,6 +33062,7 @@
         "mods": [
           {
             "name": "Drow Ranger Arcana",
+            "tags": ["Arcana"],
             "author": "Fin",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Drow Ranger Arcana.png",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/47/Drow.ranger.arcana.zip",
