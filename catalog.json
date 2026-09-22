@@ -9071,6 +9071,16 @@
           "heroLabel": "Tinker",
           "slot": "set",
           "downloads": 13
+        },
+        {
+          "name": "Pudge Abberant Observer",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge Abberant Observer.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/298/Pudge.Abberant.Observer.zip",
+          "categoryId": "heroes",
+          "hero": "pudge",
+          "heroLabel": "Pudge",
+          "slot": "set"
         }
       ],
       "heroesByHero": {
@@ -16709,18 +16719,6 @@
       },
       "pedestal": [
         {
-          "name": "arcana vengeful spirit - pedestal",
-          "author": "XIIIpsiblade",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-07-21-18-29-45.jpg",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/arcana.vengeful.spirit.-.pedestal.zip",
-          "createdAt": "2026-07-21T00:00:00.000Z",
-          "categoryId": "pedestal",
-          "hero": "vengeful_spirit",
-          "heroLabel": "Vengeful Spirit",
-          "slot": "pedestal",
-          "downloads": 147
-        },
-        {
           "name": "Drow Ranger Pedestal",
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Drow-Ranger-Pedestal.webp",
@@ -17400,6 +17398,7 @@
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/pak75_dir.vpk",
           "createdAt": "2026-07-22T00:00:00.000Z",
           "categoryId": "ranks",
+          "rarity": null,
           "hero": null,
           "heroLabel": null,
           "slot": null,
@@ -31643,17 +31642,6 @@
             "slot": "belt"
           },
           {
-            "name": "arcana vengeful spirit - pedestal",
-            "author": "XIIIpsiblade",
-            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-07-21-18-29-45.jpg",
-            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/arcana.vengeful.spirit.-.pedestal.zip",
-            "createdAt": "2026-07-21T00:00:00.000Z",
-            "categoryId": "pedestal",
-            "hero": "vengeful_spirit",
-            "heroLabel": "Vengeful Spirit",
-            "slot": "pedestal"
-          },
-          {
             "name": "pedestal",
             "author": "XIIIpsiblade",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-07-25-20-35-48.jpg",
@@ -31792,6 +31780,7 @@
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/274/pak75_dir.vpk",
             "createdAt": "2026-07-22T00:00:00.000Z",
             "categoryId": "ranks",
+            "rarity": null,
             "hero": null,
             "heroLabel": null,
             "slot": null
