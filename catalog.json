@@ -16014,6 +16014,20 @@
             "hero": "razor",
             "heroLabel": "Razor",
             "slot": "set"
+          },
+          {
+            "name": "Razor Arcana",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Razor Voidstorm Asylum.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/298/Razor.Voidstorm.Asylum.zip",
+            "createdAt": "2026-09-22T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "razor",
+            "heroLabel": "Razor",
+            "slot": "set",
+            "tags": [
+              "arcana"
+            ]
           }
         ],
         "tidehunter": [
