@@ -3,6 +3,51 @@
     "modsData": {
       "heroes": [
         {
+          "name": "Vengeful Spirit Queen Imperia",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Vengeful Spirit Queen Imperia.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/300/Vengeful.Spirit.Queen.Imperia.zip",
+          "createdAt": "2026-09-24T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "vengeful_spirit",
+          "heroLabel": "Vengeful Spirit",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Windranger Compass Rising Gale",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Windranger Compass Rising Gale.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/300/Windranger.Compass.Rising.Gale.zip",
+          "createdAt": "2026-09-24T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "windranger",
+          "heroLabel": "Windranger",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Windranger Reflections Of Gale",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/Windranger Reflections Of Gale",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/300/Windranger.Reflections.Of.Gale.zip",
+          "createdAt": "2026-09-24T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "windranger",
+          "heroLabel": "Windranger",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
           "name": "Pudge Dendi Arcana",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge Dendi Arcana.webp",
@@ -14089,6 +14134,34 @@
         ],
         "windranger": [
           {
+            "name": "Windranger Compass Rising Gale",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Windranger Compass Rising Gale.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/300/Windranger.Compass.Rising.Gale.zip",
+            "createdAt": "2026-09-24T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "windranger",
+            "heroLabel": "Windranger",
+            "slot": "set",
+            "tags": [
+              "arcana"
+            ]
+          },
+          {
+            "name": "Windranger Reflections Of Gale",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/Windranger Reflections Of Gale",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/300/Windranger.Reflections.Of.Gale.zip",
+            "createdAt": "2026-09-24T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "windranger",
+            "heroLabel": "Windranger",
+            "slot": "set",
+            "tags": [
+              "arcana"
+            ]
+          },
+          {
             "name": "Windranger Autumn Arcana",
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Windranger-Autumn-Arcana.webp",
@@ -17833,6 +17906,20 @@
           }
         ],
         "vengeful_spirit": [
+          {
+            "name": "Vengeful Spirit Queen Imperia",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Vengeful Spirit Queen Imperia.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/300/Vengeful.Spirit.Queen.Imperia.zip",
+            "createdAt": "2026-09-24T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "vengeful_spirit",
+            "heroLabel": "Vengeful Spirit",
+            "slot": "set",
+            "tags": [
+              "arcana"
+            ]
+          },
           {
             "name": "Vengful Spirit Vision of the Seraph Scion",
             "author": "ceomods",
