@@ -1,0 +1,511 @@
+{
+  "id": "dota2vpk",
+  "nick": "Dota2VPK",
+  "displayName": "Dota2VPK",
+  "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/dota2vpk.jpg",
+  "bio": "",
+  "website": null,
+  "github": null,
+  "telegram": "https://t.me/dota2freevpk",
+  "discord": null,
+  "authorLink": "https://t.me/dota2freevpk",
+  "links": {
+    "telegram": "https://t.me/dota2freevpk"
+  },
+  "mods": [
+    {
+      "name": "Batrider Apex Explorer",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/2.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Batrider.Apex.Explorer.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "batrider",
+      "heroLabel": "Batrider",
+      "slot": "set"
+    },
+    {
+      "name": "Broodmother Golden Orbweaver",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Broodmother-Golden-Orbweaver.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Broodmother.Golden.Orbweaver.zip",
+      "createdAt": "2026-06-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "broodmother",
+      "heroLabel": "Broodmother",
+      "slot": "set"
+    },
+    {
+      "name": "Broodmother Gofren Set",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-12-13-12-08.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/broodmother.gofren.set.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "broodmother",
+      "heroLabel": "Broodmother",
+      "slot": "set"
+    },
+    {
+      "name": "Huskar The Burning Sentinel, Flashpoint Proselyte",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-11-14-39-39.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/The.Burning.Sentinel.Flashpoint.Proselyte.zip",
+      "createdAt": "2026-06-11T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "huskar",
+      "heroLabel": "Huskar",
+      "slot": "set"
+    },
+    {
+      "name": "Terrorblade Immortal Arcana",
+      "tags": [
+        "Arcana"
+      ],
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade-Immortal-Arcana.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/93/Terrorblade.Immortal.Arcana.zip",
+      "createdAt": "2026-05-20T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "terrorblade",
+      "heroLabel": "Terrorblade",
+      "slot": "set"
+    },
+    {
+      "name": "Terrorblade Black Arcana",
+      "tags": [
+        "Arcana"
+      ],
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade-black-arckana.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/235/pak24_dir.vpk",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "terrorblade",
+      "heroLabel": "Terrorblade",
+      "slot": "set"
+    },
+    {
+      "name": "Ember Spirit set 1",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ember Spirit set 1.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/ember.spirit.set.1.zip",
+      "createdAt": "2026-07-25T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "ember_spirit",
+      "heroLabel": "Ember Spirit",
+      "slot": "set"
+    },
+    {
+      "name": "Naga Siren Set 1",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Naga Siren Set 1.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Naga.Siren.Set.1.zip",
+      "createdAt": "2026-06-11T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "naga_siren",
+      "heroLabel": "Naga Siren",
+      "slot": "set"
+    },
+    {
+      "name": "Immortal Beastmaster",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Beastmaster.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/215/Immortal.Beastmaster.zip",
+      "createdAt": "2026-06-05T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "beastmaster",
+      "heroLabel": "Beastmaster",
+      "slot": "set"
+    },
+    {
+      "name": "Dark Willow Saccharine Saboteur",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Willow-Saccharine-Saboteur.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Dark.Willow.Saccharine.Saboteur.zip",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "dark_willow",
+      "heroLabel": "Dark Willow",
+      "slot": "set"
+    },
+    {
+      "name": "Concord Dominion of the Crimson Witness",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Concord-Dominion-of-the-Crimson-Witness.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Concord.Dominion.of.the.Crimson.Witness.zip",
+      "createdAt": "2026-06-11T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "phantom_lancer",
+      "heroLabel": "Phantom Lancer",
+      "slot": "shoulders"
+    },
+    {
+      "name": "Immortal Phantom Lancer v2",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Phantom-Lancer.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Phantom.Lancer.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "phantom_lancer",
+      "heroLabel": "Phantom Lancer",
+      "slot": "set"
+    },
+    {
+      "name": "Phantom Lancer Humble Drifter",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Phantom-Lancer-Humble-Drifter.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/221/Phantom.Lancer.Humble.Drifter.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "phantom_lancer",
+      "heroLabel": "Phantom Lancer",
+      "slot": "set"
+    },
+    {
+      "name": "Phantom lancer Shadow Vanguard",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-30-21-16-45.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/Phantom.lancer.Shadow.Vanguard.zip",
+      "createdAt": "2026-06-30T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "phantom_lancer",
+      "heroLabel": "Phantom Lancer",
+      "slot": "set"
+    },
+    {
+      "name": "Phantom lancer rich",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-07-21-18-27-49.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Phantom.lancer.rich.zip",
+      "createdAt": "2026-07-21T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "phantom_lancer",
+      "heroLabel": "Phantom Lancer",
+      "slot": "set"
+    },
+    {
+      "name": "Concord Reversion",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Concord-Reversion.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Concord.Reversion.zip",
+      "createdAt": "2026-07-20T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "phantom_lancer",
+      "heroLabel": "Phantom Lancer",
+      "slot": "head"
+    },
+    {
+      "name": "Tyrian Phantom Concord",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tyrian-Phantom-Concord.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Tyrian.Phantom.Concord.zip",
+      "createdAt": "2026-07-20T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "phantom_lancer",
+      "heroLabel": "Phantom Lancer",
+      "slot": "weapon"
+    },
+    {
+      "name": "Arc Warden Ancient Gaoler",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Arc-Warden-Ancient-Gaoler.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/arc1/Arc.Warden.Ancient.Gaoler.zip",
+      "createdAt": "2026-05-21T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "arc_warden",
+      "heroLabel": "Arc Warden",
+      "slot": "set"
+    },
+    {
+      "name": "Alchemist Darkbrew Enforcer",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Alchemist-Darkbrew-Enforcer.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/215/Alchemist.Darkbrew.Enforcer.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "alchemist",
+      "heroLabel": "Alchemist",
+      "slot": "set"
+    },
+    {
+      "name": "Pangolier Pirate",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-17-00-06-39.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/pangolier.pirate.zip",
+      "createdAt": "2026-06-16T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "pangolier",
+      "heroLabel": "Pangolier",
+      "slot": "set"
+    },
+    {
+      "name": "Immortal Puck",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Puck.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/220/Immortal.Puck.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "puck",
+      "heroLabel": "Puck",
+      "slot": "set"
+    },
+    {
+      "name": "Marci Cosmic Cartographer",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cosmic-Cartographer.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/140/Cosmic.Cartographer.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "marci",
+      "heroLabel": "Marci",
+      "slot": "set"
+    },
+    {
+      "name": "Marci Bloomjewel Brawler",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Marci-Bloomjewel-Brawler.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/221/Marci.Bloomjewel.Brawler.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "marci",
+      "heroLabel": "Marci",
+      "slot": "set"
+    },
+    {
+      "name": "Marci Faithful Fortune",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Marci-Faithful-Fortune.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/221/Marci.Faithful.Fortune.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "marci",
+      "heroLabel": "Marci",
+      "slot": "set"
+    },
+    {
+      "name": "Marci School of the Solar Fang",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Marci-School-of-the-Solar-Fang.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/221/Marci.School.of.the.Solar.Fang.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "marci",
+      "heroLabel": "Marci",
+      "slot": "set"
+    },
+    {
+      "name": "Cosmic Immortal Tinker",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cosmic-Immortal-Tinker.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/112/Cosmic.Immortal.Tinker.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "tinker",
+      "heroLabel": "Tinker",
+      "slot": "set"
+    },
+    {
+      "name": "Tinker Fortified Fabricator",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker-Fortified-Fabricator.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Tinker.Fortified.Fabricator.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "tinker",
+      "heroLabel": "Tinker",
+      "slot": "set"
+    },
+    {
+      "name": "Rollermawster",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rollermawster.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Rollermawster.zip",
+      "createdAt": "2026-07-20T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "tinker",
+      "heroLabel": "Tinker",
+      "slot": "head"
+    },
+    {
+      "name": "Dawnbreaker Starlorn Adjudicator",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dawnbreaker-Starlorn-Adjudicator.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Dawnbreaker.Starlorn.Adjudicator.zip",
+      "createdAt": "2026-06-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "dawnbreaker",
+      "heroLabel": "Dawnbreaker",
+      "slot": "set"
+    },
+    {
+      "name": "Ursa Immortal Hallowed Hunt",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ursa-Immortal-Hallowed-Hunt.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Ursa.Immortal.Hallowed.Hunt.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "ursa",
+      "heroLabel": "Ursa",
+      "slot": "set"
+    },
+    {
+      "name": "Immortal Medusa",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Medusa.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Medusa.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "medusa",
+      "heroLabel": "Medusa",
+      "slot": "set"
+    },
+    {
+      "name": "Immortal Necrophos",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Necrophos.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Necrophos.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "necrophos",
+      "heroLabel": "Necrophos",
+      "slot": "set"
+    },
+    {
+      "name": "Immortal Templar Assassin",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Templar-Assassin.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Immortal.Templar.Assassin.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "templar_assassin",
+      "heroLabel": "Templar Assassin",
+      "slot": "set"
+    },
+    {
+      "name": "Juggernaut Ancient Exile",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Juggernaut-Ancient-Exile.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Juggernaut.Ancient.Exile.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "juggernaut",
+      "heroLabel": "Juggernaut",
+      "slot": "set"
+    },
+    {
+      "name": "Lycan Blood Moon",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-22-09-07-35.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/236/Lycan.Blood.Moon.zip",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "lycan",
+      "heroLabel": "Lycan",
+      "slot": "set"
+    },
+    {
+      "name": "Snapfire Immortal",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-11-14-37-27.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Snapfire.Immortal.zip",
+      "createdAt": "2026-06-11T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "snapfire",
+      "heroLabel": "Snapfire",
+      "slot": "set"
+    },
+    {
+      "name": "Halloween Treant Protector",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Halloween-Treant-Protector.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/263/Halloween.Treant.Protector.zip",
+      "createdAt": "2026-07-15T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "treant_protector",
+      "heroLabel": "Treant Protector",
+      "slot": "set"
+    },
+    {
+      "name": "Muerta Blackwing Bandolera",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Muerta-Blackwing-Bandolera.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Muerta.Blackwing.Bandolera.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "muerta",
+      "heroLabel": "Muerta",
+      "slot": "set"
+    },
+    {
+      "name": "Muerta Soul Warden",
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Muerta-Soul-Warden.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Muerta.Soul.Warden.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "muerta",
+      "heroLabel": "Muerta",
+      "slot": "set"
+    },
+    {
+      "name": "Tusk Distinguished Pirate",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Dota2VPK",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-11-14-30-17.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Tusk.Set.1.zip",
+      "createdAt": "2026-06-11T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "tusk",
+      "heroLabel": "Tusk",
+      "slot": "set"
+    }
+  ]
+}

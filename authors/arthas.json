@@ -1,0 +1,448 @@
+{
+  "id": "arthas",
+  "nick": "Arthas",
+  "displayName": "Arthas",
+  "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/arthas.jpg",
+  "bio": "",
+  "website": null,
+  "github": null,
+  "telegram": "https://t.me/ArthasModMaker",
+  "discord": null,
+  "authorLink": "https://t.me/ArthasModMaker",
+  "links": {
+    "telegram": "https://t.me/ArthasModMaker"
+  },
+  "mods": [
+    {
+      "name": "Broodmother Black Widow",
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-04-22-04-49.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/215/default.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "broodmother",
+      "heroLabel": "Broodmother",
+      "slot": "set"
+    },
+    {
+      "name": "Queen Of Pain Immortal",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Queen Of Pain Immortal.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/Queen.Of.Pain.Immortal.zip",
+      "createdAt": "2026-07-20T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "queen_of_pain",
+      "heroLabel": "Queen Of Pain",
+      "slot": "set"
+    },
+    {
+      "name": "Terrorblade Fractal Horns of Inner red",
+      "tags": [
+        "Arcana"
+      ],
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Fractal Horns of Inner red.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/97/Terrorblade.Fractal.Horns.of.Inner.red.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "terrorblade",
+      "heroLabel": "Terrorblade",
+      "slot": "set"
+    },
+    {
+      "name": "Terrorblade Fractal Horns of Inner WHITE",
+      "tags": [
+        "Arcana"
+      ],
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Fractal Horns of Inner WHITE.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Fractal.Horns.of.Inner.WHITE.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "terrorblade",
+      "heroLabel": "Terrorblade",
+      "slot": "set"
+    },
+    {
+      "name": "Ember Spirit Cinder Sensei",
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ember Spirit Cinder Sensei.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/142/Cinder.Sensei.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "ember_spirit",
+      "heroLabel": "Ember Spirit",
+      "slot": "set"
+    },
+    {
+      "name": "Meepo Diretide",
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Meepo Diretide.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/143/Meepo.Diretide.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "meepo",
+      "heroLabel": "Meepo",
+      "slot": "set"
+    },
+    {
+      "name": "Meepo Spolis of the Bone Ruins",
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Meepo Spolis of the Bone Ruins.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/144/Meepo.Spolis.of.the.Bone.Ruins.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "meepo",
+      "heroLabel": "Meepo",
+      "slot": "set"
+    },
+    {
+      "name": "Morphling Darktrench Stalker",
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling Darktrench Stalker.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Morphling.Darktrench.Stalker.zip",
+      "createdAt": "2026-07-21T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "morphling",
+      "heroLabel": "Morphling",
+      "slot": "set"
+    },
+    {
+      "name": "Magus Accord",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Magus Accord.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/75/Magus.Accord.zip",
+      "createdAt": "2026-05-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "hands"
+    },
+    {
+      "name": "Dark Artistry Cape",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Artistry-Cape.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/76/Dark.Artistry.Cape.zip",
+      "createdAt": "2026-05-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "back"
+    },
+    {
+      "name": "Invoker Inbossik",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Inbossik.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/63/invoker.divine_head.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "set"
+    },
+    {
+      "name": "Invoker Immortal",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Immortal.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/64/Invoker.Immortal.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "set"
+    },
+    {
+      "name": "Storm Spirit Gold",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Storm Spirit Gold.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/95/Storm.Spirit.Gold.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "storm_spirit",
+      "heroLabel": "Storm Spirit",
+      "slot": "set"
+    },
+    {
+      "name": "Naga Siren Call of the Coral Cultist",
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Naga Siren Call of the Coral Cultist.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/96/Call.of.the.Coral.Cultist.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "naga_siren",
+      "heroLabel": "Naga Siren",
+      "slot": "set"
+    },
+    {
+      "name": "Naga Siren Allure Of The Deep",
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Naga Siren Allure Of The Deep.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/98/Naga.Siren.Allure.Of.The.Deep.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "naga_siren",
+      "heroLabel": "Naga Siren",
+      "slot": "set"
+    },
+    {
+      "name": "Naga Siren Snickers",
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Naga Siren Snickers.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/Naga.Siren.Snickers.zip",
+      "createdAt": "2026-07-30T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "naga_siren",
+      "heroLabel": "Naga Siren",
+      "slot": "weapon"
+    },
+    {
+      "name": "Arms of Desolation",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Arms-of-Desolation.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/92/Arms.of.Desolation.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "shadow_fiend",
+      "heroLabel": "Shadow Fiend",
+      "slot": "hands"
+    },
+    {
+      "name": "Shadow Fiend Immortal",
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow Fiend Immortal.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/86/shadow_fiend.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "shadow_fiend",
+      "heroLabel": "Shadow Fiend",
+      "slot": "set"
+    },
+    {
+      "name": "Shadow Fiend Zxc Arcana",
+      "tags": [
+        "Arcana"
+      ],
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow Fiend Arcana.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/87/Shadow.Fiend.Demon.Eater.zip",
+      "createdAt": "2026-05-20T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "shadow_fiend",
+      "heroLabel": "Shadow Fiend",
+      "slot": "set"
+    },
+    {
+      "name": "Dazzle Darkclaw",
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-05-15-11-17-17.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/54/dazzle.darkclaw.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "dazzle",
+      "heroLabel": "Dazzle",
+      "slot": "set"
+    },
+    {
+      "name": "Dazzle Darkclaw Crimson",
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-05-15-11-20-40.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/55/dazzle.darkclaw.crimson.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "dazzle",
+      "heroLabel": "Dazzle",
+      "slot": "set"
+    },
+    {
+      "name": "Earth Spirit Slithering Stone",
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-06-02-28-28.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Earth.Spirit.Slithering.Stone.zip",
+      "createdAt": "2026-06-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "earth_spirit",
+      "heroLabel": "Earth Spirit",
+      "slot": "set"
+    },
+    {
+      "name": "Kunkka The Divine Anchor",
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-07-28-09-30-43.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/Kunkka.The.Divine.Anchor.zip",
+      "createdAt": "2026-07-28T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "kunkka",
+      "heroLabel": "Kunkka",
+      "slot": "set"
+    },
+    {
+      "name": "Anti Mage Immortal",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-04-01-26-46.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/am3/Antimage.Immortal.v2.zip",
+      "createdAt": "2026-06-04T01:26:46.000Z",
+      "categoryId": "heroes",
+      "hero": "anti_mage",
+      "heroLabel": "Anti Mage",
+      "slot": "set"
+    },
+    {
+      "name": "Golden Basher of Mage Skulls",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Basher-of-Mage-Skulls.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/Golden.Basher.of.Mage.Skulls.zip",
+      "createdAt": "2026-07-29T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "anti_mage",
+      "heroLabel": "Anti Mage",
+      "slot": "weapon"
+    },
+    {
+      "name": "Golden Offhand Basher of Mage Skulls",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Offhand-Basher-of-Mage-Skulls.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/Golden.Offhand.Basher.of.Mage.Skulls.zip",
+      "createdAt": "2026-07-29T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "anti_mage",
+      "heroLabel": "Anti Mage",
+      "slot": "off_hand"
+    },
+    {
+      "name": "Concord Dominion",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Concord-Dominion.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/275/Phantom.Lancer.Concord.Dominion.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "phantom_lancer",
+      "heroLabel": "Phantom Lancer",
+      "slot": "shoulders"
+    },
+    {
+      "name": "Phantom Lancer Immortal",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-04-06-24-17.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/131/Phantom.Lancer.Immortal.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "phantom_lancer",
+      "heroLabel": "Phantom Lancer",
+      "slot": "set"
+    },
+    {
+      "name": "Phantom Assassin Arcana gothic whisper",
+      "tags": [
+        "Arcana"
+      ],
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-05-23-54-03.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Phantom.Assassin.Arcana.gothic.whisper.zip",
+      "createdAt": "2026-06-05T23:54:03.000Z",
+      "categoryId": "heroes",
+      "hero": "phantom_assassin",
+      "heroLabel": "Phantom Assassin",
+      "slot": "set"
+    },
+    {
+      "name": "Axe Immortal Set",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-07-21-18-31-06.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Axe.Immortal.Set.zip",
+      "createdAt": "2026-07-21T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "axe",
+      "heroLabel": "Axe",
+      "slot": "set"
+    },
+    {
+      "name": "Underlord Immortal Ravenous",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Underlord-Immortal-Ravenous.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/220/Underlord.Immortal.Ravenous.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "underlord",
+      "heroLabel": "Underlord",
+      "slot": "set"
+    },
+    {
+      "name": "Tinker Immortal Vodolaz",
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-07-21-02-20-23.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Tinker.Immortal.Vodolaz.zip",
+      "createdAt": "2026-07-21T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "tinker",
+      "heroLabel": "Tinker",
+      "slot": "set"
+    },
+    {
+      "name": "Immortal Lina",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Lina.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Lina.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "lina",
+      "heroLabel": "Lina",
+      "slot": "set"
+    },
+    {
+      "name": "Timbersaw Clearcut Cavalier",
+      "author": "Arthas",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Timbersaw-Clearcut-Cavalier.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Timbersaw.Clearcut.Cavalier.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "timbersaw",
+      "heroLabel": "Timbersaw",
+      "slot": "set"
+    }
+  ]
+}

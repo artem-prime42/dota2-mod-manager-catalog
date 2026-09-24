@@ -1,0 +1,32 @@
+{
+  "id": "fin",
+  "nick": "Fin",
+  "displayName": "Fin",
+  "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/fin.jpg",
+  "bio": "",
+  "website": null,
+  "github": null,
+  "telegram": null,
+  "discord": null,
+  "authorLink": "https://steamcommunity.com/profiles/76561199801386568/",
+  "links": {
+    "steam": "https://steamcommunity.com/profiles/76561199801386568/"
+  },
+  "mods": [
+    {
+      "name": "Drow Ranger Arcana",
+      "tags": [
+        "Arcana"
+      ],
+      "author": "Fin",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Drow Ranger Arcana.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/47/Drow.ranger.arcana.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "drow_ranger",
+      "heroLabel": "Drow Ranger",
+      "slot": "set"
+    }
+  ],
+  "steam": "https://steamcommunity.com/profiles/76561199801386568/"
+}

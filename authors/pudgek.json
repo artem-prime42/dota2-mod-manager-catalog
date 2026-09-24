@@ -1,8 +1,11 @@
 {
+  "id": "pudgek",
   "nick": "pudgek",
   "displayName": "pudgek",
   "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/ds-el_pudgek.jpg",
   "bio": "",
+  "authorLink": null,
+  "links": {},
   "mods": [
     "Pudge Toy Butcher Black"
   ]

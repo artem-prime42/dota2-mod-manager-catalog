@@ -1,0 +1,194 @@
+{
+  "id": "mopsyara",
+  "nick": "mopsyara",
+  "displayName": "mopsyara",
+  "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/mopsyara.jpg",
+  "bio": "",
+  "website": null,
+  "github": null,
+  "telegram": "https://t.me/+AM_aLD0x2TcwY2My",
+  "discord": null,
+  "authorLink": "https://t.me/+AM_aLD0x2TcwY2My",
+  "links": {
+    "telegram": "https://t.me/+AM_aLD0x2TcwY2My"
+  },
+  "mods": [
+    {
+      "name": "Broodmother poco x3 brood",
+      "author": "mopsyara",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-17-00-00-17.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/broodmother.poco.x3.brood.zip",
+      "createdAt": "2026-06-16T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "broodmother",
+      "heroLabel": "Broodmother",
+      "slot": "set"
+    },
+    {
+      "name": "Wraith King as Papich",
+      "author": "mopsyara",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-07-15-22-25-33.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/262/Wraith.King.po.papichu.zip",
+      "createdAt": "2026-07-15T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "wraith_king",
+      "heroLabel": "Wraith King",
+      "slot": "set"
+    },
+    {
+      "name": "Anonymous Ember",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "mopsyara",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Anonymous Ember.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/Anonymous.Ember.zip",
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "ember_spirit",
+      "heroLabel": "Ember Spirit",
+      "slot": "set"
+    },
+    {
+      "name": "Meepo thief",
+      "author": "mopsyara",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Meepo thief.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/Meepo.thief.zip",
+      "createdAt": "2026-07-29T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "meepo",
+      "heroLabel": "Meepo",
+      "slot": "set"
+    },
+    {
+      "name": "Meepo lotus bird",
+      "author": "mopsyara",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Meepo lotus bird.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/Meepo.lotus.bird.zip",
+      "createdAt": "2026-07-29T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "meepo",
+      "heroLabel": "Meepo",
+      "slot": "set"
+    },
+    {
+      "name": "Doom time to death",
+      "author": "mopsyara",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Doom time to death.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Doom.time.to.death.zip",
+      "createdAt": "2026-07-17T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "doom",
+      "heroLabel": "Doom",
+      "slot": "set"
+    },
+    {
+      "name": "Invoker Covenant of the Depths",
+      "author": "mopsyara",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Covenant of the Depths.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/Invoker.Covenant.Of.The.Depths.zip",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "set"
+    },
+    {
+      "name": "Origins of Faith",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "mopsyara",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Origins-of-Faith.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Anti.Mage.Origins.of.Faith.zip",
+      "createdAt": "2026-07-11T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "anti_mage",
+      "heroLabel": "Anti Mage",
+      "slot": "armor"
+    },
+    {
+      "name": "Hair of the Survivor",
+      "author": "mopsyara",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hair-of-the-Survivor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Hair.of.the.Survivor.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "anti_mage",
+      "heroLabel": "Anti Mage",
+      "slot": "head"
+    },
+    {
+      "name": "Luna scord of the winged sentinel",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "mopsyara",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-22-09-46-28.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/236/Luna.scord.of.the.winged.sentinel.zip",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "luna",
+      "heroLabel": "Luna",
+      "slot": "set"
+    },
+    {
+      "name": "Wrath of the Celestial Sentinel",
+      "author": "mopsyara",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/izobrazenie.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/Wrath.of.the.Celestial.Sentinel.zip",
+      "createdAt": "2026-07-29T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "chaos_knight",
+      "heroLabel": "Chaos Knight",
+      "slot": "set"
+    },
+    {
+      "name": "Dragon knight set buyaica",
+      "author": "mopsyara",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-14-20-55-58.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/Dragon.Knight.set.buyaica.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "dragon_knight",
+      "heroLabel": "Dragon Knight",
+      "slot": "set"
+    },
+    {
+      "name": "Spectre always here",
+      "author": "mopsyara",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spectre always here.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Spectre.always.here.zip",
+      "createdAt": "2026-07-17T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "spectre",
+      "heroLabel": "Spectre",
+      "slot": "set"
+    },
+    {
+      "name": "Soul Diffuser",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "mopsyara",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Soul-Diffuser.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/spectre.diffusal.bladee.zip",
+      "createdAt": "2026-07-20T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "spectre",
+      "heroLabel": "Spectre",
+      "slot": "weapon"
+    },
+    {
+      "name": "Snapfire Snail",
+      "author": "mopsyara",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-14-20-57-41.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/Snapfire.Snail.zip",
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "snapfire",
+      "heroLabel": "Snapfire",
+      "slot": "set"
+    }
+  ]
+}

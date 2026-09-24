@@ -1,13 +1,84 @@
 {
   "authors": [
     {
+      "nick": "dota2pornfx",
+      "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/dota2pornfx.png",
+      "page": "authors/dota2pornfx.json"
+    },
+    {
+      "nick": "darkness",
+      "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/darkness.jpg",
+      "page": "authors/darkness.json"
+    },
+    {
+      "nick": "dota2vpk",
+      "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/dota2vpk.jpg",
+      "page": "authors/dota2vpk.json"
+    },
+    {
+      "nick": "papapodzaborniy",
+      "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/papapodzaborniy.jpg",
+      "page": "authors/papapodzaborniy.json"
+    },
+    {
+      "nick": "arthas",
+      "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/arthas.jpg",
+      "page": "authors/arthas.json"
+    },
+    {
+      "nick": "xiiipsiblade",
+      "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/XIIIpsiblade.jpg",
+      "page": "authors/xiiipsiblade.json"
+    },
+    {
+      "nick": "mopsyara",
+      "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/mopsyara.jpg",
+      "page": "authors/mopsyara.json"
+    },
+    {
+      "nick": "ceomods",
+      "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dikiychyvak.jpg",
+      "page": "authors/ceomods.json"
+    },
+    {
+      "nick": "tenkay",
+      "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/tenkay.jpg",
+      "page": "authors/tenkay.json"
+    },
+    {
+      "nick": "senop",
+      "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/senop.jpg",
+      "page": "authors/senop.json"
+    },
+    {
+      "nick": "dddddddddddddd",
+      "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/dddddddddddddd.jpg",
+      "page": "authors/dddddddddddddd.json"
+    },
+    {
+      "nick": "fin",
+      "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/fin.jpg",
+      "page": "authors/fin.json"
+    },
+    {
+      "nick": "nahuitosay",
+      "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/NahuiToSay.jpg",
+      "page": "authors/nahuitosay.json"
+    },
+    {
       "nick": "pudgek",
       "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/ds-el_pudgek.jpg",
       "page": "authors/pudgek.json"
     },
     {
+      "nick": "hi",
+      "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/hi.jpg",
+      "page": "authors/hi.json"
+    },
+    {
       "nick": "lansory",
-      "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/lansory.jpg"
+      "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/lansory.jpg",
+      "page": "authors/lansory.json"
     }
   ]
 }

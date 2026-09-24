@@ -1,0 +1,446 @@
+{
+  "id": "papapodzaborniy",
+  "nick": "Papapodzaborniy",
+  "displayName": "Papapodzaborniy",
+  "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/papapodzaborniy.jpg",
+  "bio": "",
+  "website": null,
+  "github": "https://github.com/artem-prime42",
+  "telegram": "https://t.me/papapodzaborniy2",
+  "discord": null,
+  "authorLink": "https://steamcommunity.com/id/papapodzaborniy",
+  "links": {
+    "steam": "https://steamcommunity.com/id/papapodzaborniy",
+    "telegram": "https://t.me/papapodzaborniy2",
+    "youtube": "https://www.youtube.com/@papapodzaborniy",
+    "twitch": "https://www.twitch.tv/papapodzaborniy",
+    "github": "https://github.com/artem-prime42"
+  },
+  "mods": [
+    {
+      "name": "Batrider Empiric Incendiary",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/image.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/248/Batrider.Empiric.Incendiary.zip",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "batrider",
+      "heroLabel": "Batrider",
+      "slot": "set"
+    },
+    {
+      "name": "Hat of the Jolly Reaver",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hat-of-the-Jolly-Reaver.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/263/Hat.of.the.Jolly.Reaver.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "pudge",
+      "heroLabel": "Pudge",
+      "slot": "head"
+    },
+    {
+      "name": "Direcourt Jester Cap",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Direcourt-Jester-Cap.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/259/Direcourt.Jester.Cap.zip",
+      "createdAt": "2026-07-13T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "pudge",
+      "heroLabel": "Pudge",
+      "slot": "head"
+    },
+    {
+      "name": "Large Tassels of the Black Death",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Large-Tassels-of-the-Black-Death.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Large.Tassels.of.the.Black.Death.zip",
+      "createdAt": "2026-07-17T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "pudge",
+      "heroLabel": "Pudge",
+      "slot": "head"
+    },
+    {
+      "name": "Huskar Pharaoh's Guard",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Huskar Pharaoh's Guard.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Huskar.Pharaoh.s.Guard.zip",
+      "createdAt": "2026-07-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "huskar",
+      "heroLabel": "Huskar",
+      "slot": "set"
+    },
+    {
+      "name": "Mask of the Divine Sorrow",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mask-of-the-Divine-Sorrow.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/81/pak28_dir.vpk",
+      "createdAt": "2026-05-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "head"
+    },
+    {
+      "name": "Covenant of the Depths Mask",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Covenant-of-the-Depths-Mask.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/82/pak24_dir.vpk",
+      "createdAt": "2026-05-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "head"
+    },
+    {
+      "name": "Dark Artistry Hair",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Artistry-Hair.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/83/pak52_dir.vpk",
+      "createdAt": "2026-05-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "head"
+    },
+    {
+      "name": "Sempiternal Revelations Hat",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sempiternal-Revelations-Hat.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/84/pak23_dir.vpk",
+      "createdAt": "2026-05-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "head"
+    },
+    {
+      "name": "Sempiternal Revelations Hat Alt",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sempiternal-Revelations-Hat-Alt.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/259/Sempiternal.Revelations.Hat.Alt.zip",
+      "createdAt": "2026-07-13T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "head"
+    },
+    {
+      "name": "Dark Artistry Bracers",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Artistry-Bracers.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/74/pak79_dir.vpk",
+      "createdAt": "2026-05-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "hands"
+    },
+    {
+      "name": "Infernus",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernus.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/79/pak49_dir.vpk",
+      "createdAt": "2026-05-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "summon"
+    },
+    {
+      "name": "Heaven Piercing Pauldrons",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Heaven-Piercing-Pauldrons.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/77/pak58_dir.vpk",
+      "createdAt": "2026-05-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "shoulders"
+    },
+    {
+      "name": "Dark Artistry Pauldrons",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Artistry-Pauldrons.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/pak26_dir.vpk",
+      "createdAt": "2026-05-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "shoulders"
+    },
+    {
+      "name": "Covenant of the Depths Robes",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Covenant-of-the-Depths-Robes.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/78/Covenant.of.the.Depths.Robes.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "shoulders"
+    },
+    {
+      "name": "Wyrdwing Exaltation",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wyrdwing-Exaltation-Shoulder.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/265/Wyrdwing.Exaltation.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "shoulders"
+    },
+    {
+      "name": "Dark Artistry Belt",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Artistry-Belt.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/220/pak91_dir.vpk",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "belt"
+    },
+    {
+      "name": "Covenant of the Depths Belt",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Covenant-of-the-Depths-Belt.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/220/pak43_dir.vpk",
+      "createdAt": "2026-05-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "belt"
+    },
+    {
+      "name": "Grievous Ingots",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Grievous-Ingots.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/80/pak36_dir.vpk",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "summon"
+    },
+    {
+      "name": "Mantle of the Blackguard Magus",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mantle-of-the-Blackguard-Magus.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/241/pak61_dir.vpk",
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "shoulders"
+    },
+    {
+      "name": "Invoker Dark Artistry",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Dark Artistry.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/pak79_dir.vpk",
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "set"
+    },
+    {
+      "name": "Lord of the Sundered Souls",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lord-of-the-Sundered-Souls-Shoulders.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/91/Lord.of.the.Sundered.Souls.-.Shoulders.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "shadow_fiend",
+      "heroLabel": "Shadow Fiend",
+      "slot": "shoulders"
+    },
+    {
+      "name": "Hat of the Witch Hunter Templar",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hat-of-the-Witch-Hunter-Templar.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/50/Hat.of.the.Witch.Hunter.Templar.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "kunkka",
+      "heroLabel": "Kunkka",
+      "slot": "head"
+    },
+    {
+      "name": "Belt of the Spectral Hunter",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Belt-of-the-Spectral-Hunter.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/pak49_dir.vpk",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "anti_mage",
+      "heroLabel": "Anti Mage",
+      "slot": "belt"
+    },
+    {
+      "name": "Belt of the Survivor",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Belt-of-the-Survivor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Belt.of.the.Survivor.zip",
+      "createdAt": "2026-07-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "anti_mage",
+      "heroLabel": "Anti Mage",
+      "slot": "belt"
+    },
+    {
+      "name": "Shoulders of the Spectral Hunter",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shoulders-of-the-Spectral-Hunter.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Shoulders.of.the.Spectral.Hunter.zip",
+      "createdAt": "2026-07-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "anti_mage",
+      "heroLabel": "Anti Mage",
+      "slot": "shoulders"
+    },
+    {
+      "name": "Brands of the Reaper",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Brands-of-the-Reaper-Armor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/pak20_dir.vpk",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "anti_mage",
+      "heroLabel": "Anti Mage",
+      "slot": "armor"
+    },
+    {
+      "name": "Arc of Manta",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Arc-of-Manta.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/220/pak62_dir.vpk",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "anti_mage",
+      "heroLabel": "Anti Mage",
+      "slot": "weapon"
+    },
+    {
+      "name": "Arc of Manta - Off-Hand",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Arc-of-Manta-Off-Hand.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/220/pak16_dir.vpk",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "anti_mage",
+      "heroLabel": "Anti Mage",
+      "slot": "off_hand"
+    },
+    {
+      "name": "Mohawk of the Spectral Hunter",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mohawk-of-the-Spectral-Hunter.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/220/pak99_dir.vpk",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "anti_mage",
+      "heroLabel": "Anti Mage",
+      "slot": "head"
+    },
+    {
+      "name": "Bracer of the Forgotten Plane",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bracer-of-the-Forgotten-Plane.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/220/pak45_dir.vpk",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "anti_mage",
+      "heroLabel": "Anti Mage",
+      "slot": "hands"
+    },
+    {
+      "name": "Axe Custom Unleashed",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-05-03-20-22-39.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/pak77_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "axe",
+      "heroLabel": "Axe",
+      "slot": "set"
+    },
+    {
+      "name": "Axe Days Of The Demon",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/zobrazenna.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/214/Days.Of.The.Demon.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "axe",
+      "heroLabel": "Axe",
+      "slot": "set"
+    },
+    {
+      "name": "Ursa Circus Second Style 1",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ursa Circus Second Style 1.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/241/Ursa.Circus.Second.Style.1.zip",
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "ursa",
+      "heroLabel": "Ursa",
+      "slot": "set"
+    },
+    {
+      "name": "Lone Druid Clan of the Arctic Owlbear",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lone Druid Clan of the Arctic Owlbear.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/pak09_dir.vpk",
+      "createdAt": "2026-06-13T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "lone_druid",
+      "heroLabel": "Lone Druid",
+      "slot": "set"
+    },
+    {
+      "name": "Serrakura",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Serrakura-Prem.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/269/Serrakura.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "juggernaut",
+      "heroLabel": "Juggernaut",
+      "slot": "weapon"
+    },
+    {
+      "name": "Dark Seer Keeper of Oloxicam's Glass",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark Seer Keeper of Oloxicam's Glass.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/248/Dark.Seer.Keeper.of.Oloxicam.s.Glass.zip",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "dark_seer",
+      "heroLabel": "Dark Seer",
+      "slot": "set"
+    }
+  ],
+  "steam": "https://steamcommunity.com/id/papapodzaborniy",
+  "youtube": "https://www.youtube.com/@papapodzaborniy",
+  "twitch": "https://www.twitch.tv/papapodzaborniy"
+}

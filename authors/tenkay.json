@@ -1,0 +1,190 @@
+{
+  "id": "tenkay",
+  "nick": "Tenkay",
+  "displayName": "Tenkay",
+  "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/tenkay.jpg",
+  "bio": "",
+  "website": null,
+  "github": null,
+  "telegram": "https://t.me/dota2Tenkay",
+  "discord": null,
+  "authorLink": "https://t.me/dota2Tenkay",
+  "links": {
+    "telegram": "https://t.me/dota2Tenkay"
+  },
+  "mods": [
+    {
+      "name": "Mace of Aeons",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Tenkay",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mace-of-Aeons.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Mace.of.Aeons.zip",
+      "createdAt": "2026-07-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "faceless_void",
+      "heroLabel": "Faceless Void",
+      "slot": "weapon"
+    },
+    {
+      "name": "Mace of Aeons Oathbreaker",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Tenkay",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mace-of-Aeons-Oathbreaker.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Mace.of.Aeons.Oathbreaker.zip",
+      "createdAt": "2026-07-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "faceless_void",
+      "heroLabel": "Faceless Void",
+      "slot": "weapon"
+    },
+    {
+      "name": "Mace of Aeons Usurper",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Tenkay",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mace-of-Aeons-Usurper.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Mace.of.Aeons.Usurper.zip",
+      "createdAt": "2026-07-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "faceless_void",
+      "heroLabel": "Faceless Void",
+      "slot": "weapon"
+    },
+    {
+      "name": "Luna Moonfall",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Tenkay",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/luna moonfall .jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/luna.moonfall.zip",
+      "createdAt": "2026-07-31T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "luna",
+      "heroLabel": "Luna",
+      "slot": "set"
+    },
+    {
+      "name": "Anubis Phantom Lancer",
+      "author": "Tenkay",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-17-00-05-36.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/phantom.lancer.anubis.zip",
+      "createdAt": "2026-06-16T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "phantom_lancer",
+      "heroLabel": "Phantom Lancer",
+      "slot": "set"
+    },
+    {
+      "name": "Orbuculum Equinox Dire Delight",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Tenkay",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Orbuculum Equinox Dire Delight.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/arc.warden.orbuculum.equinox.zip",
+      "createdAt": "2026-07-30T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "arc_warden",
+      "heroLabel": "Arc Warden",
+      "slot": "head"
+    },
+    {
+      "name": "Marci Blue Horizons",
+      "author": "Tenkay",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/marci blue horizons.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/marci.blue.horizons.zip",
+      "createdAt": "2026-07-31T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "marci",
+      "heroLabel": "Marci",
+      "slot": "set"
+    },
+    {
+      "name": "bloodseeker eztzhok",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "tenkay",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-12-10-31-12.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/bloodseeker.eztzhok.V2.zip",
+      "createdAt": "2026-06-16T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "bloodseeker",
+      "heroLabel": "Bloodseeker",
+      "slot": "set"
+    },
+    {
+      "name": "Thirst of Eztzhok Blade",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Tenkay",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Thirst of Eztzhok Blade.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Thirst.of.Eztzhok.Blade.zip",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "bloodseeker",
+      "heroLabel": "Bloodseeker",
+      "slot": "weapon"
+    },
+    {
+      "name": "Thirst of Eztzhok Off Hand",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Tenkay",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Thirst of Eztzhok - Off-Hand.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Thirst.of.Eztzhok.Off-Hand.zip",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "bloodseeker",
+      "heroLabel": "Bloodseeker",
+      "slot": "off_hand"
+    },
+    {
+      "name": "Pudge immortal",
+      "author": "Tenkay",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge immortal.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Pudge.immortal.zip",
+      "createdAt": "2026-08-15T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "pudge",
+      "heroLabel": "Pudge",
+      "slot": "set",
+      "tags": [
+        "immortal"
+      ]
+    },
+    {
+      "name": "Spectre Crescent Huntress",
+      "author": "Tenkay",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/spectre crescent huntress.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/spectre.crescent.huntress.zip",
+      "createdAt": "2026-07-31T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "spectre",
+      "heroLabel": "Spectre",
+      "slot": "set"
+    },
+    {
+      "name": "Templar Assassin ritual of the loyal fold",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "Tenkay",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-06-16-09-09-16.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/lanaya.ritual.of.the.loyal.fold.zip",
+      "createdAt": "2026-06-16T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "templar_assassin",
+      "heroLabel": "Templar Assassin",
+      "slot": "set"
+    }
+  ]
+}

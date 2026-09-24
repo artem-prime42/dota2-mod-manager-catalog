@@ -1,0 +1,4715 @@
+{
+  "id": "dota2pornfx",
+  "nick": "dota2pornfx",
+  "displayName": "dota2pornfx",
+  "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/dota2pornfx.png",
+  "bio": "",
+  "website": "https://h6rd.github.io/Dota2PornFxWeb",
+  "github": "https://github.com/h6rd/Dota2PornFxWeb",
+  "telegram": "https://t.me/dota2pornfx",
+  "discord": "https://discord.com/invite/PBvG8D9MxT",
+  "authorLink": "https://h6rd.github.io/Dota2PornFxWeb",
+  "links": {
+    "telegram": "https://t.me/dota2pornfx",
+    "github": "https://github.com/h6rd/Dota2PornFxWeb",
+    "website": "https://h6rd.github.io/Dota2PornFxWeb",
+    "discord": "https://discord.com/invite/PBvG8D9MxT"
+  },
+  "mods": [
+    {
+      "name": "Battlefury",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Battlefury.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/void1/Faceless.Void.Battlefury.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "faceless_void",
+      "heroLabel": "Faceless Void",
+      "slot": "weapon"
+    },
+    {
+      "name": "Faceless Void Chrononaut Continuum",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Faceless-Void-Chrononaut-Continuum.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Faceless.Void.Chrononaut.Continuum.zip",
+      "createdAt": "2026-06-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "faceless_void",
+      "heroLabel": "Faceless Void",
+      "slot": "set"
+    },
+    {
+      "name": "IO Madame Scrio",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/IO-Madame-Scrio.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/246/IO.Madame.Scrio.zip",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "io",
+      "heroLabel": "Io",
+      "slot": "set"
+    },
+    {
+      "name": "Hunter's Hoard",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hunter-s-Hoard.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/46/Bounty.Hunter.Hunters.Hoard.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "bounty_hunter",
+      "heroLabel": "Bounty Hunter",
+      "slot": "back"
+    },
+    {
+      "name": "Tines of Tybara",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tines-of-Tybara.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/45/Bounty.Hunter.Tines.of.Tybara.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "bounty_hunter",
+      "heroLabel": "Bounty Hunter",
+      "slot": "weapon"
+    },
+    {
+      "name": "Bounty Hunter Old Man",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bounty-Hunter-Old-Man.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Bounty.Hunter.Old.Man.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "bounty_hunter",
+      "heroLabel": "Bounty Hunter",
+      "slot": "set"
+    },
+    {
+      "name": "Bounty Hunter Old Man Night",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bounty-Hunter-Old-Man-Night.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/146/Bounty.Hunter.Old.Man.Night.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "bounty_hunter",
+      "heroLabel": "Bounty Hunter",
+      "slot": "set"
+    },
+    {
+      "name": "Pudge Rotzo the Clown",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge-Rotzo-the-Clown.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Pudge.Rotzo.the.Clown.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "pudge",
+      "heroLabel": "Pudge",
+      "slot": "set"
+    },
+    {
+      "name": "Pudge Candy Cat",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge-Candy-Cat.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/221/Pudge.Candy.Cat.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "pudge",
+      "heroLabel": "Pudge",
+      "slot": "set"
+    },
+    {
+      "name": "Pudge Mindless Slaughter",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge-Mindless-Slaughter.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/221/Pudge.Mindless.Slaughter.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "pudge",
+      "heroLabel": "Pudge",
+      "slot": "set"
+    },
+    {
+      "name": "Pudge Iron Hog",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge-Iron-Hog.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/221/Pudge.Iron.Hog.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "pudge",
+      "heroLabel": "Pudge",
+      "slot": "set"
+    },
+    {
+      "name": "Broodmother Epoch of the Abysm",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Broodmother-Epoch-of-the-Abysm.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/220/Broodmother.Epoch.of.the.Abysm.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "broodmother",
+      "heroLabel": "Broodmother",
+      "slot": "set"
+    },
+    {
+      "name": "Wraith King Grim Destiny",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wraith-King-Grim-Destiny.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/134/Wraith.King.Grim.Destiny.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "wraith_king",
+      "heroLabel": "Wraith King",
+      "slot": "set"
+    },
+    {
+      "name": "Wraith King Veil Tyrant",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wraith-King-Veil-Tyrant.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/135/Wraith.King.Veil.Tyrant.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "wraith_king",
+      "heroLabel": "Wraith King",
+      "slot": "set"
+    },
+    {
+      "name": "Wraith King Winterblight",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Winterblight.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/136/Wraith.King.Winterblight.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "wraith_king",
+      "heroLabel": "Wraith King",
+      "slot": "weapon"
+    },
+    {
+      "name": "Ember Spirit Master of Searing Path",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ember-Spirit-Master-of-Searing-Path.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Ember.Spirit.Master.of.Searing.Path.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "ember_spirit",
+      "heroLabel": "Ember Spirit",
+      "slot": "set"
+    },
+    {
+      "name": "Meepo Lotus Bear",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Meepo Lotus Bear.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Meepo.Lotus.Bear.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "meepo",
+      "heroLabel": "Meepo",
+      "slot": "set"
+    },
+    {
+      "name": "Meepo Mocking Bird",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Meepo Mocking Bird.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/Meepo.Mocking.Bird.zip",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "meepo",
+      "heroLabel": "Meepo",
+      "slot": "set"
+    },
+    {
+      "name": "Cosmic Zeus",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cosmic-Zeus.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/Cosmic.Zeus.zip",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "zeus",
+      "heroLabel": "Zeus",
+      "slot": "set"
+    },
+    {
+      "name": "Invoker Fate Meridian",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker-Fate-Meridian.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/66/Invoker.Fate.Meridian.zip",
+      "createdAt": "2026-05-20T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "invoker",
+      "heroLabel": "Invoker",
+      "slot": "set"
+    },
+    {
+      "name": "Stormborn",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Stormborn.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Stormborn.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "storm_spirit",
+      "heroLabel": "Storm Spirit",
+      "slot": "hands"
+    },
+    {
+      "name": "Golden Mandate of the Stormborn",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden Mandate of the Stormborn.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Stormborn.Golden.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "storm_spirit",
+      "heroLabel": "Storm Spirit",
+      "slot": "hands"
+    },
+    {
+      "name": "Lightning Orchid",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lightning Orchid.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Lightning.Orchid.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "storm_spirit",
+      "heroLabel": "Storm Spirit",
+      "slot": "head"
+    },
+    {
+      "name": "The Lightning Orchid of Eminent Revival",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/The-Lightning-Orchid-of-Eminent-Revival.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Lightning.Orchid.Retro.2.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "storm_spirit",
+      "heroLabel": "Storm Spirit",
+      "slot": "head"
+    },
+    {
+      "name": "Corridan Maestro",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Corridan Maestro.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/Storm.Spirit.Corridan.Maestro.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "storm_spirit",
+      "heroLabel": "Storm Spirit",
+      "slot": "armor"
+    },
+    {
+      "name": "Storm Spirit Corridan Maestro",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Storm-Spirit-Corridan-Maestro.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/238/Storm.Spirit.Corridan.Maestro.zip",
+      "createdAt": "2026-06-29T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "storm_spirit",
+      "heroLabel": "Storm Spirit",
+      "slot": "set"
+    },
+    {
+      "name": "Pauldrons of Eternal Harvest",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pauldrons-of-Eternal-Harvest.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/262/Shadow.Fiend.Eternal.Harvest.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "shadow_fiend",
+      "heroLabel": "Shadow Fiend",
+      "slot": "shoulders"
+    },
+    {
+      "name": "Horns of Eternal Harvest",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Horns-of-Eternal-Harvest.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/89/Horns.of.Eternal.Harvest.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "shadow_fiend",
+      "heroLabel": "Shadow Fiend",
+      "slot": "head"
+    },
+    {
+      "name": "Shadow Fiend Souls Tyrant",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow-Fiend-Souls-Tyrant.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/139/Shadow.Fiend.Souls.Tyrant.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "shadow_fiend",
+      "heroLabel": "Shadow Fiend",
+      "slot": "set"
+    },
+    {
+      "name": "Shadow Fiend Eternal Harvest",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow-Fiend-Eternal-Harvest.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/236/Shadow.Fiend.Eternal.Harvest.zip",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "shadow_fiend",
+      "heroLabel": "Shadow Fiend",
+      "slot": "set"
+    },
+    {
+      "name": "Shadow Fiend Eternal Harvest Spring",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow-Fiend-Eternal-Harvest-Spring.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/236/Shadow.Fiend.Eternal.Harvest.Spring.zip",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "shadow_fiend",
+      "heroLabel": "Shadow Fiend",
+      "slot": "set"
+    },
+    {
+      "name": "Shadow Fiend Sundered Souls",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow-Fiend-Sundered-Souls.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/221/Shadow.Fiend.Sundered.Souls.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "shadow_fiend",
+      "heroLabel": "Shadow Fiend",
+      "slot": "set"
+    },
+    {
+      "name": "Shadow Fiend King of Vipers",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow-Fiend-King-of-Vipers.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/264/Shadow.Fiend.King.of.Vipers.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "shadow_fiend",
+      "heroLabel": "Shadow Fiend",
+      "slot": "set"
+    },
+    {
+      "name": "Shadow Fiend King of Vipers II",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow-Fiend-King-of-Vipers-II.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/264/Shadow.Fiend.King.of.Vipers.II.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "shadow_fiend",
+      "heroLabel": "Shadow Fiend",
+      "slot": "set"
+    },
+    {
+      "name": "Shadow Fiend King of Vipers III",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow-Fiend-King-of-Vipers-III.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/264/Shadow.Fiend.King.of.Vipers.III.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "shadow_fiend",
+      "heroLabel": "Shadow Fiend",
+      "slot": "set"
+    },
+    {
+      "name": "Hell-Spar Anathema Crimson",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hell-Spar Anathema Crimson.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/108/Lion.Hell-Spar.Anathema.Crimson.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "lion",
+      "heroLabel": "Lion",
+      "slot": "left_hand"
+    },
+    {
+      "name": "Mulctant Pall",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mulctant Pall.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/109/Lion.Mulctant.Pall.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "lion",
+      "heroLabel": "Lion",
+      "slot": "shoulders"
+    },
+    {
+      "name": "Mulctant Pall Crimson",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mulctant Pall Crimson.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/110/Lion.Mulctant.Pall.Crimson.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "lion",
+      "heroLabel": "Lion",
+      "slot": "shoulders"
+    },
+    {
+      "name": "Lion Fin Kings Charm",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lion Fin Kings Charm.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/107/Lion.Fin.Kings.Charm.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "lion",
+      "heroLabel": "Lion",
+      "slot": "weapon"
+    },
+    {
+      "name": "Fin King's Charm of Eminent Revival",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Fin-King-s-Charm-of-Eminent-Revival.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Fin.Kings.Charm.Retro.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "lion",
+      "heroLabel": "Lion",
+      "slot": "weapon"
+    },
+    {
+      "name": "Fin Kings Charm of Eminent Revival Exceptional",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Fin-Kings-Charm-of-Eminent-Revival-Exceptional.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Fin.Kings.Charm.Exceptional.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "lion",
+      "heroLabel": "Lion",
+      "slot": "weapon"
+    },
+    {
+      "name": "Hell-Spar Anathema",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hell-Spar-Anathema.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Hell-Spar.Anathema.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "lion",
+      "heroLabel": "Lion",
+      "slot": "left_hand"
+    },
+    {
+      "name": "Hell-Spar Anathema Obsidian Blight",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hell-Spar-Anathema-Obsidian-Blight.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Hell-Spar.Anathema.Obsidian.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "lion",
+      "heroLabel": "Lion",
+      "slot": "left_hand"
+    },
+    {
+      "name": "Tyrian Mulctant Pall",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tyrian-Mulctant-Pall.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Lion.Mulctant.Pall.Purple.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "lion",
+      "heroLabel": "Lion",
+      "slot": "shoulders"
+    },
+    {
+      "name": "Gates of Nothl",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/The Gates of Nothl.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/56/Dazzle.Gates.of.Nothl.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "dazzle",
+      "heroLabel": "Dazzle",
+      "slot": "back"
+    },
+    {
+      "name": "Gates of Nothl Crimson",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crimson-Gates-of-Nothl.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/57/Dazzle.Gates.of.Nothl.Crimson.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "dazzle",
+      "heroLabel": "Dazzle",
+      "slot": "back"
+    },
+    {
+      "name": "Dazzle Needlepoint Necromance",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dazzle-Needlepoint-Necromance.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Dazzle.Needlepoint.Necromance.zip",
+      "createdAt": "2026-06-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "dazzle",
+      "heroLabel": "Dazzle",
+      "slot": "set"
+    },
+    {
+      "name": "Dazzle Lifeless Devotion",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dazzle-Lifeless-Devotion.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/259/Dazzle.Lifeless.Devotion.zip",
+      "createdAt": "2026-07-14T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "dazzle",
+      "heroLabel": "Dazzle",
+      "slot": "set"
+    },
+    {
+      "name": "Shadow Blade",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Kunkka-s-Shadow-Blade.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/51/Kunkka.Shadow.Blade.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "kunkka",
+      "heroLabel": "Kunkka",
+      "slot": "weapon"
+    },
+    {
+      "name": "Kunkka Whale Blade of Eminent Revival Exceptional",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Leviathan-Whale-Blade-of-Eminent-Revival-Exceptional.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/52/Kunkka.Whale.Blade.of.Eminent.Revival.Exceptional.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "kunkka",
+      "heroLabel": "Kunkka",
+      "slot": "weapon"
+    },
+    {
+      "name": "Whale Blade",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Leviathan-Whale-Blade.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/53/Kunkka.Whale.Blade.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "kunkka",
+      "heroLabel": "Kunkka",
+      "slot": "weapon"
+    },
+    {
+      "name": "Shock of the Anvil",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shock-of-the-Anvil.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Magnus.Shock.of.the.Anvil.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "magnus",
+      "heroLabel": "Magnus",
+      "slot": "weapon"
+    },
+    {
+      "name": "Eyes of Ardenok",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Eyes-of-Ardenok.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Magnus.Eyes.of.Ardenok.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "magnus",
+      "heroLabel": "Magnus",
+      "slot": "head"
+    },
+    {
+      "name": "Eyes of Ardenok Crimson",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Eyes-of-Ardenok-of-the-Crimson-Witness.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/272/Magnus.Eyes.of.Ardenok.Crimson.zip",
+      "createdAt": "2026-05-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "magnus",
+      "heroLabel": "Magnus",
+      "slot": "head"
+    },
+    {
+      "name": "Magnus Ornate Cruelty",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Magnus-Ornate-Cruelty.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Magnus.Ornate.Cruelty.zip",
+      "createdAt": "2026-06-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "magnus",
+      "heroLabel": "Magnus",
+      "slot": "set"
+    },
+    {
+      "name": "Beastmaster Primal Peacemaker",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Primal-Peacemaker.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/33/Beastmaster.Primal.Peacemaker.zip",
+      "createdAt": "2026-05-14T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "beastmaster",
+      "heroLabel": "Beastmaster",
+      "slot": "weapon"
+    },
+    {
+      "name": "Beastmaster Primal Peacemaker Crimson",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Primal-Peacemaker-of-the-Crimson-Witness.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/34/Beastmaster.Primal.Peacemaker.Crimson.zip",
+      "createdAt": "2026-05-14T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "beastmaster",
+      "heroLabel": "Beastmaster",
+      "slot": "weapon"
+    },
+    {
+      "name": "Beastmaster Primal Paean",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Primal-Paean.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/35/Beastmaster.Primal.Paean.zip",
+      "createdAt": "2026-05-14T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "beastmaster",
+      "heroLabel": "Beastmaster",
+      "slot": "shoulders"
+    },
+    {
+      "name": "Beastmaster Bone Armor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Beastmaster-Bone-Armor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/215/Beastmaster.Bone.Armor.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "beastmaster",
+      "heroLabel": "Beastmaster",
+      "slot": "set"
+    },
+    {
+      "name": "Twilight Schism",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Twilight-Schism.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/58/Luna.Twilight.Schism.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "luna",
+      "heroLabel": "Luna",
+      "slot": "weapon"
+    },
+    {
+      "name": "Golden Twilight Schism",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Twilight-Schism.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/59/Luna.Twilight.Schism.Golden.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "luna",
+      "heroLabel": "Luna",
+      "slot": "weapon"
+    },
+    {
+      "name": "Twilight Schism of the Crimson Witness",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Twilight-Schism-of-the-Crimson-Witness.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/60/Luna.Twilight.Schism.Crimson.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "luna",
+      "heroLabel": "Luna",
+      "slot": "weapon"
+    },
+    {
+      "name": "Moonfall",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Moonfall.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/61/Luna.Moonfall.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "luna",
+      "heroLabel": "Luna",
+      "slot": "shield"
+    },
+    {
+      "name": "Golden Moonfall",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Moonfall.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/62/Luna.Moonfall.Golden.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "luna",
+      "heroLabel": "Luna",
+      "slot": "shield"
+    },
+    {
+      "name": "Luna Bloodmoon Stalker",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Luna-Bloodmoon-Stalker.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Luna.Bloodmoon.Stalker.zip",
+      "createdAt": "2026-06-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "luna",
+      "heroLabel": "Luna",
+      "slot": "set"
+    },
+    {
+      "name": "Phantom Lancer Dark Carnival",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Phantom-Lancer-Dark-Carnival.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/259/Phantom.Lancer.Dark.Carnival.zip",
+      "createdAt": "2026-07-12T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "phantom_lancer",
+      "heroLabel": "Phantom Lancer",
+      "slot": "set"
+    },
+    {
+      "name": "Codicil of the Veiled Ones",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Codicil-of-the-Veiled-Ones.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Phantom.Assassin.Codicil.zip",
+      "createdAt": "2026-06-05T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "phantom_assassin",
+      "heroLabel": "Phantom Assassin",
+      "slot": "head"
+    },
+    {
+      "name": "Avowance of the Veiled Ones",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Avowance-of-the-Veiled-Ones.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Phantom.Assassin.Avowance.zip",
+      "createdAt": "2026-06-05T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "phantom_assassin",
+      "heroLabel": "Phantom Assassin",
+      "slot": "shoulders"
+    },
+    {
+      "name": "Avowance of the Crimson Witness",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Avowance-of-the-Crimson-Witness.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Phantom.Assassin.Avowance.Crimson.zip",
+      "createdAt": "2026-06-05T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "phantom_assassin",
+      "heroLabel": "Phantom Assassin",
+      "slot": "shoulders"
+    },
+    {
+      "name": "Cosmic Alchemist",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cosmic-Alchemist.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/221/Cosmic.Alchemist.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "alchemist",
+      "heroLabel": "Alchemist",
+      "slot": "set"
+    },
+    {
+      "name": "Frostivus Alchemist",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Frostivus-Alchemist.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/221/Frostivus.Alchemist.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "alchemist",
+      "heroLabel": "Alchemist",
+      "slot": "set"
+    },
+    {
+      "name": "Immortal Ancient Apparition",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal Ancient Apparition.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/215/Immortal.Ancient.Apparition.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "ancient_apparition",
+      "heroLabel": "Ancient Apparition",
+      "slot": "set"
+    },
+    {
+      "name": "Bare Pangolier",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bare-Pangolier.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/220/Bare.Pangolier.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "pangolier",
+      "heroLabel": "Pangolier",
+      "slot": "set"
+    },
+    {
+      "name": "Cosmic Earthshaker",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cosmic-Earthshaker.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Cosmic.Earthshaker.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "earthshaker",
+      "heroLabel": "Earthshaker",
+      "slot": "set"
+    },
+    {
+      "name": "Marci Laurels of the Downstar",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Marci-Laurels-of-the-Downstar.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/220/Marci.Laurels.of.the.Downstar.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "marci",
+      "heroLabel": "Marci",
+      "slot": "set"
+    },
+    {
+      "name": "Mars Diretide Shimmer",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mars-Diretide-Shimmer.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Mars.Diretide.Shimmer.zip",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "mars",
+      "heroLabel": "Mars",
+      "slot": "set"
+    },
+    {
+      "name": "Progenitor's Bane",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Progenitor-s-Bane.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Mars.Progenitors.Bane.zip",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "mars",
+      "heroLabel": "Mars",
+      "slot": "weapon"
+    },
+    {
+      "name": "Crimson Progenitor's Bane",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crimson-Progenitor-s-Bane.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Mars.Progenitors.Bane.Crimson.zip",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "mars",
+      "heroLabel": "Mars",
+      "slot": "weapon"
+    },
+    {
+      "name": "Tinker Submerged Hazard",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker-Submerged-Hazard.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/113/Tinker.Submerged.Hazard.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "tinker",
+      "heroLabel": "Tinker",
+      "slot": "set"
+    },
+    {
+      "name": "Tinker Interstellar Astrarium",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker-Interstellar-Astrarium.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/221/Cosmic.Tinker.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "tinker",
+      "heroLabel": "Tinker",
+      "slot": "set"
+    },
+    {
+      "name": "Bloodseeker Harvest Hound",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bloodseeker-Harvest-Hound.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/215/Bloodseeker.Harvest.Hound.zip",
+      "createdAt": "2026-06-05T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "bloodseeker",
+      "heroLabel": "Bloodseeker",
+      "slot": "set"
+    },
+    {
+      "name": "Brewmaster Military Saint",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Brewmaster-Military-Saint.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/215/Beastmaster.Bone.Armor.zip",
+      "createdAt": "2026-06-05T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "brewmaster",
+      "heroLabel": "Brewmaster",
+      "slot": "set"
+    },
+    {
+      "name": "Bare Brewmaster",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bare-Brewmaster.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/241/Bare.Brewmaster.zip",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "brewmaster",
+      "heroLabel": "Brewmaster",
+      "slot": "set"
+    },
+    {
+      "name": "Bristleback Crimson Ring",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bristleback-Crimson-Ring.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/215/Bristleback.Crimson.Ring.zip",
+      "createdAt": "2026-06-05T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "bristleback",
+      "heroLabel": "Bristleback",
+      "slot": "set"
+    },
+    {
+      "name": "Centaur Cunning Counterfeit",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Centaur-Cunning-Counterfeit.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Centaur.Cunning.Counterfeit.zip",
+      "createdAt": "2026-06-05T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "centaur",
+      "heroLabel": "Centaur",
+      "slot": "set"
+    },
+    {
+      "name": "Centaur Emerald Marauder",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Centaur-Emerald-Marauder.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Centaur.Emerald.Marauder.zip",
+      "createdAt": "2026-06-13T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "centaur",
+      "heroLabel": "Centaur",
+      "slot": "set"
+    },
+    {
+      "name": "Centaur Chaos Chosen",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Centaur-Chaos-Chosen.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Centaur.Chaos.Chosen.zip",
+      "createdAt": "2026-06-13T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "centaur",
+      "heroLabel": "Centaur",
+      "slot": "set"
+    },
+    {
+      "name": "Centaur Chaos Chosen Eternal",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Centaur-Chaos-Chosen-Eternal.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Centaur.Chaos.Chosen.Eternal.zip",
+      "createdAt": "2026-06-13T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "centaur",
+      "heroLabel": "Centaur",
+      "slot": "set"
+    },
+    {
+      "name": "Infernal Menace",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Menace.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Centaur.Infernal.Menace.zip",
+      "createdAt": "2026-06-13T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "centaur",
+      "heroLabel": "Centaur",
+      "slot": "weapon"
+    },
+    {
+      "name": "Infernal Chieftain",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Chieftain.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Centaur.Infernal.Chieftain.zip",
+      "createdAt": "2026-06-13T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "centaur",
+      "heroLabel": "Centaur",
+      "slot": "head"
+    },
+    {
+      "name": "Infernal Chieftain of the Crimson Witness",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Chieftain-of-the-Crimson-Witness.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/232/Centaur.Infernal.Chieftain.Crimson.zip",
+      "createdAt": "2026-06-13T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "centaur",
+      "heroLabel": "Centaur",
+      "slot": "head"
+    },
+    {
+      "name": "Golden Infernal Chieftain",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Infernal-Chieftain.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/232/Centaur.Infernal.Chieftain.Golden.zip",
+      "createdAt": "2026-06-13T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "centaur",
+      "heroLabel": "Centaur",
+      "slot": "head"
+    },
+    {
+      "name": "Infernal Cavalcade",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Cavalcade.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/232/Centaur.Infernal.Cavalcade.zip",
+      "createdAt": "2026-06-13T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "centaur",
+      "heroLabel": "Centaur",
+      "slot": "shoulders"
+    },
+    {
+      "name": "Infernal Cavalcade of the Crimson Witness",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Infernal-Cavalcade-of-the-Crimson-Witness.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/232/Centaur.Infernal.Cavalcade.Crimson.zip",
+      "createdAt": "2026-06-13T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "centaur",
+      "heroLabel": "Centaur",
+      "slot": "shoulders"
+    },
+    {
+      "name": "Monkey King Simian Sovereign",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey-King-Simian-Sovereign.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Monkey.King.Simian.Sovereign.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "monkey_king",
+      "heroLabel": "Monkey King",
+      "slot": "set"
+    },
+    {
+      "name": "Monkey King Arcana",
+      "tags": [
+        "Arcana"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey-King-Arcana.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/Monkey.King.Arcana.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "monkey_king",
+      "heroLabel": "Monkey King",
+      "slot": "set"
+    },
+    {
+      "name": "Monkey King Arcana Water",
+      "tags": [
+        "Arcana"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey-King-Arcana-Water.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/Monkey.King.Arcana.Water.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "monkey_king",
+      "heroLabel": "Monkey King",
+      "slot": "set"
+    },
+    {
+      "name": "Monkey King Arcana Death",
+      "tags": [
+        "Arcana"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey-King-Arcana-Death.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/Monkey.King.Arcana.Death.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "monkey_king",
+      "heroLabel": "Monkey King",
+      "slot": "set"
+    },
+    {
+      "name": "Monkey King Arcana Fire",
+      "tags": [
+        "Arcana"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey-King-Arcana-Fire.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/Monkey.King.Arcana.Fire.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "monkey_king",
+      "heroLabel": "Monkey King",
+      "slot": "set"
+    },
+    {
+      "name": "Staff of Gun-Yu",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Staff-of-Gun-Yu.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Monkey.King.Staff.of.Gun-Yu.zip",
+      "createdAt": "2026-06-13T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "monkey_king",
+      "heroLabel": "Monkey King",
+      "slot": "weapon"
+    },
+    {
+      "name": "Golden Staff of Gun-Yu",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Staff-of-Gun-Yu.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Staff.of.Gun-Yu.Golden.zip",
+      "createdAt": "2026-06-13T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "monkey_king",
+      "heroLabel": "Monkey King",
+      "slot": "weapon"
+    },
+    {
+      "name": "10th Anniversary Staff of Gun-Yu",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/10th-Anniversary-Staff-of-Gun-Yu.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Staff.of.Gun-Yu.Anniversary.zip",
+      "createdAt": "2026-06-13T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "monkey_king",
+      "heroLabel": "Monkey King",
+      "slot": "weapon"
+    },
+    {
+      "name": "Staff of Gun-Yu of the Crimson Witness",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Staff-of-Gun-Yu-of-the-Crimson-Witness.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/231/Staff.of.Gun-Yu.Crimson.zip",
+      "createdAt": "2026-06-13T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "monkey_king",
+      "heroLabel": "Monkey King",
+      "slot": "weapon"
+    },
+    {
+      "name": "Monkey King Water Demon",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monkey-King-Water-Demon.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/265/Monkey.King.Water.Demon.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "monkey_king",
+      "heroLabel": "Monkey King",
+      "slot": "set"
+    },
+    {
+      "name": "Chen Infernal Psychic",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Chen-Infernal-Psychic.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Chen.Infernal.Psychic.zip",
+      "createdAt": "2026-06-05T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "chen",
+      "heroLabel": "Chen",
+      "slot": "set"
+    },
+    {
+      "name": "Chen Seed of Strife",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Chen-Seed-of-Strife.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/241/Chen.Seed.of.Strife.zip",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "chen",
+      "heroLabel": "Chen",
+      "slot": "set"
+    },
+    {
+      "name": "Clockwerk Seadog Stash",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Clockwerk-Seadog-Stash.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Clockwerk.Seadog.Stash.zip",
+      "createdAt": "2026-06-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "clockwerk",
+      "heroLabel": "Clockwerk",
+      "slot": "set"
+    },
+    {
+      "name": "Clockwerk Apex Automated",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Clockwerk-Apex-Automated.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/216/Clockwerk.Apex.Automated.zip",
+      "createdAt": "2026-06-06T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "clockwerk",
+      "heroLabel": "Clockwerk",
+      "slot": "set"
+    },
+    {
+      "name": "Ice Blossom",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ice-Blossom.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Crystal.Maiden.Ice.Blossom.zip",
+      "createdAt": "2026-07-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "crystal_maiden",
+      "heroLabel": "Crystal Maiden",
+      "slot": "weapon"
+    },
+    {
+      "name": "Golden Ice Blossom",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Ice-Blossom.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Crystal.Maiden.Ice.Blossom.Golden.zip",
+      "createdAt": "2026-07-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "crystal_maiden",
+      "heroLabel": "Crystal Maiden",
+      "slot": "weapon"
+    },
+    {
+      "name": "Yulsaria's Glacier",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Yulsaria-s-Glacier.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Crystal.Maiden.Yulsarias.Glacier.zip",
+      "createdAt": "2026-07-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "crystal_maiden",
+      "heroLabel": "Crystal Maiden",
+      "slot": "head"
+    },
+    {
+      "name": "Yulsaria's Mantle",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Yulsaria-s-Mantle.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/243/Crystal.Maiden.Yulsarias.Mantle.zip",
+      "createdAt": "2026-07-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "crystal_maiden",
+      "heroLabel": "Crystal Maiden",
+      "slot": "shoulders"
+    },
+    {
+      "name": "Ursa Crystal Drift",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ursa-Crystal-Drift.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Ursa.Crystal.Drift.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "ursa",
+      "heroLabel": "Ursa",
+      "slot": "set"
+    },
+    {
+      "name": "Swift Claw",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Swift-Claw.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Ursa.Swift.Claw.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "ursa",
+      "heroLabel": "Ursa",
+      "slot": "hands"
+    },
+    {
+      "name": "Ursa Feast of the Damned",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ursa-Feast-of-the-Damned.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/237/Ursa.Feast.of.the.Damned.zip",
+      "createdAt": "2026-06-29T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "ursa",
+      "heroLabel": "Ursa",
+      "slot": "set"
+    },
+    {
+      "name": "Ursa Alpine Stalker",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ursa-Alpine-Stalker.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/237/Ursa.Alpine.Stalker.zip",
+      "createdAt": "2026-06-29T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "ursa",
+      "heroLabel": "Ursa",
+      "slot": "set"
+    },
+    {
+      "name": "Immortal Hoodwink",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Hoodwink.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Immortal.Hoodwink.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "hoodwink",
+      "heroLabel": "Hoodwink",
+      "slot": "set"
+    },
+    {
+      "name": "Hoodwink Bilge Rat Buccaneer",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hoodwink-Bilge-Rat-Buccaneer.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/Hoodwink.Bilge.Rat.Buccaneer.zip",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "hoodwink",
+      "heroLabel": "Hoodwink",
+      "slot": "set"
+    },
+    {
+      "name": "Hoodwink Tomokan Footsoldier",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hoodwink-Tomokan-Footsoldier.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/Hoodwink.Tomokan.Footsoldier.zip",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "hoodwink",
+      "heroLabel": "Hoodwink",
+      "slot": "set"
+    },
+    {
+      "name": "Dragon Knight Silverwurm Sacrifice",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dragon-Knight-Silverwurm-Sacrifice.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Dragon.Knight.Silverwurm.Sacrifice.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "dragon_knight",
+      "heroLabel": "Dragon Knight",
+      "slot": "set"
+    },
+    {
+      "name": "Sven Guts Sword",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sven Guts Sword.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Sven.Guts.Sword.zip",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "sven",
+      "heroLabel": "Sven",
+      "slot": "weapon"
+    },
+    {
+      "name": "Sand King Black Sands",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sand-King-Black-Sands.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Sand.King.Black.Sands.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "sand_king",
+      "heroLabel": "Sand King",
+      "slot": "set"
+    },
+    {
+      "name": "Necrophos Serpent Spite",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Necrophos-Serpent-Spite.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Necrophos.Serpent.Spite.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "necrophos",
+      "heroLabel": "Necrophos",
+      "slot": "set"
+    },
+    {
+      "name": "Slark Shadow in the Deep",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Slark-Shadow-in-the-Deep.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Slark.Shadow.in.the.Deep.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "slark",
+      "heroLabel": "Slark",
+      "slot": "set"
+    },
+    {
+      "name": "Sniper Ardalan Interdictor",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sniper-Ardalan-Interdictor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Sniper.Ardalan.Interdictor.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "sniper",
+      "heroLabel": "Sniper",
+      "slot": "set"
+    },
+    {
+      "name": "Sniper Howling Wolf",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sniper-Howling-Wolf.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/262/Sniper.Howling.Wolf.zip",
+      "createdAt": "2026-07-15T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "sniper",
+      "heroLabel": "Sniper",
+      "slot": "set"
+    },
+    {
+      "name": "Oracle Immortal Silence",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Oracle-Immortal-Silence.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Oracle.Immortal.Silence.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "oracle",
+      "heroLabel": "Oracle",
+      "slot": "set"
+    },
+    {
+      "name": "Immortal Slardar",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Slardar.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Immortal.Slardar.zip",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "slardar",
+      "heroLabel": "Slardar",
+      "slot": "set"
+    },
+    {
+      "name": "Spectre Shadowveil",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spectre-Shadowveil.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Spectre.Shadowveil.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "spectre",
+      "heroLabel": "Spectre",
+      "slot": "set"
+    },
+    {
+      "name": "Techies Sodbustin Saboteurs",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Techies-Sodbustin-Saboteurs.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/217/Techies.Sodbustin.Saboteurs.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "techies",
+      "heroLabel": "Techies",
+      "slot": "set"
+    },
+    {
+      "name": "Techies Alien",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Techies-Alien.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/220/Techies.Alien.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "techies",
+      "heroLabel": "Techies",
+      "slot": "set"
+    },
+    {
+      "name": "Techies War Rig Pachyderm",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Techies-War-Rig-Pachyderm.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/221/Techies.War.Rig.Pachyderm.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "techies",
+      "heroLabel": "Techies",
+      "slot": "set"
+    },
+    {
+      "name": "Omniknight Blinding Bastion",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Omniknight-Blinding-Bastion.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Omniknight.Blinding.Bastion.zip",
+      "createdAt": "2026-06-07T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "omniknight",
+      "heroLabel": "Omniknight",
+      "slot": "set"
+    },
+    {
+      "name": "Lifestealer Diretide Shimmer",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lifestealer-Diretide-Shimmer.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/241/Lifestealer.Diretide.Shimmer.zip",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "lifestealer",
+      "heroLabel": "Lifestealer",
+      "slot": "set"
+    },
+    {
+      "name": "Lycan Red Wolf Clan",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lycan-Red-Wolf-Clan.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Lycan.Red.Wolf.Clan.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "lycan",
+      "heroLabel": "Lycan",
+      "slot": "set"
+    },
+    {
+      "name": "Natures Prophet Allfather",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Natures-Prophet-Allfather.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Natures.Prophet.Allfather.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "nature_prophet",
+      "heroLabel": "Nature Prophet",
+      "slot": "set"
+    },
+    {
+      "name": "Bare Natures Prophet",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bare-Natures-Prophet.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/264/Bare.Natures.Prophet.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "nature_prophet",
+      "heroLabel": "Nature Prophet",
+      "slot": "set"
+    },
+    {
+      "name": "White Natures Prophet",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/White-Natures-Prophet.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/264/White.Natures.Prophet.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "nature_prophet",
+      "heroLabel": "Nature Prophet",
+      "slot": "set"
+    },
+    {
+      "name": "Ogre Magi Pyrexae Polymorph",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ogre-Magi-Pyrexae-Polymorph.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Ogre.Magi.Pyrexae.Polymorph.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "ogre_magi",
+      "heroLabel": "Ogre Magi",
+      "slot": "set"
+    },
+    {
+      "name": "Ogre Magi Freeboot Fortunes",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ogre-Magi-Freeboot-Fortunes.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/238/Ogre.Magi.Freeboot.Fortunes.zip",
+      "createdAt": "2026-06-29T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "ogre_magi",
+      "heroLabel": "Ogre Magi",
+      "slot": "set"
+    },
+    {
+      "name": "Immortal Primal Beast",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal-Primal-Beast.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/223/Immortal.Primal.Beast.zip",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "primal_beast",
+      "heroLabel": "Primal Beast",
+      "slot": "set"
+    },
+    {
+      "name": "Snapfire Whippersnapper",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Snapfire-Whippersnapper.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Snapfire.Whippersnapper.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "snapfire",
+      "heroLabel": "Snapfire",
+      "slot": "set"
+    },
+    {
+      "name": "Cosmic Spirit Breaker",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cosmic-Spirit-Breaker.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Cosmic.Spirit.Breaker.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "spirit_breaker",
+      "heroLabel": "Spirit Breaker",
+      "slot": "set"
+    },
+    {
+      "name": "Spirit Breaker Elemental Imperator",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spirit-Breaker-Elemental-Imperator.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/264/Spirit.Breaker.Elemental.Imperator.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "spirit_breaker",
+      "heroLabel": "Spirit Breaker",
+      "slot": "set"
+    },
+    {
+      "name": "Spirit Breaker Crystal Colossus",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spirit-Breaker-Crystal-Colossus.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/221/Spirit.Breaker.Crystal.Colossus.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "spirit_breaker",
+      "heroLabel": "Spirit Breaker",
+      "slot": "set"
+    },
+    {
+      "name": "Savage Mettle",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Savage-Mettle.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Spirit.Breaker.Savage.Mettle.zip",
+      "createdAt": "2026-06-09T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "spirit_breaker",
+      "heroLabel": "Spirit Breaker",
+      "slot": "weapon"
+    },
+    {
+      "name": "Tiny Stone Giant Stronghold",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tiny-Stone-Giant-Stronghold.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/260/Tiny.Stone.Giant.Stronghold.zip",
+      "createdAt": "2026-07-15T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "tiny",
+      "heroLabel": "Tiny",
+      "slot": "set"
+    },
+    {
+      "name": "Tiny Banana",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tiny Banana.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/280/Tiny.Banana.zip",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "tiny",
+      "heroLabel": "Tiny",
+      "slot": "weapon"
+    },
+    {
+      "name": "Treant Protector Frost Auburn Hideaway",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Treant-Protector-Frost-Auburn-Hideaway.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/238/Treant.Protector.Frost.Auburn.Hideaway.zip",
+      "createdAt": "2026-06-29T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "treant_protector",
+      "heroLabel": "Treant Protector",
+      "slot": "set"
+    },
+    {
+      "name": "Harrows Harvest Ringmaster",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Harrows-Harvest-Ringmaster.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Harrows.Harvest.Ringmaster.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "ringmaster",
+      "heroLabel": "Ringmaster",
+      "slot": "set"
+    },
+    {
+      "name": "Silencer Whispered Wing",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Silencer-Whispered-Wing.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Silencer.Whispered.Wing.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "silencer",
+      "heroLabel": "Silencer",
+      "slot": "set"
+    },
+    {
+      "name": "Razor Silver Rrevenant",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Razor-Silver-Rrevenant.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Razor.Silver.Rrevenant.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "razor",
+      "heroLabel": "Razor",
+      "slot": "set"
+    },
+    {
+      "name": "Riki Hunger of the Howling Wilds",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Riki-Hunger-of-the-Howling-Wilds.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Riki.Hunger.of.the.Howling.Wilds.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "riki",
+      "heroLabel": "Riki",
+      "slot": "set"
+    },
+    {
+      "name": "Rubick Plagueroad Apothacary",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rubick-Plagueroad-Apothacary.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Rubick.Plagueroad.Apothacary.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "rubick",
+      "heroLabel": "Rubick",
+      "slot": "set"
+    },
+    {
+      "name": "Enchantress Darkwood Witness",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Enchantress-Darkwood-Witness.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/219/Enchantress.Darkwood.Witness.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "enchantress",
+      "heroLabel": "Enchantress",
+      "slot": "set"
+    },
+    {
+      "name": "Venomancer Poisonous Assassin",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Venomancer-Poisonous-Assassin.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/223/Venomancer.Poisonous.Assassin.zip",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "venomancer",
+      "heroLabel": "Venomancer",
+      "slot": "set"
+    },
+    {
+      "name": "Venomancer Poisonous Assassin Purple",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Venomancer-Poisonous-Assassin-Purple.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/223/Venomancer.Poisonous.Assassin.Purple.zip",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "venomancer",
+      "heroLabel": "Venomancer",
+      "slot": "set"
+    },
+    {
+      "name": "Warlock Puppet Bear",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warlock-Puppet-Bear.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/218/Warlock.Puppet.Bear.zip",
+      "createdAt": "2026-06-08T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "warlock",
+      "heroLabel": "Warlock",
+      "slot": "set"
+    },
+    {
+      "name": "Keeper of the Light Renegade",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper-of-the-Light-Renegade.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/Keeper.of.the.Light.Renegade.zip",
+      "createdAt": "2026-06-18T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "keeper_of_the_light",
+      "heroLabel": "Keeper Of The Light",
+      "slot": "set"
+    },
+    {
+      "name": "Undying Grim Reformation",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Undying-Grim-Reformation.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/222/Undying.Grim.Reformation.zip",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "undying",
+      "heroLabel": "Undying",
+      "slot": "set"
+    },
+    {
+      "name": "Shadow Shaman Purple",
+      "tags": [
+        "Immortal"
+      ],
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow-Shaman-Purple.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/228/Shadow.Shaman.Purple.zip",
+      "createdAt": "2026-06-11T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "shadow_shaman",
+      "heroLabel": "Shadow Shaman",
+      "slot": "set"
+    },
+    {
+      "name": "Visage Grimfeather Corpse",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Visage-Grimfeather-Sorpse.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/241/Visage.Grimfeather.orpse.zip",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "visage",
+      "heroLabel": "Visage",
+      "slot": "set"
+    },
+    {
+      "name": "Drow Ranger Pedestal",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Drow-Ranger-Pedestal.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/240/pak10_dir.vpk",
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "categoryId": "pedestal",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Earthshaker Pedestal",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker-Pedestal.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/240/pak11_dir.vpk",
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "categoryId": "pedestal",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Windranger Pedestal",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Windranger-Pedestal.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/240/pak12_dir.vpk",
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "categoryId": "pedestal",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Anniversary Tormentor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Anniversary-Tormentor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/25/Anniversary.Tormentor.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "tormentor",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Frostivus Tormentor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Frostivus-Tormentor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/26/Frostivus.Tormentor.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "tormentor",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Ancient Dragon King",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ancient-Dragon-King.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/24/Ancient.Dragon.King.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "ancient",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Frostivus Ancient",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Frostivus-Ancient.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/246/pak74_dir.vpk",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "categoryId": "ancient",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Floes Tower",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Floes-Tower.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/127/pak11_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "wards",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Monty",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Monty.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/128/pak13_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "wards",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Portal",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Portal.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/129/pak14_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "wards",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Trailgazer",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Trailgazer.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/246/pak12_dir.vpk",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "categoryId": "wards",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Pudgling",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudgling-lvl-2.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/167/Pudgling.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Baby Roshan",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Baby-Roshan.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/168/Baby.Roshan.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Gingerbread Baby Roshan",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Gingerbread-Baby-Roshan.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/169/Gingerbread.Baby.Roshan.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Golden Doomling",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Doomling.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/170/Golden-Doomling.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Golden Huntling",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Huntling.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/171/pak27_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Onibi",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Onibi.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/172/pak35_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Honey Heist Baby Roshan",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Honey-Heist-Baby-Roshan.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/173/pak34_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Strongback the Swift",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Strongback-the-Swift.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/174/pak30_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Nian Courier",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Nian-Courier.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/175/pak31_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Golden Flopjaw the Boxhound",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Flopjaw-the-Boxhound.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/176/pak28_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Waldi the Faithful",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Waldi-the-Faithful.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/177/pak10_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Palico Odogaron",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Palico-Odogaron.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/178/pak13_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "BabyRoshan Crownfall",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Baby-Roshan-Crownfall.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/266/pak11_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Billy Bounceback",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Billy-Bounceback.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/266/pak12_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Ice Baby Roshan",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ice-Baby-Roshan.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/266/pak15_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Dark Moon Baby Roshan",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Moon-Baby-Roshan.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/266/pak14_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Baby Roshan 2018",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Baby-Roshan-2018.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/266/pak18_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Jade Baby Roshan",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Jade-Baby-Roshan.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/266/pak19_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Aghanims Baby Roshan Radiant",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Aghanims-Baby-Roshan-Radiant.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/266/pak20_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Aghanims Baby Roshan Dire",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Aghanims-Baby-Roshan-Dire.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/266/pak21_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Baby Roshan 2017",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Baby-Roshan-2017.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/266/pak22_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Desert Sands Baby Roshan",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Desert-Sands-Baby-Roshan.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/266/pak23_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Golden Seekling",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Seekling.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/266/pak25_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Golden Venoling",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Golden-Venoling.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/266/pak26_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Jadehoof",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Jadehoof.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/266/pak29_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "couriers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Imperial Medals",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Imperial-Medals.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/21/Imperial.Medals.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "ranks",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Umbrella Medals",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Umbrella-Medals.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/22/Umbrella.Medals.zip",
+      "createdAt": "2026-05-16T00:00:00.000Z",
+      "categoryId": "ranks",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Flaming Medals",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Flaming-Medals.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/23/Flaming.Medals.zip",
+      "createdAt": "2026-05-16T00:00:00.000Z",
+      "categoryId": "ranks",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Slates of the Damned",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Slates-of-the-Damned.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/246/pak15_dir.vpk",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "categoryId": "ranks",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Tinker Lite Machines",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker-Lite-Machines.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/17/Tinker.Lite.Machines.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "optimization",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Black River",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Black.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/13/Black.River.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "river",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Mossy Cobblestone",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mossy-Cobblestone.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/248/pak12_dir.vpk",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "categoryId": "terrains",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Bedrock",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bedrock.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/248/pak13_dir.vpk",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "categoryId": "terrains",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Dota+ Autumn",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Autumn.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/Autumn.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "terrains",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Dota+ Summer",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Summer.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/Summer.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "terrains",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Dota+ Spring",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spring.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/Spring.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "terrains",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Dota+ Winter",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Winter.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/Winter.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "terrains",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "The Kings New Journey",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/The-Kings-New-Journey.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/The.Kings.New.Journey.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "terrains",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI10 Sanctum of the Divine",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI10-Sanctum-of-the-Divine.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/TI10.Sanctum.of.the.Divine.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "terrains",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI9 Overgrown Empire",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI9-Overgrown-Empire.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/TI9.Overgrown.Empire.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "terrains",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI8 Emerald Abyss",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI8-Emerald-Abyss.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/TI8.Emerald.Abyss.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "terrains",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI7 Reefs Edge",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI7-Reefs-Edge.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/TI7.Reefs.Edge.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "terrains",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI6 Immortal Gardens",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI6-Immortal-Gardens.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/TI6.Immortal.Gardens.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "terrains",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI5 Desert Terrain",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI5-Desert-Terrain.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/TI5.Desert.Terrain.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "terrains",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Aghanim Green Shader",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Aghanim-Green-Shader.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/2/Aghanim.Green.Shader.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "shaders",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Aghanim Labyringth Shader",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/aghanim-shader.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/3/Aghanim.Labyrinth.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "shaders",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Aghanim Purple Shader",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Aghanim-Purple-Shader.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/4/Aghanim.Purple.Shader.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "shaders",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Aghanim White Shader",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Aghanim-White-Shader.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/5/Aghanim.White.Shader.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "shaders",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Aghanim Red Shader",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Aghanim-Red-Shader.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/6/Aghanim.Red.Shader.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "shaders",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Wave Purple Shader",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wave-Purple-Shader.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/7/Wave.Purple.Shader.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "shaders",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Wave White Shader",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wave-White-Shader.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/8/Wave.White.Shader.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "shaders",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Wave Green Shader",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wave-Green-Shader.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/148/pak18_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "shaders",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Wave Red Shader",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wave-Red-Shader.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/149/pak21_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "shaders",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Ancient Shader",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/ancient-shader.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/150/pak10_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "shaders",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Purple Ancient Shader",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/purple-ancient-shader.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/151/pak12_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "shaders",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Purple Outline Shader",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Purple-Outline-Shader.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/152/pak09_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "shaders",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Wave Lite Aqua",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wave-Lite-Aqua.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/153/pak24_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "shaders",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Wave Lite Pink",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wave-Lite-Pink.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/154/pak25_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "shaders",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Wave Lite White",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wave-Lite-White.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/155/pak30_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "shaders",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Wave Lite Green",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wave-Lite-Green.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/156/pak28_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "shaders",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Cartoon Shader",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cartoon-Shader.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/157/pak37_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "shaders",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Simple Minify Shader",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Simple-Minify-Shader.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/158/pak38_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "shaders",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "The International 2017",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/The-International-2017.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/271/pak21_dir.vpk",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "music",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "The International 10",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/The-International-10.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/215/pak22_dir.vpk",
+      "createdAt": "2026-06-05T00:00:00.000Z",
+      "categoryId": "music",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Northern Winds",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Northern-Winds.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/246/pak23_dir.vpk",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "categoryId": "music",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Heroes Within",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Heroes-Within.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/246/pak14_dir.vpk",
+      "createdAt": "2026-07-08T00:00:00.000Z",
+      "categoryId": "music",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Lion Taunt",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lion-Taunt.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/pak16_dir.vpk",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "hero-sounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null,
+      "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Lion%20Taunt.mp4"
+    },
+    {
+      "name": "Shadow Shaman Taunt",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow-Shaman-Taunt.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/pak17_dir.vpk",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "hero-sounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null,
+      "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Shadow%20Shaman%20Taunt.mp4"
+    },
+    {
+      "name": "Undying Taunt",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Undying-Taunt.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/pak18_dir.vpk",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "hero-sounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null,
+      "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Undying%20Taunt.mp4"
+    },
+    {
+      "name": "Warcraft III AllStars Voices",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft-III-All-Stars-Voices.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/236/Warcraft.III.AllStars.Voices.zip",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "categoryId": "hero-sounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null,
+      "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Warcraft%20III%20AllStars%20Voices.mp4"
+    },
+    {
+      "name": "TI9 Versus Screen II",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI9-Versus-Screen-II.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/9/TI9.Versus.Screen.II.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "packs",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI9 Versus Screen I",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI9-Versus-Screen-I.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/0/TI9.Versus.Screen.I.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "packs",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI 2024 Versus Screen",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI-2024-Versus-Screen.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/10/TI.2024.Versus.Screen.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "packs",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Nemestice Versus Screen",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Nemestice-Versus-Screen.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/11/Nemestice.Versus.Screen.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "packs",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Diretide Radiant Versus Screen",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Diretide-Radiant-Versus-Screen.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/12/Diretide.Radiant.Versus.Screen.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "packs",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Sad Maomao",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sad-Maomao.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/267/pak22_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Blossom Rem",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Blossom-Rem.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/267/pak28_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Ichigo",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ichigo.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/267/pak30_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Liberalio Nikke",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Liberalio-Nikke.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/267/pak31_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Ulquiorra",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ulquiorra.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/267/pak34_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Kira and Ryuk",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Kira-and-Ryuk.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/267/pak39_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Cat Under Rain",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cat-Under-Rain.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/267/pak43_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Fallen Paladin",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Fallen-Paladin.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/267/pak44_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Pine Forest",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pine-Forest.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/267/pak51_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Shadow Fiend",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow-Fiend.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/267/pak59_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "River Vials",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/River-Vials.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/267/pak58_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Watermelons",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Watermelons.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/267/pak66_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Sora",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sora.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/267/pak67_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Illidan Stormrage",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Illidan-Stormrage.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/267/pak70_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Winter Forest",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Winter-Forest.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/41/Winter.Forest.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Katana In Forest",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Katana-In-Forest.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/42/Katana.In.Forest.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Field Grass",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Field-Grass.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/43/Field.Grass.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Moonflower Field",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Moonflower-Field.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/44/Moonflower.Field.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Nier Automata",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Nier-Automata.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/159/pak20_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Kakehashi Subaru",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Kakehashi-Subaru.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/160/pak29_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Rainy Girl",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rainy-Girl.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/161/pak32_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Nikaido Hiro",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Nikaido-Hiro.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/162/pak45_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Windranger",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Windranger.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/163/pak60_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Garden of Quiet Days",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Garden-of-Quiet-Days.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/pak40_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Cyrene Song",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cyrene-Song.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/166/pak27_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Ayanami Rei",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rei-Ayanami.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/pak33_dir.vpk",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Dead Eyes",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dead-Eyes.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/pak23_dir.vpk",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Old Bus Stop",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Old-Bus-Stop.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/pak50_dir.vpk",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Station",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Station.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/230/pak53_dir.vpk",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Beneath the Seventh",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Beneath-the-Seventh.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/pak69_dir.vpk",
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Malenia",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Malenia.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/pak68_dir.vpk",
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Sakura",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sakura.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/pak52_dir.vpk",
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Corgi Sleeping",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Corgi-Sleeping.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/239/pak42_dir.vpk",
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Minecraft Rain",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Minecraft-Rain.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/234/pak49_dir.vpk",
+      "createdAt": "2026-06-17T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Lelouch Lamperouge",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lelouch-Lamperouge.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/236/pak38_dir.vpk",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Guts",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Guts.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/236/pak48_dir.vpk",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Floating Dog",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Floating-Dog.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/236/pak41_dir.vpk",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Kurumi Tokisaki",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Kurumi-Tokisaki.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/236/pak21_dir.vpk",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Winter",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Winter.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/236/pak17_dir.vpk",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Cloudy Tree",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tree.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/236/pak18_dir.vpk",
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Last Match",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Last-Match.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/237/pak09_dir.vpk",
+      "createdAt": "2026-06-29T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Voice of The International",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Voice-of-The-International.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/27/Voice.of.The.International.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "announcers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Kunkka & Tidehunter",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Kunkka-Tidehunter.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/224/pak10_dir.vpk",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "announcers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Meepo",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Meepo.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/224/pak12_dir.vpk",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "announcers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Lina",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lina.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/224/pak13_dir.vpk",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "announcers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Dark Willow",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Willow.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/224/pak14_dir.vpk",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "announcers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Darkest Dungeon",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Darkest-Dungeon.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/224/pak15_dir.vpk",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "announcers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Tusk",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tusk.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/224/pak18_dir.vpk",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "announcers",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Dark Bounty Rune",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Bounty.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/r2/Dark.Bounty.Rune.zip",
+      "createdAt": "2026-05-21T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "GG Iron Branch",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/gg-branch.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/192/pak20_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Christmas Iron Branch",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Christmas-Branch.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/193/pak68_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Aegis Hearts",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Aegis-Hearts.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/194/pak34_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Purple Dagon",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Purple-Dagon.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/195/pak41_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Blue Dagon",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Blue-Dagon.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/196/pak42_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Winter Dagon",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Winter-Dagon.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/197/pak43_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Green Dagon",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Green-Dagon.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/198/pak12_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "White Ethereal",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/White-Ethereal.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/199/pak49_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI9 Blink Dagger",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI9-Blink-Dagger.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/229/TI9.Blink.Dagger.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI9 Blink Dagger II",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI9-Blink-Dagger-II.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/229/TI9.Blink.Dagger.II.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI8 Blink Dagger",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI8-Blink-Dagger.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/229/TI8.Blink.Dagger.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI8 Blink Dagger II",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI8-Blink-Dagger-II.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/229/TI8.Blink.Dagger.II.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI7 Blink Dagger",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI7-Blink-Dagger.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/229/TI7.Blink.Dagger.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI7 Blink Dagger II",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI7-Blink-Dagger-II.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/229/TI7.Blink.Dagger.II.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI6 Blink Dagger",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI6-Blink-Dagger.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/229/TI6.Blink.Dagger.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI6 Blink Dagger II",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI6-Blink-Dagger-II.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/229/TI6.Blink.Dagger.II.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI10 Blink Dagger",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI10-Blink-Dagger.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/229/TI10.Blink.Dagger.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI10 Blink Dagger II",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI10-Blink-Dagger-II.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/229/TI10.Blink.Dagger.II.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI9 Bottle",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI9-Bottle.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/229/TI9.Bottle.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI8 Bottle",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI8-Bottle.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/229/TI8.Bottle.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI7 Bottle",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI7-Bottle.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/229/TI7.Bottle.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI6 Bottle",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI6-Bottle.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/229/TI6.Bottle.zip",
+      "createdAt": "2026-06-12T00:00:00.000Z",
+      "categoryId": "item-effects",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Enigmatic Emblem of the Diretide - Green",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Enigmatic-Emblem-of-the-Diretide-Green.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/pak28_dir.vpk",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "emblems",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Enigmatic Emblem of the Diretide - Blue",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Enigmatic-Emblem-of-the-Diretide-Blue.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/288/pak35_dir.vpk",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "emblems",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Enigmatic Emblem of the Diretide - Yellow",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Enigmatic-Emblem-of-the-Diretide-Yellow.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/187/pak30_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "emblems",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Enigmatic Emblem of the Diretide - Red",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Enigmatic-Emblem-of-the-Diretide-Red.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/188/pak31_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "emblems",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Battle Pass 2022 Emblem",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Battle-Pass-2022-Emblem.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/bm1/Battle.Pass.2022.Emblem.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "emblems",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Aghanims 2021 Emblem",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Aghanims-2021-Emblem.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/189/pak37_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "emblems",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Emblem of Divinity",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Emblem-of-Divinity.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/190/pak34_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "emblems",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Overgrown Emblem",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Overgrown-Emblem.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/191/pak36_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "emblems",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Emblem of the Crystal Echelon",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Emblem-of-the-Crystal-Echelon.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/233/pak33_dir.vpk",
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "categoryId": "emblems",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Cosmic Roshan",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cosmic-Roshan.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/19/Cosmic.Roshan.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "roshan",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Greevil Grief Roshan",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Greevil-Grief-Roshan.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/211/pak58_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "roshan",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Aghanims Roshan",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Aghanims-Roshan.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/212/pak52_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "roshan",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Gardens Roshan",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Gardens-Roshan.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/213/pak61_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "roshan",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Nedotrax Mega-Kill",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Nedotrax-Mega-Kill.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/mg1/Nedotrax.Mega-Kill.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "mega-kill",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Rick & Morty.",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/rickmorty.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/mg2/Rick.Morty.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "mega-kill",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Gabe Newell",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/gabe.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/mg3/Gabe.Newell.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "mega-kill",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Voice Of The International",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Voice-Of-The-International.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/mg4/Voice.Of.The.International.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "mega-kill",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Siega Mega-Kill",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Siega-Mega-Kill.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/207/pak11_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "mega-kill",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Stray228 Mega-Kill",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Stray228-Mega-Kill.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/208/pak41_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "mega-kill",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "The Stanley Parable",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/The-Stanley-Parable.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/209/pak36_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "mega-kill",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Umbrella Mega Kill",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Umbrella-Mega-Kill.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/210/pak42_dir.vpk",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "mega-kill",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Pyrion Flax",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pyrion-Flax.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/225/pak35_dir.vpk",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "mega-kill",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Storm Spirit",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/storm.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/225/pak25_dir.vpk",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "mega-kill",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Juggernaut",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/jugger.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/225/pak22_dir.vpk",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "mega-kill",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Monkey King",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/mk.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/225/pak20_dir.vpk",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "mega-kill",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Glados",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/portal.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/225/pak26_dir.vpk",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "mega-kill",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "deus ex",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/deusex.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/225/pak31_dir.vpk",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "mega-kill",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Trine",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Trine.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/225/pak37_dir.vpk",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "mega-kill",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Chitoge Kirisaki",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Chitoge-Kirisaki.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/225/pak38_dir.vpk",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "mega-kill",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Soul Deny",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Soul-Deny.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/225/pak11_dir.vpk",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "creep-deny",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Fall 2022 Deny",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Fall-2022-Deny.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/226/pak21_dir.vpk",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "creep-deny",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Spring Deny",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spring-Deny.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/226/pak22_dir.vpk",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "creep-deny",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Fuck Deny",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Fuck-Deny.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/226/pak12_dir.vpk",
+      "createdAt": "2026-06-10T00:00:00.000Z",
+      "categoryId": "creep-deny",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Razor Deny I",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Razor-Deny-I.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Razor.Deny.I.zip",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "categoryId": "creep-deny",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Razor Deny II",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Razor-Deny-II.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Razor.Deny.II.zip",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "categoryId": "creep-deny",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Queen of Pain Deny I",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Queen-of-Pain-Deny-I.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Queen.of.Pain.Deny.I.zip",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "categoryId": "creep-deny",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Queen of Pain Deny II",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Queen-of-Pain-Deny-II.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Queen.of.Pain.Deny.II.zip",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "categoryId": "creep-deny",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Drow Ranger Deny I",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Drow-Ranger-Deny-I.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Drow.Ranger.Deny.I.zip",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "categoryId": "creep-deny",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Drow Ranger Deny II",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Drow-Ranger-Deny-II.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Drow.Ranger.Deny.II.zip",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "categoryId": "creep-deny",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Spectre Deny I",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spectre-Deny-I.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Spectre.Deny.I.zip",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "categoryId": "creep-deny",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Spectre Deny II",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spectre-Deny-II.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/Spectre.Deny.II.zip",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "categoryId": "creep-deny",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Nemestice Ranged Attack",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Nemestice-Ranged-Attack.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/265/pak13_dir.vpk",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "ranged-attack",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Techies Mine Radius",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Techies-Mine-Radius.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/t1/Techies.Mine.Radius.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "other",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Tower re-aggro Radius",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tower-re-aggro-Radius.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/28/Tower.re-aggro.Radius.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "other",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Profile Graffiti & Phrases",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-05-21-16-45-38.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/30/Profile.Graffiti.Phrases.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "other",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Rage Voice Icon",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Rage-Voice-Icon.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/31/Rage.Voice.Icon.zip",
+      "createdAt": "2026-05-15T00:00:00.000Z",
+      "categoryId": "other",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Showcase Rotation",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Showcase-Rotation.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/pak11_dir.vpk",
+      "createdAt": "2026-07-28T00:00:00.000Z",
+      "categoryId": "other",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Gabe Shopkeeper",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Gabe-Shopkeeper.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/pak13_dir.vpk",
+      "createdAt": "2026-07-28T00:00:00.000Z",
+      "categoryId": "other",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Necronub Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Necronub-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/268/Necronub.Cursor.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI 8 Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI8-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/200/TI8.Cursor.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI 7 Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI7-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/201/TI7.Cursor.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI 6 Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI6-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/202/TI6.Cursor.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI 5 Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI5-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/203/TI5.Cursor.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Acid Hydra Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dcveno-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/204/Dcveno.Cursor.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Warcog Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Clockwerk-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/205/Clockwerk.Cursor.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Crystal Maiden Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crystal-Maiden-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/206/Crystal.Maiden.Cursor.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Earthshaker Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Earthshaker-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/268/Earthshaker.Cursor.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Diretide Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Diretide-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/268/Diretide.Cursor.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Emerald Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Emerald-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/268/Emerald.Cursor.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "TI9 Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/TI9-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/268/TI9.Cursor.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Holy Flame Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Holy-Flame-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/268/Holy.Flame.Cursor.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Centaur Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Centaur-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/268/Centaur.Cursor.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Chaos Knight Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Chaos-Knight-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/268/Chaos.Knight.Cursor.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Mirana Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mirana-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/268/Mirana.Cursor.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Bts3 Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bts3-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/268/Bts3.Cursor.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Skywrath Mage Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Skywrath-Mage-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/268/Skywrath.Mage.Cursor.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Timbersaw Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Timbersaw-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/268/Timbersaw.Cursor.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Vengeful Spirit Cursor",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Vengeful-Spirit-Cursor.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/268/Vengeful.Spirit.Cursor.zip",
+      "createdAt": "2026-07-16T00:00:00.000Z",
+      "categoryId": "cursors",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Stone Trees",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Stone-Trees.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/37/Stone.Trees.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "trees",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Wooden Trees",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wooden-Trees.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/38/Wooden.Trees.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "trees",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Crystals Trees",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crystals-Trees.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/39/Crystals.Trees.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "trees",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Pumpkin Trees",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pumpkin-Trees.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/40/Pumpkin.Trees.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "trees",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "LowPoly Barrel Trees",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Low-Poly-Barrel-Trees.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/pak21_dir.vpk",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "categoryId": "trees",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "LowPoly Shrub Trees",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Low-Poly-Shrub-Trees.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/247/pak19_dir.vpk",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "categoryId": "trees",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Cone Trees",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cone-Trees.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/248/pak18_dir.vpk",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "categoryId": "trees",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Pine Cone Trees",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pine-Cone-Trees.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/248/pak17_dir.vpk",
+      "createdAt": "2026-07-10T00:00:00.000Z",
+      "categoryId": "trees",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Woodland Dire Siege",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Woodland-Dire-Siege.webp",
+      "file": "https://github.com.artem-prime42/dota2-mods/releases/download/99/Woodland.Dire.Siege.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "creeps",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Crownfall Dire Siege",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crownfall-Dire-Siege.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/100/Crownfall.Dire.Siege.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "creeps",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Woodland Dire Creeps",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Woodland-Dire.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/101/Woodland.Dire.Creeps.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "creeps",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Crownfall Dire Creeps",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crownfall-Dire.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/102/Crownfall.Dire.Creeps.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "creeps",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Woodland Radiant Siege",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Woodland-Radiant-Siege.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/103/Woodland.Radiant.Siege.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "creeps",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Woodland Radiant Creeps",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Woodland-Radiant.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/104/Woodland.Radiant.Creeps.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "creeps",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Crownfall Radiant Siege",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crownfall-Radiant-Siege.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/105/Crownfall.Radiant.Siege.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "creeps",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Crownfall Radiant Creeps",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crownfall-Radiant.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/106/Crownfall.Radiant.Creeps.zip",
+      "createdAt": "2026-06-04T00:00:00.000Z",
+      "categoryId": "creeps",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Dark Carnival Radiant Creeps",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Carnival-Radiant-Creeps.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/237/pak29_dir.vpk",
+      "createdAt": "2026-06-29T00:00:00.000Z",
+      "categoryId": "creeps",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Dark Carnival Dire Creeps",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Carnival-Dire-Creeps.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/237/pak30_dir.vpk",
+      "createdAt": "2026-06-29T00:00:00.000Z",
+      "categoryId": "creeps",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Dark Carnival Radiant Siege",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Carnival-Radiant-Siege.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/237/pak31_dir.vpk",
+      "createdAt": "2026-06-29T00:00:00.000Z",
+      "categoryId": "creeps",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "Dark Carnival Dire Siege",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dark-Carnival-Dire-Siege.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/238/pak32_dir.vpk",
+      "createdAt": "2026-06-29T00:00:00.000Z",
+      "categoryId": "creeps",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "High Five Aghanim Puppet",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/High-Five-Aghanim-Puppet.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/241/pak10_dir.vpk",
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "categoryId": "high-five",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    },
+    {
+      "name": "High Five Crownfall",
+      "author": "dota2pornfx",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/High-Five-Crownfall.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/241/pak11_dir.vpk",
+      "createdAt": "2026-07-02T00:00:00.000Z",
+      "categoryId": "high-five",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    }
+  ]
+}
