@@ -3,6 +3,177 @@
     "modsData": {
       "heroes": [
         {
+          "name": "Immortal Grimstroke",
+          "author": "hi",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal Grimstroke.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/299/Immortal.Grimstroke.zip",
+          "createdAt": "2026-09-24T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "grimstroke",
+          "heroLabel": "Grimstroke",
+          "slot": "set",
+          "tags": [
+            "immortal"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Lina Soul Slayer Immortal",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lina Soul Slayer Immortal.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/299/Lina.Soul.Slayer.Immortal.zip",
+          "createdAt": "2026-09-24T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "lina",
+          "heroLabel": "Lina",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Mars Crimson Set",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mars Crimson Set.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/299/Mars.Crimson.Set.zip",
+          "createdAt": "2026-09-24T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "mars",
+          "heroLabel": "Mars",
+          "slot": "set",
+          "tags": [
+            "immortal"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Lifestealer Red Immortal",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lifestealer Red Immortal.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/299/Lifestealer.Red.Immortal.zip",
+          "createdAt": "2026-09-24T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "life_stealer",
+          "heroLabel": "Lifestealer",
+          "slot": "set",
+          "tags": [
+            "immortal"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Terrorblade Arcana Midnight Blue",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Arcana Midnight Blue.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/299/Terrorblade.Arcana.Midnight.Blue.zip",
+          "createdAt": "2026-09-24T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "terrorblade",
+          "heroLabel": "Terrorblade",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Terrorblade Arcana Plushy Shag",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Arcana Plushy Shag.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/299/Terrorblade.Arcana.Plushy.Shag.zip",
+          "createdAt": "2026-09-24T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "terrorblade",
+          "heroLabel": "Terrorblade",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Beastmaster Prismatic Bone",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Beastmaster Prismatic Bone.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/299/Beastmaster.Prismatic.Bone.zip",
+          "createdAt": "2026-09-24T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "beastmaster",
+          "heroLabel": "Beastmaster",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Princess Naga Siren",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Princess Naga Siren.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/299/Princess.Naga.Siren.zip",
+          "createdAt": "2026-09-24T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "naga_siren",
+          "heroLabel": "Naga Siren",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Spectre Immortal Arcana",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Spectre Immortal Arcana.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/299/Spectre.Immortal.Arcana.zip",
+          "createdAt": "2026-09-24T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "spectre",
+          "heroLabel": "Spectre",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Drow Ranger Master Of Madness",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Drow Ranger Master Of Madness.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/299/Drow.Ranger.Master.Of.Madness.zip",
+          "createdAt": "2026-09-24T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "drow_ranger",
+          "heroLabel": "Drow Ranger",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Razor Stormlord Reborn",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Razor Stormlord Reborn.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/299/Razor.Stormlord.Reborn.zip",
+          "createdAt": "2026-09-24T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "razor",
+          "heroLabel": "Razor",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Unusual Northern Blight Style",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker Frostbloom.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/299/Invoker.Frostbloom.zip",
+          "createdAt": "2026-09-24T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "invoker",
+          "heroLabel": "Invoker",
+          "slot": "head",
+          "downloads": 0
+        },
+        {
           "name": "Anti-Mage Manta",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Anti-Mage Manta.webp",
