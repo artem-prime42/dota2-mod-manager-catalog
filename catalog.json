@@ -3,6 +3,90 @@
     "modsData": {
       "heroes": [
         {
+          "name": "Prize of the Saltworn Mariner Ghostly",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Prize of the Saltworn Mariner Ghostly.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/301/Kunkka.Saltworn.Mariner.II.zip",
+          "createdAt": "2026-09-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "kunkka",
+          "heroLabel": "Kunkka",
+          "slot": "shoulders",
+          "tags": [
+            "immortal"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Prize of the Saltworn Mariner",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Kunkka - PRIZE OF THE SALTWORN MARINER.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/301/Kunkka.Saltworn.Mariner.zip",
+          "createdAt": "2026-09-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "kunkka",
+          "heroLabel": "Kunkka",
+          "slot": "shoulders",
+          "tags": [
+            "immortal"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Windranger Arcana Prismatic",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Windranger Arcana Prismatic.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/301/Windranger.Arcana.Prismatic.zip",
+          "createdAt": "2026-09-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "windranger",
+          "heroLabel": "Windranger",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Nyx Assassin Mecha Nyx",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Nyx Assassin - Mecha Nyx.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/301/Nyx.Assassin.-.Mecha.Nyx.zip",
+          "createdAt": "2026-09-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "nyx_assassin",
+          "heroLabel": "Nyx Assassin",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Anti Mage Forgotten Planes",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Anti-Mage Forgotten Planes.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/301/Omniknight.Immortal.zip",
+          "createdAt": "2026-09-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "anti_mage",
+          "heroLabel": "Anti-Mage",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Omniknight Immortal",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Omniknight Immortal.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/301/Omniknight.Immortal.zip",
+          "createdAt": "2026-09-25T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "omniknight",
+          "heroLabel": "Omniknight",
+          "slot": "set",
+          "tags": [
+            "immortal"
+          ],
+          "downloads": 0
+        },
+        {
           "name": "Vengeful Spirit Queen Imperia",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Vengeful Spirit Queen Imperia.webp",
