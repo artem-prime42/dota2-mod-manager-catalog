@@ -3,6 +3,66 @@
     "modsData": {
       "heroes": [
         {
+          "name": "Mask of the Forgotten Plane",
+          "author": "Papapodzaborniy",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/MASK OF THE FORGOTTEN PLANE.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/303/Mask.of.the.Forgotten.Plane.zip",
+          "createdAt": "2026-09-26T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "anti_mage",
+          "heroLabel": "Anti Mage",
+          "slot": "head",
+          "downloads": 0
+        },
+        {
+          "name": "Shadow Weapon of the Forgotten Plane",
+          "author": "Papapodzaborniy",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow Weapon of the Forgotten Plane.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/303/Shadow.Weapon.of.the.Forgotten.Plane.zip",
+          "createdAt": "2026-09-26T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "anti_mage",
+          "heroLabel": "Anti Mage",
+          "slot": "weapon",
+          "downloads": 0
+        },
+        {
+          "name": "Off-Hand Weapon of the Forgotten Plane",
+          "author": "Papapodzaborniy",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Off-Hand Weapon Of The Forgotten Plane.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/303/Off-Hand.Weapon.of.the.Forgotten.Plane.zip",
+          "createdAt": "2026-09-26T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "anti_mage",
+          "heroLabel": "Anti Mage",
+          "slot": "off_hand",
+          "downloads": 0
+        },
+        {
+          "name": "Armor of the Spectral Hunter",
+          "author": "Papapodzaborniy",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Armor Of The Spectral Hunter.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/303/Armor.of.the.Spectral.Hunter.zip",
+          "createdAt": "2026-09-26T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "anti_mage",
+          "heroLabel": "Anti Mage",
+          "slot": "armor",
+          "downloads": 0
+        },
+        {
+          "name": "Anti Mage Spectral Survivor",
+          "author": "Papapodzaborniy",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Anti Mage Spectral Survivor.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/303/Anti.Mage.Spectral.Survivor.zip",
+          "createdAt": "2026-09-26T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "anti_mage",
+          "heroLabel": "Anti Mage",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
           "name": "Phantom Assassin Athena",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Phantom Assassin Athena.webp",
