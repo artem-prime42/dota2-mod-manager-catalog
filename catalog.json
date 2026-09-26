@@ -3,6 +3,66 @@
     "modsData": {
       "heroes": [
         {
+          "name": "Pudge Abscession Immortal",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge Abscession Immortal.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/302/Pudge.Abscession.Immortal.zip",
+          "createdAt": "2026-09-26T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "pudge",
+          "heroLabel": "Pudge",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Juggernaut Provocation Arcana",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Juggernaut Provocation Arcana.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/302/Juggernaut.Provocation.Arcana.zip",
+          "createdAt": "2026-09-26T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "juggernaut",
+          "heroLabel": "Juggernaut",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Immortal Troll Warlord",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Immortal Troll Warlord.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/302/Immortal.Troll.Warlord.zip",
+          "createdAt": "2026-09-26T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "troll_warlord",
+          "heroLabel": "Troll Warlord",
+          "slot": "set",
+          "tags": [
+            "immortal"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Blade of Tears",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Blade Of Tears.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/302/Morphling.Blade.Of.Tears.zip",
+          "createdAt": "2026-09-26T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "morphling",
+          "heroLabel": "Morphling",
+          "slot": "hands",
+          "tags": [
+            "immortal"
+          ],
+          "downloads": 0
+        },
+        {
           "name": "Prize of the Saltworn Mariner Ghostly",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Prize of the Saltworn Mariner Ghostly.webp",
@@ -7970,18 +8030,6 @@
           "heroLabel": "Kez",
           "slot": "head",
           "downloads": 40
-        },
-        {
-          "name": "Kez Wandering Performer",
-          "author": "Papapodzaborniy",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Kez Wandering Performer.png",
-          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/301/Kez.Wandering.Performer.zip",
-          "createdAt": "2026-09-25T00:00:00.000Z",
-          "categoryId": "heroes",
-          "hero": "kez",
-          "heroLabel": "Kez",
-          "slot": "set",
-          "downloads": 0
         },
         {
           "name": "Lycan Red Wolf Clan",
