@@ -3,6 +3,21 @@
     "modsData": {
       "heroes": [
         {
+          "name": "Techies Pink Arcana",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Techies Pink Arcana.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/302/Techies.Pink.Arcana.zip",
+          "createdAt": "2026-09-26T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "techies",
+          "heroLabel": "Techies",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
           "name": "Pudge Abscession Immortal",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge Abscession Immortal.webp",
