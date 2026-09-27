@@ -891,6 +891,17 @@
           "downloads": 385
         },
         {
+          "name": "Abaddon Endless Night",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Abaddon Endless Night.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/303/Abaddon.Endless.Night.Reborn.zip",
+          "createdAt": "2026-09-27T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "abaddon",
+          "heroLabel": "Abaddon",
+          "slot": "set"
+        },
+        {
           "name": "Abaddon Fallen King",
           "author": "Darkness",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Abaddon-Fallen-King.webp",
@@ -9485,6 +9496,20 @@
           "heroLabel": "Bane",
           "slot": "set",
           "downloads": 486
+        },
+        {
+          "name": "Bane Immortal",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bane Immortal.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/303/Bane.Immortal.zip",
+          "createdAt": "2026-09-27T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "bane",
+          "heroLabel": "Bane",
+          "slot": "set",
+          "tags": [
+            "Immortal"
+          ]
         },
         {
           "name": "Lion Hell-Spar Anathema Purple",
