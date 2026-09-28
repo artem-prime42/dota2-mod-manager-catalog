@@ -3,6 +3,75 @@
     "modsData": {
       "heroes": [
         {
+          "name": "Keeper Of The Light BMW",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper Of The Light BMW.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/304/Keeper.Of.The.Light.BMW.zip",
+          "createdAt": "2026-09-28T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "keeper_of_the_light",
+          "heroLabel": "Keeper Of The Light",
+          "slot": "mount",
+          "downloads": 0
+        },
+        {
+          "name": "Juggernaut Ancient Arcana",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Juggernaut Ancient Arcana.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/304/Juggernaut.Ancient.Arcana.zip",
+          "createdAt": "2026-09-28T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "juggernaut",
+          "heroLabel": "Juggernaut",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Juggernaut Lineage Kantusa",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Juggernaut Lineage Kantusa.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/304/Juggernaut.Lineage.Kantusa.zip",
+          "createdAt": "2026-09-28T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "juggernaut",
+          "heroLabel": "Juggernaut",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Arc Warden Frosty Toy",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Arc Warden Frosty Toy.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/304/Arc.Warden.Frosty.Toy.zip",
+          "createdAt": "2026-09-28T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "arc_warden",
+          "heroLabel": "Arc Warden",
+          "slot": "set",
+          "tags": [
+            "immortal"
+          ],
+          "downloads": 0
+        },
+        {
+          "name": "Phoenix Vermillion Crucible",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Phoenix Vermillion Crucible.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/304/Phoenix.Vermillion.Crucible.zip",
+          "createdAt": "2026-09-28T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "phoenix",
+          "heroLabel": "Phoenix",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
           "name": "Mask of the Forgotten Plane",
           "author": "Papapodzaborniy",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/MASK OF THE FORGOTTEN PLANE.webp",
