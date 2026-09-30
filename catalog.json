@@ -45,6 +45,21 @@
           "downloads": 39
         },
         {
+          "name": "Juggernaut Aura",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Juggernaut Aura.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/Juggernaut.Aura.zip",
+          "createdAt": "2026-09-30T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "juggernaut",
+          "heroLabel": "Juggernaut",
+          "slot": "set",
+          "tags": [
+            "arcana"
+          ],
+          "downloads": 0
+        },
+        {
           "name": "Arc Warden Frosty Toy",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Arc Warden Frosty Toy.webp",
@@ -4416,6 +4431,21 @@
           "heroLabel": "Anti Mage",
           "slot": "set",
           "downloads": 125
+        },
+        {
+          "name": "Anti Mage Fervent Conscript",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Anti Mage Fervent Conscript.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/Anti-Mage.Fervent.Conscript.zip",
+          "createdAt": "2026-09-30T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "anti_mage",
+          "heroLabel": "Anti Mage",
+          "slot": "set",
+          "tags": [
+            "immortal"
+          ],
+          "downloads": 0
         },
         {
           "name": "Anti Mage Blue Illidan",
@@ -9043,6 +9073,18 @@
           "downloads": 557
         },
         {
+          "name": "Enchantress Golubika",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Enchantress Golubika.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/Enchantress.Golubika.zip",
+          "createdAt": "2026-09-30T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "enchantress",
+          "heroLabel": "Enchantress",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
           "name": "Void Spirit Hidden Vector",
           "tags": [
             "Immortal"
@@ -11778,6 +11820,18 @@
             "tags": [
               "Immortal"
             ]
+          },
+          {
+            "name": "Morphling Akulenok",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling Akulenok.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/Morphling.Akulenok.zip",
+            "createdAt": "2026-09-30T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "morphling",
+            "heroLabel": "Morphling",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "troll_warlord": [
@@ -13529,6 +13583,20 @@
             "hero": "anti_mage",
             "heroLabel": "Anti Mage",
             "slot": "set"
+          },
+          {
+            "name": "Anti Mage Fervent Conscript",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Anti Mage Fervent Conscript.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/Anti-Mage.Fervent.Conscript.zip",
+            "createdAt": "2026-09-30T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "anti_mage",
+            "heroLabel": "Anti Mage",
+            "slot": "set",
+            "tags": [
+              "immortal"
+            ]
           },
           {
             "name": "Anti Mage Blue Illidan",
@@ -17858,6 +17926,18 @@
             "hero": "enchantress",
             "heroLabel": "Enchantress",
             "slot": "set"
+          },
+          {
+            "name": "Enchantress Golubika",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Enchantress Golubika.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/Enchantress.Golubika.zip",
+            "createdAt": "2026-09-30T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "enchantress",
+            "heroLabel": "Enchantress",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "void_spirit": [
@@ -24325,6 +24405,18 @@
         "tags": [
           "Immortal"
         ]
+      },
+      {
+        "name": "Morphling Akulenok",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling Akulenok.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/Morphling.Akulenok.zip",
+        "createdAt": "2026-09-30T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "morphling",
+        "heroLabel": "Morphling",
+        "slot": "set",
+        "downloads": 0
       },
       {
         "name": "Storm Spirit Mode Lorenof",
