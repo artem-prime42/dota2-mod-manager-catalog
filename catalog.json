@@ -2379,6 +2379,21 @@
           "downloads": 216
         },
         {
+          "name": "Everglyph Goggles of the Crimson Witness",
+          "author": "Papapodzaborniy",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Everglyph Goggles of the Crimson Witness.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/305/Everglyph.Goggles.of.the.Crimson.Witness.zip",
+          "createdAt": "2026-09-30T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "meepo",
+          "heroLabel": "Meepo",
+          "slot": "head",
+          "tags": [
+            "immortal"
+          ],
+          "downloads": 0
+        },
+        {
           "name": "Doom Jeanne Alter",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Doom-Jeanne-Alter.webp",
