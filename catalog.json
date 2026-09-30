@@ -5749,6 +5749,18 @@
           "downloads": 590
         },
         {
+          "name": "Gawr Gura Anime Axe",
+          "author": "endless13",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Gawr Gura Anime Axe1.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/gawr.gura.anime.axe.zip",
+          "createdAt": "2026-09-30T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "axe",
+          "heroLabel": "Axe",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
           "name": "Windranger Autumn Arcana",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Windranger-Autumn-Arcana.webp",
