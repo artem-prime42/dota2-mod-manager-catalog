@@ -168,6 +168,9 @@
           "hero": "phantom_assassin",
           "heroLabel": "Phantom Assassin",
           "slot": "set",
+          "tags": [
+            "arcana"
+          ],
           "downloads": 0
         },
         {
