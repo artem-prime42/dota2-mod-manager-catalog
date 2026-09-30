@@ -132,6 +132,18 @@
           "downloads": 32
         },
         {
+          "name": "Anti Mage Persona Sakura",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Anti Mage Persona Sakura.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/305/Anti-Mage.Persona.Sakura.zip",
+          "createdAt": "2026-09-30T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "anti_mage",
+          "heroLabel": "Anti Mage",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
           "name": "Phantom Assassin Athena",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Phantom Assassin Athena.webp",
