@@ -12,5 +12,17 @@
   "links": {
     "github": "https://github.com/endless13448"
   },
-  "mods": []
+  "mods": [
+    {
+      "name": "Experiments Lain",
+      "author": "endless13",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Experiments Lain.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/Experiments.Lain.zip",
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "categoryId": "backgrounds",
+      "hero": null,
+      "heroLabel": null,
+      "slot": null
+    }
+  ]
 }
