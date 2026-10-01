@@ -3,6 +3,18 @@
     "modsData": {
       "heroes": [
         {
+          "name": "Lina Sharm Lady",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lina - LINA SHARM LADY.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/Lina.Sharm.Lady.zip",
+          "createdAt": "2026-10-02T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "lina",
+          "heroLabel": "Lina",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
           "name": "Huskar Bleeding Edge",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Huskar Bleeding Edge.webp",
