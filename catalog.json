@@ -609,6 +609,18 @@
           "downloads": 115
         },
         {
+          "name": "Terrorblade Fire",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Fire.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/Terrorblade.Fire.zip",
+          "createdAt": "2026-10-01T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "terrorblade",
+          "heroLabel": "Terrorblade",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
           "name": "Beastmaster Prismatic Bone",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Beastmaster Prismatic Bone.webp",
@@ -3433,6 +3445,21 @@
           "heroLabel": "Storm Spirit",
           "slot": "set",
           "downloads": 100
+        },
+        {
+          "name": "Storm spirit Avice",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Storm Spirit Avice.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/Storm.Spirit.Avice.zip",
+          "createdAt": "2026-10-01T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "storm_spirit",
+          "heroLabel": "Storm Spirit",
+          "slot": "set",
+          "tags": [
+            "Immortal"
+          ],
+          "downloads": 0
         },
         {
           "name": "Naga Siren Call of the Coral Cultist",
@@ -11503,6 +11530,18 @@
             ]
           },
           {
+            "name": "Terrorblade Fire",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Fire.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/Terrorblade.Fire.zip",
+            "createdAt": "2026-10-01T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "terrorblade",
+            "heroLabel": "Terrorblade",
+            "slot": "set",
+            "downloads": 0
+          },
+          {
             "name": "Wings of the Foulfell Corruptor",
             "author": "Papapodzaborniy",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wings of the Foulfell Corruptor.webp",
@@ -12622,6 +12661,21 @@
             "hero": "storm_spirit",
             "heroLabel": "Storm Spirit",
             "slot": "set"
+          },
+          {
+            "name": "Storm spirit Avice",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Storm Spirit Avice.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/Storm.Spirit.Avice.zip",
+            "createdAt": "2026-10-01T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "storm_spirit",
+            "heroLabel": "Storm Spirit",
+            "slot": "set",
+            "tags": [
+              "Immortal"
+            ],
+            "downloads": 0
           }
         ],
         "naga_siren": [
