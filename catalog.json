@@ -3,6 +3,57 @@
     "modsData": {
       "heroes": [
         {
+          "name": "Storm spirit Avice",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Storm Spirit Avice.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/Storm.Spirit.Avice.zip",
+          "createdAt": "2026-10-01T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "storm_spirit",
+          "heroLabel": "Storm Spirit",
+          "slot": "set",
+          "tags": [
+            "Immortal"
+          ],
+          "downloads": 100
+        },
+        {
+          "name": "Terrorblade Fire",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Fire.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/Terrorblade.Fire.zip",
+          "createdAt": "2026-10-01T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "terrorblade",
+          "heroLabel": "Terrorblade",
+          "slot": "set",
+          "downloads": 115
+        },
+        {
+          "name": "Lina Sharm Lady",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lina - LINA SHARM LADY.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/Lina.Sharm.Lady.zip",
+          "createdAt": "2026-10-02T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "lina",
+          "heroLabel": "Lina",
+          "slot": "set",
+          "downloads": 5
+        },
+        {
+          "name": "Huskar Bleeding Edge",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Huskar Bleeding Edge.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/Huskar.Bleeding.Edge.zip",
+          "createdAt": "2026-10-01T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "huskar",
+          "heroLabel": "Huskar",
+          "slot": "set",
+          "downloads": 5
+        },
+        {
           "name": "Keeper Of The Light BMW",
           "author": "Anonymous",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper Of The Light BMW.webp",
