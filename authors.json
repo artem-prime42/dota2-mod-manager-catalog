@@ -84,6 +84,11 @@
       "nick": "endless13",
       "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/endless13.jpg",
       "page": "authors/endless13.json"
+    },
+    {
+      "nick": "harlord",
+      "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/harold.jpg",
+      "page": "authors/harlord.json"
     }
   ]
 }

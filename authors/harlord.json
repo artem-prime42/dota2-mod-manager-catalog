@@ -1,0 +1,171 @@
+{
+  "id": "harlord",
+  "nick": "harlord",
+  "displayName": "harlord",
+  "photo": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/harold.jpg",
+  "bio": "",
+  "website": null,
+  "github": null,
+  "telegram": "https://t.me/harlord_mods",
+  "discord": null,
+  "authorLink": null,
+  "links": {
+    "telegram": "https://t.me/harlord_mods"
+  },
+  "mods": [
+    {
+      "name": "Storm spirit Avice",
+      "author": "harlord",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Storm Spirit Avice.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/Storm.Spirit.Avice.zip",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "storm_spirit",
+      "heroLabel": "Storm Spirit",
+      "slot": "set"
+    },
+    {
+      "name": "Huskar Bleeding Edge",
+      "author": "harlord",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Huskar Bleeding Edge.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/306/Huskar.Bleeding.Edge.zip",
+      "createdAt": "2026-10-01T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "huskar",
+      "heroLabel": "Huskar",
+      "slot": "set"
+    },
+    {
+      "name": "Nyx Assassin Mecha Nyx",
+      "author": "harlord",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Nyx Assassin - Mecha Nyx.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/301/Nyx.Assassin.-.Mecha.Nyx.zip",
+      "createdAt": "2026-09-25T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "nyx_assassin",
+      "heroLabel": "Nyx Assassin",
+      "slot": "set"
+    },
+    {
+      "name": "Omniknight Immortal",
+      "author": "harlord",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Omniknight Immortal.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/301/Omniknight.Immortal.zip",
+      "createdAt": "2026-09-25T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "omniknight",
+      "heroLabel": "Omniknight",
+      "slot": "set"
+    },
+    {
+      "name": "Mars Crimson Set",
+      "author": "harlord",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Mars Crimson Set.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/299/Mars.Crimson.Set.zip",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "mars",
+      "heroLabel": "Mars",
+      "slot": "set"
+    },
+    {
+      "name": "Terrorblade Arcana Midnight Blue",
+      "author": "harlord",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Arcana Midnight Blue.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/299/Terrorblade.Arcana.Midnight.Blue.zip",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "terrorblade",
+      "heroLabel": "Terrorblade",
+      "slot": "set"
+    },
+    {
+      "name": "Terrorblade Arcana Plushy Shag",
+      "author": "harlord",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Arcana Plushy Shag.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/299/Terrorblade.Arcana.Plushy.Shag.zip",
+      "createdAt": "2026-09-24T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "terrorblade",
+      "heroLabel": "Terrorblade",
+      "slot": "set"
+    },
+    {
+      "name": "Terrorblade Arcana Deep Blue",
+      "author": "harlord",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Arcana Deep Blue.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/307/Terrorblade.Arcana.Deep.Blue.zip",
+      "createdAt": "2026-10-02T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "terrorblade",
+      "heroLabel": "Terrorblade",
+      "slot": "set"
+    },
+    {
+      "name": "Terrorblade Arcana Dungeon Doom",
+      "author": "harlord",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Arcana Dungeon Doom.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/307/Terrorblade.Arcana.Dungeon.Doom.zip",
+      "createdAt": "2026-10-02T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "terrorblade",
+      "heroLabel": "Terrorblade",
+      "slot": "set"
+    },
+    {
+      "name": "Terrorblade Arcana Explosive Red",
+      "author": "harlord",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Arcana Explosive Red.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/307/Terrorblade.Arcana.Explosive.Red.zip",
+      "createdAt": "2026-10-02T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "terrorblade",
+      "heroLabel": "Terrorblade",
+      "slot": "set"
+    },
+    {
+      "name": "Terrorblade Arcana Lime",
+      "author": "harlord",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Arcana Lime.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/307/Terrorblade.Arcana.Lime.zip",
+      "createdAt": "2026-10-02T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "terrorblade",
+      "heroLabel": "Terrorblade",
+      "slot": "set"
+    },
+    {
+      "name": "Terrorblade Arcana Placid Blue",
+      "author": "harlord",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Arcana Placid Blue.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/307/Terrorblade.Arcana.Placid.Blue.zip",
+      "createdAt": "2026-10-02T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "terrorblade",
+      "heroLabel": "Terrorblade",
+      "slot": "set"
+    },
+    {
+      "name": "Terrorblade Arcana Rubiline",
+      "author": "harlord",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Arcana Rubiline.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/307/Terrorblade.Arcana.Rubiline.zip",
+      "createdAt": "2026-10-02T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "terrorblade",
+      "heroLabel": "Terrorblade",
+      "slot": "set"
+    },
+    {
+      "name": "Terrorblade Arcana Tiffany",
+      "author": "harlord",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Terrorblade Arcana Tiffany.jpg",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/307/Terrorblade.Arcana.Tiffany.zip",
+      "createdAt": "2026-10-02T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "terrorblade",
+      "heroLabel": "Terrorblade",
+      "slot": "set"
+    }
+  ]
+}
