@@ -3,6 +3,30 @@
     "modsData": {
       "heroes": [
         {
+          "name": "Hood of Endless Intellect",
+          "author": "Papapodzaborniy",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hood of Endless Intellect.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/309/Hood.of.Endless.Intellect.zip",
+          "createdAt": "2026-10-03T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "invoker",
+          "heroLabel": "Invoker",
+          "slot": "head",
+          "downloads": 0
+        },
+        {
+          "name": "Wyrdwing Exaltation - Shoulder Exort",
+          "author": "Papapodzaborniy",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wyrdwing Exaltation - Shoulder Exort.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/309/Wyrdwing.Exaltation.-.Shoulder.Exort.zip",
+          "createdAt": "2026-10-03T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "invoker",
+          "heroLabel": "Invoker",
+          "slot": "shoulders",
+          "downloads": 0
+        },
+        {
           "name": "Batrider Verna Frostbloom",
           "author": "harlord",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Batrider Verna Frostbloom.webp",
