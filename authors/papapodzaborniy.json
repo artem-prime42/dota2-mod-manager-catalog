@@ -438,6 +438,18 @@
       "hero": "dark_seer",
       "heroLabel": "Dark Seer",
       "slot": "set"
+    },
+    {
+      "id": "crimson-ronin",
+      "modType": "theme",
+      "name": "Crimson Ronin Theme",
+      "author": "Papapodzaborniy",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crimson%20Ronin%20Theme.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/Themes/crimson-ronin-theme.zip",
+      "createdAt": "2026-10-04T00:00:00.000Z",
+      "categoryId": "themes",
+      "version": "1.0.0",
+      "description": "Почти чёрная палитра, прозрачные поверхности, мягкий blur и контрастные красные акценты."
     }
   ],
   "steam": "https://steamcommunity.com/id/papapodzaborniy",

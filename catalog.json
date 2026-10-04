@@ -35751,5 +35751,64 @@
       }
     ]
   },
-  "guides": {}
+  "guides": {},
+  "themes": [
+    {
+      "id": "crimson-ronin",
+      "name": "Crimson Ronin Theme",
+      "author": "Papapodzaborniy",
+      "version": "1.0.0",
+      "description": "Почти чёрная палитра, прозрачные поверхности, мягкий blur и контрастные красные акценты.",
+      "previewUrl": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crimson%20Ronin%20Theme.png",
+      "downloadUrl": "https://github.com/artem-prime42/dota2-mods/releases/download/Themes/crimson-ronin-theme.zip",
+      "createdAt": "2026-10-04T00:00:00.000Z",
+      "colors": {
+        "background": "#070607",
+        "surface": "rgba(12, 8, 9, 0.78)",
+        "surfaceElevated": "rgba(22, 12, 14, 0.86)",
+        "surfaceHover": "rgba(45, 14, 18, 0.88)",
+        "surfaceActive": "rgba(65, 16, 21, 0.92)",
+        "text": "#f5eeee",
+        "textMuted": "#a99396",
+        "textDisabled": "#66575a",
+        "border": "rgba(170, 35, 45, 0.28)",
+        "accent": "#d7192d",
+        "accentHover": "#f02a3e",
+        "accentActive": "#a90f20",
+        "success": "#55c982",
+        "warning": "#e6b84a",
+        "danger": "#ef3340",
+        "overlay": "rgba(3, 2, 3, 0.72)",
+        "shadow": "rgba(0, 0, 0, 0.68)",
+        "input": "rgba(8, 6, 7, 0.78)",
+        "button": "#c91429",
+        "card": "rgba(16, 9, 11, 0.76)",
+        "sidebar": "rgba(7, 5, 6, 0.84)",
+        "modal": "rgba(15, 8, 10, 0.94)",
+        "tooltip": "rgba(24, 11, 14, 0.96)",
+        "scrollbar": "#55151d",
+        "focus": "#e52a3c"
+      },
+      "background": {
+        "position": "center",
+        "size": "cover",
+        "repeat": "no-repeat",
+        "opacity": 0.72,
+        "overlay": "rgba(5, 2, 3, 0.52)"
+      },
+      "effects": {
+        "blurSurface": 18,
+        "blurSidebar": 24,
+        "blurModal": 24,
+        "shadowSmall": "rgba(0, 0, 0, 0.35)",
+        "shadowMedium": "rgba(0, 0, 0, 0.55)",
+        "shadowLarge": "rgba(0, 0, 0, 0.72)"
+      },
+      "shape": {
+        "radiusSmall": 6,
+        "radiusMedium": 11,
+        "radiusLarge": 18
+      }
+    }
+  ]
 }
