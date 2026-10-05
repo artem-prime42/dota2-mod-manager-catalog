@@ -3177,6 +3177,21 @@
           "downloads": 1587
         },
         {
+          "name": "Zeus Immortal Arcana",
+          "tags": [
+            "Arcana"
+          ],
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Zeus Immortal Arcana.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Zeus.Immortal.Arcana.zip",
+          "createdAt": "2026-10-05T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "zeus",
+          "heroLabel": "Zeus",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
           "name": "Cosmic Zeus",
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cosmic-Zeus.webp",
@@ -4803,6 +4818,21 @@
           "downloads": 533
         },
         {
+          "name": "Kunkka Leviathan",
+          "tags": [
+            "Immortal"
+          ],
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Kunkka Leviathan.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Kunkka.Leviathan.zip",
+          "createdAt": "2026-10-05T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "kunkka",
+          "heroLabel": "Kunkka",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
           "name": "Shock of the Anvil",
           "tags": [
             "Immortal"
@@ -5732,6 +5762,21 @@
           "heroLabel": "Luna",
           "slot": "set",
           "downloads": 650
+        },
+        {
+          "name": "Luna Cosmic",
+          "tags": [
+            "Immortal"
+          ],
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Luna Cosmic.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Luna.Cosmic.zip",
+          "createdAt": "2026-10-05T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "luna",
+          "heroLabel": "Luna",
+          "slot": "set",
+          "downloads": 0
         },
         {
           "name": "Luna scord of the winged sentinel",
@@ -9403,6 +9448,30 @@
           "downloads": 241
         },
         {
+          "name": "Tiny Cherepashka",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tiny Cherepashka.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Tiny.Cherepashka.zip",
+          "createdAt": "2026-10-05T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "tiny",
+          "heroLabel": "Tiny",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Tiny Frostivus",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tiny Frostivus.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Tiny.Frostivus.zip",
+          "createdAt": "2026-10-05T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "tiny",
+          "heroLabel": "Tiny",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
           "name": "Tiny Banana",
           "author": "dota2pornfx",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tiny Banana.webp",
@@ -9587,6 +9656,21 @@
           "heroLabel": "Tidehunter",
           "slot": "set",
           "downloads": 339
+        },
+        {
+          "name": "Tidehunter Golden Diretide",
+          "tags": [
+            "Immortal"
+          ],
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tidehunter Golden Diretide.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Tidehunter.Golden.Diretide.zip",
+          "createdAt": "2026-10-05T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "tidehunter",
+          "heroLabel": "Tidehunter",
+          "slot": "set",
+          "downloads": 0
         },
         {
           "name": "Riki Hunger of the Howling Wilds",
