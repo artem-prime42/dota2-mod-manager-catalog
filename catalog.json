@@ -3357,9 +3357,9 @@
           "downloads": 317
         },
         {
-          "name": "Heaven Piercing Pauldrons",
+          "name": "Heaven Piercing Pauldrons Legacy",
           "author": "Papapodzaborniy",
-          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Heaven-Piercing-Pauldrons.webp",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Heaven-Piercing%20Pauldrons%20Legacy.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/77/pak58_dir.vpk",
           "createdAt": "2026-05-06T00:00:00.000Z",
           "categoryId": "heroes",
@@ -3367,6 +3367,18 @@
           "heroLabel": "Invoker",
           "slot": "shoulders",
           "downloads": 415
+        },
+        {
+          "name": "Heaven Piercing Pauldrons",
+          "author": "hi",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Heaven-Piercing Pauldrons.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/309/Heaven.Piercing.Pauldrons.zip",
+          "createdAt": "2026-10-05T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "invoker",
+          "heroLabel": "Invoker",
+          "slot": "shoulders",
+          "downloads": 0
         },
         {
           "name": "Dark Artistry Pauldrons",
