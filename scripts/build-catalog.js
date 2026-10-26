@@ -5,6 +5,12 @@ const siteRoot = '/home/artem/dota2skins';
 const sourcePath = path.join(siteRoot, 'app', 'lib', 'hero-skins.ts');
 const profilesPath = path.join(siteRoot, 'app', 'lib', 'authors-profiles.ts');
 const heroesPath = path.join(siteRoot, 'app', 'lib', 'heroes.ts');
+const blockedAuthorsPath = path.join(__dirname, '..', 'blocked-authors.json');
+const BLOCKED_AUTHORS = new Set(JSON.parse(fs.readFileSync(blockedAuthorsPath, 'utf8')).map((name) => String(name).trim().toLowerCase()));
+
+function isBlockedAuthor(name) {
+  return BLOCKED_AUTHORS.has(String(name || '').trim().toLowerCase());
+}
 
 function parseStringValue(raw) {
   const text = (raw || '').trim();
@@ -177,6 +183,7 @@ function buildCatalog() {
   const hiddenTitles = new Set(['patcher - weather & more', 'patcher - weather and more', 'dota2skins mod manager']);
   for (const entry of modEntries) {
     if (!entry?.name && !entry?.id) continue;
+    if (isBlockedAuthor(entry.author)) continue;
     const title = (entry.name || entry.title || entry.id || '').toString().trim().toLowerCase();
     if (hiddenTitles.has(title)) continue;
     const cat = normalizeCategoryId(entry.category || 'other');
@@ -238,7 +245,7 @@ function buildCatalog() {
     authorMods.get(key).push(mod);
   }
 
-  const authorEntries = authorProfiles.map((profile) => {
+  const authorEntries = authorProfiles.filter((profile) => !isBlockedAuthor(profile.displayName || profile.id)).map((profile) => {
     const key = (profile.displayName || profile.id || '').toString().trim().toLowerCase();
     const mods = (authorMods.get(key) || []).map((mod) => ({ ...mod, categoryId: normalizeCategoryId(mod.categoryId || mod.category || 'other') }));
     return {

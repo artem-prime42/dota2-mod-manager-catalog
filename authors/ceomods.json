@@ -59,17 +59,6 @@
       "slot": "set"
     },
     {
-      "name": "Axe Immortal Bootblack Brawler",
-      "author": "ceomods",
-      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Axe-Immortal-Bootblack-Brawler.webp",
-      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/259/Axe.Immortal.Bootblack.Brawler.zip",
-      "createdAt": "2026-07-13T00:00:00.000Z",
-      "categoryId": "heroes",
-      "hero": "axe",
-      "heroLabel": "Axe",
-      "slot": "set"
-    },
-    {
       "name": "Lina Crystal Empress",
       "author": "ceomods",
       "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lina-Crystal-Empress.webp",
@@ -81,45 +70,6 @@
       "slot": "set"
     },
     {
-      "name": "Lina Fire Flame Of Origins",
-      "author": "ceomods",
-      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Lina Fire Flame Of Origins.jpg",
-      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/285/Lina.Fire.Flame.Of.Origins.zip",
-      "createdAt": "2026-08-11T00:00:00.000Z",
-      "categoryId": "heroes",
-      "hero": "lina",
-      "heroLabel": "Lina",
-      "slot": "set"
-    },
-    {
-      "name": "Sven Immortal Indomitable Legacy",
-      "author": "ceomods",
-      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sven Immortal Indomitable Legacy.webp",
-      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/285/Sven.Immortal.Indomitable.Legacy.zip",
-      "createdAt": "2026-08-13T00:00:00.000Z",
-      "categoryId": "heroes",
-      "hero": "sven",
-      "heroLabel": "Sven",
-      "slot": "set",
-      "tags": [
-        "immortal"
-      ]
-    },
-    {
-      "name": "Morphling Immortal Electro Gem",
-      "author": "ceomods",
-      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling Immortal Electro Gem.webp",
-      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/286/Morphling.Immortal.Electro.Gem.zip",
-      "createdAt": "2026-08-15T00:00:00.000Z",
-      "categoryId": "heroes",
-      "hero": "morphling",
-      "heroLabel": "Morphling",
-      "slot": "set",
-      "tags": [
-        "immortal"
-      ]
-    },
-    {
       "name": "Juggernaut Purple Samurai",
       "author": "ceomods",
       "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-07-25-21-10-34.jpg",
@@ -128,17 +78,6 @@
       "categoryId": "heroes",
       "hero": "juggernaut",
       "heroLabel": "Juggernaut",
-      "slot": "set"
-    },
-    {
-      "name": "Vengful Spirit Vision of the Seraph Scion",
-      "author": "ceomods",
-      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/photo-2026-07-20-02-21-28.jpg",
-      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/270/Vengful.Spirit.Vision.of.the.Seraph.Scion.zip",
-      "createdAt": "2026-07-20T00:00:00.000Z",
-      "categoryId": "heroes",
-      "hero": "vengeful_spirit",
-      "heroLabel": "Vengeful Spirit",
       "slot": "set"
     },
     {

@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const file = path.resolve(__dirname, '..', 'catalog.json');
+const blockedAuthors = new Set(JSON.parse(fs.readFileSync(path.resolve(__dirname, '..', 'blocked-authors.json'), 'utf8')).map((author) => String(author).trim().toLowerCase()));
 const raw = fs.readFileSync(file, 'utf8');
 const data = JSON.parse(raw);
 if (!data.mods || !data.mods.modsData || !Array.isArray(data.mods.modsData.heroes)) {
@@ -46,6 +47,10 @@ const newMods = [
 ];
 
 for (const mod of newMods) {
+  if (blockedAuthors.has(String(mod.author || '').trim().toLowerCase())) {
+    console.log('Skipped blocked author', mod.author, mod.name);
+    continue;
+  }
   // avoid duplicates by file
   if (!heroes.find((m) => m.file === mod.file)) {
     heroes.push(mod);
