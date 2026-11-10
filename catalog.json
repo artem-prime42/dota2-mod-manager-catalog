@@ -324,7 +324,7 @@
           "hero": "arc_warden",
           "heroLabel": "Arc Warden",
           "slot": "set",
-          "downloads": 275
+          "downloads": 276
         },
         {
           "name": "Legion Commander Diretide",
@@ -336,7 +336,7 @@
           "hero": "legion_commander",
           "heroLabel": "Legion Commander",
           "slot": "set",
-          "downloads": 188
+          "downloads": 190
         },
         {
           "name": "Treant Protector Diretide",
@@ -360,7 +360,7 @@
           "hero": "lina",
           "heroLabel": "Lina",
           "slot": "set",
-          "downloads": 178
+          "downloads": 179
         },
         {
           "name": "Keeper Of The Light BMW",
@@ -708,7 +708,7 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "set",
-          "downloads": 495
+          "downloads": 496
         },
         {
           "name": "Invoker Dark Divine",
@@ -720,7 +720,7 @@
           "hero": "invoker",
           "heroLabel": "Invoker",
           "slot": "set",
-          "downloads": 847
+          "downloads": 848
         },
         {
           "name": "Ice Invoker",
@@ -1008,7 +1008,7 @@
           "hero": "anti_mage",
           "heroLabel": "Anti Mage",
           "slot": "set",
-          "downloads": 342
+          "downloads": 343
         },
         {
           "name": "Anti Mage Bloody Reaper",
@@ -1129,7 +1129,7 @@
           "hero": "arc_warden",
           "heroLabel": "Arc Warden",
           "slot": "set",
-          "downloads": 718
+          "downloads": 719
         },
         {
           "name": "Axe Heracles",
@@ -1165,7 +1165,7 @@
           "hero": "axe",
           "heroLabel": "Axe",
           "slot": "set",
-          "downloads": 115
+          "downloads": 116
         },
         {
           "name": "Windranger Autumn Arcana",
@@ -1264,7 +1264,7 @@
           "hero": "earthshaker",
           "heroLabel": "Earthshaker",
           "slot": "set",
-          "downloads": 1362
+          "downloads": 1363
         },
         {
           "name": "Nude Marci",
@@ -1276,7 +1276,7 @@
           "hero": "marci",
           "heroLabel": "Marci",
           "slot": "set",
-          "downloads": 1242
+          "downloads": 1244
         },
         {
           "name": "Maid Marci",
@@ -1588,7 +1588,7 @@
           "hero": "timbersaw",
           "heroLabel": "Timbersaw",
           "slot": "set",
-          "downloads": 294
+          "downloads": 295
         },
         {
           "name": "Juggernaut Samurai of Wind",
@@ -1684,7 +1684,7 @@
           "hero": "kez",
           "heroLabel": "Kez",
           "slot": "set",
-          "downloads": 697
+          "downloads": 698
         },
         {
           "name": "Kez 200",
@@ -2062,7 +2062,7 @@
           "hero": "tusk",
           "heroLabel": "Tusk",
           "slot": "set",
-          "downloads": 94
+          "downloads": 95
         },
         {
           "name": "Tusk Odobenus Frost Mage",
@@ -2170,7 +2170,7 @@
           "hero": "batrider",
           "heroLabel": "Batrider",
           "slot": "set",
-          "downloads": 135
+          "downloads": 136
         },
         {
           "name": "Keeper of the Light Darklord",
@@ -4004,7 +4004,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 354
+          "downloads": 355
         },
         {
           "name": "Frostivus Tormentor",
@@ -4257,7 +4257,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 472
+          "downloads": 473
         },
         {
           "name": "DarkPoly",
@@ -4281,7 +4281,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 809
+          "downloads": 810
         },
         {
           "name": "LowPoly+Trees",
@@ -4775,7 +4775,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 336
+          "downloads": 337
         },
         {
           "name": "Sad Maomao",
@@ -5303,7 +5303,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 384
+          "downloads": 385
         },
         {
           "name": "Guts",
@@ -6969,7 +6969,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 803
+          "downloads": 804
         },
         {
           "name": "Enigmatic Emblem of the Diretide - Yellow",
@@ -7129,7 +7129,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 2051
+          "downloads": 2052
         },
         {
           "name": "Siega Mega-Kill",
@@ -7177,7 +7177,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 715
+          "downloads": 716
         }
       ],
       "creep-deny": [
@@ -7533,7 +7533,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 980
+          "downloads": 981
         },
         {
           "name": "Purple Click",
@@ -7545,7 +7545,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 1528
+          "downloads": 1529
         },
         {
           "name": "Show NetWorth",
@@ -7557,7 +7557,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 1650
+          "downloads": 1652
         },
         {
           "name": "Blue Click",
@@ -7581,7 +7581,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 75
+          "downloads": 76
         },
         {
           "name": "Techies Mine Radius",
@@ -7617,7 +7617,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 948
+          "downloads": 949
         },
         {
           "name": "Tinker Peashooter Turrets",
@@ -8102,7 +8102,7 @@
           "hero": null,
           "heroLabel": null,
           "slot": null,
-          "downloads": 119
+          "downloads": 120
         },
         {
           "name": "Gravestones Trees",
