@@ -2483,6 +2483,138 @@
           "heroLabel": "Dazzle",
           "slot": "set",
           "downloads": 0
+        },
+        {
+          "name": "Arc Warden Black Knight",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Arc%20Warden%20Black%20Knight.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Arc.Warden.Black.Knight.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "arc_warden",
+          "heroLabel": "Arc Warden",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Cj Anti Mage",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cj%20Anti%20Mage.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Cj.Anti.Mage.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "anti_mage",
+          "heroLabel": "Anti Mage",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Invoker ZXC",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker%20ZXC.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Invoker.ZXC.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "invoker",
+          "heroLabel": "Invoker",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Keeper Of The Light Ded Na Fernando",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper%20Of%20The%20Light%20Ded%20Na%20Fernando.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Keeper.Of.The.Light.Ded.Na.Fernando.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "keeper_of_the_light",
+          "heroLabel": "Keeper Of The Light",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Leshrac Do 5300 Ne Podbrosite",
+          "author": "hi",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Leshrac%20Do%205300%20Ne%20Podbrosite.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Leshrac.Do.5300.Ne.Podbrosite.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "leshrac",
+          "heroLabel": "Leshrac",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Morphling Sakura",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling%20Sakura.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Morphling.Sakura.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "morphling",
+          "heroLabel": "Morphling",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Morphling White",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling%20White.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Morphling.White.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "morphling",
+          "heroLabel": "Morphling",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Pudge Big Smoke",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge%20Big%20Smoke.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Pudge.Big.Smoke.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "pudge",
+          "heroLabel": "Pudge",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Ruby Hoodwink",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ruby%20Hoodwink.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Ruby.Hoodwink.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "hoodwink",
+          "heroLabel": "Hoodwink",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Shadow Fiend Red Ruby",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow%20Fiend%20Red%20Ruby.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Shadow.Fiend.Red.Ruby.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "shadow_fiend",
+          "heroLabel": "Shadow Fiend",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "The Nuclear Arc Warden",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/The%20Nuclear%20Arc%20Warden.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/The.Nuclear.Arc.Warden.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "arc_warden",
+          "heroLabel": "Arc Warden",
+          "slot": "set",
+          "downloads": 0
         }
       ],
       "heroesByHero": {
@@ -2645,6 +2777,18 @@
             "hero": "pudge",
             "heroLabel": "Pudge",
             "slot": "set"
+          },
+          {
+            "name": "Pudge Big Smoke",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge%20Big%20Smoke.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Pudge.Big.Smoke.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "pudge",
+            "heroLabel": "Pudge",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "broodmother": [
@@ -2818,6 +2962,30 @@
             "hero": "morphling",
             "heroLabel": "Morphling",
             "slot": "set"
+          },
+          {
+            "name": "Morphling Sakura",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling%20Sakura.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Morphling.Sakura.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "morphling",
+            "heroLabel": "Morphling",
+            "slot": "set",
+            "downloads": 0
+          },
+          {
+            "name": "Morphling White",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling%20White.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Morphling.White.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "morphling",
+            "heroLabel": "Morphling",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "troll_warlord": [
@@ -2878,6 +3046,18 @@
             "hero": "invoker",
             "heroLabel": "Invoker",
             "slot": "set"
+          },
+          {
+            "name": "Invoker ZXC",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker%20ZXC.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Invoker.ZXC.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "invoker",
+            "heroLabel": "Invoker",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "storm_spirit": [
@@ -3016,6 +3196,18 @@
             "hero": "shadow_fiend",
             "heroLabel": "Shadow Fiend",
             "slot": "set"
+          },
+          {
+            "name": "Shadow Fiend Red Ruby",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow%20Fiend%20Red%20Ruby.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Shadow.Fiend.Red.Ruby.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "shadow_fiend",
+            "heroLabel": "Shadow Fiend",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "lion": [
@@ -3188,6 +3380,18 @@
             "heroLabel": "Anti Mage",
             "slot": "set",
             "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Anti Mage Bloody Reaper.mp4"
+          },
+          {
+            "name": "Cj Anti Mage",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cj%20Anti%20Mage.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Cj.Anti.Mage.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "anti_mage",
+            "heroLabel": "Anti Mage",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "drow_ranger": [
@@ -3319,6 +3523,30 @@
             "author": "Anonymous",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Arc%20Warden.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Arc.Warden.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "arc_warden",
+            "heroLabel": "Arc Warden",
+            "slot": "set",
+            "downloads": 0
+          },
+          {
+            "name": "Arc Warden Black Knight",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Arc%20Warden%20Black%20Knight.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Arc.Warden.Black.Knight.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "arc_warden",
+            "heroLabel": "Arc Warden",
+            "slot": "set",
+            "downloads": 0
+          },
+          {
+            "name": "The Nuclear Arc Warden",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/The%20Nuclear%20Arc%20Warden.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/The.Nuclear.Arc.Warden.zip",
             "createdAt": "2026-11-15T00:00:00.000Z",
             "categoryId": "heroes",
             "hero": "arc_warden",
@@ -3790,6 +4018,18 @@
             "hero": "hoodwink",
             "heroLabel": "Hoodwink",
             "slot": "set"
+          },
+          {
+            "name": "Ruby Hoodwink",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ruby%20Hoodwink.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Ruby.Hoodwink.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "hoodwink",
+            "heroLabel": "Hoodwink",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "dragon_knight": [],
@@ -3854,7 +4094,20 @@
             "slot": "set"
           }
         ],
-        "leshrac": [],
+        "leshrac": [
+          {
+            "name": "Leshrac Do 5300 Ne Podbrosite",
+            "author": "hi",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Leshrac%20Do%205300%20Ne%20Podbrosite.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Leshrac.Do.5300.Ne.Podbrosite.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "leshrac",
+            "heroLabel": "Leshrac",
+            "slot": "set",
+            "downloads": 0
+          }
+        ],
         "lone_druid": [],
         "slark": [
           {
@@ -4350,6 +4603,18 @@
             "hero": "keeper_of_the_light",
             "heroLabel": "Keeper Of The Light",
             "slot": "set"
+          },
+          {
+            "name": "Keeper Of The Light Ded Na Fernando",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper%20Of%20The%20Light%20Ded%20Na%20Fernando.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Keeper.Of.The.Light.Ded.Na.Fernando.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "keeper_of_the_light",
+            "heroLabel": "Keeper Of The Light",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "legion_commander": [
@@ -4635,7 +4900,20 @@
         }
       ],
       "huds": [],
-      "interface": [],
+      "interface": [
+        {
+          "name": "Crystal Interface",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crystal%20Interface.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Crystal.Interface.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "interface",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null,
+          "downloads": 0
+        }
+      ],
       "wards": [],
       "couriers": [],
       "ranks": [],
@@ -4895,6 +5173,18 @@
           "heroLabel": null,
           "slot": null,
           "downloads": 1464
+        },
+        {
+          "name": "Warcraft III",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%20III.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.III.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "terrains",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null,
+          "downloads": 0
         }
       ],
       "shaders": [
@@ -5127,6 +5417,30 @@
           "heroLabel": null,
           "slot": null,
           "downloads": 716
+        },
+        {
+          "name": "Warcraft III Dire",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%20III%20Dire.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.III.Dire.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "towers",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null,
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft III Radiant",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%20III%20Radiant.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.III.Radiant.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "towers",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null,
+          "downloads": 0
         }
       ],
       "music": [],
@@ -8880,6 +9194,186 @@
     },
     "recentlyAddedMods": [
       {
+        "name": "Arc Warden Black Knight",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Arc%20Warden%20Black%20Knight.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Arc.Warden.Black.Knight.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "arc_warden",
+        "heroLabel": "Arc Warden",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Cj Anti Mage",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Cj%20Anti%20Mage.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Cj.Anti.Mage.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "anti_mage",
+        "heroLabel": "Anti Mage",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Invoker ZXC",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Invoker%20ZXC.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Invoker.ZXC.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "invoker",
+        "heroLabel": "Invoker",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Keeper Of The Light Ded Na Fernando",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper%20Of%20The%20Light%20Ded%20Na%20Fernando.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Keeper.Of.The.Light.Ded.Na.Fernando.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "keeper_of_the_light",
+        "heroLabel": "Keeper Of The Light",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Leshrac Do 5300 Ne Podbrosite",
+        "author": "hi",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Leshrac%20Do%205300%20Ne%20Podbrosite.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Leshrac.Do.5300.Ne.Podbrosite.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "leshrac",
+        "heroLabel": "Leshrac",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Morphling Sakura",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling%20Sakura.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Morphling.Sakura.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "morphling",
+        "heroLabel": "Morphling",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Morphling White",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Morphling%20White.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Morphling.White.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "morphling",
+        "heroLabel": "Morphling",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Pudge Big Smoke",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Pudge%20Big%20Smoke.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Pudge.Big.Smoke.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "pudge",
+        "heroLabel": "Pudge",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Ruby Hoodwink",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Ruby%20Hoodwink.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Ruby.Hoodwink.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "hoodwink",
+        "heroLabel": "Hoodwink",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Shadow Fiend Red Ruby",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Shadow%20Fiend%20Red%20Ruby.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Shadow.Fiend.Red.Ruby.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "shadow_fiend",
+        "heroLabel": "Shadow Fiend",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "The Nuclear Arc Warden",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/The%20Nuclear%20Arc%20Warden.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/The.Nuclear.Arc.Warden.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "arc_warden",
+        "heroLabel": "Arc Warden",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft III",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%20III.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.III.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "terrains",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null,
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft III Dire",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%20III%20Dire.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.III.Dire.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "towers",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null,
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft III Radiant",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%20III%20Radiant.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.III.Radiant.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "towers",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null,
+        "downloads": 0
+      },
+      {
+        "name": "Crystal Interface",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crystal%20Interface.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Crystal.Interface.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "interface",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null,
+        "downloads": 0
+      },
+      {
         "name": "Tinker Warcraft",
         "author": "Anonymous",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker%20Warcraft.webp",
@@ -9178,178 +9672,6 @@
         "heroLabel": null,
         "slot": null,
         "downloads": 0
-      },
-      {
-        "name": "Anti Mage Prime",
-        "author": "Anonymous",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Anti-Mage Prime.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Anti-Mage.Prime.zip",
-        "createdAt": "2026-08-28T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "anti_mage",
-        "heroLabel": "Anti Mage",
-        "slot": "set"
-      },
-      {
-        "name": "Keeper of the Light The King Of Thieves frostbloom",
-        "author": "ddddddddddddd",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper of the Light The King Of Thieves frostbloom.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Keeper.of.the.Light.The.King.Of.Thieves.frostbloom.zip",
-        "createdAt": "2026-08-28T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "keeper_of_the_light",
-        "heroLabel": "Keeper Of The Light",
-        "slot": "set"
-      },
-      {
-        "name": "Wraith King Radiance",
-        "author": "Anonymous",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Wraith King Radiance.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Wraith.King.Radiance.zip",
-        "createdAt": "2026-08-18T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "wraith_king",
-        "heroLabel": "Wraith King",
-        "slot": "weapon"
-      },
-      {
-        "name": "Sven Holy Paladin",
-        "author": "Anonymous",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Sven Holy Paladin.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/287/Sven.Holy.Paladin.zip",
-        "createdAt": "2026-08-17T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "sven",
-        "heroLabel": "Sven",
-        "slot": "set"
-      },
-      {
-        "name": "Outworld Destroyer Ulqiorra",
-        "author": "Anonymous",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Outworld Destroyer Ulqiorra.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/285/Outworld.Destroyer.Ulqiorra.zip",
-        "createdAt": "2026-08-11T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "outworld_devourer",
-        "heroLabel": "Outworld Destroyer",
-        "slot": "set",
-        "tags": [
-          "anime"
-        ]
-      },
-      {
-        "name": "Kez 200",
-        "author": "ceomods",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Kez 200.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/285/Kez.200.zip",
-        "createdAt": "2026-08-11T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "kez",
-        "heroLabel": "Kez",
-        "slot": "head"
-      },
-      {
-        "name": "naga siren blue",
-        "author": "NahuiToSay",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/naga siren blue.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/284/naga.siren.blue.zip",
-        "createdAt": "2026-08-11T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "naga_siren",
-        "heroLabel": "Naga Siren",
-        "slot": "set"
-      },
-      {
-        "name": "Abaddon frostmourne",
-        "author": "Arthas",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Abaddon%20frostmourne.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/281/Abaddon.frostmourne.zip",
-        "createdAt": "2026-08-03T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "abaddon",
-        "heroLabel": "Abaddon",
-        "slot": "weapon"
-      },
-      {
-        "name": "Naga Siren Snickers",
-        "author": "Arthas",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Naga Siren Snickers.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/279/Naga.Siren.Snickers.zip",
-        "createdAt": "2026-07-30T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "naga_siren",
-        "heroLabel": "Naga Siren",
-        "slot": "weapon"
-      },
-      {
-        "name": "Bane Sleep Mimimi",
-        "author": "Anonymous",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/nothing.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/278/Bane.Sleep.Mimimi.zip",
-        "createdAt": "2026-07-28T00:00:00.000Z",
-        "categoryId": "hero-sounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null,
-        "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Bane%20Sleep%20Mimimi.mp4"
-      },
-      {
-        "name": "Bounty Hunter Taunt",
-        "author": "Anonymous",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Bounty-Hunter-Taunt.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/278/Bounty.Hunter.Taunt.zip",
-        "createdAt": "2026-07-28T00:00:00.000Z",
-        "categoryId": "hero-sounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null,
-        "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Bounty%20Hunter%20Taunt.mp4"
-      },
-      {
-        "name": "IO Relocate Rocket",
-        "author": "Anonymous",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/IO-Relocate-Rocket.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/278/IO.Relocate.Rocket.zip",
-        "createdAt": "2026-07-28T00:00:00.000Z",
-        "categoryId": "hero-sounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null,
-        "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/IO%20Relocate%20Rocket.mp4"
-      },
-      {
-        "name": "Hoodwink Taunt",
-        "author": "Anonymous",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Hoodwink-Taunt.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/278/Hoodwink.Taunt.zip",
-        "createdAt": "2026-07-28T00:00:00.000Z",
-        "categoryId": "hero-sounds",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null,
-        "video": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/videos/Hoodwink%20Taunt.mp4"
-      },
-      {
-        "name": "CS 1.6 Mega-Kill",
-        "author": "Anonymous",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/CS-1-6-Mega-Kill.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/CS.1.6.Mega-Kill.zip",
-        "createdAt": "2026-07-28T00:00:00.000Z",
-        "categoryId": "mega-kill",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "Blue Click",
-        "author": "Anonymous",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Blue-Click.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/pak19_dir.vpk",
-        "createdAt": "2026-07-28T00:00:00.000Z",
-        "categoryId": "other",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
       }
     ]
   },
@@ -9640,7 +9962,8 @@
       "Tusk",
       "Vengeful Spirit",
       "Witch Doctor",
-      "Bane"
+      "Bane",
+      "Leshrac"
     ],
     "HERO_CATALOG": [
       {
@@ -9711,7 +10034,7 @@
         "name": "Pudge",
         "slug": "pudge",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/pudge.png",
-        "modsCount": 12,
+        "modsCount": 13,
         "slots": [
           "set",
           "head"
@@ -9813,7 +10136,7 @@
         "name": "Morphling",
         "slug": "morphling",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/morphling.png",
-        "modsCount": 8,
+        "modsCount": 10,
         "slots": [
           "set"
         ]
@@ -9843,7 +10166,7 @@
         "name": "Invoker",
         "slug": "invoker",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/invoker.png",
-        "modsCount": 43,
+        "modsCount": 44,
         "slots": [
           "hands",
           "head",
@@ -9883,7 +10206,7 @@
         "name": "Shadow Fiend",
         "slug": "shadow_fiend",
         "preview": "https://i.postimg.cc/G3XjnzB9/Shadow-Fiend-icon.webp",
-        "modsCount": 23,
+        "modsCount": 24,
         "slots": [
           "shoulders",
           "hands",
@@ -9976,7 +10299,7 @@
         "name": "Anti Mage",
         "slug": "anti_mage",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/anti_mage.png",
-        "modsCount": 24,
+        "modsCount": 25,
         "slots": [
           "set",
           "belt",
@@ -10061,7 +10384,7 @@
         "name": "Arc Warden",
         "slug": "arc_warden",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/arc_warden.png",
-        "modsCount": 7,
+        "modsCount": 9,
         "slots": [
           "set",
           "head"
@@ -10357,7 +10680,7 @@
         "name": "Hoodwink",
         "slug": "hoodwink",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/hoodwink.png",
-        "modsCount": 4,
+        "modsCount": 5,
         "slots": [
           "set"
         ]
@@ -10807,7 +11130,7 @@
         "name": "Keeper Of The Light",
         "slug": "keeper_of_the_light",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/keeper_of_the_light.png",
-        "modsCount": 3,
+        "modsCount": 4,
         "slots": [
           "set"
         ]
@@ -10939,6 +11262,16 @@
         "slug": "bane",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bane.png",
         "modsCount": 2,
+        "slots": [
+          "set"
+        ]
+      },
+      {
+        "id": "leshrac",
+        "name": "Leshrac",
+        "slug": "leshrac",
+        "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/leshrac.png",
+        "modsCount": 1,
         "slots": [
           "set"
         ]
@@ -11158,7 +11491,19 @@
           "website": null,
           "discord": null
         },
-        "mods": []
+        "mods": [
+          {
+            "name": "Leshrac Do 5300 Ne Podbrosite",
+            "author": "hi",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Leshrac%20Do%205300%20Ne%20Podbrosite.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Leshrac.Do.5300.Ne.Podbrosite.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "leshrac",
+            "heroLabel": "Leshrac",
+            "slot": "set"
+          }
+        ]
       }
     ]
   },

@@ -10,5 +10,17 @@
   "discord": null,
   "authorLink": null,
   "links": {},
-  "mods": []
+  "mods": [
+    {
+      "name": "Leshrac Do 5300 Ne Podbrosite",
+      "author": "hi",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Leshrac%20Do%205300%20Ne%20Podbrosite.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Leshrac.Do.5300.Ne.Podbrosite.zip",
+      "createdAt": "2026-11-15T00:00:00.000Z",
+      "categoryId": "heroes",
+      "hero": "leshrac",
+      "heroLabel": "Leshrac",
+      "slot": "set"
+    }
+  ]
 }
