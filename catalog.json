@@ -2195,6 +2195,294 @@
           "heroLabel": "Clinkz",
           "slot": "set",
           "downloads": 197
+        },
+        {
+          "name": "Tinker Warcraft",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker%20Warcraft.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Tinker.Warcraft.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "tinker",
+          "heroLabel": "Tinker",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Abaddon",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Abaddon.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Abaddon.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "abaddon",
+          "heroLabel": "Abaddon",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Alchemist",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Alchemist.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Alchemist.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "alchemist",
+          "heroLabel": "Alchemist",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Ancient Apparition",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Ancient%20Apparition.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Ancient.Apparition.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "ancient_apparition",
+          "heroLabel": "Ancient Apparition",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Arc Warden",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Arc%20Warden.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Arc.Warden.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "arc_warden",
+          "heroLabel": "Arc Warden",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Axe",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Axe.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Axe.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "axe",
+          "heroLabel": "Axe",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Bane",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Bane.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Bane.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "bane",
+          "heroLabel": "Bane",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Batrider",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Batrider.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Batrider.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "batrider",
+          "heroLabel": "Batrider",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Beastmaster",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Beastmaster.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Beastmaster.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "beastmaster",
+          "heroLabel": "Beastmaster",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Bloodseeker",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Bloodseeker.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Bloodseeker.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "bloodseeker",
+          "heroLabel": "Bloodseeker",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Bounty Hunter",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Bounty%20Hunter.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Bounty.Hunter.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "bounty_hunter",
+          "heroLabel": "Bounty Hunter",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Brewmaster",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Brewmaster.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Brewmaster.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "brewmaster",
+          "heroLabel": "Brewmaster",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Bristleback",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Bristleback.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Bristleback.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "bristleback",
+          "heroLabel": "Bristleback",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Broodmother",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Broodmother.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Broodmother.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "broodmother",
+          "heroLabel": "Broodmother",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Centaur",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Centaur.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Centaur.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "centaur",
+          "heroLabel": "Centaur",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Chaos Knight",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Chaos%20Knight.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Chaos.Knight.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "chaos_knight",
+          "heroLabel": "Chaos Knight",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Chen",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Chen.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Chen.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "chen",
+          "heroLabel": "Chen",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Clinkz",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Clinkz.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Clinkz.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "clinkz",
+          "heroLabel": "Clinkz",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Clockwerk",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Clockwerk.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Clockwerk.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "clockwerk",
+          "heroLabel": "Clockwerk",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Crystal Maiden",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Crystal%20Maiden.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Crystal.Maiden.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "crystal_maiden",
+          "heroLabel": "Crystal Maiden",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Dark Seer",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Dark%20Seer.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Dark.Seer.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "dark_seer",
+          "heroLabel": "Dark Seer",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Dark Willow",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Dark%20Willow.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Dark.Willow.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "dark_willow",
+          "heroLabel": "Dark Willow",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Dawnbreaker",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Dawnbreaker.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Dawnbreaker.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "dawnbreaker",
+          "heroLabel": "Dawnbreaker",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Warcraft 3 Dazzle",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Dazzle.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Dazzle.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "dazzle",
+          "heroLabel": "Dazzle",
+          "slot": "set",
+          "downloads": 0
         }
       ],
       "heroesByHero": {
@@ -2212,6 +2500,18 @@
             "tags": [
               "Arcana"
             ]
+          },
+          {
+            "name": "Warcraft 3 Abaddon",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Abaddon.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Abaddon.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "abaddon",
+            "heroLabel": "Abaddon",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "enigma": [],
@@ -2262,7 +2562,20 @@
             "slot": "set"
           }
         ],
-        "bounty_hunter": [],
+        "bounty_hunter": [
+          {
+            "name": "Warcraft 3 Bounty Hunter",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Bounty%20Hunter.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Bounty.Hunter.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "bounty_hunter",
+            "heroLabel": "Bounty Hunter",
+            "slot": "set",
+            "downloads": 0
+          }
+        ],
         "batrider": [
           {
             "name": "Batrider Chubzarik Prime",
@@ -2274,6 +2587,18 @@
             "hero": "batrider",
             "heroLabel": "Batrider",
             "slot": "set"
+          },
+          {
+            "name": "Warcraft 3 Batrider",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Batrider.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Batrider.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "batrider",
+            "heroLabel": "Batrider",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "pudge": [
@@ -2344,6 +2669,18 @@
             "hero": "broodmother",
             "heroLabel": "Broodmother",
             "slot": "set"
+          },
+          {
+            "name": "Warcraft 3 Broodmother",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Broodmother.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Broodmother.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "broodmother",
+            "heroLabel": "Broodmother",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "wraith_king": [
@@ -2694,7 +3031,20 @@
             "slot": "set"
           }
         ],
-        "dazzle": [],
+        "dazzle": [
+          {
+            "name": "Warcraft 3 Dazzle",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Dazzle.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Dazzle.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "dazzle",
+            "heroLabel": "Dazzle",
+            "slot": "set",
+            "downloads": 0
+          }
+        ],
         "earth_spirit": [
           {
             "name": "Green Earth Spirit",
@@ -2755,7 +3105,20 @@
             "slot": "set"
           }
         ],
-        "beastmaster": [],
+        "beastmaster": [
+          {
+            "name": "Warcraft 3 Beastmaster",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Beastmaster.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Beastmaster.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "beastmaster",
+            "heroLabel": "Beastmaster",
+            "slot": "set",
+            "downloads": 0
+          }
+        ],
         "pugna": [
           {
             "name": "Pugna Nightwither Revenant",
@@ -2840,7 +3203,20 @@
             "slot": "set"
           }
         ],
-        "dark_willow": [],
+        "dark_willow": [
+          {
+            "name": "Warcraft 3 Dark Willow",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Dark%20Willow.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Dark.Willow.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "dark_willow",
+            "heroLabel": "Dark Willow",
+            "slot": "set",
+            "downloads": 0
+          }
+        ],
         "disruptor": [
           {
             "name": "Disruptor Faceless Rex",
@@ -2937,10 +3313,48 @@
             "hero": "arc_warden",
             "heroLabel": "Arc Warden",
             "slot": "set"
+          },
+          {
+            "name": "Warcraft 3 Arc Warden",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Arc%20Warden.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Arc.Warden.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "arc_warden",
+            "heroLabel": "Arc Warden",
+            "slot": "set",
+            "downloads": 0
           }
         ],
-        "alchemist": [],
-        "ancient_apparition": [],
+        "alchemist": [
+          {
+            "name": "Warcraft 3 Alchemist",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Alchemist.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Alchemist.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "alchemist",
+            "heroLabel": "Alchemist",
+            "slot": "set",
+            "downloads": 0
+          }
+        ],
+        "ancient_apparition": [
+          {
+            "name": "Warcraft 3 Ancient Apparition",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Ancient%20Apparition.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Ancient.Apparition.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "ancient_apparition",
+            "heroLabel": "Ancient Apparition",
+            "slot": "set",
+            "downloads": 0
+          }
+        ],
         "axe": [
           {
             "name": "Axe Heracles",
@@ -2963,6 +3377,18 @@
             "hero": "axe",
             "heroLabel": "Axe",
             "slot": "set"
+          },
+          {
+            "name": "Warcraft 3 Axe",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Axe.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Axe.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "axe",
+            "heroLabel": "Axe",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "windranger": [
@@ -3106,14 +3532,104 @@
             "hero": "tinker",
             "heroLabel": "Tinker",
             "slot": "set"
+          },
+          {
+            "name": "Tinker Warcraft",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker%20Warcraft.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Tinker.Warcraft.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "tinker",
+            "heroLabel": "Tinker",
+            "slot": "set",
+            "downloads": 0
           }
         ],
-        "bloodseeker": [],
-        "brewmaster": [],
-        "bristleback": [],
-        "chaos_knight": [],
-        "clinkz": [],
-        "centaur": [],
+        "bloodseeker": [
+          {
+            "name": "Warcraft 3 Bloodseeker",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Bloodseeker.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Bloodseeker.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "bloodseeker",
+            "heroLabel": "Bloodseeker",
+            "slot": "set",
+            "downloads": 0
+          }
+        ],
+        "brewmaster": [
+          {
+            "name": "Warcraft 3 Brewmaster",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Brewmaster.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Brewmaster.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "brewmaster",
+            "heroLabel": "Brewmaster",
+            "slot": "set",
+            "downloads": 0
+          }
+        ],
+        "bristleback": [
+          {
+            "name": "Warcraft 3 Bristleback",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Bristleback.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Bristleback.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "bristleback",
+            "heroLabel": "Bristleback",
+            "slot": "set",
+            "downloads": 0
+          }
+        ],
+        "chaos_knight": [
+          {
+            "name": "Warcraft 3 Chaos Knight",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Chaos%20Knight.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Chaos.Knight.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "chaos_knight",
+            "heroLabel": "Chaos Knight",
+            "slot": "set",
+            "downloads": 0
+          }
+        ],
+        "clinkz": [
+          {
+            "name": "Warcraft 3 Clinkz",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Clinkz.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Clinkz.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "clinkz",
+            "heroLabel": "Clinkz",
+            "slot": "set",
+            "downloads": 0
+          }
+        ],
+        "centaur": [
+          {
+            "name": "Warcraft 3 Centaur",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Centaur.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Centaur.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "centaur",
+            "heroLabel": "Centaur",
+            "slot": "set",
+            "downloads": 0
+          }
+        ],
         "monkey_king": [
           {
             "name": "Red Monkey King",
@@ -3138,6 +3654,18 @@
             "hero": "chen",
             "heroLabel": "Chen",
             "slot": "set"
+          },
+          {
+            "name": "Warcraft 3 Chen",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Chen.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Chen.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "chen",
+            "heroLabel": "Chen",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "clockwerk": [
@@ -3151,6 +3679,18 @@
             "hero": "clockwerk",
             "heroLabel": "Clockwerk",
             "slot": "set"
+          },
+          {
+            "name": "Warcraft 3 Clockwerk",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Clockwerk.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Clockwerk.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "clockwerk",
+            "heroLabel": "Clockwerk",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "crystal_maiden": [
@@ -3164,6 +3704,18 @@
             "hero": "crystal_maiden",
             "heroLabel": "Crystal Maiden",
             "slot": "set"
+          },
+          {
+            "name": "Warcraft 3 Crystal Maiden",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Crystal%20Maiden.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Crystal.Maiden.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "crystal_maiden",
+            "heroLabel": "Crystal Maiden",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "dawnbreaker": [
@@ -3188,6 +3740,18 @@
             "hero": "dawnbreaker",
             "heroLabel": "Dawnbreaker",
             "slot": "set"
+          },
+          {
+            "name": "Warcraft 3 Dawnbreaker",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Dawnbreaker.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Dawnbreaker.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "dawnbreaker",
+            "heroLabel": "Dawnbreaker",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "ursa": [
@@ -3646,7 +4210,20 @@
           }
         ],
         "silencer": [],
-        "dark_seer": [],
+        "dark_seer": [
+          {
+            "name": "Warcraft 3 Dark Seer",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Dark%20Seer.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Dark.Seer.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "dark_seer",
+            "heroLabel": "Dark Seer",
+            "slot": "set",
+            "downloads": 0
+          }
+        ],
         "razor": [
           {
             "name": "Razor Rainbow Statics",
@@ -3975,6 +4552,18 @@
             "hero": "bane",
             "heroLabel": "Bane",
             "slot": "set"
+          },
+          {
+            "name": "Warcraft 3 Bane",
+            "author": "Anonymous",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Bane.webp",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Bane.zip",
+            "createdAt": "2026-11-15T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "bane",
+            "heroLabel": "Bane",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "shadow_demon": []
@@ -8273,10 +8862,323 @@
           "downloads": 139
         }
       ],
-      "creeps": [],
+      "creeps": [
+        {
+          "name": "Warcraft III Neutrals",
+          "author": "Anonymous",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%20III%20Neutrals.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.III.Neutrals.zip",
+          "createdAt": "2026-11-15T00:00:00.000Z",
+          "categoryId": "creeps",
+          "hero": null,
+          "heroLabel": null,
+          "slot": null,
+          "downloads": 0
+        }
+      ],
       "high-five": []
     },
     "recentlyAddedMods": [
+      {
+        "name": "Tinker Warcraft",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker%20Warcraft.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Tinker.Warcraft.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "tinker",
+        "heroLabel": "Tinker",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Abaddon",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Abaddon.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Abaddon.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "abaddon",
+        "heroLabel": "Abaddon",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Alchemist",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Alchemist.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Alchemist.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "alchemist",
+        "heroLabel": "Alchemist",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Ancient Apparition",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Ancient%20Apparition.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Ancient.Apparition.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "ancient_apparition",
+        "heroLabel": "Ancient Apparition",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Arc Warden",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Arc%20Warden.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Arc.Warden.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "arc_warden",
+        "heroLabel": "Arc Warden",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Axe",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Axe.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Axe.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "axe",
+        "heroLabel": "Axe",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Bane",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Bane.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Bane.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "bane",
+        "heroLabel": "Bane",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Batrider",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Batrider.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Batrider.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "batrider",
+        "heroLabel": "Batrider",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Beastmaster",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Beastmaster.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Beastmaster.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "beastmaster",
+        "heroLabel": "Beastmaster",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Bloodseeker",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Bloodseeker.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Bloodseeker.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "bloodseeker",
+        "heroLabel": "Bloodseeker",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Bounty Hunter",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Bounty%20Hunter.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Bounty.Hunter.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "bounty_hunter",
+        "heroLabel": "Bounty Hunter",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Brewmaster",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Brewmaster.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Brewmaster.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "brewmaster",
+        "heroLabel": "Brewmaster",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Bristleback",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Bristleback.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Bristleback.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "bristleback",
+        "heroLabel": "Bristleback",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Broodmother",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Broodmother.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Broodmother.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "broodmother",
+        "heroLabel": "Broodmother",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Centaur",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Centaur.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Centaur.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "centaur",
+        "heroLabel": "Centaur",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Chaos Knight",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Chaos%20Knight.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Chaos.Knight.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "chaos_knight",
+        "heroLabel": "Chaos Knight",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Chen",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Chen.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Chen.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "chen",
+        "heroLabel": "Chen",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Clinkz",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Clinkz.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Clinkz.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "clinkz",
+        "heroLabel": "Clinkz",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Clockwerk",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Clockwerk.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Clockwerk.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "clockwerk",
+        "heroLabel": "Clockwerk",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Crystal Maiden",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Crystal%20Maiden.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Crystal.Maiden.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "crystal_maiden",
+        "heroLabel": "Crystal Maiden",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Dark Seer",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Dark%20Seer.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Dark.Seer.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "dark_seer",
+        "heroLabel": "Dark Seer",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Dark Willow",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Dark%20Willow.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Dark.Willow.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "dark_willow",
+        "heroLabel": "Dark Willow",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Dawnbreaker",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Dawnbreaker.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Dawnbreaker.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "dawnbreaker",
+        "heroLabel": "Dawnbreaker",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft 3 Dazzle",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Dazzle.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Dazzle.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "dazzle",
+        "heroLabel": "Dazzle",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Warcraft III Neutrals",
+        "author": "Anonymous",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%20III%20Neutrals.webp",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.III.Neutrals.zip",
+        "createdAt": "2026-11-15T00:00:00.000Z",
+        "categoryId": "creeps",
+        "hero": null,
+        "heroLabel": null,
+        "slot": null,
+        "downloads": 0
+      },
       {
         "name": "Anti Mage Prime",
         "author": "Anonymous",
@@ -8286,6 +9188,17 @@
         "categoryId": "heroes",
         "hero": "anti_mage",
         "heroLabel": "Anti Mage",
+        "slot": "set"
+      },
+      {
+        "name": "Keeper of the Light The King Of Thieves frostbloom",
+        "author": "ddddddddddddd",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper of the Light The King Of Thieves frostbloom.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Keeper.of.the.Light.The.King.Of.Thieves.frostbloom.zip",
+        "createdAt": "2026-08-28T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "keeper_of_the_light",
+        "heroLabel": "Keeper Of The Light",
         "slot": "set"
       },
       {
@@ -8437,28 +9350,6 @@
         "hero": null,
         "heroLabel": null,
         "slot": null
-      },
-      {
-        "name": "Dummy In Profile",
-        "author": "Anonymous",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dummy-In-Profile.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/277/pak18_dir.vpk",
-        "createdAt": "2026-07-28T00:00:00.000Z",
-        "categoryId": "other",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null
-      },
-      {
-        "name": "Keeper of the Light The King Of Thieves frostbloom",
-        "author": "ddddddddddddd",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper of the Light The King Of Thieves frostbloom.jpg",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/291/Keeper.of.the.Light.The.King.Of.Thieves.frostbloom.zip",
-        "createdAt": "2026-08-28T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "keeper_of_the_light",
-        "heroLabel": "Keeper Of The Light",
-        "slot": "set"
       }
     ]
   },
@@ -8757,7 +9648,7 @@
         "name": "Abaddon",
         "slug": "abaddon",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/abaddon.png",
-        "modsCount": 3,
+        "modsCount": 4,
         "slots": [
           "set"
         ]
@@ -8798,7 +9689,7 @@
         "name": "Bounty Hunter",
         "slug": "bounty_hunter",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bounty_hunter.png",
-        "modsCount": 5,
+        "modsCount": 6,
         "slots": [
           "back",
           "weapon",
@@ -8810,7 +9701,7 @@
         "name": "Batrider",
         "slug": "batrider",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/batrider.png",
-        "modsCount": 3,
+        "modsCount": 4,
         "slots": [
           "set"
         ]
@@ -8831,7 +9722,7 @@
         "name": "Broodmother",
         "slug": "broodmother",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/broodmother.png",
-        "modsCount": 11,
+        "modsCount": 12,
         "slots": [
           "set"
         ]
@@ -9018,7 +9909,7 @@
         "name": "Dazzle",
         "slug": "dazzle",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dazzle.png",
-        "modsCount": 6,
+        "modsCount": 7,
         "slots": [
           "back",
           "set"
@@ -9063,7 +9954,7 @@
         "name": "Beastmaster",
         "slug": "beastmaster",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/beastmaster.png",
-        "modsCount": 5,
+        "modsCount": 6,
         "slots": [
           "set",
           "weapon",
@@ -9112,7 +10003,7 @@
         "name": "Dark Willow",
         "slug": "dark_willow",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dark_willow.png",
-        "modsCount": 1,
+        "modsCount": 2,
         "slots": [
           "set"
         ]
@@ -9170,7 +10061,7 @@
         "name": "Arc Warden",
         "slug": "arc_warden",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/arc_warden.png",
-        "modsCount": 6,
+        "modsCount": 7,
         "slots": [
           "set",
           "head"
@@ -9181,7 +10072,7 @@
         "name": "Alchemist",
         "slug": "alchemist",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/alchemist.png",
-        "modsCount": 4,
+        "modsCount": 5,
         "slots": [
           "set",
           "weapon"
@@ -9192,7 +10083,7 @@
         "name": "Ancient Apparition",
         "slug": "ancient_apparition",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/ancient_apparition.png",
-        "modsCount": 2,
+        "modsCount": 3,
         "slots": [
           "set"
         ]
@@ -9202,7 +10093,7 @@
         "name": "Axe",
         "slug": "axe",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/axe.png",
-        "modsCount": 8,
+        "modsCount": 9,
         "slots": [
           "set"
         ]
@@ -9313,7 +10204,7 @@
         "name": "Tinker",
         "slug": "tinker",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tinker.png",
-        "modsCount": 7,
+        "modsCount": 8,
         "slots": [
           "set",
           "head"
@@ -9324,7 +10215,7 @@
         "name": "Bloodseeker",
         "slug": "bloodseeker",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bloodseeker.png",
-        "modsCount": 4,
+        "modsCount": 5,
         "slots": [
           "set",
           "weapon",
@@ -9336,7 +10227,7 @@
         "name": "Brewmaster",
         "slug": "brewmaster",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/brewmaster.png",
-        "modsCount": 3,
+        "modsCount": 4,
         "slots": [
           "set"
         ]
@@ -9346,7 +10237,7 @@
         "name": "Bristleback",
         "slug": "bristleback",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bristleback.png",
-        "modsCount": 2,
+        "modsCount": 3,
         "slots": [
           "set"
         ]
@@ -9356,7 +10247,7 @@
         "name": "Chaos Knight",
         "slug": "chaos_knight",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/chaos_knight.png",
-        "modsCount": 3,
+        "modsCount": 4,
         "slots": [
           "set"
         ]
@@ -9366,7 +10257,7 @@
         "name": "Clinkz",
         "slug": "clinkz",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/clinkz.png",
-        "modsCount": 4,
+        "modsCount": 5,
         "slots": [
           "set",
           "weapon",
@@ -9378,7 +10269,7 @@
         "name": "Centaur",
         "slug": "centaur",
         "preview": "https://i.postimg.cc/qRW8Q1BQ/Centaur-Warrunner-icon.webp",
-        "modsCount": 10,
+        "modsCount": 11,
         "slots": [
           "set",
           "weapon",
@@ -9402,7 +10293,7 @@
         "name": "Chen",
         "slug": "chen",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/chen.png",
-        "modsCount": 3,
+        "modsCount": 4,
         "slots": [
           "set"
         ]
@@ -9412,7 +10303,7 @@
         "name": "Clockwerk",
         "slug": "clockwerk",
         "preview": "https://i.postimg.cc/PqxYjgPV/Clockwerk-icon.webp",
-        "modsCount": 3,
+        "modsCount": 4,
         "slots": [
           "set"
         ]
@@ -9422,7 +10313,7 @@
         "name": "Crystal Maiden",
         "slug": "crystal_maiden",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/crystal_maiden.png",
-        "modsCount": 6,
+        "modsCount": 7,
         "slots": [
           "set",
           "weapon",
@@ -9435,7 +10326,7 @@
         "name": "Dawnbreaker",
         "slug": "dawnbreaker",
         "preview": "https://i.postimg.cc/Gm0ZWsGt/Dawnbreaker-icon.webp",
-        "modsCount": 3,
+        "modsCount": 4,
         "slots": [
           "set"
         ]
@@ -9805,7 +10696,7 @@
         "name": "Dark Seer",
         "slug": "dark_seer",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dark_seer.png",
-        "modsCount": 3,
+        "modsCount": 4,
         "slots": [
           "hands",
           "set"
@@ -10047,7 +10938,7 @@
         "name": "Bane",
         "slug": "bane",
         "preview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bane.png",
-        "modsCount": 1,
+        "modsCount": 2,
         "slots": [
           "set"
         ]
