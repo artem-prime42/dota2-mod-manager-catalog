@@ -568,7 +568,7 @@
         },
         {
           "name": "Grimstroke purple",
-          "author": "hi",
+          "author": "123",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Grimstroke purple.jpg",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/Grimstroke.purple.zip",
           "createdAt": "2026-08-25T00:00:00.000Z",
@@ -892,7 +892,7 @@
         },
         {
           "name": "Dazzle Graveman",
-          "author": "hi",
+          "author": "123",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Dazzle Graveman.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Dazzle.Graveman.zip",
           "createdAt": "2026-09-19T00:00:00.000Z",
@@ -2102,7 +2102,7 @@
         },
         {
           "name": "Grimstroke Purple V2",
-          "author": "hi",
+          "author": "123",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Grimstroke Purple.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/294/Grimstroke.Purple.zip",
           "createdAt": "2026-09-04T00:00:00.000Z",
@@ -2162,7 +2162,7 @@
         },
         {
           "name": "Batrider Chubzarik Prime",
-          "author": "hi",
+          "author": "123",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Batrider Chubzarik Prime.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Batrider.Chubzarik.Prime.zip",
           "createdAt": "2026-09-15T00:00:00.000Z",
@@ -2174,7 +2174,7 @@
         },
         {
           "name": "Keeper of the Light Darklord",
-          "author": "hi",
+          "author": "123",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Keeper of the Light Darklord.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/297/Keeper.of.the.Light.Darklord.zip",
           "createdAt": "2026-09-20T00:00:00.000Z",
@@ -2534,7 +2534,7 @@
         },
         {
           "name": "Leshrac Do 5300 Ne Podbrosite",
-          "author": "hi",
+          "author": "123",
           "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Leshrac%20Do%205300%20Ne%20Podbrosite.webp",
           "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Leshrac.Do.5300.Ne.Podbrosite.zip",
           "createdAt": "2026-11-15T00:00:00.000Z",
@@ -2891,6 +2891,42 @@
           "heroLabel": "Windranger",
           "slot": "set",
           "downloads": 0
+        },
+        {
+          "name": "Pink Naga",
+          "author": "nahuitosay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/2fa908d7efe5f5813700a15b1a4edf7f6a10ad2e/images/Pink%20Naga.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Pink.Naga.zip",
+          "createdAt": "2026-11-17T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "naga_siren",
+          "heroLabel": "Naga Siren",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Red Naga",
+          "author": "nahuitosay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/2fa908d7efe5f5813700a15b1a4edf7f6a10ad2e/images/Red%20Naga.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Red.Naga.zip",
+          "createdAt": "2026-11-17T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "naga_siren",
+          "heroLabel": "Naga Siren",
+          "slot": "set",
+          "downloads": 0
+        },
+        {
+          "name": "Viber Viper",
+          "author": "nahuitosay",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/2fa908d7efe5f5813700a15b1a4edf7f6a10ad2e/images/Viber%20Viper.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Viber.Viper.zip",
+          "createdAt": "2026-11-17T00:00:00.000Z",
+          "categoryId": "heroes",
+          "hero": "viper",
+          "heroLabel": "Viper",
+          "slot": "set",
+          "downloads": 0
         }
       ],
       "heroesByHero": {
@@ -3025,7 +3061,7 @@
         "batrider": [
           {
             "name": "Batrider Chubzarik Prime",
-            "author": "hi",
+            "author": "123",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Batrider Chubzarik Prime.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/296/Batrider.Chubzarik.Prime.zip",
             "createdAt": "2026-09-15T00:00:00.000Z",
@@ -3179,7 +3215,7 @@
           },
           {
             "name": "Grimstroke purple",
-            "author": "hi",
+            "author": "123",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Grimstroke purple.jpg",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/290/Grimstroke.purple.zip",
             "createdAt": "2026-08-25T00:00:00.000Z",
@@ -3514,6 +3550,30 @@
             "hero": "naga_siren",
             "heroLabel": "Naga Siren",
             "slot": "set"
+          },
+          {
+            "name": "Pink Naga",
+            "author": "nahuitosay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/2fa908d7efe5f5813700a15b1a4edf7f6a10ad2e/images/Pink%20Naga.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Pink.Naga.zip",
+            "createdAt": "2026-11-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "naga_siren",
+            "heroLabel": "Naga Siren",
+            "slot": "set",
+            "downloads": 0
+          },
+          {
+            "name": "Red Naga",
+            "author": "nahuitosay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/2fa908d7efe5f5813700a15b1a4edf7f6a10ad2e/images/Red%20Naga.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Red.Naga.zip",
+            "createdAt": "2026-11-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "naga_siren",
+            "heroLabel": "Naga Siren",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "shadow_fiend": [
@@ -4143,6 +4203,18 @@
             "hero": "viper",
             "heroLabel": "Viper",
             "slot": "set"
+          },
+          {
+            "name": "Viber Viper",
+            "author": "nahuitosay",
+            "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/2fa908d7efe5f5813700a15b1a4edf7f6a10ad2e/images/Viber%20Viper.jpg",
+            "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Viber.Viper.zip",
+            "createdAt": "2026-11-17T00:00:00.000Z",
+            "categoryId": "heroes",
+            "hero": "viper",
+            "heroLabel": "Viper",
+            "slot": "set",
+            "downloads": 0
           }
         ],
         "underlord": [],
@@ -4581,7 +4653,7 @@
         "leshrac": [
           {
             "name": "Leshrac Do 5300 Ne Podbrosite",
-            "author": "hi",
+            "author": "123",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Leshrac%20Do%205300%20Ne%20Podbrosite.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Leshrac.Do.5300.Ne.Podbrosite.zip",
             "createdAt": "2026-11-15T00:00:00.000Z",
@@ -9753,6 +9825,42 @@
     },
     "recentlyAddedMods": [
       {
+        "name": "Pink Naga",
+        "author": "nahuitosay",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/2fa908d7efe5f5813700a15b1a4edf7f6a10ad2e/images/Pink%20Naga.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Pink.Naga.zip",
+        "createdAt": "2026-11-17T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "naga_siren",
+        "heroLabel": "Naga Siren",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Red Naga",
+        "author": "nahuitosay",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/2fa908d7efe5f5813700a15b1a4edf7f6a10ad2e/images/Red%20Naga.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Red.Naga.zip",
+        "createdAt": "2026-11-17T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "naga_siren",
+        "heroLabel": "Naga Siren",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
+        "name": "Viber Viper",
+        "author": "nahuitosay",
+        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/2fa908d7efe5f5813700a15b1a4edf7f6a10ad2e/images/Viber%20Viper.jpg",
+        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Viber.Viper.zip",
+        "createdAt": "2026-11-17T00:00:00.000Z",
+        "categoryId": "heroes",
+        "hero": "viper",
+        "heroLabel": "Viper",
+        "slot": "set",
+        "downloads": 0
+      },
+      {
         "name": "Jakiro Layn Dlya Krutix",
         "author": "Anonymous",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Jakiro%20Layn%20Dlya%20Krutix.webp",
@@ -10078,7 +10186,7 @@
       },
       {
         "name": "Leshrac Do 5300 Ne Podbrosite",
-        "author": "hi",
+        "author": "123",
         "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Leshrac%20Do%205300%20Ne%20Podbrosite.webp",
         "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Leshrac.Do.5300.Ne.Podbrosite.zip",
         "createdAt": "2026-11-15T00:00:00.000Z",
@@ -10194,42 +10302,6 @@
         "hero": null,
         "heroLabel": null,
         "slot": null,
-        "downloads": 0
-      },
-      {
-        "name": "Crystal Interface",
-        "author": "Anonymous",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Crystal%20Interface.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Crystal.Interface.zip",
-        "createdAt": "2026-11-15T00:00:00.000Z",
-        "categoryId": "interface",
-        "hero": null,
-        "heroLabel": null,
-        "slot": null,
-        "downloads": 0
-      },
-      {
-        "name": "Tinker Warcraft",
-        "author": "Anonymous",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Tinker%20Warcraft.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Tinker.Warcraft.zip",
-        "createdAt": "2026-11-15T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "tinker",
-        "heroLabel": "Tinker",
-        "slot": "set",
-        "downloads": 0
-      },
-      {
-        "name": "Warcraft 3 Abaddon",
-        "author": "Anonymous",
-        "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Warcraft%203%20Abaddon.webp",
-        "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Warcraft.3.Abaddon.zip",
-        "createdAt": "2026-11-15T00:00:00.000Z",
-        "categoryId": "heroes",
-        "hero": "abaddon",
-        "heroLabel": "Abaddon",
-        "slot": "set",
         "downloads": 0
       }
     ]
@@ -12053,7 +12125,7 @@
         "mods": [
           {
             "name": "Leshrac Do 5300 Ne Podbrosite",
-            "author": "hi",
+            "author": "123",
             "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/Leshrac%20Do%205300%20Ne%20Podbrosite.webp",
             "file": "https://github.com/artem-prime42/dota2-mods/releases/download/310/Leshrac.Do.5300.Ne.Podbrosite.zip",
             "createdAt": "2026-11-15T00:00:00.000Z",
