@@ -1,0 +1,19 @@
+{
+  "id": "del6ta",
+  "nick": "del6ta",
+  "displayName": "del6ta",
+  "mods": [
+    {
+      "id": "community-75bc6833-7506-4f6f-adc9-de2ee59c4998",
+      "name": "Witchblvde Purple Naga Siren",
+      "author": "del6ta",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/community/75bc6833-7506-4f6f-adc9-de2ee59c4998.webp",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/community-75bc6833-7506-4f6f-adc9-de2ee59c4998/community-75bc6833-7506-4f6f-adc9-de2ee59c4998.zip",
+      "createdAt": "2026-11-18T07:21:55.689Z",
+      "categoryId": "heroes",
+      "hero": "naga_siren",
+      "heroLabel": "Naga Siren",
+      "downloads": 0
+    }
+  ]
+}
