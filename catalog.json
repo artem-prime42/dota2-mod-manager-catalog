@@ -5542,7 +5542,20 @@
           "downloads": 503
         }
       ],
-      "huds": [],
+      "huds": [
+        {
+          "id": "community-cf0b0290-8486-4619-9d4f-04cc23f1bad8",
+          "name": "mini hud",
+          "author": "shadowraze",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/community/cf0b0290-8486-4619-9d4f-04cc23f1bad8.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/community-cf0b0290-8486-4619-9d4f-04cc23f1bad8/community-cf0b0290-8486-4619-9d4f-04cc23f1bad8.vpk",
+          "createdAt": "2026-11-19T16:20:59.500Z",
+          "categoryId": "huds",
+          "hero": null,
+          "heroLabel": null,
+          "downloads": 0
+        }
+      ],
       "interface": [
         {
           "name": "Crystal Interface",
