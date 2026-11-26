@@ -6083,6 +6083,18 @@
           "heroLabel": null,
           "slot": null,
           "downloads": 692
+        },
+        {
+          "id": "community-66e91e57-957f-4eb4-8b5f-2a6b75f69737",
+          "name": "Aghanim White Lite",
+          "author": "giggyhng",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/community/66e91e57-957f-4eb4-8b5f-2a6b75f69737.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/community-66e91e57-957f-4eb4-8b5f-2a6b75f69737/community-66e91e57-957f-4eb4-8b5f-2a6b75f69737.zip",
+          "createdAt": "2026-11-26T02:23:28.571Z",
+          "categoryId": "shaders",
+          "hero": null,
+          "heroLabel": null,
+          "downloads": 0
         }
       ],
       "towers": [
