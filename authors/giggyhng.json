@@ -1,0 +1,19 @@
+{
+  "id": "giggyhng",
+  "nick": "giggyhng",
+  "displayName": "Giggy2003",
+  "mods": [
+    {
+      "id": "community-4781c57a-9338-4cb1-8bac-836c6152ee6a",
+      "name": "Ember Mai Shiranui",
+      "author": "giggyhng",
+      "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/community/4781c57a-9338-4cb1-8bac-836c6152ee6a.png",
+      "file": "https://github.com/artem-prime42/dota2-mods/releases/download/community-4781c57a-9338-4cb1-8bac-836c6152ee6a/community-4781c57a-9338-4cb1-8bac-836c6152ee6a.zip",
+      "createdAt": "2026-11-26T02:34:52.191Z",
+      "categoryId": "heroes",
+      "hero": "ember_spirit",
+      "heroLabel": "Ember Spirit",
+      "downloads": 0
+    }
+  ]
+}
