@@ -7019,6 +7019,18 @@
           "heroLabel": null,
           "slot": null,
           "downloads": 121
+        },
+        {
+          "id": "community-5979d0cc-522b-4d60-820f-e8ad4a79befd",
+          "name": "woman background",
+          "author": "kitnessxz",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/community/5979d0cc-522b-4d60-820f-e8ad4a79befd.webp",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/community-5979d0cc-522b-4d60-820f-e8ad4a79befd/community-5979d0cc-522b-4d60-820f-e8ad4a79befd.vpk",
+          "createdAt": "2026-11-24T19:47:50.149Z",
+          "categoryId": "backgrounds",
+          "hero": null,
+          "heroLabel": null,
+          "downloads": 0
         }
       ],
       "announcers": [],
