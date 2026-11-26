@@ -2951,6 +2951,18 @@
           "hero": "ember_spirit",
           "heroLabel": "Ember Spirit",
           "downloads": 0
+        },
+        {
+          "id": "community-1b07427d-43ce-4160-bd5b-cabef148da36",
+          "name": "Nude Drow No Arcana",
+          "author": "giggyhng",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/community/1b07427d-43ce-4160-bd5b-cabef148da36.png",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/community-1b07427d-43ce-4160-bd5b-cabef148da36/community-1b07427d-43ce-4160-bd5b-cabef148da36.zip",
+          "createdAt": "2026-11-26T02:32:46.032Z",
+          "categoryId": "heroes",
+          "hero": "drow_ranger",
+          "heroLabel": "Drow Ranger",
+          "downloads": 0
         }
       ],
       "heroesByHero": {
