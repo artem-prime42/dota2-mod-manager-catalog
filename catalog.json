@@ -5590,6 +5590,18 @@
           "hero": null,
           "heroLabel": null,
           "downloads": 0
+        },
+        {
+          "id": "community-9a9b1f52-107a-4b01-985b-65bf532c1242",
+          "name": "black hud",
+          "author": "zeustikey",
+          "preview": "https://raw.githubusercontent.com/artem-prime42/dota2-media/main/images/community/9a9b1f52-107a-4b01-985b-65bf532c1242.jpg",
+          "file": "https://github.com/artem-prime42/dota2-mods/releases/download/community-9a9b1f52-107a-4b01-985b-65bf532c1242/community-9a9b1f52-107a-4b01-985b-65bf532c1242.zip",
+          "createdAt": "2026-11-25T05:11:33.392Z",
+          "categoryId": "huds",
+          "hero": null,
+          "heroLabel": null,
+          "downloads": 0
         }
       ],
       "interface": [
